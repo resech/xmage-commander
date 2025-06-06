@@ -1,0 +1,88 @@
+1 [NCC:11] Aerial Extortionist
+1 [NCC:325] Alela, Artful Provocateur
+1 [SNC:51] An Offer You Can't Refuse
+1 [NCC:385] Arcane Sanctum
+1 [NCC:360] Arcane Signet
+1 [NCC:192] Archon of Coronation
+1 [NCC:386] Ash Barrens
+1 [NCC:193] Austere Command
+1 [NCC:361] Azorius Signet
+1 [NCC:23] Cephalid Facetaker
+1 [NCC:213] Champion of Wits
+1 [NCC:24] Change of Plans
+1 [NCC:214] Chasm Skulker
+1 [NCC:393] Choked Estuary
+1 [NCC:395] Command Tower
+1 [NCC:363] Commander's Sphere
+1 [NCC:216] Commit // Memory
+1 [NCC:396] Creeping Tar Pit
+1 [NCC:81] Currency Converter
+1 [NCC:244] Custodi Lich
+1 [NCC:217] Daring Saboteur
+1 [NCC:398] Darkwater Catacombs
+1 [NCC:335] Daxos of Meletis
+1 [NCC:365] Dimir Signet
+1 [NCC:337] Dragonlord Ojutai
+1 [NCC:248] Drana, Liberator of Malakir
+1 [NCC:198] Dusk // Dawn
+1 [NCC:399] Esper Panorama
+1 [NCC:400] Exotic Orchard
+1 [NCC:338] Fallen Shinobi
+1 [NCC:367] Fellwar Stone
+1 [NCC:401] Fetid Heath
+1 [NCC:223] Ghostly Pilferer
+1 [NCC:251] Graveblade Marauder
+1 [NCC:224] Identity Thief
+1 [NCC:27] In Too Deep
+1 [NCC:342] Inkfathom Witch
+6 [SNC:264] Island
+1 [NCC:17] Jailbreak
+1 [NCC:36] Lethal Scheme
+1 [NCC:74] Life Insurance
+1 [NCC:225] Looter il-Kor
+1 [NCC:347] Mask of Riddles
+1 [NCC:28] Mask of the Schemer
+1 [NCC:38] Misfortune Teller
+1 [NCC:416] Myriad Landscape
+1 [NCC:228] Nadir Kraken
+1 [NCC:253] Nightmare Unmaking
+1 [SNC:208] Obscura Charm
+1 [NCC:76] Obscura Confluence
+1 [SNC:252] Obscura Storefront
+1 [NCC:375] Orzhov Signet
+1 [NCC:77] Oskar, Rubbish Reclaimer
+1 [NCC:419] Path of Ancestry
+5 [SNC:262] Plains
+1 [NCC:420] Port Town
+1 [NCC:421] Prairie Stream
+1 [NCC:256] Profane Command
+1 [NCC:377] Quietus Spike
+1 [NCC:422] Rogue's Passage
+1 [NCC:351] Shadowmage Infiltrator
+1 [NCC:352] Silent-Blade Oni
+1 [NCC:427] Skycloud Expanse
+1 [NCC:31] Skyway Robber
+1 [NCC:21] Smuggler's Share
+1 [NCC:379] Sol Ring
+1 [NCC:233] Stolen Identity
+1 [NCC:381] Strionic Resonator
+1 [NCC:210] Sun Titan
+1 [NCC:431] Sunken Hollow
+6 [SNC:266] Swamp
+1 [NCC:382] Swiftfoot Boots
+1 [NCC:211] Swords to Plowshares
+1 [NCC:435] Temple of Silence
+1 [NCC:354] Thief of Sanity
+1 [NCC:440] Thriving Heath
+1 [NCC:441] Thriving Isle
+1 [NCC:442] Thriving Moor
+1 [NCC:10] Tivit, Seller of Secrets
+1 [NCC:237] Treasure Cruise
+1 [NCC:356] Utter End
+1 [NCC:384] Wayfarer's Bauble
+1 [NCC:238] Whirler Rogue
+1 [NCC:359] Wrexial, the Risen Deep
+1 [NCC:42] Writ of Return
+SB: 1 [NCC:3] Kamiz, Obscura Oculus
+LAYOUT MAIN:(1,1)(NONE,false,50)|([NCC:11],[NCC:325],[SNC:51],[NCC:385],[NCC:360],[NCC:192],[NCC:386],[NCC:193],[NCC:361],[NCC:23],[NCC:213],[NCC:24],[NCC:214],[NCC:393],[NCC:395],[NCC:363],[NCC:216],[NCC:396],[NCC:81],[NCC:244],[NCC:217],[NCC:398],[NCC:335],[NCC:365],[NCC:337],[NCC:248],[NCC:198],[NCC:399],[NCC:400],[NCC:338],[NCC:367],[NCC:401],[NCC:223],[NCC:251],[NCC:224],[NCC:27],[NCC:342],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[NCC:17],[NCC:36],[NCC:74],[NCC:225],[NCC:347],[NCC:28],[NCC:38],[NCC:416],[NCC:228],[NCC:253],[SNC:208],[NCC:76],[SNC:252],[NCC:375],[NCC:77],[NCC:419],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[NCC:420],[NCC:421],[NCC:256],[NCC:377],[NCC:422],[NCC:351],[NCC:352],[NCC:427],[NCC:31],[NCC:21],[NCC:379],[NCC:233],[NCC:381],[NCC:210],[NCC:431],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[NCC:382],[NCC:211],[NCC:435],[NCC:354],[NCC:440],[NCC:441],[NCC:442],[NCC:10],[NCC:237],[NCC:356],[NCC:384],[NCC:238],[NCC:359],[NCC:42])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NCC:3])

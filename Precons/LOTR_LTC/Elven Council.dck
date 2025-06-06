@@ -1,0 +1,80 @@
+1 [LTC:232] Arbor Elf
+1 [LTC:273] Arcane Signet
+1 [LTC:35] Arwen, Weaver of Hope
+1 [LTC:233] Asceticism
+1 [LTC:295] Ash Barrens
+1 [LTC:234] Beast Within
+1 [LTR:156] Celeborn the Wise
+1 [LTC:50] Cirdan the Shipwright
+1 [LTC:186] Colossal Whale
+1 [LTC:301] Command Tower
+1 [LTC:276] Commander's Sphere
+1 [LTC:236] Cultivate
+1 [LTC:189] Devastation Tide
+1 [LTC:51] Elrond of the White Council
+1 [LTR:161] Elven Farsight
+1 [LTC:237] Elvish Archdruid
+1 [LTC:238] Elvish Mystic
+1 [LTC:239] Elvish Piper
+1 [LTC:240] Elvish Visionary
+1 [LTC:241] Elvish Warmaster
+1 [LTC:53] Erestor of the Council
+1 [LTC:307] Exotic Orchard
+1 [LTC:243] Farhaven Elf
+1 [LTC:308] Field of Ruin
+1 [LTC:309] Flooded Grove
+8 [LTR:270] Forest
+7 [LTR:271] Forest
+1 [LTC:38] Galadhrim Ambush
+1 [LTC:6] Gandalf, Westward Voyager
+1 [LTC:245] Genesis Wave
+1 [LTC:267] Growth Spiral
+1 [LTC:39] Haldir, Lorien Lieutenant
+1 [LTC:249] Heroic Intervention
+1 [LTC:317] Hinterland Harbor
+1 [LTC:250] Hornet Queen
+1 [LTC:251] Inscription of Abundance
+6 [LTR:264] Island
+5 [LTR:265] Island
+1 [LTC:192] Learn from the Past
+1 [LTC:40] Legolas Greenleaf
+1 [LTC:281] Lightning Greaves
+1 [LTC:252] Lignify
+1 [LTC:319] Lonely Sandbar
+1 [LTR:60] Lorien Revealed
+1 [LTC:77] Lothlorien Blade
+1 [LTC:41] Mirkwood Elk
+1 [LTC:62] Mirkwood Trapper
+1 [LTR:244] Mirror of Galadriel
+1 [LTC:78] Model of Unity
+1 [LTC:193] Mystic Confluence
+1 [LTC:194] Opt
+1 [LTC:254] Overwhelming Stampede
+1 [LTC:255] Paradise Druid
+1 [LTC:195] Plea for Power
+1 [LTC:196] Preordain
+1 [LTC:66] Radagast, Wizard of Wilds
+1 [LTC:23] Raise the Palisade
+1 [LTC:257] Rampant Growth
+1 [LTC:258] Realm Seekers
+1 [LTC:259] Reclamation Sage
+1 [LTC:325] Rejuvenating Springs
+1 [LTC:68] Sail into the West
+1 [LTC:260] Seeds of Renewal
+1 [LTC:284] Sol Ring
+1 [LTC:69] Song of Earendil
+1 [LTC:197] Swan Song
+1 [LTC:261] Sylvan Offering
+1 [LTC:338] Thornwood Falls
+1 [LTC:341] Tranquil Thicket
+1 [LTC:25] Trap the Trespassers
+1 [LTC:44] Travel Through Caradhras
+1 [LTC:343] Vineglimmer Snarl
+1 [LTC:292] Whispersilk Cloak
+1 [LTC:45] Windswift Slice
+1 [LTC:263] Wood Elves
+1 [LTC:347] Woodland Stream
+1 [LTR:190] Wose Pathfinder
+SB: 1 [LTC:3] Galadriel, Elven-Queen
+LAYOUT MAIN:(1,1)(NONE,false,50)|([LTC:232],[LTC:273],[LTC:35],[LTC:233],[LTC:295],[LTC:234],[LTR:156],[LTC:50],[LTC:186],[LTC:301],[LTC:276],[LTC:236],[LTC:189],[LTC:51],[LTR:161],[LTC:237],[LTC:238],[LTC:239],[LTC:240],[LTC:241],[LTC:53],[LTC:307],[LTC:243],[LTC:308],[LTC:309],[LTR:270],[LTR:270],[LTR:270],[LTR:270],[LTR:270],[LTR:270],[LTR:270],[LTR:270],[LTR:271],[LTR:271],[LTR:271],[LTR:271],[LTR:271],[LTR:271],[LTR:271],[LTC:38],[LTC:6],[LTC:245],[LTC:267],[LTC:39],[LTC:249],[LTC:317],[LTC:250],[LTC:251],[LTR:264],[LTR:264],[LTR:264],[LTR:264],[LTR:264],[LTR:264],[LTR:265],[LTR:265],[LTR:265],[LTR:265],[LTR:265],[LTC:192],[LTC:40],[LTC:281],[LTC:252],[LTC:319],[LTR:60],[LTC:77],[LTC:41],[LTC:62],[LTR:244],[LTC:78],[LTC:193],[LTC:194],[LTC:254],[LTC:255],[LTC:195],[LTC:196],[LTC:66],[LTC:23],[LTC:257],[LTC:258],[LTC:259],[LTC:325],[LTC:68],[LTC:260],[LTC:284],[LTC:69],[LTC:197],[LTC:261],[LTC:338],[LTC:341],[LTC:25],[LTC:44],[LTC:343],[LTC:292],[LTC:45],[LTC:263],[LTC:347],[LTR:190])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LTC:3])

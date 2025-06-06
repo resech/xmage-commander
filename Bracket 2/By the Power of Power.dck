@@ -1,0 +1,70 @@
+1 [LCI:132] Ancestors' Aid
+1 [SNC:100] Antagonize
+1 [IKO:40] Anticipate
+1 [M19:129] Apex of Power
+1 [FDN:237] Balmor, Battlemage Captain
+1 [SNC:102] Big Score
+1 [ONE:123] Blazing Crescendo
+1 [WAR:43] Bond of Insight
+1 [FDN:190] Brass's Bounty
+1 [MOM:133] Burning Sun's Fury
+1 [RTR:227] Civic Saber
+1 [MOM:351] Complete the Circuit
+1 [LCI:50] Confounding Riddle
+1 [BRO:44] Curate
+1 [SCG:33] Dispersal Shield
+1 [STX:41] Divide by Zero
+1 [MID:135] Electric Revelation
+1 [RTR:159] Epic Experiment
+1 [STX:2] Expanded Anatomy
+1 [STX:100] Explosive Welcome
+1 [STX:101] Fervent Mastery
+1 [10E:201] Fists of the Anvil
+1 [ULG:32] Frantic Search
+1 [CLB:797] Ignite the Future
+1 [DMU:55] Impulse
+1 [STX:297] Ingenious Mastery
+1 [SOK:105] Inner Fire
+1 [CLB:183] Inspired Tinkering
+1 [VOW:163] Into the Night
+1 [STX:4] Introduction to Prophecy
+1 [GRN:228] Invert // Invent
+17 [FIN:297] Island
+1 [CLU:224] Izzet Signet
+1 [MID:147] Lunar Frenzy
+1 [M12:63] Mana Leak
+1 [NEO:154] March of Reckless Joy
+1 [PIP:388] Megaton's Fate
+1 [MOM:67] Moment of Truth
+17 [FIN:303] Mountain
+1 [DKA:42] Mystic Retrieval
+1 [FDN:710] Negate
+1 [CLB:331] Noble's Purse
+1 [CHK:78] Peer Through Depths
+1 [5DN:143] Pentad Prism
+1 [RIX:109] Pirate's Pillage
+1 [INV:67] Prohibit
+1 [ODY:215] Reckless Charge
+1 [STX:51] Resculpt
+1 [GRN:115] Runaway Steam-Kin
+1 [ISD:72] Runic Repetition
+1 [MH2:60] Said // Done
+1 [BLB:151] Sazacap's Brew
+1 [GTC:48] Scatter Arc
+1 [J21:242] Scour All Possibilities
+1 [BFZ:13] Scour from Existence
+1 [TMP:201] Searing Touch
+1 [EMN:141] Shreds of Sanity
+1 [STX:115] Storm-Kiln Artist
+1 [STX:116] Sudden Breakthrough
+1 [10E:114] Telling Time
+1 [NPH:47] Tezzeret's Gambit
+1 [FDN:210] Thrill of Possibility
+1 [BOK:57] Toils of Night and Day
+1 [M21:166] Traitorous Greed
+1 [WOE:77] Water Wings
+1 [THB:81] Whirlwind Denial
+1 [OTP:21] Collective Defiance
+SB: 1 [MID:248] Vadrik, Astral Archmage
+LAYOUT MAIN:(1,1)(NONE,false,50)|([LCI:132],[SNC:100],[IKO:40],[M19:129],[FDN:237],[SNC:102],[ONE:123],[WAR:43],[FDN:190],[MOM:133],[RTR:227],[MOM:351],[LCI:50],[BRO:44],[SCG:33],[STX:41],[MID:135],[RTR:159],[STX:2],[STX:100],[STX:101],[10E:201],[ULG:32],[CLB:797],[DMU:55],[STX:297],[SOK:105],[CLB:183],[VOW:163],[STX:4],[GRN:228],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[CLU:224],[MID:147],[M12:63],[NEO:154],[PIP:388],[MOM:67],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[DKA:42],[FDN:710],[CLB:331],[CHK:78],[5DN:143],[RIX:109],[INV:67],[ODY:215],[STX:51],[GRN:115],[ISD:72],[MH2:60],[BLB:151],[GTC:48],[J21:242],[BFZ:13],[TMP:201],[EMN:141],[STX:115],[STX:116],[10E:114],[NPH:47],[FDN:210],[BOK:57],[M21:166],[WOE:77],[THB:81],[OTP:21])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MID:248])

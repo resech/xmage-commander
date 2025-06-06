@@ -1,0 +1,96 @@
+1 [CMM:367] Arcane Signet
+1 [CMM:419] Ash Barrens
+1 [CMM:871] Blade Sliver
+1 [CMM:873] Blur Sliver
+1 [CMM:815] Bonescythe Sliver
+1 [CMM:874] Bonesplitter Sliver
+1 [CMM:887] Brood Sliver
+1 [CMM:989] Canopy Vista
+1 [CMM:734] Capricious Sliver
+1 [CMM:991] Cinder Glade
+1 [CMM:817] Cleansing Nova
+1 [CMM:877] Cleaving Sliver
+1 [CMM:861] Clot Sliver
+1 [CMM:919] Cloudshredder Sliver
+1 [CMM:420] Command Tower
+1 [CMM:818] Constricting Sliver
+1 [CMM:862] Crippling Fear
+1 [CMM:863] Crypt Sliver
+1 [CMM:920] Crystalline Sliver
+1 [CMM:889] Cultivate
+1 [CMM:922] Decimate
+1 [CMM:736] Descendants' Fury
+1 [CMM:845] Diffusion Sliver
+1 [CMM:846] Distant Melody
+1 [CMM:993] Exotic Orchard
+1 [CMM:894] Farseek
+1 [CMM:382] Fellwar Stone
+1 [CMM:923] Firewake Sliver
+1 [CMM:994] Flood Plain
+1 [CMM:740] For the Ancestors
+3 [CMM:799] Forest
+1 [CMM:997] Frontier Bivouac
+1 [CMM:849] Galerider Sliver
+1 [CMM:896] Gemhide Sliver
+1 [CMM:1002] Grasslands
+1 [CMM:924] Harmonic Sliver
+1 [CMM:825] Harsh Mercy
+1 [CMM:741] Hatchery Sliver
+1 [CMM:953] Herald's Horn
+1 [CMM:925] Hibernation Sliver
+1 [CMM:878] Hollowhead Sliver
+1 [CMM:955] Icon of Ancestry
+1 [CMM:1005] Irrigated Farmland
+2 [CMM:789] Island
+1 [CMM:1006] Jungle Shrine
+1 [CMM:927] Lavabelly Sliver
+1 [CMM:733] Lazotep Sliver
+1 [CMM:900] Manaweft Sliver
+1 [CMM:901] Megantic Sliver
+1 [CMM:903] Might Sliver
+2 [CMM:796] Mountain
+1 [CMM:1012] Mountain Valley
+1 [CMM:1014] Mystic Monastery
+1 [CMM:904] Nature's Lore
+1 [CMM:932] Necrotic Sliver
+1 [CMM:1016] Nomad Outpost
+1 [CMM:1017] Opulent Palace
+1 [CMM:423] Path of Ancestry
+1 [CMM:970] Pillar of Origins
+2 [CMM:786] Plains
+1 [CMM:1020] Prairie Stream
+1 [CMM:907] Quick Sliver
+1 [CMM:909] Realmwalker
+1 [CMM:724] Regal Sliver
+1 [CMM:1021] Rocky Tar Pit
+1 [CMM:711] Rukarumel, Biologist
+1 [CMM:1024] Sandsteppe Citadel
+1 [CMM:1025] Savage Lands
+1 [CMM:1026] Scattered Groves
+1 [CMM:1029] Seaside Citadel
+1 [CMM:1030] Secluded Courtyard
+1 [CMM:835] Sentinel Sliver
+1 [CMM:1032] Sheltered Thicket
+1 [CMM:855] Shifting Sliver
+1 [CMM:837] Sinew Sliver
+1 [CMM:937] Sliver Hivelord
+1 [CMM:1036] Smoldering Marsh
+1 [CMM:410] Sol Ring
+1 [CMM:881] Spiteful Sliver
+1 [CMM:882] Striking Sliver
+1 [CMM:1038] Sunken Hollow
+2 [CMM:793] Swamp
+1 [CMM:857] Synapse Sliver
+1 [CMM:870] Syphon Sliver
+1 [CMM:727] Taunting Sliver
+1 [CMM:913] Three Visits
+1 [CMM:728] Titan of Littjara
+1 [CMM:883] Two-Headed Sliver
+1 [CMM:1050] Unclaimed Territory
+1 [CMM:982] Vanquisher's Banner
+1 [CMM:914] Venom Sliver
+1 [CMM:859] Windfall
+1 [CMM:860] Winged Sliver
+SB: 1 [CMM:707] Sliver Gravemother
+LAYOUT MAIN:(1,1)(NONE,false,50)|([CMM:367],[CMM:419],[CMM:871],[CMM:873],[CMM:815],[CMM:874],[CMM:887],[CMM:989],[CMM:734],[CMM:991],[CMM:817],[CMM:877],[CMM:861],[CMM:919],[CMM:420],[CMM:818],[CMM:862],[CMM:863],[CMM:920],[CMM:889],[CMM:922],[CMM:736],[CMM:845],[CMM:846],[CMM:993],[CMM:894],[CMM:382],[CMM:923],[CMM:994],[CMM:740],[CMM:799],[CMM:799],[CMM:799],[CMM:997],[CMM:849],[CMM:896],[CMM:1002],[CMM:924],[CMM:825],[CMM:741],[CMM:953],[CMM:925],[CMM:878],[CMM:955],[CMM:1005],[CMM:789],[CMM:789],[CMM:1006],[CMM:927],[CMM:733],[CMM:900],[CMM:901],[CMM:903],[CMM:796],[CMM:796],[CMM:1012],[CMM:1014],[CMM:904],[CMM:932],[CMM:1016],[CMM:1017],[CMM:423],[CMM:970],[CMM:786],[CMM:786],[CMM:1020],[CMM:907],[CMM:909],[CMM:724],[CMM:1021],[CMM:711],[CMM:1024],[CMM:1025],[CMM:1026],[CMM:1029],[CMM:1030],[CMM:835],[CMM:1032],[CMM:855],[CMM:837],[CMM:937],[CMM:1036],[CMM:410],[CMM:881],[CMM:882],[CMM:1038],[CMM:793],[CMM:793],[CMM:857],[CMM:870],[CMM:727],[CMM:913],[CMM:728],[CMM:883],[CMM:1050],[CMM:982],[CMM:914],[CMM:859],[CMM:860])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMM:707])

@@ -1,0 +1,84 @@
+1 [W16:1] Aegis Angel
+1 [GPT:101] Angel of Despair
+1 [RTR:1] Angel of Serenity
+1 [FIC:229] Angel of the Ruins
+1 [ELD:331] Arcane Signet
+1 [J21:285] Archfiend of Sorrows
+1 [BRO:257] Battlefield Forge
+1 [JUD:5] Benevolent Bodyguard
+1 [MH2:6] Blacksmith's Skill
+1 [SCG:136] Bladewing the Risen
+1 [ISD:89] Bloodgift Demon
+1 [M10:127] Bogardan Hellkite
+1 [CLU:220] Boros Signet
+1 [VOC:31] Breathkeeper Seraph
+1 [DMU:244] Caves of Koilos
+1 [DOM:239] Clifftop Retreat
+1 [ELD:333] Command Tower
+1 [ELD:217] Crashing Drawbridge
+1 [DOM:86] Demonlord Belzenlok
+1 [BLB:91] Diresight
+1 [DSK:346] Doomsday Excruciator
+1 [FDN:621] Dragon Mage
+1 [XLN:252] Dragonskull Summit
+1 [MKM:261] Escape Tunnel
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [9ED:297] Fellwar Stone
+1 [DOM:93] Final Parting
+1 [AVR:209] Gisela, Blade of Goldnight
+1 [CLU:63] Gods Willing
+1 [AVR:107] Harvester of Souls
+1 [MKM:132] Incinerator of the Guilty
+1 [DKA:69] Increasing Ambition
+1 [ORI:104] Kothophed, Soul Hoarder
+1 [CHK:123] Kuro, Pitlord
+1 [BRC:145] Liquimetal Torque
+1 [BRO:14] Loran's Escape
+1 [10E:335] Mind Stone
+1 [WWK:85] Mordant Dragon
+5 [FIN:303] Mountain
+1 [CHK:132] Night Dealings
+1 [5DN:55] Night's Whisper
+1 [TDM:263] Nomad Outpost
+1 [DRC:133] Ornithopter of Paradise
+1 [CLU:225] Orzhov Signet
+1 [MKC:132] Overseer of the Damned
+1 [BFZ:120] Painful Truths
+1 [FIC:411] Path of Ancestry
+1 [ROE:124] Pestilence Demon
+1 [MH2:207] Piru, the Volatile
+7 [FIN:294] Plains
+1 [TSP:262] Prismatic Lens
+1 [MRD:74] Promise of Power
+1 [RTR:184] Rakdos Charm
+1 [CLU:226] Rakdos Signet
+1 [GRN:229] Response // Resurgence
+1 [M20:36] Sephara, Sky's Blade
+1 [ODY:326] Shadowblood Ridge
+1 [TDC:390] Shattered Landscape
+1 [MH3:109] Shilgengar, Sire of Famine
+1 [M15:114] Sign in Blood
+1 [SUM:274] Sol Ring
+1 [FDN:681] Steel Hellkite
+9 [FIN:300] Swamp
+1 [FDN:258] Swiftfoot Boots
+1 [ICE:54] Swords to Plowshares
+1 [ONS:175] Syphon Mind
+1 [TOR:140] Tainted Field
+1 [TOR:142] Tainted Peak
+1 [FIC:363] Talisman of Conviction
+1 [FIC:365] Talisman of Hierarchy
+1 [MRD:255] Talisman of Indulgence
+1 [FDN:701] Temple of Malice
+1 [FDN:704] Temple of Silence
+1 [FDN:705] Temple of Triumph
+1 [DSK:269] Terramorphic Expanse
+1 [MH3:45] Thraben Charm
+1 [SHM:25] Twilight Shepherd
+1 [SCD:165] Tyrant's Familiar
+1 [DSK:122] Vile Mutilator
+1 [5DN:165] Wayfarer's Bauble
+SB: 1 [MH3:290] Kaalia of the Vast
+LAYOUT MAIN:(1,1)(NONE,false,50)|([W16:1],[GPT:101],[RTR:1],[FIC:229],[ELD:331],[J21:285],[BRO:257],[JUD:5],[MH2:6],[SCG:136],[ISD:89],[M10:127],[CLU:220],[VOC:31],[DMU:244],[DOM:239],[ELD:333],[ELD:217],[DOM:86],[BLB:91],[DSK:346],[FDN:621],[XLN:252],[MKM:261],[TDM:255],[CON:142],[9ED:297],[DOM:93],[AVR:209],[CLU:63],[AVR:107],[MKM:132],[DKA:69],[ORI:104],[CHK:123],[BRC:145],[BRO:14],[10E:335],[WWK:85],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[CHK:132],[5DN:55],[TDM:263],[DRC:133],[CLU:225],[MKC:132],[BFZ:120],[FIC:411],[ROE:124],[MH2:207],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[TSP:262],[MRD:74],[RTR:184],[CLU:226],[GRN:229],[M20:36],[ODY:326],[TDC:390],[MH3:109],[M15:114],[SUM:274],[FDN:681],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FDN:258],[ICE:54],[ONS:175],[TOR:140],[TOR:142],[FIC:363],[FIC:365],[MRD:255],[FDN:701],[FDN:704],[FDN:705],[DSK:269],[MH3:45],[SHM:25],[SCD:165],[DSK:122],[5DN:165])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MH3:290])

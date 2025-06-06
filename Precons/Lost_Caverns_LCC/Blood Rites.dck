@@ -1,0 +1,83 @@
+1 [LCC:104] Arcane Signet
+1 [LCC:126] Austere Command
+1 [LCI:224] Bartolome del Presidio
+1 [LCC:300] Blade of the Bloodchief
+1 [LCC:182] Blood Artist
+1 [LCC:184] Bloodghast
+1 [LCC:185] Bloodline Necromancer
+1 [LCC:186] Bloodtracker
+1 [LCC:320] Bojuka Bog
+1 [LCC:187] Butcher of Malakir
+1 [LCC:5] Carmen, Cruel Skymarcher
+1 [LCC:188] Champion of Dusk
+1 [LCC:70] Charismatic Conqueror
+1 [LCC:325] Command Tower
+1 [LCC:301] Commander's Sphere
+1 [LCC:189] Cordial Vampire
+1 [LCC:190] Crossway Troublemakers
+1 [LCC:267] Cruel Celebrant
+1 [LCC:191] Damn
+1 [LCC:193] Drana, Liberator of Malakir
+1 [LCC:80] Dusk Legion Sergeant
+1 [LCC:194] Dusk Legion Zealot
+1 [LCC:268] Elenda, the Dusk Rose
+1 [LCC:71] Elenda's Hierophant
+1 [LCC:269] Etchings of the Chosen
+1 [LCC:195] Exquisite Blood
+1 [LCC:196] Falkenrath Noble
+1 [LCC:199] Glass-Cast Heart
+1 [LCC:303] Heirloom Blade
+1 [LCC:200] Indulgent Aristocrat
+1 [LCC:337] Isolated Chapel
+1 [LCC:129] Kindred Boon
+1 [LCC:275] Legion Lieutenant
+1 [LCC:73] March of the Canonized
+1 [LCC:132] Martyr of Dusk
+1 [LCC:83] Master of Dark Rites
+1 [LCC:133] Mavren Fein, Dusk Apostle
+1 [LCC:309] Mind Stone
+1 [LCC:343] Myriad Landscape
+1 [LCC:202] New Blood
+1 [LCC:203] Nighthawk Scavenger
+1 [LCC:204] Oathsworn Vampire
+1 [LCC:205] Olivia's Wrath
+1 [LCC:97] Order of Sacred Dusk
+1 [LCC:345] Orzhov Basilica
+1 [LCC:310] Orzhov Signet
+1 [LCC:206] Pact of the Serpent
+1 [LCC:346] Path of Ancestry
+1 [LCC:207] Patron of the Vein
+8 [LCI:394] Plains
+1 [LCC:84] Promise of Aclazotz
+1 [LCC:135] Radiant Destiny
+1 [LCC:74] Redemption Choir
+1 [LCC:136] Return to Dust
+1 [LCC:349] Rogue's Passage
+1 [LCC:209] Sanctum Seeker
+1 [LCC:350] Secluded Courtyard
+1 [LCC:351] Shineshadow Snarl
+1 [LCC:313] Sol Ring
+1 [LCC:289] Sorin, Lord of Innistrad
+13 [LCI:397] Swamp
+1 [LCC:314] Swiftfoot Boots
+1 [LCC:137] Swords to Plowshares
+1 [LCC:356] Tainted Field
+1 [LCC:315] Talisman of Hierarchy
+1 [LCC:358] Temple of Silence
+1 [LCC:359] Temple of the False God
+1 [LCC:210] Timothar, Baron of Bats
+1 [LCC:211] Twilight Prophet
+1 [LCC:366] Unclaimed Territory
+1 [LCC:292] Utter End
+1 [LCC:367] Vault of the Archangel
+1 [LCC:212] Village Rites
+1 [LCC:213] Viscera Seer
+1 [LCC:369] Voldaren Estate
+1 [LCC:293] Vona, Butcher of Magan
+1 [LCC:317] Wayfarer's Bauble
+1 [LCC:140] Welcoming Vampire
+1 [LCC:370] Windbrisk Heights
+1 [LCC:214] Yahenni, Undying Partisan
+SB: 1 [LCC:2] Clavileno, First of the Blessed
+LAYOUT MAIN:(1,1)(NONE,false,50)|([LCC:104],[LCC:126],[LCI:224],[LCC:300],[LCC:182],[LCC:184],[LCC:185],[LCC:186],[LCC:320],[LCC:187],[LCC:5],[LCC:188],[LCC:70],[LCC:325],[LCC:301],[LCC:189],[LCC:190],[LCC:267],[LCC:191],[LCC:193],[LCC:80],[LCC:194],[LCC:268],[LCC:71],[LCC:269],[LCC:195],[LCC:196],[LCC:199],[LCC:303],[LCC:200],[LCC:337],[LCC:129],[LCC:275],[LCC:73],[LCC:132],[LCC:83],[LCC:133],[LCC:309],[LCC:343],[LCC:202],[LCC:203],[LCC:204],[LCC:205],[LCC:97],[LCC:345],[LCC:310],[LCC:206],[LCC:346],[LCC:207],[LCI:394],[LCI:394],[LCI:394],[LCI:394],[LCI:394],[LCI:394],[LCI:394],[LCI:394],[LCC:84],[LCC:135],[LCC:74],[LCC:136],[LCC:349],[LCC:209],[LCC:350],[LCC:351],[LCC:313],[LCC:289],[LCI:397],[LCI:397],[LCI:397],[LCI:397],[LCI:397],[LCI:397],[LCI:397],[LCI:397],[LCI:397],[LCI:397],[LCI:397],[LCI:397],[LCI:397],[LCC:314],[LCC:137],[LCC:356],[LCC:315],[LCC:358],[LCC:359],[LCC:210],[LCC:211],[LCC:366],[LCC:292],[LCC:367],[LCC:212],[LCC:213],[LCC:369],[LCC:293],[LCC:317],[LCC:140],[LCC:370],[LCC:214])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LCC:2])

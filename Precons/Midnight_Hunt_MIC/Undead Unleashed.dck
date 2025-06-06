@@ -1,0 +1,77 @@
+1 [MIC:97] Aetherspouts
+1 [MIC:157] Arcane Signet
+1 [MIC:106] Army of the Damned
+1 [MIC:167] Bojuka Bog
+1 [MIC:107] Butcher of Malakir
+1 [MIC:108] Cemetery Reaper
+1 [MIC:158] Charcoal Diamond
+1 [MIC:169] Choked Estuary
+1 [MIC:11] Cleaver Skaab
+1 [MIC:170] Command Tower
+1 [MIC:159] Commander's Sphere
+1 [MIC:109] Corpse Augur
+1 [MIC:17] Crowded Crypt
+1 [MIC:18] Curse of the Restless Dead
+1 [MIC:12] Curse of Unbinding
+1 [MIC:110] Dark Salvation
+1 [MIC:171] Darkwater Catacombs
+1 [MIC:111] Death Baron
+1 [MIC:172] Dimir Aqueduct
+1 [MIC:148] Diregraf Captain
+1 [MIC:112] Diregraf Colossus
+1 [MIC:98] Distant Melody
+1 [MIC:113] Dread Summons
+1 [MIC:114] Dreadhorde Invasion
+1 [MIC:13] Drown in Dreams
+1 [MIC:115] Eater of Hope
+1 [MIC:3] Eloise, Nephalia Sleuth
+1 [MIC:14] Empty the Laboratory
+1 [MIC:116] Endless Ranks of the Dead
+1 [MIC:99] Eternal Skylord
+1 [MIC:173] Exotic Orchard
+1 [MIC:117] Feed the Swarm
+1 [MIC:118] Fleshbag Marauder
+1 [MIC:100] Forgotten Creation
+1 [MIC:19] Ghouls' Night Out
+1 [MIC:150] Gisa and Geralf
+1 [MIC:151] Gleaming Overseer
+1 [MIC:119] Go for the Throat
+1 [MIC:20] Gorex, the Tombshell
+1 [MIC:120] Gravespawn Sovereign
+1 [MIC:101] Havengul Runebinder
+1 [MIC:15] Hordewing Skaab
+1 [MIC:102] Hour of Eternity
+12 [UND:89] Island
+1 [MIC:121] Liliana, Death's Majesty
+1 [MIC:122] Liliana's Devotee
+1 [MIC:123] Liliana's Mastery
+1 [MIC:124] Lord of the Accursed
+1 [MIC:125] Midnight Reaper
+1 [MIC:176] Mortuary Mire
+1 [MIC:177] Myriad Landscape
+1 [MIC:126] Open the Graves
+1 [MIC:127] Overseer of the Damned
+1 [MIC:178] Path of Ancestry
+1 [MIC:21] Prowling Geistcatcher
+1 [MIC:22] Ravenous Rotbelly
+1 [MIC:103] Rooftop Storm
+1 [MIC:154] Ruthless Deathfang
+1 [MIC:16] Shadow Kin
+1 [MIC:161] Sky Diamond
+1 [MIC:162] Sol Ring
+1 [MIC:128] Spark Reaper
+1 [MIC:104] Stitcher Geralf
+1 [MIC:182] Sunken Hollow
+15 [UND:92] Swamp
+1 [MIC:129] Syphon Flesh
+1 [MIC:183] Tainted Isle
+1 [MIC:164] Talisman of Dominance
+1 [MIC:184] Temple of Deceit
+1 [MIC:23] Tomb Tyrant
+1 [MIC:187] Unclaimed Territory
+1 [MIC:105] Undead Alchemist
+1 [MIC:130] Undead Augur
+1 [MIC:131] Zombie Apocalypse
+SB: 1 [MIC:2] Wilhelt, the Rotcleaver
+LAYOUT MAIN:(1,1)(NONE,false,50)|([MIC:97],[MIC:157],[MIC:106],[MIC:167],[MIC:107],[MIC:108],[MIC:158],[MIC:169],[MIC:11],[MIC:170],[MIC:159],[MIC:109],[MIC:17],[MIC:18],[MIC:12],[MIC:110],[MIC:171],[MIC:111],[MIC:172],[MIC:148],[MIC:112],[MIC:98],[MIC:113],[MIC:114],[MIC:13],[MIC:115],[MIC:3],[MIC:14],[MIC:116],[MIC:99],[MIC:173],[MIC:117],[MIC:118],[MIC:100],[MIC:19],[MIC:150],[MIC:151],[MIC:119],[MIC:20],[MIC:120],[MIC:101],[MIC:15],[MIC:102],[UND:89],[UND:89],[UND:89],[UND:89],[UND:89],[UND:89],[UND:89],[UND:89],[UND:89],[UND:89],[UND:89],[UND:89],[MIC:121],[MIC:122],[MIC:123],[MIC:124],[MIC:125],[MIC:176],[MIC:177],[MIC:126],[MIC:127],[MIC:178],[MIC:21],[MIC:22],[MIC:103],[MIC:154],[MIC:16],[MIC:161],[MIC:162],[MIC:128],[MIC:104],[MIC:182],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[UND:92],[MIC:129],[MIC:183],[MIC:164],[MIC:184],[MIC:23],[MIC:187],[MIC:105],[MIC:130],[MIC:131])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MIC:2])

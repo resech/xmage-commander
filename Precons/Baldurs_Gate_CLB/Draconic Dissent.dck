@@ -1,0 +1,80 @@
+1 [CLB:712] Aether Gale
+1 [CLB:776] Agitator Ant
+1 [CLB:713] Angler Turtle
+1 [CLB:298] Arcane Signet
+1 [CLB:663] Artificer Class
+1 [CLB:880] Ash Barrens
+1 [CLB:664] Astral Dragon
+1 [CLB:779] Avatar of Slaughter
+1 [CLB:655] Baeloth Barrityl, Entertainer
+1 [CLB:780] Blasphemous Act
+1 [CLB:854] Bloodthirsty Blade
+1 [CLB:674] Bothersome Quasit
+1 [CLB:782] Brash Taunter
+1 [CLB:303] Burnished Hart
+1 [CLB:885] Castle Vantress
+1 [CLB:783] Chain Reaction
+1 [CLB:784] Chaos Dragon
+1 [CLB:785] Chaos Warp
+1 [CLB:651] Clan Crafter
+1 [CLB:351] Command Tower
+1 [CLB:715] Compulsive Research
+1 [CLB:786] Curse of Opulence
+1 [CLB:716] Curse of the Swine
+1 [CLB:717] Curse of Verbosity
+1 [CLB:675] Death Kiss
+1 [CLB:890] Desolate Lighthouse
+1 [CLB:789] Disrupt Decorum
+1 [CLB:718] Dissipation Field
+1 [CLB:719] Domineering Will
+1 [CLB:858] Dragon's Hoard
+1 [CLB:790] Drakuseth, Maw of Flames
+1 [CLB:860] Fellwar Stone
+1 [CLB:794] Geode Rager
+1 [CLB:795] Goblin Spymaster
+1 [CLB:861] Hedron Archive
+12 [CLB:456] Island
+1 [CLB:897] Izzet Boilerworks
+1 [CLB:863] Izzet Signet
+1 [CLB:800] Kazuul, Tyrant of the Cliffs
+1 [CLB:725] Keiga, the Tide Star
+1 [CLB:899] Kher Keep
+1 [CLB:677] Loot Dispute
+1 [CLB:727] Midnight Clock
+1 [CLB:325] Mind Stone
+1 [CLB:667] Mocking Doppelganger
+12 [CLB:463] Mountain
+1 [CLB:904] Myriad Landscape
+1 [CLB:851] Niv-Mizzet, Parun
+1 [CLB:907] Path of Ancestry
+1 [CLB:909] Prismari Campus
+1 [CLB:730] Propaganda
+1 [CLB:89] Psychic Impetus
+1 [CLB:732] Pursued Whale
+1 [CLB:734] Reins of Power
+1 [CLB:911] Reliquary Tower
+1 [CLB:805] Rowan Kenrith
+1 [CLB:806] Ryusei, the Falling Star
+1 [CLB:194] Shiny Impetus
+1 [CLB:736] Sly Instigator
+1 [CLB:871] Sol Ring
+1 [CLB:872] Solemn Simulacrum
+1 [CLB:679] Spectacular Showdown
+1 [CLB:852] Sprite Dragon
+1 [CLB:874] Steel Hellkite
+1 [CLB:875] Stuffy Doll
+1 [CLB:876] Talisman of Creativity
+1 [CLB:923] Temple of Epiphany
+1 [CLB:925] Temple of the False God
+1 [CLB:926] Terrain Generator
+1 [CLB:809] Territorial Hellkite
+1 [CLB:777] The Akroan War
+1 [CLB:810] Thunder Dragon
+1 [CLB:812] Vengeful Ancestor
+1 [CLB:928] Wandering Fumarole
+1 [CLB:814] Warmonger Hellkite
+1 [CLB:344] Wayfarer's Bauble
+1 [CLB:738] Will Kenrith
+SB: 1 [CLB:648] Firkraag, Cunning Instigator
+LAYOUT MAIN:(1,1)(NONE,false,50)|([CLB:712],[CLB:776],[CLB:713],[CLB:298],[CLB:663],[CLB:880],[CLB:664],[CLB:779],[CLB:655],[CLB:780],[CLB:854],[CLB:674],[CLB:782],[CLB:303],[CLB:885],[CLB:783],[CLB:784],[CLB:785],[CLB:651],[CLB:351],[CLB:715],[CLB:786],[CLB:716],[CLB:717],[CLB:675],[CLB:890],[CLB:789],[CLB:718],[CLB:719],[CLB:858],[CLB:790],[CLB:860],[CLB:794],[CLB:795],[CLB:861],[CLB:456],[CLB:456],[CLB:456],[CLB:456],[CLB:456],[CLB:456],[CLB:456],[CLB:456],[CLB:456],[CLB:456],[CLB:456],[CLB:456],[CLB:897],[CLB:863],[CLB:800],[CLB:725],[CLB:899],[CLB:677],[CLB:727],[CLB:325],[CLB:667],[CLB:463],[CLB:463],[CLB:463],[CLB:463],[CLB:463],[CLB:463],[CLB:463],[CLB:463],[CLB:463],[CLB:463],[CLB:463],[CLB:463],[CLB:904],[CLB:851],[CLB:907],[CLB:909],[CLB:730],[CLB:89],[CLB:732],[CLB:734],[CLB:911],[CLB:805],[CLB:806],[CLB:194],[CLB:736],[CLB:871],[CLB:872],[CLB:679],[CLB:852],[CLB:874],[CLB:875],[CLB:876],[CLB:923],[CLB:925],[CLB:926],[CLB:809],[CLB:777],[CLB:810],[CLB:812],[CLB:928],[CLB:814],[CLB:344],[CLB:738])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CLB:648])

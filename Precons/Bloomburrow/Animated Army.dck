@@ -1,0 +1,86 @@
+1 [BLC:191] Abrade
+1 [BLC:22] Alchemist's Talent
+1 [BLC:127] Arcane Signet
+1 [BLC:206] Beast Within
+1 [BLC:192] Berserkers' Onslaught
+1 [BLC:193] Big Score
+1 [BLC:114] Blasphemous Act
+1 [BLC:207] Bootleggers' Stash
+1 [BLC:28] Brightcap Badger
+1 [BLC:266] Burnished Hart
+1 [BLC:115] Chaos Warp
+1 [BLC:299] Cinder Glade
+1 [BLC:130] Command Tower
+1 [BLC:301] Copperline Gorge
+1 [BLC:212] Cultivate
+1 [BLC:251] Decimate
+1 [BLC:98] Domri, Anarch of Bolas
+1 [BLC:215] Esika's Chariot
+1 [BLC:196] Etali, Primal Storm
+1 [BLC:30] Evercoat Ursine
+1 [BLC:302] Evolving Wilds
+1 [BLC:131] Exotic Orchard
+1 [BLC:216] Explore
+1 [BLC:119] Farseek
+1 [BLC:269] Fellwar Stone
+10 [BLB:378] Forest
+1 [BLC:305] Forgotten Cave
+1 [BLC:306] Game Trail
+1 [BLC:218] Garruk's Packleader
+1 [BLC:219] Garruk's Uprising
+1 [BLC:220] Ghalta, Primal Hunger
+1 [BLC:271] Gilded Lotus
+1 [BLC:222] Goreclaw, Terror of Qal Sisma
+1 [BLC:197] Gratuitous Violence
+1 [BLC:223] Greater Good
+1 [BLC:224] Grothama, All-Devouring
+1 [BLC:253] Grumgully, the Generous
+1 [BLC:273] Gruul Signet
+1 [BLC:310] Gruul Turf
+1 [BLC:120] Harmonize
+1 [BLC:275] Hedron Archive
+1 [BLC:314] Karplusan Forest
+1 [BLC:227] Kodama of the East Tree
+1 [BLC:228] Llanowar Loamspeaker
+1 [BLC:229] Lotus Cobra
+1 [BLC:280] Mind Stone
+1 [BLC:316] Mossfire Valley
+1 [BLC:317] Mosswort Bridge
+8 [BLB:376] Mountain
+1 [BLC:199] Outpost Siege
+1 [BLC:322] Path of Ancestry
+1 [BLC:231] Path of Discovery
+1 [BLC:232] Primeval Bounty
+1 [BLC:25] Prosperous Bandit
+1 [BLC:26] Pyreswipe Hawk
+1 [BLC:324] Raging Ravine
+1 [BLC:200] Rain of Riches
+1 [BLC:233] Rampaging Baloths
+1 [BLC:234] Rampant Growth
+1 [BLC:132] Reliquary Tower
+1 [BLC:39] Rolling Hamsphere
+1 [BLC:326] Rootbound Crag
+1 [BLC:236] Sakura-Tribe Elder
+1 [BLC:330] Sheltered Thicket
+1 [BLC:129] Sol Ring
+1 [BLC:285] Spine of Ish Sah
+1 [BLC:203] Starstorm
+1 [BLC:116] Sunbird's Invocation
+1 [BLC:287] Talisman of Impulse
+1 [BLB:157] Teapot Slinger
+1 [BLC:338] Temple of Abandon
+1 [BLC:242] Tendershoot Dryad
+1 [BLC:345] Terramorphic Expanse
+1 [BLC:34] Thickest in the Thicket
+1 [BLC:289] Thought Vessel
+1 [BLC:290] Thran Dynamo
+1 [BLC:35] Trailtracker Scout
+1 [BLC:350] Tranquil Thicket
+1 [BLC:245] Unnatural Growth
+1 [BLB:240] Wandertale Mentor
+1 [BLC:117] Warstorm Surge
+1 [BLC:8] Wildsear, Scouring Maw
+1 [BLC:353] Wooded Ridgeline
+SB: 1 [BLC:1] Bello, Bard of the Brambles
+LAYOUT MAIN:(1,1)(NONE,false,50)|([BLC:191],[BLC:22],[BLC:127],[BLC:206],[BLC:192],[BLC:193],[BLC:114],[BLC:207],[BLC:28],[BLC:266],[BLC:115],[BLC:299],[BLC:130],[BLC:301],[BLC:212],[BLC:251],[BLC:98],[BLC:215],[BLC:196],[BLC:30],[BLC:302],[BLC:131],[BLC:216],[BLC:119],[BLC:269],[BLB:378],[BLB:378],[BLB:378],[BLB:378],[BLB:378],[BLB:378],[BLB:378],[BLB:378],[BLB:378],[BLB:378],[BLC:305],[BLC:306],[BLC:218],[BLC:219],[BLC:220],[BLC:271],[BLC:222],[BLC:197],[BLC:223],[BLC:224],[BLC:253],[BLC:273],[BLC:310],[BLC:120],[BLC:275],[BLC:314],[BLC:227],[BLC:228],[BLC:229],[BLC:280],[BLC:316],[BLC:317],[BLB:376],[BLB:376],[BLB:376],[BLB:376],[BLB:376],[BLB:376],[BLB:376],[BLB:376],[BLC:199],[BLC:322],[BLC:231],[BLC:232],[BLC:25],[BLC:26],[BLC:324],[BLC:200],[BLC:233],[BLC:234],[BLC:132],[BLC:39],[BLC:326],[BLC:236],[BLC:330],[BLC:129],[BLC:285],[BLC:203],[BLC:116],[BLC:287],[BLB:157],[BLC:338],[BLC:242],[BLC:345],[BLC:34],[BLC:289],[BLC:290],[BLC:35],[BLC:350],[BLC:245],[BLB:240],[BLC:117],[BLC:8],[BLC:353])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BLC:1])

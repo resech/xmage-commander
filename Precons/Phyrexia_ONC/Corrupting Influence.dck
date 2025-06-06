@@ -1,0 +1,85 @@
+1 [ONC:125] Arcane Signet
+1 [ONC:104] Beast Within
+1 [ONE:83] Bilious Skulldweller
+1 [ONC:105] Blight Mamba
+1 [ONE:85] Blightbelly Rat
+1 [ONC:145] Bojuka Bog
+1 [ONE:161] Cankerbloom
+1 [ONC:148] Canopy Vista
+1 [ONC:92] Caress of Phyrexia
+1 [ONC:106] Carrion Call
+1 [ONC:127] Chromatic Lantern
+1 [ONC:151] Command Tower
+1 [ONC:128] Commander's Sphere
+1 [ONC:129] Contagion Clasp
+1 [ONC:17] Contaminant Grafter
+1 [ONC:117] Culling Ritual
+1 [ONC:107] Cultivate
+1 [ONC:108] Evolution Sage
+1 [ONC:152] Exotic Orchard
+1 [ONE:168] Expand the Sphere
+1 [ONE:93] Feed the Infection
+1 [ONC:130] Fellwar Stone
+8 [ONE:276] Forest
+1 [ONC:154] Fortified Village
+1 [ONC:69] Fumigate
+1 [ONC:11] Geth's Summons
+1 [ONC:71] Ghostly Prison
+1 [ONC:18] Glissa's Retriever
+1 [ONC:20] Glistening Sphere
+1 [ONC:131] Golgari Signet
+1 [ONC:132] Grafted Exoskeleton
+1 [ONC:73] Grateful Apparition
+1 [ONC:93] Ichor Rats
+1 [ONC:133] Ichorclaw Myr
+1 [ONE:97] Infectious Inquiry
+1 [ONC:156] Karn's Bastion
+1 [ONC:158] Krosan Verge
+1 [ONC:120] Merciless Eviction
+1 [ONC:121] Moldervine Reclamation
+1 [ONC:122] Mortify
+1 [ONC:109] Mycosynth Fiend
+1 [ONE:234] Myr Convert
+1 [ONC:159] Myriad Landscape
+1 [ONC:160] Necroblossom Snarl
+1 [ONC:94] Night's Whisper
+1 [ONC:83] Norn's Annex
+1 [ONC:8] Norn's Choirmaster
+1 [ONC:9] Norn's Decree
+1 [ONE:176] Noxious Assault
+1 [ONC:110] Noxious Revival
+1 [ONC:95] Painful Truths
+1 [ONC:161] Path of Ancestry
+1 [ONE:103] Pestilent Syphoner
+1 [ONC:12] Phyresis Outbreak
+1 [ONE:237] Phyrexian Atlas
+1 [ONC:86] Phyrexian Rebirth
+1 [ONC:111] Phyrexian Swarmlord
+1 [ONC:139] Plague Myr
+1 [ONC:96] Plague Stinger
+6 [ONE:272] Plains
+1 [ONC:123] Putrefy
+1 [ONC:162] Sandsteppe Citadel
+1 [ONC:112] Scavenging Ooze
+1 [ONC:164] Shineshadow Snarl
+1 [ONC:140] Sol Ring
+1 [ONC:166] Sungrass Prairie
+6 [ONE:274] Swamp
+1 [ONC:89] Swords to Plowshares
+1 [ONC:167] Tainted Field
+1 [ONC:168] Tainted Wood
+1 [ONC:169] Temple of Malady
+1 [ONC:170] Temple of Plenty
+1 [ONC:171] Temple of Silence
+1 [ONC:144] Trailblazer's Boots
+1 [ONE:191] Unnatural Restoration
+1 [ONE:112] Vat Emergence
+1 [ONE:193] Venomous Brutalizer
+1 [ONC:113] Viridian Corrupter
+1 [ONC:4] Vishgraz, the Doomhive
+1 [ONE:116] Vraska's Fall
+1 [ONC:91] Windborn Muse
+1 [ONC:19] Wurmquake
+SB: 1 [ONC:1] Ixhel, Scion of Atraxa
+LAYOUT MAIN:(1,1)(NONE,false,50)|([ONC:125],[ONC:104],[ONE:83],[ONC:105],[ONE:85],[ONC:145],[ONE:161],[ONC:148],[ONC:92],[ONC:106],[ONC:127],[ONC:151],[ONC:128],[ONC:129],[ONC:17],[ONC:117],[ONC:107],[ONC:108],[ONC:152],[ONE:168],[ONE:93],[ONC:130],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONE:276],[ONC:154],[ONC:69],[ONC:11],[ONC:71],[ONC:18],[ONC:20],[ONC:131],[ONC:132],[ONC:73],[ONC:93],[ONC:133],[ONE:97],[ONC:156],[ONC:158],[ONC:120],[ONC:121],[ONC:122],[ONC:109],[ONE:234],[ONC:159],[ONC:160],[ONC:94],[ONC:83],[ONC:8],[ONC:9],[ONE:176],[ONC:110],[ONC:95],[ONC:161],[ONE:103],[ONC:12],[ONE:237],[ONC:86],[ONC:111],[ONC:139],[ONC:96],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONC:123],[ONC:162],[ONC:112],[ONC:164],[ONC:140],[ONC:166],[ONE:274],[ONE:274],[ONE:274],[ONE:274],[ONE:274],[ONE:274],[ONC:89],[ONC:167],[ONC:168],[ONC:169],[ONC:170],[ONC:171],[ONC:144],[ONE:191],[ONE:112],[ONE:193],[ONC:113],[ONC:4],[ONE:116],[ONC:91],[ONC:19])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ONC:1])

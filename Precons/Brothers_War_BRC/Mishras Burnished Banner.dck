@@ -1,0 +1,95 @@
+1 [BRC:111] Abrade
+1 [BRC:132] Arcane Signet
+1 [BRC:174] Ash Barrens
+1 [BRC:4] Ashnod the Uncaring
+1 [BRC:112] Audacious Reshapers
+1 [BRC:121] Bedevil
+1 [BRC:113] Blasphemous Act
+1 [BRC:12] Blast-Furnace Hellkite
+1 [BRC:122] Brudiclad, Telchor Engineer
+1 [BRC:177] Buried Ruin
+1 [BRC:114] Chaos Warp
+1 [BRC:178] Command Tower
+1 [BRC:135] Commander's Sphere
+1 [BRC:179] Crumbling Necropolis
+1 [BRC:115] Cursed Mirror
+1 [BRC:181] Darkwater Catacombs
+1 [BRC:182] Dimir Aqueduct
+1 [BRC:138] Dimir Signet
+1 [BRC:139] Dreamstone Hedron
+1 [BRC:183] Drossforge Bridge
+1 [BRC:81] Emry, Lurker of the Loch
+1 [BRC:104] Executioner's Capsule
+1 [BRC:185] Exotic Orchard
+1 [BRC:125] Expressive Iteration
+1 [BRC:84] Fact or Fiction
+1 [BRC:105] Fain, the Broker
+1 [BRC:116] Faithless Looting
+1 [BRC:13] Farid, Enterprising Salvager
+1 [BRC:106] Feed the Swarm
+1 [BRC:141] Fellwar Stone
+1 [BRC:107] Geth, Lord of the Vault
+1 [BRC:7] Glint Raker
+1 [BRC:187] Great Furnace
+1 [BRC:142] Hedron Archive
+1 [BRC:117] Hellkite Igniter
+1 [BRC:108] Herald of Anguish
+1 [BRC:143] Ichor Wellspring
+1 [BRC:144] Idol of Oblivion
+2 [BRC:31] Island
+3 [BRC:32] Island
+1 [BRC:188] Izzet Boilerworks
+1 [BRC:126] Jhoira, Weatherlight Captain
+1 [BRC:146] Lithoform Engine
+1 [BRC:16] Machine God's Effigy
+1 [BRC:87] Master Transmuter
+1 [BRC:147] Metalwork Colossus
+1 [BRC:148] Mind Stone
+1 [BRC:149] Mirrorworks
+1 [BRC:189] Mistvault Bridge
+1 [BRC:88] Mnemonic Sphere
+2 [BRC:35] Mountain
+2 [BRC:36] Mountain
+1 [BRC:89] Muzzio, Visionary Architect
+1 [BRC:150] Mycosynth Wellspring
+1 [BRC:190] Myriad Landscape
+1 [BRC:152] Nihil Spellbomb
+1 [BRC:153] Oblivion Stone
+1 [BRC:127] Oni-Cult Anvil
+1 [BRC:91] Padeem, Consul of Innovation
+1 [BRC:192] Path of Ancestry
+1 [BRC:155] Prophetic Prism
+1 [BRC:194] Rakdos Carnarium
+1 [BRC:156] Rakdos Signet
+1 [BRC:196] Reliquary Tower
+1 [BRC:17] Scavenged Brawler
+1 [BRC:198] Seat of the Synod
+1 [BRC:158] Servo Schematic
+1 [BRC:199] Shadowblood Ridge
+1 [BRC:129] Silas Renn, Seeker Adept
+1 [BRC:200] Silverbluff Bridge
+1 [BRC:118] Slobad, Goblin Tinkerer
+1 [BRC:18] Smelting Vat
+1 [BRC:202] Smoldering Marsh
+1 [BRC:160] Sol Ring
+1 [BRC:162] Spine of Ish Sah
+1 [BRC:165] Strionic Resonator
+2 [BRC:33] Swamp
+2 [BRC:34] Swamp
+1 [BRC:205] Temple of Deceit
+1 [BRC:207] Temple of Epiphany
+1 [BRC:208] Temple of Malice
+1 [BRC:9] Terisiare's Devastation
+1 [BRC:210] Terramorphic Expanse
+1 [BRC:96] Thirst for Knowledge
+1 [BRC:99] Thoughtcast
+1 [BRC:168] Thran Dynamo
+1 [BRC:169] Trading Post
+1 [BRC:170] Traxos, Scourge of Kroog
+1 [BRC:211] Vault of Whispers
+1 [BRC:171] Wayfarer's Bauble
+1 [BRC:20] Wondrous Crucible
+1 [BRC:102] Workshop Elders
+SB: 1 [BRC:1] Mishra, Eminent One
+LAYOUT MAIN:(1,1)(NONE,false,50)|([BRC:111],[BRC:132],[BRC:174],[BRC:4],[BRC:112],[BRC:121],[BRC:113],[BRC:12],[BRC:122],[BRC:177],[BRC:114],[BRC:178],[BRC:135],[BRC:179],[BRC:115],[BRC:181],[BRC:182],[BRC:138],[BRC:139],[BRC:183],[BRC:81],[BRC:104],[BRC:185],[BRC:125],[BRC:84],[BRC:105],[BRC:116],[BRC:13],[BRC:106],[BRC:141],[BRC:107],[BRC:7],[BRC:187],[BRC:142],[BRC:117],[BRC:108],[BRC:143],[BRC:144],[BRC:31],[BRC:31],[BRC:32],[BRC:32],[BRC:32],[BRC:188],[BRC:126],[BRC:146],[BRC:16],[BRC:87],[BRC:147],[BRC:148],[BRC:149],[BRC:189],[BRC:88],[BRC:35],[BRC:35],[BRC:36],[BRC:36],[BRC:89],[BRC:150],[BRC:190],[BRC:152],[BRC:153],[BRC:127],[BRC:91],[BRC:192],[BRC:155],[BRC:194],[BRC:156],[BRC:196],[BRC:17],[BRC:198],[BRC:158],[BRC:199],[BRC:129],[BRC:200],[BRC:118],[BRC:18],[BRC:202],[BRC:160],[BRC:162],[BRC:165],[BRC:33],[BRC:33],[BRC:34],[BRC:34],[BRC:205],[BRC:207],[BRC:208],[BRC:9],[BRC:210],[BRC:96],[BRC:99],[BRC:168],[BRC:169],[BRC:170],[BRC:211],[BRC:171],[BRC:20],[BRC:102])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BRC:1])

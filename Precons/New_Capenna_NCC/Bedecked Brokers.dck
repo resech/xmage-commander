@@ -1,0 +1,90 @@
+1 [NCC:166] Agent's Toolkit
+1 [NCC:324] Ajani Unyielding
+1 [NCC:113] Angelic Sleuth
+1 [NCC:360] Arcane Signet
+1 [NCC:386] Ash Barrens
+1 [NCC:123] Aven Courier
+1 [NCC:329] Aven Mimeomancer
+1 [NCC:194] Avenging Huntbonder
+1 [NCC:330] Bant Charm
+1 [NCC:387] Bant Panorama
+1 [NCC:155] Bribe Taker
+1 [SNC:171] Brokers Charm
+1 [NCC:168] Brokers Confluence
+1 [SNC:248] Brokers Hideout
+1 [NCC:389] Canopy Vista
+1 [NCC:395] Command Tower
+1 [NCC:363] Commander's Sphere
+1 [NCC:115] Contractual Safeguard
+1 [NCC:364] Crystalline Giant
+1 [NCC:15] Damning Verdict
+1 [NCC:196] Declaration in Stone
+1 [NCC:171] Denry Klin, Editor in Chief
+1 [NCC:286] Devoted Druid
+1 [NCC:366] Everflowing Chalice
+1 [NCC:287] Evolution Sage
+1 [NCC:400] Exotic Orchard
+1 [SNC:185] Exotic Pets
+1 [NCC:59] Family's Favor
+1 [NCC:339] Fathom Mage
+1 [NCC:367] Fellwar Stone
+1 [NCC:402] Flooded Grove
+5 [SNC:270] Forest
+1 [NCC:291] Forgotten Ancient
+1 [NCC:404] Fortified Village
+1 [NCC:183] Gavel of the Righteous
+1 [NCC:406] Gavony Township
+1 [NCC:201] Generous Gift
+1 [NCC:202] Grateful Apparition
+1 [NCC:203] Hoofprints of the Stag
+1 [NCC:296] Incubation Druid
+5 [SNC:264] Island
+1 [NCC:343] Jenara, Asura of War
+1 [NCC:410] Karn's Bastion
+1 [NCC:105] Kros, Defense Contractor
+1 [NCC:412] Littjara Mirrorlake
+1 [NCC:413] Llanowar Reborn
+1 [NCC:205] Luminarch Aspirant
+1 [NCC:226] Midnight Clock
+1 [NCC:416] Myriad Landscape
+1 [NCC:418] Nesting Grounds
+1 [NCC:373] Oblivion Stone
+1 [NCC:374] Oracle's Vault
+1 [NCC:163] Park Heights Maverick
+1 [NCC:419] Path of Ancestry
+5 [SNC:262] Plains
+1 [NCC:209] Planar Outburst
+1 [NCC:420] Port Town
+1 [NCC:376] Power Conduit
+1 [NCC:421] Prairie Stream
+1 [NCC:348] Primal Empathy
+1 [NCC:120] Resourceful Defense
+1 [NCC:305] Rishkar, Peema Renegade
+1 [NCC:306] Rishkar's Expertise
+1 [NCC:349] Roalesk, Apex Hybrid
+1 [NCC:309] Scavenging Ooze
+1 [NCC:425] Seaside Citadel
+1 [NCC:130] Shield Broker
+1 [NCC:121] Skyboon Evangelist
+1 [NCC:427] Skycloud Expanse
+1 [NCC:232] Skyship Plunderer
+1 [NCC:312] Slippery Bogbonder
+1 [NCC:379] Sol Ring
+1 [NCC:313] Steelbane Hydra
+1 [NCC:133] Storm of Forms
+1 [NCC:382] Swiftfoot Boots
+1 [NCC:434] Temple of Mystery
+1 [NCC:235] Tezzeret's Gambit
+1 [NCC:236] Thrummingbird
+1 [NCC:212] Together Forever
+1 [NCC:355] Urban Evolution
+1 [NCC:444] Vivid Creek
+1 [NCC:445] Vivid Grove
+1 [NCC:446] Vivid Meadow
+1 [NCC:357] Vorel of the Hull Clade
+1 [NCC:319] Wall of Roots
+1 [NCC:320] Wickerbough Elder
+1 [NCC:239] Wingspan Mentor
+SB: 1 [NCC:5] Perrie, the Pulverizer
+LAYOUT MAIN:(1,1)(NONE,false,50)|([NCC:166],[NCC:324],[NCC:113],[NCC:360],[NCC:386],[NCC:123],[NCC:329],[NCC:194],[NCC:330],[NCC:387],[NCC:155],[SNC:171],[NCC:168],[SNC:248],[NCC:389],[NCC:395],[NCC:363],[NCC:115],[NCC:364],[NCC:15],[NCC:196],[NCC:171],[NCC:286],[NCC:366],[NCC:287],[NCC:400],[SNC:185],[NCC:59],[NCC:339],[NCC:367],[NCC:402],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[NCC:291],[NCC:404],[NCC:183],[NCC:406],[NCC:201],[NCC:202],[NCC:203],[NCC:296],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[SNC:264],[NCC:343],[NCC:410],[NCC:105],[NCC:412],[NCC:413],[NCC:205],[NCC:226],[NCC:416],[NCC:418],[NCC:373],[NCC:374],[NCC:163],[NCC:419],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[NCC:209],[NCC:420],[NCC:376],[NCC:421],[NCC:348],[NCC:120],[NCC:305],[NCC:306],[NCC:349],[NCC:309],[NCC:425],[NCC:130],[NCC:121],[NCC:427],[NCC:232],[NCC:312],[NCC:379],[NCC:313],[NCC:133],[NCC:382],[NCC:434],[NCC:235],[NCC:236],[NCC:212],[NCC:355],[NCC:444],[NCC:445],[NCC:446],[NCC:357],[NCC:319],[NCC:320],[NCC:239])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NCC:5])

@@ -1,0 +1,89 @@
+1 [CMM:712] Abstruse Archaic
+1 [CMM:800] All Is Dust
+1 [CMM:940] Ancient Stone Idol
+1 [CMM:985] Arcane Lighthouse
+1 [CMM:986] Arch of Orazca
+1 [CMM:801] Artisan of Kozilek
+1 [CMM:802] Bane of Bala Ged
+1 [CMM:987] Blast Zone
+1 [CMM:988] Bonders' Enclave
+1 [CMM:373] Burnished Hart
+1 [CMM:713] Calamity of the Titans
+1 [CMM:944] Crashing Drawbridge
+1 [CMM:743] Darksteel Monolith
+1 [CMM:714] Desecrate Reality
+1 [CMM:945] Dreamstone Hedron
+1 [CMM:946] Duplicant
+1 [CMM:992] Eldrazi Temple
+1 [CMM:803] Endbringer
+1 [CMM:947] Endless Atlas
+1 [CMM:804] Endless One
+1 [CMM:948] Everflowing Chalice
+1 [CMM:949] Fireshrieker
+1 [CMM:715] Flayer of Loyalties
+1 [CMM:995] Forge of Heroes
+1 [CMM:950] Forsaken Monument
+1 [CMM:1000] Geier Reach Sanitarium
+1 [CMM:386] Geode Golem
+1 [CMM:1003] Guildless Commons
+1 [CMM:951] Hangarback Walker
+1 [CMM:952] Hedron Archive
+1 [CMM:956] Investigator's Journal
+1 [CMM:805] It That Betrays
+1 [CMM:958] Kaldra Compleat
+1 [CMM:2] Kozilek, the Great Distortion
+1 [CMM:398] Lightning Greaves
+1 [CMM:1009] Mage-Ring Network
+1 [CMM:806] Matter Reshaper
+1 [CMM:959] Mazemind Tome
+1 [CMM:960] Metalwork Colossus
+1 [CMM:399] Meteor Golem
+1 [CMM:961] Mind Stone
+1 [CMM:962] Mirage Mirror
+1 [CMM:1010] Mirrorpool
+1 [CMM:963] Myriad Construct
+1 [CMM:964] Mystic Forge
+1 [CMM:807] Not of This World
+1 [CMM:808] Oblivion Sower
+1 [CMM:708] Omarthis, Ghostfire Initiate
+1 [CMM:966] Ornithopter of Paradise
+1 [CMM:967] Palladium Myr
+1 [CMM:968] Perilous Vault
+1 [CMM:969] Phyrexian Triniform
+1 [CMM:425] Reliquary Tower
+1 [CMM:716] Rise of the Eldrazi
+1 [CMM:426] Rogue's Passage
+1 [CMM:1023] Ruins of Oran-Rief
+1 [CMM:971] Scaretiller
+1 [CMM:1027] Scavenger Grounds
+1 [CMM:1028] Sea Gate Wreckage
+1 [CMM:1034] Shrine of the Forsaken Gods
+1 [CMM:717] Skittering Cicada
+1 [CMM:410] Sol Ring
+1 [CMM:973] Solemn Simulacrum
+1 [CMM:974] Soul of New Phyrexia
+1 [CMM:809] Spatial Contortion
+1 [CMM:975] Steel Hellkite
+1 [CMM:976] Stonecoil Serpent
+1 [CMM:977] Suspicious Bookcase
+1 [CMM:1046] Temple of the False God
+1 [CMM:414] Thought Vessel
+1 [CMM:415] Thran Dynamo
+1 [CMM:810] Titan's Presence
+1 [CMM:1048] Tomb of the Spirit Dragon
+1 [CMM:981] Transmogrifying Wand
+1 [CMM:1049] Tyrite Sanctum
+1 [CMM:811] Ugin, the Ineffable
+1 [CMM:718] Ugin's Mastery
+1 [CMM:416] Unstable Obelisk
+1 [CMM:1051] Urza's Mine
+1 [CMM:1052] Urza's Power Plant
+1 [CMM:1053] Urza's Tower
+1 [CMM:1054] War Room
+1 [CMM:812] Warping Wail
+8 [CMM:1055] Wastes
+7 [CMM:1056] Wastes
+1 [CMM:984] Worn Powerstone
+SB: 1 [CMM:704] Zhulodok, Void Gorger
+LAYOUT MAIN:(1,1)(NONE,false,50)|([CMM:712],[CMM:800],[CMM:940],[CMM:985],[CMM:986],[CMM:801],[CMM:802],[CMM:987],[CMM:988],[CMM:373],[CMM:713],[CMM:944],[CMM:743],[CMM:714],[CMM:945],[CMM:946],[CMM:992],[CMM:803],[CMM:947],[CMM:804],[CMM:948],[CMM:949],[CMM:715],[CMM:995],[CMM:950],[CMM:1000],[CMM:386],[CMM:1003],[CMM:951],[CMM:952],[CMM:956],[CMM:805],[CMM:958],[CMM:2],[CMM:398],[CMM:1009],[CMM:806],[CMM:959],[CMM:960],[CMM:399],[CMM:961],[CMM:962],[CMM:1010],[CMM:963],[CMM:964],[CMM:807],[CMM:808],[CMM:708],[CMM:966],[CMM:967],[CMM:968],[CMM:969],[CMM:425],[CMM:716],[CMM:426],[CMM:1023],[CMM:971],[CMM:1027],[CMM:1028],[CMM:1034],[CMM:717],[CMM:410],[CMM:973],[CMM:974],[CMM:809],[CMM:975],[CMM:976],[CMM:977],[CMM:1046],[CMM:414],[CMM:415],[CMM:810],[CMM:1048],[CMM:981],[CMM:1049],[CMM:811],[CMM:718],[CMM:416],[CMM:1051],[CMM:1052],[CMM:1053],[CMM:1054],[CMM:812],[CMM:1055],[CMM:1055],[CMM:1055],[CMM:1055],[CMM:1055],[CMM:1055],[CMM:1055],[CMM:1055],[CMM:1056],[CMM:1056],[CMM:1056],[CMM:1056],[CMM:1056],[CMM:1056],[CMM:1056],[CMM:984])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMM:704])

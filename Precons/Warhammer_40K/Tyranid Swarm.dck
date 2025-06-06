@@ -1,0 +1,83 @@
+1 [40K:86*] Aberrant
+1 [40K:210*] Abundance
+1 [40K:70*] Acolyte Hybrid
+1 [40K:191*] Aetherize
+1 [40K:227*] Arcane Signet
+1 [40K:265*] Ash Barrens
+1 [40K:105*] Atalan Jackal
+1 [40K:87*] Biophagus
+1 [40K:88*] Bone Sabres
+1 [40K:222*] Bred for the Hunt
+1 [40K:89*] Broodlord
+1 [40K:267*] Cave of Temptation
+1 [40K:269*] Cinder Glade
+1 [40K:90*] Clamavus
+1 [40K:270*] Command Tower
+1 [40K:211*] Cultivate
+1 [40K:212*] Death's Presence
+1 [40K:115*] Deathleaper, Terror Weapon
+1 [40K:277*] Evolving Wilds
+1 [40K:76*] Exocrine
+1 [40K:278*] Exotic Orchard
+1 [40K:213*] Explore
+1 [40K:214*] Farseek
+8 [40K:317*] Forest
+1 [40K:281*] Frontier Bivouac
+1 [40K:282*] Game Trail
+1 [40K:123*] Gargoyle Flock
+1 [40K:21*] Genestealer Locus
+1 [40K:22*] Genestealer Patriarch
+1 [40K:124*] Ghyrson Starn, Kelermorph
+1 [40K:158*] Goliath Truck
+1 [40K:215*] Hardened Scales
+1 [40K:216*] Harrow
+1 [40K:91*] Haruspex
+1 [40K:241*] Herald's Horn
+1 [40K:92*] Hierophant Bio-Titan
+1 [40K:93*] Hormagaunt Horde
+1 [40K:224*] Hull Breach
+1 [40K:242*] Icon of Ancestry
+1 [40K:217*] Inspiring Call
+7 [40K:309*] Island
+1 [40K:94*] Lictor
+1 [40K:174] Magus Lucea Kane
+1 [40K:132*] Malanthrope
+1 [40K:133*] Mawloc
+7 [40K:315*] Mountain
+1 [40K:218*] New Horizons
+1 [40K:95*] Nexos
+1 [40K:96*] Old One Eye
+1 [40K:286*] Opal Palace
+1 [40K:219*] Overgrowth
+1 [40K:287*] Path of Ancestry
+1 [40K:97*] Purestrain Genestealer
+1 [40K:220*] Rampant Growth
+1 [40K:138*] Ravener
+1 [40K:292*] Rugged Highlands
+1 [40K:84*] Screamer-Killer
+1 [40K:140*] Shadow in the Warp
+1 [40K:249*] Sol Ring
+1 [40K:98*] Sporocyst
+1 [40K:208*] Starstorm
+1 [40K:297*] Temple of Abandon
+1 [40K:298*] Temple of Epiphany
+1 [40K:299*] Temple of Mystery
+1 [40K:99*] Termagant Swarm
+1 [40K:301*] Terramorphic Expanse
+1 [40K:100*] Tervigon
+1 [40K:121*] The First Tyrannic War
+1 [40K:83*] The Red Terror
+1 [40K:302*] Thornwood Falls
+1 [40K:101*] Toxicrene
+1 [40K:143*] Trygon Prime
+1 [40K:144*] Tyranid Harridan
+1 [40K:102*] Tyranid Invasion
+1 [40K:145*] Tyranid Prime
+1 [40K:103*] Tyrant Guard
+1 [40K:304*] Unclaimed Territory
+1 [40K:147*] Venomthrope
+1 [40K:148*] Winged Hive Tyrant
+1 [40K:149*] Zoanthrope
+SB: 1 [40K:176] The Swarmlord
+LAYOUT MAIN:(1,1)(NONE,false,50)|([40K:86*],[40K:210*],[40K:70*],[40K:191*],[40K:227*],[40K:265*],[40K:105*],[40K:87*],[40K:88*],[40K:222*],[40K:89*],[40K:267*],[40K:269*],[40K:90*],[40K:270*],[40K:211*],[40K:212*],[40K:115*],[40K:277*],[40K:76*],[40K:278*],[40K:213*],[40K:214*],[40K:317*],[40K:317*],[40K:317*],[40K:317*],[40K:317*],[40K:317*],[40K:317*],[40K:317*],[40K:281*],[40K:282*],[40K:123*],[40K:21*],[40K:22*],[40K:124*],[40K:158*],[40K:215*],[40K:216*],[40K:91*],[40K:241*],[40K:92*],[40K:93*],[40K:224*],[40K:242*],[40K:217*],[40K:309*],[40K:309*],[40K:309*],[40K:309*],[40K:309*],[40K:309*],[40K:309*],[40K:94*],[40K:174],[40K:132*],[40K:133*],[40K:315*],[40K:315*],[40K:315*],[40K:315*],[40K:315*],[40K:315*],[40K:315*],[40K:218*],[40K:95*],[40K:96*],[40K:286*],[40K:219*],[40K:287*],[40K:97*],[40K:220*],[40K:138*],[40K:292*],[40K:84*],[40K:140*],[40K:249*],[40K:98*],[40K:208*],[40K:297*],[40K:298*],[40K:299*],[40K:99*],[40K:301*],[40K:100*],[40K:121*],[40K:83*],[40K:302*],[40K:101*],[40K:143*],[40K:144*],[40K:102*],[40K:145*],[40K:103*],[40K:304*],[40K:147*],[40K:148*],[40K:149*])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([40K:176])

@@ -1,0 +1,90 @@
+1 [LCC:264] Admiral Beckett Brass
+1 [LCC:143] Amphin Mutineer
+1 [LCC:215] Angrath's Marauders
+1 [LCC:104] Arcane Signet
+1 [LCC:67] Arm-Mounted Anchor
+1 [LCC:144] Azure Fleet Admiral
+1 [LCC:146] Bident of Thassa
+1 [LCC:181] Black Market Connections
+1 [LCC:216] Blasphemous Act
+1 [LCC:183] Blood Money
+1 [LCC:217] Breeches, Brazen Plunderer
+1 [LCC:86] Broadside Bombardiers
+1 [LCC:218] Captain Lannery Storm
+1 [LCC:219] Captivating Crew
+1 [LCC:221] Chaos Warp
+1 [LCC:322] Choked Estuary
+1 [LCC:222] Coercive Recruiter
+1 [LCC:325] Command Tower
+1 [LCC:301] Commander's Sphere
+1 [LCC:149] Corsair Captain
+1 [LCC:326] Crumbling Necropolis
+1 [LCC:151] Daring Saboteur
+1 [LCC:153] Departed Deckhand
+1 [LCC:327] Desolate Lighthouse
+1 [LCC:302] Dimir Signet
+1 [LCC:223] Dire Fleet Daredevil
+1 [LCC:192] Dire Fleet Ravager
+1 [LCC:154] Distant Melody
+1 [LCC:6] Don Andres, the Renegade
+1 [LCI:148] Enterprising Scallywag
+1 [LCC:156] Evacuation
+1 [LCC:328] Evolving Wilds
+1 [LCC:329] Exotic Orchard
+1 [LCC:225] Faithless Looting
+1 [LCC:197] Fathom Fleet Captain
+1 [LCC:198] Feed the Swarm
+1 [LCC:330] Foreboding Ruins
+1 [LCC:49] Francisco, Fowl Marauder
+1 [LCC:332] Frostboil Snarl
+1 [LCC:335] Geier Reach Sanitarium
+1 [LCC:55] Gemcutter Buccaneer
+1 [LCC:157] Ghost of Ramirez DePietro
+1 [LCC:304] Herald's Horn
+1 [LCC:271] Hostage Taker
+1 [LCC:305] Icon of Ancestry
+6 [LCI:396] Island
+1 [LCC:306] Izzet Signet
+1 [LCC:227] Kari Zev, Skyship Raider
+1 [LCC:272] King Narfi's Betrayal
+1 [LCC:201] Lethal Scheme
+1 [LCC:161] Malcolm, Keen-Eyed Navigator
+1 [LCC:163] Merchant Raiders
+5 [LCI:400] Mountain
+1 [LCC:344] Nephalia Drownyard
+1 [LCC:346] Path of Ancestry
+1 [LCC:208] Pitiless Plunderer
+1 [LCC:347] Port of Karfell
+1 [LCC:230] Port Razer
+1 [LCC:279] Prismari Command
+1 [LCC:284] Rakdos Charm
+1 [LCC:311] Rakdos Signet
+1 [LCC:285] Ramirez DePietro, Pillager
+1 [LCC:349] Rogue's Passage
+1 [LCC:350] Secluded Courtyard
+1 [LCC:231] Shared Animosity
+1 [LCC:171] Siren Stormtamer
+1 [LCC:85] Skeleton Crew
+1 [LCC:353] Smoldering Marsh
+1 [LCC:313] Sol Ring
+1 [LCC:172] Spectral Sailor
+1 [LCC:78] Storm Fleet Negotiator
+1 [LCC:354] Sulfur Falls
+1 [LCC:355] Sunken Hollow
+4 [LCI:398] Swamp
+1 [LCC:360] Terramorphic Expanse
+1 [LCC:82] The Grim Captain's Locker
+1 [LCC:75] The Indomitable
+1 [LCC:361] Thriving Bluff
+1 [LCC:364] Thriving Isle
+1 [LCC:365] Thriving Moor
+1 [LCC:178] Timestream Navigator
+1 [LCC:366] Unclaimed Territory
+1 [LCC:316] Vanquisher's Banner
+1 [LCC:179] Warkite Marauder
+1 [LCC:317] Wayfarer's Bauble
+1 [LCC:180] Windfall
+1 [LCC:297] Zara, Renegade Recruiter
+SB: 1 [LCC:1] Admiral Brass, Unsinkable
+LAYOUT MAIN:(1,1)(NONE,false,50)|([LCC:264],[LCC:143],[LCC:215],[LCC:104],[LCC:67],[LCC:144],[LCC:146],[LCC:181],[LCC:216],[LCC:183],[LCC:217],[LCC:86],[LCC:218],[LCC:219],[LCC:221],[LCC:322],[LCC:222],[LCC:325],[LCC:301],[LCC:149],[LCC:326],[LCC:151],[LCC:153],[LCC:327],[LCC:302],[LCC:223],[LCC:192],[LCC:154],[LCC:6],[LCI:148],[LCC:156],[LCC:328],[LCC:329],[LCC:225],[LCC:197],[LCC:198],[LCC:330],[LCC:49],[LCC:332],[LCC:335],[LCC:55],[LCC:157],[LCC:304],[LCC:271],[LCC:305],[LCI:396],[LCI:396],[LCI:396],[LCI:396],[LCI:396],[LCI:396],[LCC:306],[LCC:227],[LCC:272],[LCC:201],[LCC:161],[LCC:163],[LCI:400],[LCI:400],[LCI:400],[LCI:400],[LCI:400],[LCC:344],[LCC:346],[LCC:208],[LCC:347],[LCC:230],[LCC:279],[LCC:284],[LCC:311],[LCC:285],[LCC:349],[LCC:350],[LCC:231],[LCC:171],[LCC:85],[LCC:353],[LCC:313],[LCC:172],[LCC:78],[LCC:354],[LCC:355],[LCI:398],[LCI:398],[LCI:398],[LCI:398],[LCC:360],[LCC:82],[LCC:75],[LCC:361],[LCC:364],[LCC:365],[LCC:178],[LCC:366],[LCC:316],[LCC:179],[LCC:317],[LCC:180],[LCC:297])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LCC:1])

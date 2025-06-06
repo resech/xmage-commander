@@ -1,0 +1,89 @@
+1 [LTC:210] Anger
+1 [LTC:184] Arcane Denial
+1 [LTC:273] Arcane Signet
+1 [LTC:274] Basalt Monolith
+1 [LTR:77] Bitter Downfall
+1 [LTC:211] Blasphemous Act
+1 [LTC:185] Boon of the Wish-Giver
+1 [LTC:31] Cavern-Hoard Dragon
+1 [LTC:299] Choked Estuary
+1 [LTC:301] Command Tower
+1 [LTC:276] Commander's Sphere
+1 [LTC:187] Consider
+1 [LTC:19] Corsairs of Umbar
+1 [LTC:302] Crumbling Necropolis
+1 [LTC:199] Decree of Pain
+1 [LTC:188] Deep Analysis
+1 [LTC:303] Desolate Lighthouse
+1 [LTC:304] Dragonskull Summit
+1 [LTC:305] Drowned Catacomb
+1 [LTC:278] Everflowing Chalice
+1 [LTC:306] Evolving Wilds
+1 [LTC:266] Extract from Darkness
+1 [LTC:190] Fact or Fiction
+1 [LTC:215] Faithless Looting
+1 [LTC:200] Feed the Swarm
+1 [LTC:308] Field of Ruin
+1 [LTR:126] Fiery Inscription
+1 [LTC:191] Forbidden Alchemy
+1 [LTC:310] Foreboding Ruins
+1 [LTC:312] Frostboil Snarl
+1 [LTC:218] Goblin Cratermaker
+1 [LTC:219] Goblin Dark-Dwellers
+1 [LTC:57] Grima, Saruman's Footman
+1 [LTR:134] Grishnakh, Brash Instigator
+1 [LTC:220] Guttersnipe
+1 [LTC:268] Hostage Taker
+1 [LTC:58] In the Darkness Bind Them
+1 [LTC:223] Inferno Titan
+3 [LTR:264] Island
+3 [LTR:265] Island
+1 [LTC:224] Knollspine Dragon
+1 [LTC:202] Languish
+1 [LTC:59] Lidless Gaze
+1 [LTC:203] Living Death
+1 [LTC:60] Lord of the Nazgul
+1 [LTC:204] Merciless Executioner
+1 [LTC:282] Mind Stone
+1 [LTC:22] Monstrosity of the Lake
+1 [LTC:63] Moria Scavenger
+4 [LTR:268] Mountain
+3 [LTR:269] Mountain
+1 [LTC:270] Notion Thief
+1 [LTC:33] Orcish Siegemaster
+1 [LTC:322] Path of Ancestry
+1 [LTC:34] Rampaging War Mammoth
+1 [LTC:206] Reanimate
+1 [LTC:79] Relic of Sauron
+1 [LTC:207] Revenge of Ravens
+1 [LTC:326] Rogue's Passage
+1 [LTC:8] Saruman, the White Hand
+1 [LTC:225] Scourge of the Throne
+1 [LTC:29] Shelob, Dread Weaver
+1 [LTC:227] Shiny Impetus
+1 [LTC:228] Siege-Gang Commander
+1 [LTC:332] Smoldering Marsh
+1 [LTC:284] Sol Ring
+1 [LTC:24] Subjugate the Hobbits
+1 [LTC:333] Sulfur Falls
+1 [LTC:334] Sulfurous Springs
+1 [LTC:70] Summons of Saruman
+1 [LTC:335] Sunken Hollow
+3 [LTR:266] Swamp
+3 [LTR:267] Swamp
+1 [LTC:337] Terramorphic Expanse
+1 [LTC:46] The Balrog of Moria
+1 [LTC:80] The Black Gate
+1 [LTR:216] The Mouth of Sauron
+1 [LTC:229] Thrill of Possibility
+1 [LTC:72] Too Greedily, Too Deep
+1 [LTR:74] Treason of Isengard
+1 [LTC:230] Treasure Nabber
+1 [LTR:111] Troll of Khazad-dum
+1 [LTC:342] Underground River
+1 [LTR:113] Voracious Fell Beast
+1 [LTC:74] Wake the Dragon
+1 [LTC:293] Worn Powerstone
+SB: 1 [LTC:4] Sauron, Lord of the Rings
+LAYOUT MAIN:(1,1)(NONE,false,50)|([LTC:210],[LTC:184],[LTC:273],[LTC:274],[LTR:77],[LTC:211],[LTC:185],[LTC:31],[LTC:299],[LTC:301],[LTC:276],[LTC:187],[LTC:19],[LTC:302],[LTC:199],[LTC:188],[LTC:303],[LTC:304],[LTC:305],[LTC:278],[LTC:306],[LTC:266],[LTC:190],[LTC:215],[LTC:200],[LTC:308],[LTR:126],[LTC:191],[LTC:310],[LTC:312],[LTC:218],[LTC:219],[LTC:57],[LTR:134],[LTC:220],[LTC:268],[LTC:58],[LTC:223],[LTR:264],[LTR:264],[LTR:264],[LTR:265],[LTR:265],[LTR:265],[LTC:224],[LTC:202],[LTC:59],[LTC:203],[LTC:60],[LTC:204],[LTC:282],[LTC:22],[LTC:63],[LTR:268],[LTR:268],[LTR:268],[LTR:268],[LTR:269],[LTR:269],[LTR:269],[LTC:270],[LTC:33],[LTC:322],[LTC:34],[LTC:206],[LTC:79],[LTC:207],[LTC:326],[LTC:8],[LTC:225],[LTC:29],[LTC:227],[LTC:228],[LTC:332],[LTC:284],[LTC:24],[LTC:333],[LTC:334],[LTC:70],[LTC:335],[LTR:266],[LTR:266],[LTR:266],[LTR:267],[LTR:267],[LTR:267],[LTC:337],[LTC:46],[LTC:80],[LTR:216],[LTC:229],[LTC:72],[LTR:74],[LTC:230],[LTR:111],[LTC:342],[LTR:113],[LTC:74],[LTC:293])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LTC:4])

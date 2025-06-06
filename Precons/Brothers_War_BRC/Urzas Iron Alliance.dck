@@ -1,0 +1,97 @@
+1 [BRC:119] Alela, Artful Provocateur
+1 [BRC:172] Ancient Den
+1 [BRC:68] Angel of the Ruins
+1 [BRC:173] Arcane Sanctum
+1 [BRC:132] Arcane Signet
+1 [BRC:103] Armix, Filigree Thrasher
+1 [BRC:174] Ash Barrens
+1 [BRC:69] Austere Command
+1 [BRC:175] Azorius Chancery
+1 [BRC:133] Azorius Signet
+1 [BRC:120] Baleful Strix
+1 [BRC:80] Bident of Thassa
+1 [BRC:176] Bojuka Bog
+1 [BRC:70] Bronze Guardian
+1 [BRC:134] Chief of the Foundry
+1 [BRC:123] Chrome Courier
+1 [BRC:178] Command Tower
+1 [BRC:136] Cranial Plating
+1 [BRC:180] Darksteel Citadel
+1 [BRC:137] Darksteel Juggernaut
+1 [BRC:124] Despark
+1 [BRC:71] Digsite Engineer
+1 [BRC:182] Dimir Aqueduct
+1 [BRC:138] Dimir Signet
+1 [BRC:140] Etched Champion
+1 [BRC:82] Etherium Sculptor
+1 [BRC:83] Ethersworn Adjudicator
+1 [BRC:184] Evolving Wilds
+1 [BRC:185] Exotic Orchard
+1 [BRC:85] Filigree Attendant
+1 [BRC:186] Goldmire Bridge
+1 [BRC:14] Hexavus
+1 [BRC:72] Indomitable Archangel
+2 [BRC:32] Island
+2 [BRC:31] Island
+1 [BRC:15] Kayla's Music Box
+1 [BRC:145] Liquimetal Torque
+1 [BRC:73] Losheel, Clockwork Scholar
+1 [BRC:8] March of Progress
+1 [BRC:109] Marionette Master
+1 [BRC:86] Master of Etherium
+1 [BRC:189] Mistvault Bridge
+1 [BRC:151] Myr Battlesphere
+1 [BRC:110] Noxious Gearhulk
+1 [BRC:90] One with the Machine
+1 [BRC:191] Orzhov Basilica
+1 [BRC:154] Orzhov Signet
+1 [BRC:192] Path of Ancestry
+1 [BRC:74] Phyrexian Rebirth
+2 [BRC:30] Plains
+2 [BRC:29] Plains
+1 [BRC:193] Prairie Stream
+1 [BRC:92] Preordain
+1 [BRC:195] Razortide Bridge
+1 [BRC:157] Relic of Progenitus
+1 [BRC:197] River of Tears
+1 [BRC:93] Sai, Master Thopterist
+1 [BRC:5] Sanwell, Avenger Ace
+1 [BRC:6] Scholar of New Horizons
+1 [BRC:198] Seat of the Synod
+1 [BRC:94] Sharding Sphinx
+1 [BRC:128] Sharuum the Hegemon
+1 [BRC:95] Shimmer Dragon
+1 [BRC:159] Skullclamp
+1 [BRC:201] Skycloud Expanse
+1 [BRC:160] Sol Ring
+1 [BRC:161] Solemn Simulacrum
+1 [BRC:130] Sphinx's Revelation
+1 [BRC:203] Spire of Industry
+1 [BRC:163] Steel Hellkite
+1 [BRC:164] Steel Overseer
+1 [BRC:204] Sunken Hollow
+2 [BRC:33] Swamp
+1 [BRC:34] Swamp
+1 [BRC:166] Swiftfoot Boots
+1 [BRC:75] Swords to Plowshares
+1 [BRC:3] Tawnos, Solemn Survivor
+1 [BRC:76] Tempered Steel
+1 [BRC:205] Temple of Deceit
+1 [BRC:206] Temple of Enlightenment
+1 [BRC:209] Temple of Silence
+1 [BRC:77] Teshar, Ancestor's Apostle
+1 [BRC:19] Thopter Shop
+1 [BRC:97] Thopter Spy Network
+1 [BRC:98] Thought Monitor
+1 [BRC:167] Thought Vessel
+1 [BRC:78] Unbreakable Formation
+1 [BRC:79] Urza's Ruinous Blast
+1 [BRC:211] Vault of Whispers
+1 [BRC:100] Vedalken Humiliator
+1 [BRC:131] Vindicate
+1 [BRC:101] Whirler Rogue
+1 [BRC:10] Wire Surgeons
+1 [BRC:11] Wreck Hunter
+SB: 1 [BRC:2] Urza, Chief Artificer
+LAYOUT MAIN:(1,1)(NONE,false,50)|([BRC:119],[BRC:172],[BRC:68],[BRC:173],[BRC:132],[BRC:103],[BRC:174],[BRC:69],[BRC:175],[BRC:133],[BRC:120],[BRC:80],[BRC:176],[BRC:70],[BRC:134],[BRC:123],[BRC:178],[BRC:136],[BRC:180],[BRC:137],[BRC:124],[BRC:71],[BRC:182],[BRC:138],[BRC:140],[BRC:82],[BRC:83],[BRC:184],[BRC:185],[BRC:85],[BRC:186],[BRC:14],[BRC:72],[BRC:32],[BRC:32],[BRC:31],[BRC:31],[BRC:15],[BRC:145],[BRC:73],[BRC:8],[BRC:109],[BRC:86],[BRC:189],[BRC:151],[BRC:110],[BRC:90],[BRC:191],[BRC:154],[BRC:192],[BRC:74],[BRC:30],[BRC:30],[BRC:29],[BRC:29],[BRC:193],[BRC:92],[BRC:195],[BRC:157],[BRC:197],[BRC:93],[BRC:5],[BRC:6],[BRC:198],[BRC:94],[BRC:128],[BRC:95],[BRC:159],[BRC:201],[BRC:160],[BRC:161],[BRC:130],[BRC:203],[BRC:163],[BRC:164],[BRC:204],[BRC:33],[BRC:33],[BRC:34],[BRC:166],[BRC:75],[BRC:3],[BRC:76],[BRC:205],[BRC:206],[BRC:209],[BRC:77],[BRC:19],[BRC:97],[BRC:98],[BRC:167],[BRC:78],[BRC:79],[BRC:211],[BRC:100],[BRC:131],[BRC:101],[BRC:10],[BRC:11])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BRC:2])

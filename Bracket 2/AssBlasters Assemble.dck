@@ -1,0 +1,90 @@
+1 [FRF:119] Abzan Beastmaster
+1 [KTK:161] Abzan Charm
+1 [KLD:192] Aetherflux Reservoir
+1 [M3C:165] Akroma's Will
+1 [10E:4] Angelic Chorus
+1 [THB:165] Arasta of the Endless Web
+1 [ELD:331] Arcane Signet
+1 [DTK:173] Assault Formation
+1 [ALA:221] Bant Panorama
+1 [DKA:2] Bar the Door
+1 [TDM:251] Blossoming Sands
+1 [SHM:5] Boon Reflection
+1 [MOR:114] Bosk Banneret
+1 [CMR:274] Colfenor, the Last Yew
+1 [ELD:333] Command Tower
+1 [LRW:247] Doran, the Siege Tower
+1 [AKH:210] Dusk // Dawn
+1 [CON:142] Exotic Orchard
+1 [WOE:13] Expel the Interlopers
+1 [WWK:99] Explore
+1 [CLB:232] Explore the Underdark
+1 [ELD:190] Faeburrow Elder
+1 [LTR:166] Fangorn, Tree Shepherd
+1 [OTP:1] Fell the Mighty
+1 [AFR:15] Flumph
+5 [FIN:306] Forest
+1 [FRF:132] Fruit of the First Tree
+1 [KHM:11] Giant Ox
+1 [CLU:236] Golgari Rot Farm
+1 [CLU:222] Golgari Signet
+1 [CLB:21] Goliath Paladin
+1 [PBBD:8s] Gorm the Great
+1 [ARB:69] Grizzled Leotau
+1 [RNA:130] Guardian Project
+1 [DMU:248] Haunted Mire
+1 [CLB:354] Heap Gate
+1 [WAR:230*] Huatli, the Sun's Heart
+1 [TDC:100] Ikra Shidiqi, the Usurper
+1 [TDM:258] Jungle Hollow
+1 [CHK:225] Kodama's Reach
+1 [ORI:105] Languish
+1 [LTR:172] Last March of the Ents
+1 [XLN:23] Looming Altisaur
+1 [JUD:139] Mirari's Wake
+1 [FDN:662] Mortify
+1 [JOU:18] Nyx-Fleece Ram
+1 [RAV:27] Oathsworn Giant
+1 [M3C:361] Opal Palace
+1 [CLU:241] Orzhov Basilica
+1 [CLU:225] Orzhov Signet
+1 [FIC:411] Path of Ancestry
+1 [FDN:180] Phyrexian Arena
+5 [FIN:294] Plains
+1 [DIS:16] Proper Burial
+1 [DGM:93] Putrefy
+1 [DMU:253] Radiant Grove
+1 [CLB:37] Rasaad yn Bashir
+1 [CLB:142] Ravenloft Adventurer
+1 [ORI:114] Read the Bones
+1 [TDM:266] Sandsteppe Citadel
+1 [EVE:128] Sapling of Colfenor
+1 [TDM:267] Scoured Barrens
+1 [CLB:610] Seasoned Dungeoneer
+1 [CLU:246] Selesnya Sanctuary
+1 [CLU:227] Selesnya Signet
+1 [M13:191] Silklash Spider
+1 [M12:195] Skinshifter
+1 [SUM:274] Sol Ring
+1 [8ED:46] Solidarity
+1 [MMQ:273] Spidersilk Armor
+1 [CLB:45] Stoneskin
+1 [DMU:257] Sunlit Marsh
+5 [FIN:300] Swamp
+1 [FDN:700] Temple of Malady
+1 [FDN:703] Temple of Plenty
+1 [FDN:704] Temple of Silence
+1 [RNA:147] Tower Defense
+1 [EMN:109] Tree of Perdition
+1 [ISD:207] Tree of Redemption
+1 [LTC:73] Treebeard, Gracious Host
+1 [LRW:239] Treefolk Harbinger
+1 [CLB:260] Undermountain Adventurer
+1 [VOW:135] Unhallowed Phalanx
+1 [MID:206] Unnatural Growth
+1 [CLB:155] Vicious Battlerager
+1 [STH:125] Wall of Blossoms
+1 [FDN:584] Zetalpa, Primal Dawn
+SB: 1 [TDC:4] Felothar the Steadfast
+LAYOUT MAIN:(1,1)(NONE,false,50)|([FRF:119],[KTK:161],[KLD:192],[M3C:165],[10E:4],[THB:165],[ELD:331],[DTK:173],[ALA:221],[DKA:2],[TDM:251],[SHM:5],[MOR:114],[CMR:274],[ELD:333],[LRW:247],[AKH:210],[CON:142],[WOE:13],[WWK:99],[CLB:232],[ELD:190],[LTR:166],[OTP:1],[AFR:15],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FRF:132],[KHM:11],[CLU:236],[CLU:222],[CLB:21],[PBBD:8s],[ARB:69],[RNA:130],[DMU:248],[CLB:354],[WAR:230*],[TDC:100],[TDM:258],[CHK:225],[ORI:105],[LTR:172],[XLN:23],[JUD:139],[FDN:662],[JOU:18],[RAV:27],[M3C:361],[CLU:241],[CLU:225],[FIC:411],[FDN:180],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[DIS:16],[DGM:93],[DMU:253],[CLB:37],[CLB:142],[ORI:114],[TDM:266],[EVE:128],[TDM:267],[CLB:610],[CLU:246],[CLU:227],[M13:191],[M12:195],[SUM:274],[8ED:46],[MMQ:273],[CLB:45],[DMU:257],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FDN:700],[FDN:703],[FDN:704],[RNA:147],[EMN:109],[ISD:207],[LTC:73],[LRW:239],[CLB:260],[VOW:135],[MID:206],[CLB:155],[STH:125],[FDN:584])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([TDC:4])

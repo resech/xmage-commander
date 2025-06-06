@@ -1,0 +1,86 @@
+1 [LTC:5] Aragorn, King of Gondor
+1 [LTC:273] Arcane Signet
+1 [LTC:18] Archivist of Gondor
+1 [LTC:161] Banishing Light
+1 [LTC:162] Bastion Protector
+1 [LTC:296] Battlefield Forge
+1 [LTC:9] Beregond of the Guard
+1 [LTC:49] Boromir, Gondor's Hope
+1 [LTC:30] Call for Aid
+1 [LTC:10] Champions of Minas Tirith
+1 [LTC:300] Clifftop Retreat
+1 [LTC:212] Combat Celebrant
+1 [LTC:301] Command Tower
+1 [LTC:276] Commander's Sphere
+1 [LTC:213] Court of Ire
+1 [LTC:75] Crown of Gondor
+1 [LTC:165] Dearly Departed
+1 [LTC:20] Denethor, Stone Seer
+1 [LTC:277] Door of Destinies
+1 [LTC:214] Earthquake
+1 [LTC:52] Eomer, King of Rohan
+1 [LTR:123] Erkenbrand, Lord of Westfold
+1 [LTC:306] Evolving Wilds
+1 [LTC:307] Exotic Orchard
+1 [LTC:54] Faramir, Steward of Gondor
+1 [LTC:21] Fealty to the Realm
+1 [LTC:308] Field of Ruin
+1 [LTC:168] Fiend Hunter
+1 [LTC:216] Flamerush Rider
+1 [LTC:56] Forth Eorlingas!
+1 [LTC:217] Frontier Warmonger
+1 [LTC:169] Frontline Medic
+1 [LTC:313] Furycalm Snarl
+1 [LTC:13] Gilraen, Dunedain Protector
+1 [LTC:32] Gimli of the Glittering Caves
+1 [LTC:315] Glacial Fortress
+1 [LTC:14] Grey Host Reinforcements
+1 [LTC:221] Harsh Mentor
+1 [LTC:279] Heirloom Blade
+1 [LTC:280] Herald's Horn
+1 [LTC:222] Humble Defector
+1 [LTC:171] Increasing Devotion
+5 [LTR:264] Island
+1 [LTC:16] Lossarnach Captain
+1 [LTR:22] Lost to Legend
+1 [LTC:172] Marshal's Anthem
+5 [LTR:268] Mountain
+1 [LTC:64] Oath of Eorl
+1 [LTC:174] Palace Jailer
+1 [LTC:322] Path of Ancestry
+1 [LTC:175] Path to Exile
+9 [LTR:262] Plains
+1 [LTC:323] Port Town
+1 [LTC:324] Prairie Stream
+1 [LTR:219] Prince Imrahil the Fair
+1 [LTC:67] Riders of Rohan
+1 [LTC:326] Rogue's Passage
+1 [LTC:330] Secluded Courtyard
+1 [LTC:176] Selfless Squire
+1 [LTC:226] Shared Animosity
+1 [LTC:284] Sol Ring
+1 [LTC:333] Sulfur Falls
+1 [LTC:177] Sunset Revelry
+1 [LTC:272] Supreme Verdict
+1 [LTC:178] Swords to Plowshares
+1 [LTC:285] Talisman of Conviction
+1 [LTC:286] Talisman of Progress
+1 [LTC:71] Taunt from the Rampart
+1 [LTC:337] Terramorphic Expanse
+1 [LTR:233] Theoden, King of Rohan
+1 [LTC:287] Thought Vessel
+1 [LTC:339] Throne of the High City
+1 [LTC:340] Tranquil Cove
+1 [LTC:179] Unbreakable Formation
+1 [LTC:289] Vanquisher's Banner
+1 [LTC:180] Verge Rangers
+1 [LTC:181] Village Bell-Ringer
+1 [LTC:182] Visions of Glory
+1 [LTC:290] Wayfarer's Bauble
+1 [LTC:183] Weathered Wayfarer
+1 [LTC:344] Wind-Scarred Crag
+1 [LTC:345] Windbrisk Heights
+1 [LTC:231] Zealous Conscripts
+SB: 1 [LTC:1] Eowyn, Shieldmaiden
+LAYOUT MAIN:(1,1)(NONE,false,50)|([LTC:5],[LTC:273],[LTC:18],[LTC:161],[LTC:162],[LTC:296],[LTC:9],[LTC:49],[LTC:30],[LTC:10],[LTC:300],[LTC:212],[LTC:301],[LTC:276],[LTC:213],[LTC:75],[LTC:165],[LTC:20],[LTC:277],[LTC:214],[LTC:52],[LTR:123],[LTC:306],[LTC:307],[LTC:54],[LTC:21],[LTC:308],[LTC:168],[LTC:216],[LTC:56],[LTC:217],[LTC:169],[LTC:313],[LTC:13],[LTC:32],[LTC:315],[LTC:14],[LTC:221],[LTC:279],[LTC:280],[LTC:222],[LTC:171],[LTR:264],[LTR:264],[LTR:264],[LTR:264],[LTR:264],[LTC:16],[LTR:22],[LTC:172],[LTR:268],[LTR:268],[LTR:268],[LTR:268],[LTR:268],[LTC:64],[LTC:174],[LTC:322],[LTC:175],[LTR:262],[LTR:262],[LTR:262],[LTR:262],[LTR:262],[LTR:262],[LTR:262],[LTR:262],[LTR:262],[LTC:323],[LTC:324],[LTR:219],[LTC:67],[LTC:326],[LTC:330],[LTC:176],[LTC:226],[LTC:284],[LTC:333],[LTC:177],[LTC:272],[LTC:178],[LTC:285],[LTC:286],[LTC:71],[LTC:337],[LTR:233],[LTC:287],[LTC:339],[LTC:340],[LTC:179],[LTC:289],[LTC:180],[LTC:181],[LTC:182],[LTC:290],[LTC:183],[LTC:344],[LTC:345],[LTC:231])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LTC:1])

@@ -1,0 +1,84 @@
+1 [LCC:142] Aetherize
+1 [LCC:318] Alchemist's Refuge
+1 [LCC:104] Arcane Signet
+1 [LCC:233] Beast Within
+1 [LCC:145] Benthic Biomancer
+1 [LCC:234] Branching Evolution
+1 [LCC:89] Bygone Marvels
+1 [LCC:266] Cold-Eyed Selkie
+1 [LCC:325] Command Tower
+1 [LCC:301] Commander's Sphere
+1 [LCC:147] Commit // Memory
+1 [LCC:148] Coralhelm Commander
+1 [LCC:150] Curse of the Swine
+1 [LCC:237] Deeproot Elite
+1 [LCC:91] Deeproot Historian
+1 [LCC:152] Deeproot Waters
+1 [LCC:155] Emperor Mihail II
+1 [LCC:240] Evolution Sage
+1 [LCC:241] Explore
+7 [LCI:402] Forest
+1 [LCC:270] Growth Spiral
+1 [LCC:243] Hardened Scales
+1 [LCC:158] Herald of Secret Streams
+1 [LCC:336] Hinterland Harbor
+1 [LCC:244] Inspiring Call
+13 [LCI:395] Island
+1 [LCC:339] Karn's Bastion
+1 [LCC:159] Kindred Discovery
+1 [LCC:273] Kiora's Follower
+1 [LCC:245] Kodama's Reach
+1 [LCC:160] Kopala, Warden of Waves
+1 [LCC:274] Kumena, Tyrant of Orazca
+1 [LCC:341] Llanowar Reborn
+1 [LCC:162] Master of the Pearl Trident
+1 [LCI:65] Merfolk Cave-Diver
+1 [LCC:276] Merfolk Mistbinder
+1 [LCC:277] Merfolk Skydiver
+1 [LCC:164] Merfolk Sovereign
+1 [LCC:165] Merrow Reejerey
+1 [LCC:308] Metallic Mimic
+1 [LCC:76] Mist Dancer
+1 [LCC:342] Mosswort Bridge
+1 [LCC:343] Myriad Landscape
+1 [LCI:236] Nicanzil, Current Conductor
+1 [LCC:346] Path of Ancestry
+1 [LCC:278] Prime Speaker Zegana
+1 [LCC:280] Quandrix Command
+1 [LCC:166] Rapid Hybridization
+1 [LCC:167] Ravenform
+1 [LCC:250] Realmwalker
+1 [LCC:168] Reflections of Littjara
+1 [LCC:348] Reliquary Tower
+1 [LCC:77] Ripples of Potential
+1 [LCC:349] Rogue's Passage
+1 [LCC:255] Ruinous Intrusion
+1 [LCC:169] Sage of Fables
+1 [LCC:170] Seafloor Oracle
+1 [LCC:350] Secluded Courtyard
+1 [LCC:288] Simic Ascendancy
+1 [LCC:352] Simic Growth Chamber
+1 [LCC:312] Simic Signet
+1 [LCC:98] Singer of Swift Rivers
+1 [LCC:313] Sol Ring
+1 [LCC:173] Stonybrook Banneret
+1 [LCC:174] Surgespanner
+1 [LCC:175] Svyelun of Sea and Sky
+1 [LCC:314] Swiftfoot Boots
+1 [LCC:290] Tatyova, Benthic Druid
+1 [LCC:357] Temple of Mystery
+1 [LCC:359] Temple of the False God
+1 [LCC:176] Thassa, God of the Sea
+1 [LCC:177] Thieving Skydiver
+1 [LCC:291] Tishana, Voice of Thunder
+1 [LCC:95] Topography Tracker
+1 [LCC:96] Tributary Instructor
+1 [LCC:366] Unclaimed Territory
+1 [LCC:368] Vineglimmer Snarl
+1 [LCC:294] Vorel of the Hull Clade
+1 [LCC:79] Wave Goodbye
+1 [LCC:8] Xolatoyac, the Smiling Flood
+1 [LCC:298] Zegana, Utopian Speaker
+SB: 1 [LCC:3] Hakbal of the Surging Soul
+LAYOUT MAIN:(1,1)(NONE,false,50)|([LCC:142],[LCC:318],[LCC:104],[LCC:233],[LCC:145],[LCC:234],[LCC:89],[LCC:266],[LCC:325],[LCC:301],[LCC:147],[LCC:148],[LCC:150],[LCC:237],[LCC:91],[LCC:152],[LCC:155],[LCC:240],[LCC:241],[LCI:402],[LCI:402],[LCI:402],[LCI:402],[LCI:402],[LCI:402],[LCI:402],[LCC:270],[LCC:243],[LCC:158],[LCC:336],[LCC:244],[LCI:395],[LCI:395],[LCI:395],[LCI:395],[LCI:395],[LCI:395],[LCI:395],[LCI:395],[LCI:395],[LCI:395],[LCI:395],[LCI:395],[LCI:395],[LCC:339],[LCC:159],[LCC:273],[LCC:245],[LCC:160],[LCC:274],[LCC:341],[LCC:162],[LCI:65],[LCC:276],[LCC:277],[LCC:164],[LCC:165],[LCC:308],[LCC:76],[LCC:342],[LCC:343],[LCI:236],[LCC:346],[LCC:278],[LCC:280],[LCC:166],[LCC:167],[LCC:250],[LCC:168],[LCC:348],[LCC:77],[LCC:349],[LCC:255],[LCC:169],[LCC:170],[LCC:350],[LCC:288],[LCC:352],[LCC:312],[LCC:98],[LCC:313],[LCC:173],[LCC:174],[LCC:175],[LCC:314],[LCC:290],[LCC:357],[LCC:359],[LCC:176],[LCC:177],[LCC:291],[LCC:95],[LCC:96],[LCC:366],[LCC:368],[LCC:294],[LCC:79],[LCC:8],[LCC:298])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LCC:3])

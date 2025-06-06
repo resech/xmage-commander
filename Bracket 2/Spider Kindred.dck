@@ -1,0 +1,93 @@
+1 [SOM:108] Acid Web Spider
+1 [DSC:169] Arachnogenesis
+1 [THB:165] Arasta of the Endless Web
+1 [ELD:331] Arcane Signet
+1 [MKM:187] Assassin's Trophy
+1 [ACR:135] Aveline de Grandpre
+1 [NPH:103] Beast Within
+1 [FDN:212] Bite Down
+1 [MBS:77] Blightwidow
+1 [OTJ:266] Blooming Marsh
+1 [WWK:132] Bojuka Bog
+1 [NEO:266] Boseiju, Who Endures
+1 [MH3:249] Bridgeworks Battle
+1 [MID:173] Brood Weaver
+1 [OTJ:158] Cactarantula
+1 [THB:167] Chainweb Aracnir
+1 [ELD:333] Command Tower
+1 [LCC:12] Contest of Claws
+1 [ONE:165] Copper Longlegs
+1 [M21:177] Cultivate
+1 [MIC:25] Curse of Clinging Webs
+1 [KHM:254] Darkbore Pathway
+1 [VOW:261] Deathcap Glade
+1 [DSC:86] Deathreap Ritual
+1 [VOC:34] Doom Weaver
+1 [AFR:98] Drider
+1 [M13:170] Farseek
+1 [MH3:244] Fell the Profane
+1 [OTJ:257] Festering Gulch
+7 [FIN:306] Forest
+1 [FDN:637] Fynn, the Fangbearer
+1 [BNG:122] Graverobber Spider
+1 [MKM:164] Hard-Hitting Question
+1 [GRN:132] Hatchery Spider
+1 [EMN:162] Ishkanah, Grafwidow
+1 [DKA:121] Kessig Recluse
+1 [CHK:225] Kodama's Reach
+1 [LTR:172] Last March of the Ents
+1 [LTC:493] Legolas's Quick Reflexes
+1 [DMU:169] Llanowar Greenwidow
+1 [BRO:264] Llanowar Wastes
+1 [AFR:112] Lolth, Spider Queen
+1 [M12:183] Lure
+1 [M14:228] Mutavault
+1 [5ED:316] Nature's Lore
+1 [DST:134] Nemesis Mask
+1 [WOE:178] Night of the Sweets' Revenge
+1 [HOU:141] Obelisk Spider
+1 [MAT:23] Open the Way
+1 [CLU:278] Overgrown Tomb
+1 [FIC:411] Path of Ancestry
+1 [BFZ:225] Pathway Arrows
+1 [ONS:161] Patriarch's Bidding
+1 [TSP:210] Penumbra Spider
+1 [M12:190] Rampant Growth
+1 [MH3:256] Revitalizing Repast
+1 [KTK:145] Roar of Challenge
+1 [J21:712] Rotwidow Pack
+1 [MOM:336] Ruins Recluse
+1 [MH3:228] Shifting Woodland
+1 [M13:191] Silklash Spider
+1 [BRO:221] Skyfisher Spider
+1 [SUM:274] Sol Ring
+1 [FDN:112] Spinner of Souls
+1 [M21:208] Sporeweb Weaver
+1 [M12:197] Stingerfling Spider
+4 [FIN:300] Swamp
+1 [TSP:278] Swarmyard
+1 [BLC:20] Swarmyard Massacre
+1 [CLB:835] Sweet-Gum Recluse
+1 [TOR:143] Tainted Wood
+1 [FDN:700] Temple of Malady
+1 [LTR:260] The Shire
+1 [MOR:145] Thornbite Staff
+1 [FIC:315] Three Visits
+1 [CLB:258] Traverse the Outlands
+1 [VIS:158] Triangle of War
+1 [MOM:211] Tribute to the World Tree
+1 [EVE:180] Twilight Mire
+1 [J21:660] Twin-Silk Spider
+1 [DSK:201] Twitching Doll
+1 [MKM:271] Underground Mortuary
+1 [CMM:435] Undergrowth Stadium
+1 [ZEN:229] Verdant Catacombs
+1 [DSC:324] Viridescent Bog
+1 [MRD:270] Viridian Longbow
+1 [DFT:268] Wastewood Verge
+1 [SOI:239] Watcher in the Web
+1 [DSK:124] Withering Torment
+1 [DOM:248] Woodland Cemetery
+SB: 1 [LTR:230] Shelob, Child of Ungoliant
+LAYOUT MAIN:(1,1)(NONE,false,50)|([SOM:108],[DSC:169],[THB:165],[ELD:331],[MKM:187],[ACR:135],[NPH:103],[FDN:212],[MBS:77],[OTJ:266],[WWK:132],[NEO:266],[MH3:249],[MID:173],[OTJ:158],[THB:167],[ELD:333],[LCC:12],[ONE:165],[M21:177],[MIC:25],[KHM:254],[VOW:261],[DSC:86],[VOC:34],[AFR:98],[M13:170],[MH3:244],[OTJ:257],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FDN:637],[BNG:122],[MKM:164],[GRN:132],[EMN:162],[DKA:121],[CHK:225],[LTR:172],[LTC:493],[DMU:169],[BRO:264],[AFR:112],[M12:183],[M14:228],[5ED:316],[DST:134],[WOE:178],[HOU:141],[MAT:23],[CLU:278],[FIC:411],[BFZ:225],[ONS:161],[TSP:210],[M12:190],[MH3:256],[KTK:145],[J21:712],[MOM:336],[MH3:228],[M13:191],[BRO:221],[SUM:274],[FDN:112],[M21:208],[M12:197],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[TSP:278],[BLC:20],[CLB:835],[TOR:143],[FDN:700],[LTR:260],[MOR:145],[FIC:315],[CLB:258],[VIS:158],[MOM:211],[EVE:180],[J21:660],[DSK:201],[MKM:271],[CMM:435],[ZEN:229],[DSC:324],[MRD:270],[DFT:268],[SOI:239],[DSK:124],[DOM:248])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LTR:230])

@@ -1,0 +1,84 @@
+1 [CLB:298] Arcane Signet
+1 [CLB:686] Archpriest of Iona
+1 [CLB:880] Ash Barrens
+1 [CLB:687] Austere Command
+1 [CLB:688] Aven Mindcensor
+1 [CLB:669] Black Market Connections
+1 [CLB:740] Bloodsoaked Champion
+1 [CLB:882] Bojuka Bog
+1 [CLB:653] Burakos, Party Leader
+1 [CLB:741] Butcher of Malakir
+1 [CLB:689] Bygone Bishop
+1 [CLB:742] Calculating Lich
+1 [CLB:884] Castle Locthwain
+1 [CLB:743] Changeling Outcast
+1 [CLB:351] Command Tower
+1 [CLB:744] Corpse Augur
+1 [CLB:690] Crib Swap
+1 [CLB:658] Deep Gnome Terramancer
+1 [CLB:841] Despark
+1 [CLB:749] Dire Fleet Ravager
+1 [CLB:691] Dusk // Dawn
+1 [CLB:692] Eight-and-a-Half-Tails
+1 [CLB:845] Felisa, Fang of Silverquill
+1 [CLB:846] Firja's Retribution
+1 [CLB:650] Folk Hero
+1 [CLB:693] Frontline Medic
+1 [CLB:694] Galepowder Mage
+1 [CLB:695] Glorious Protector
+1 [CLB:753] Gonti, Lord of Luxury
+1 [CLB:754] Grim Haruspex
+1 [CLB:755] Grim Hireling
+1 [CLB:659] Harper Recruiter
+1 [CLB:848] High Priest of Penance
+1 [CLB:696] Irregular Cohort
+1 [CLB:697] Jazal Goldmane
+1 [CLB:698] Mage's Attendant
+1 [CLB:699] Magus of the Balance
+1 [CLB:760] Malakir Blood-Priest
+1 [CLB:761] Mardu Strike Leader
+1 [CLB:865] Maskwood Nexus
+1 [CLB:700] Mikaeus, the Lunarch
+1 [CLB:762] Mindblade Render
+1 [CLB:701] Mirror Entity
+1 [CLB:900] Mortuary Mire
+1 [CLB:702] Mother of Runes
+1 [CLB:684] Multiclass Baldric
+1 [CLB:903] Mutavault
+1 [CLB:904] Myriad Landscape
+1 [CLB:763] Nighthawk Scavenger
+1 [CLB:703] Order of Whiteclay
+1 [CLB:906] Orzhov Basilica
+1 [CLB:867] Orzhov Signet
+1 [CLB:907] Path of Ancestry
+10 [CLB:451] Plains
+1 [CLB:768] Pontiff of Blight
+1 [CLB:704] Priest of Ancient Lore
+1 [CLB:769] Puppeteer Clique
+1 [CLB:705] Rumor Gatherer
+1 [CLB:660] Seasoned Dungeoneer
+1 [CLB:706] Selfless Spirit
+1 [CLB:707] Sevinne's Reclamation
+1 [CLB:914] Shambling Vent
+1 [CLB:870] Skullclamp
+1 [CLB:915] Snowfield Sinkhole
+1 [CLB:871] Sol Ring
+1 [CLB:672] Solemn Doomguide
+1 [CLB:708] Solemn Recruit
+1 [CLB:709] Squad Commander
+1 [CLB:917] Starlit Sanctum
+1 [CLB:661] Stick Together
+10 [CLB:459] Swamp
+1 [CLB:919] Tainted Field
+1 [CLB:878] Talisman of Hierarchy
+1 [CLB:924] Temple of Silence
+1 [CLB:773] Thwart the Grave
+1 [CLB:710] Unbreakable Formation
+1 [CLB:711] Valiant Changeling
+1 [CLB:927] Vault of the Archangel
+1 [CLB:929] War Room
+1 [CLB:930] Windbrisk Heights
+1 [CLB:775] Zulaport Cutthroat
+SB: 1 [CLB:649] Nalia de'Arnise
+LAYOUT MAIN:(1,1)(NONE,false,50)|([CLB:298],[CLB:686],[CLB:880],[CLB:687],[CLB:688],[CLB:669],[CLB:740],[CLB:882],[CLB:653],[CLB:741],[CLB:689],[CLB:742],[CLB:884],[CLB:743],[CLB:351],[CLB:744],[CLB:690],[CLB:658],[CLB:841],[CLB:749],[CLB:691],[CLB:692],[CLB:845],[CLB:846],[CLB:650],[CLB:693],[CLB:694],[CLB:695],[CLB:753],[CLB:754],[CLB:755],[CLB:659],[CLB:848],[CLB:696],[CLB:697],[CLB:698],[CLB:699],[CLB:760],[CLB:761],[CLB:865],[CLB:700],[CLB:762],[CLB:701],[CLB:900],[CLB:702],[CLB:684],[CLB:903],[CLB:904],[CLB:763],[CLB:703],[CLB:906],[CLB:867],[CLB:907],[CLB:451],[CLB:451],[CLB:451],[CLB:451],[CLB:451],[CLB:451],[CLB:451],[CLB:451],[CLB:451],[CLB:451],[CLB:768],[CLB:704],[CLB:769],[CLB:705],[CLB:660],[CLB:706],[CLB:707],[CLB:914],[CLB:870],[CLB:915],[CLB:871],[CLB:672],[CLB:708],[CLB:709],[CLB:917],[CLB:661],[CLB:459],[CLB:459],[CLB:459],[CLB:459],[CLB:459],[CLB:459],[CLB:459],[CLB:459],[CLB:459],[CLB:459],[CLB:919],[CLB:878],[CLB:924],[CLB:773],[CLB:710],[CLB:711],[CLB:927],[CLB:929],[CLB:930],[CLB:775])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CLB:649])

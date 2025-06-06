@@ -1,0 +1,81 @@
+1 [STX:295] Archmage Emeritus
+1 [FDN:30] Archmage of Runes
+1 [DKA:27] Artful Dodge
+1 [ODY:68] Bamboozle
+1 [DST:163] Blinkmoth Nexus
+1 [SCG:29] Brain Freeze
+1 [MMQ:61] Brainstorm
+1 [ELD:281] Brazen Borrower
+1 [ODY:317] Cephalid Coliseum
+1 [FDN:586] Chart a Course
+1 [POR:44] Cloak of Feathers
+1 [CLU:84] Consider
+1 [LRW:56] Cryptic Command
+1 [TOR:36] Deep Analysis
+1 [JUD:38] Defy Gravity
+1 [FDN:687] Demolition Field
+1 [FDN:306] Drake Hatcher
+1 [OTJ:318] Duelist of the Mind
+1 [MH3:61] Emrakul's Messenger
+1 [DSK:371] Enduring Curiosity
+1 [DSK:52] Enter the Enigma
+1 [10E:351*] Faerie Conclave
+1 [MOM:352] Faerie Mastermind
+1 [WOE:311] Faerie Slumber Party
+1 [MAT:7] Filter Out
+1 [MIR:67] Floodgate
+1 [CLB:383] Gale, Waterdeep Prodigy
+1 [M21:350] Ghostly Pilferer
+1 [GPT:26] Gigadrowse
+1 [MOM:63] Invasion of Segovia
+1 [HOU:180] Ipnu Rivulet
+22 [FIN:297] Island
+1 [FDN:309] Kiora, the Rising Tide
+1 [STH:35] Leap
+1 [SNC:412] Ledger Shredder
+1 [ONS:320] Lonely Sandbar
+1 [LTR:511] Lorien Revealed
+1 [LCI:293] Malcolm, Alluring Scoundrel
+1 [NEO:372] March of Swirling Mist
+1 [JUD:46] Mental Note
+1 [FDN:47] Mischievous Mystic
+1 [GRN:44] Mission Briefing
+1 [LTC:501] Mists of Lorien
+1 [CMM:108] Mystic Confluence
+1 [ICE:87] Mystic Remora
+1 [ELD:247] Mystic Sanctuary
+1 [THB:305] Nadir Kraken
+1 [VOC:14] Occult Epiphany
+1 [FDN:512] Opt
+1 [NEO:271] Otawara, Soaring City
+1 [MID:67] Otherworldly Gaze
+1 [10E:94] Peek
+1 [WOE:64] Picklock Prankster
+1 [M12:73] Ponder
+1 [PLC:44] Pongify
+1 [TSB:30] Psionic Blast
+1 [JUD:49] Quiet Speculation
+1 [CLU:93] Rapid Hybridization
+1 [ICE:93] Ray of Erasure
+1 [STX:51] Resculpt
+1 [TOR:46] Retraced Image
+1 [LTR:259] Rivendell
+1 [ZNR:333] Sea Gate Restoration
+1 [TMP:86] Shadow Rift
+1 [BLB:382] Shoreline Looter
+1 [ZNR:80] Silundi Vision
+1 [MH3:241] Sink into Stupor
+1 [4ED:101] Siren's Call
+1 [OGW:47] Slip Through Space
+1 [NEO:374] The Reality Chip
+1 [ZNR:335] Thieving Skydiver
+1 [VOW:333] Thirst for Discovery
+1 [DKA:52] Thought Scour
+1 [5ED:133] Updraft
+1 [THB:310] Wavebreak Hippocamp
+1 [USG:111] Windfall
+1 [AFR:83] You Come to a River
+1 [C18:253] Halimar Depths
+SB: 1 [OTC:103] Octavia, Living Thesis
+LAYOUT MAIN:(1,1)(NONE,false,50)|([STX:295],[FDN:30],[DKA:27],[ODY:68],[DST:163],[SCG:29],[MMQ:61],[ELD:281],[ODY:317],[FDN:586],[POR:44],[CLU:84],[LRW:56],[TOR:36],[JUD:38],[FDN:687],[FDN:306],[OTJ:318],[MH3:61],[DSK:371],[DSK:52],[10E:351*],[MOM:352],[WOE:311],[MAT:7],[MIR:67],[CLB:383],[M21:350],[GPT:26],[MOM:63],[HOU:180],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FDN:309],[STH:35],[SNC:412],[ONS:320],[LTR:511],[LCI:293],[NEO:372],[JUD:46],[FDN:47],[GRN:44],[LTC:501],[CMM:108],[ICE:87],[ELD:247],[THB:305],[VOC:14],[FDN:512],[NEO:271],[MID:67],[10E:94],[WOE:64],[M12:73],[PLC:44],[TSB:30],[JUD:49],[CLU:93],[ICE:93],[STX:51],[TOR:46],[LTR:259],[ZNR:333],[TMP:86],[BLB:382],[ZNR:80],[MH3:241],[4ED:101],[OGW:47],[NEO:374],[ZNR:335],[VOW:333],[DKA:52],[5ED:133],[THB:310],[USG:111],[AFR:83],[C18:253])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([OTC:103])

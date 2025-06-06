@@ -1,0 +1,80 @@
+1 [GTC:29] Aetherize
+1 [ELD:331] Arcane Signet
+1 [STX:37] Archmage Emeritus
+1 [MH1:40] Archmage's Charm
+1 [TDM:38] Bewildering Blizzard
+1 [CLB:58] Blur
+1 [IKO:245] Bonders' Enclave
+1 [ICE:61] Brainstorm
+1 [MH3:53] Brainsurge
+1 [ELD:242] Castle Vantress
+1 [MOM:51] Chrome Host Seedshark
+1 [CSP:136] Coldsteel Heart
+1 [LRW:56] Cryptic Command
+1 [KTK:36] Dig Through Time
+1 [EMN:56] Docent of Perfection
+1 [SOI:61] Essence Flux
+1 [STH:30] Evacuation
+1 [INV:57] Fact or Fiction
+1 [MOM:58] Faerie Mastermind
+1 [DRK:102] Fellwar Stone
+1 [RAV:50] Flow of Ideas
+1 [BRO:49] Flow of Knowledge
+1 [ULG:32] Frantic Search
+1 [AVR:57] Ghostly Flicker
+1 [VIS:34] Impulse
+1 [TMP:68] Insight
+1 [EVE:25] Inundate
+1 [CLB:78] Irenicus's Vile Duplication
+23 [LEA:288] Island
+1 [SNC:46] Ledger Shredder
+1 [DBL:59] Lier, Disciple of the Drowned
+1 [KLD:56] Metallurgic Summonings
+1 [WTH:153] Mind Stone
+1 [C15:14] Mystic Confluence
+1 [ELD:247] Mystic Sanctuary
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [LCI:67] Ojer Pakpatiq, Deepest Epoch
+1 [INV:64] Opt
+1 [NEO:271] Otawara, Soaring City
+1 [C21:30] Perplexing Test
+1 [NEO:72] Planar Incision
+1 [CNS:24] Plea for Power
+1 [TSP:262] Prismatic Lens
+1 [DST:29] Pulse of the Grid
+1 [WOE:65] Quick Study
+1 [MKM:70] Reenact the Crime
+1 [LTR:259] Rivendell
+1 [WOE:312] Rowdy Research
+1 [TMP:306] Sapphire Medallion
+1 [ZNR:76] Sea Gate Restoration
+1 [BLB:68] Season of Weaving
+1 [IKO:67] Shark Typhoon
+1 [ZNR:80] Silundi Vision
+1 [MH3:241] Sink into Stupor
+1 [ULG:43] Snap
+1 [ISD:78] Snapcaster Mage
+1 [LEA:269] Sol Ring
+1 [WAR:68] Spark Double
+1 [KHC:7] Spectral Deluge
+1 [FDN:51] Sphinx of Forgotten Lore
+1 [M21:74] Sublime Epiphany
+1 [MH2:238] Sword of Hearth and Home
+1 [ORI:240] Sword of the Animist
+1 [WAR:72] Teferi's Time Twist
+1 [NEM:143] Terrain Generator
+1 [WOE:248] The Irencrag
+1 [C15:55] Thought Vessel
+1 [OTC:17] Thunderclap Drake
+1 [FUT:173] Tolaria West
+1 [DOM:72] Unwind
+1 [BLB:79] Valley Floodcaller
+1 [CMR:361] War Room
+1 [INV:87] Wash Out
+1 [THB:80] Wavebreak Hippocamp
+1 [5DN:165] Wayfarer's Bauble
+1 [TDC:24] Will of the Temur
+1 [TDM:67] Winternight Stories
+SB: 1 [BLB:288] Eluge, the Shoreless Sea
+LAYOUT MAIN:(1,1)(NONE,false,50)|([GTC:29],[ELD:331],[STX:37],[MH1:40],[TDM:38],[CLB:58],[IKO:245],[ICE:61],[MH3:53],[ELD:242],[MOM:51],[CSP:136],[LRW:56],[KTK:36],[EMN:56],[SOI:61],[STH:30],[INV:57],[MOM:58],[DRK:102],[RAV:50],[BRO:49],[ULG:32],[AVR:57],[VIS:34],[TMP:68],[EVE:25],[CLB:78],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[SNC:46],[DBL:59],[KLD:56],[WTH:153],[C15:14],[ELD:247],[THS:223],[LCI:67],[INV:64],[NEO:271],[C21:30],[NEO:72],[CNS:24],[TSP:262],[DST:29],[WOE:65],[MKM:70],[LTR:259],[WOE:312],[TMP:306],[ZNR:76],[BLB:68],[IKO:67],[ZNR:80],[MH3:241],[ULG:43],[ISD:78],[LEA:269],[WAR:68],[KHC:7],[FDN:51],[M21:74],[MH2:238],[ORI:240],[WAR:72],[NEM:143],[WOE:248],[C15:55],[OTC:17],[FUT:173],[DOM:72],[BLB:79],[CMR:361],[INV:87],[THB:80],[5DN:165],[TDC:24],[TDM:67])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BLB:288])

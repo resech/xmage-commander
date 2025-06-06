@@ -1,0 +1,90 @@
+1 [BLC:264] Academy Manufactor
+1 [CLB:107] Agent of the Iron Throne
+1 [FDN:160] An Offer You Can't Refuse
+1 [ELD:331] Arcane Signet
+1 [MH3:214] Archway of Innovation
+1 [ACR:161] Black Market Connections
+1 [LCC:183] Blood Money
+1 [DFT:77] Bloodghast
+1 [WWK:132] Bojuka Bog
+1 [CLU:8] Candlestick
+1 [VOW:254] Ceremonial Knife
+1 [ZNR:260] Clearwater Pathway
+1 [ELD:333] Command Tower
+1 [M15:242] Darksteel Citadel
+1 [MKM:399] Deadly Cover-Up
+1 [CLU:109] Deadly Dispute
+1 [MKM:293] Deduce
+1 [MKC:21] Detective of the Month
+1 [FDN:688] Dimir Guildgate
+1 [CLU:221] Dimir Signet
+1 [MRD:62] Disciple of the Vault
+1 [MKC:127] Dogged Detective
+1 [XLN:253] Drowned Catacomb
+1 [MH3:61] Emrakul's Messenger
+1 [MKC:105] Ethereal Investigator
+1 [CON:142] Exotic Orchard
+1 [MKM:84] Extract a Confession
+1 [LCI:105] Fanatical Offering
+1 [AER:57] Fatal Push
+1 [AKH:243] Fetid Pools
+1 [J21:193] Floodhound
+1 [MKM:342] Forensic Gadgeteer
+1 [FDN:253] Goldvein Pick
+1 [H2R:5] Hard Evidence
+1 [SLX:9] Havengul Laboratory
+1 [MMQ:320] High Market
+1 [MKM:343] Homicide Investigator
+1 [BIG:10] Hostile Investigator
+1 [KHM:262] Ice Tunnel
+1 [TDC:319] Idol of Oblivion
+1 [NCC:128] In Too Deep
+1 [AER:160] Inspiring Statuary
+1 [VOW:258] Investigator's Journal
+6 [FIN:297] Island
+1 [VOW:320] Jacob Hauken, Inspector
+1 [MID:108] Jadar, Ghoulcaller of Nephalia
+1 [5DN:134] Krark-Clan Ironworks
+1 [CLU:9] Lead Pipe
+1 [MKM:255] Magnifying Glass
+1 [MH3:100] Marionette Apprentice
+1 [KLD:90] Marionette Master
+1 [LTR:421] Mirkwood Bats
+1 [BRC:189] Mistvault Bridge
+1 [CLB:357] Morphic Pool
+1 [DSK:110] Murder
+1 [BLC:184] Nadier's Nightblade
+1 [WHO:366] Nyssa of Traken
+1 [RIX:81] Pitiless Plunderer
+1 [VOW:126] Pointed Discussion
+1 [KTK:239] Polluted Delta
+1 [DRC:136] Retrofitter Foundry
+1 [AER:42] Reverse Engineer
+1 [SNC:420] Sanguine Spy
+1 [MKM:267] Scene of the Crime
+1 [MRD:283] Seat of the Synod
+1 [CLU:20] Secret Passage
+1 [ELD:317] Shimmer Dragon
+1 [MID:267] Shipwreck Marsh
+1 [SUM:274] Sol Ring
+1 [BFZ:249] Sunken Hollow
+8 [FIN:300] Swamp
+1 [MRD:253] Talisman of Dominance
+1 [MH3:72] Tamiyo Meets the Story Circle
+1 [LCI:126] Tarrian's Journal
+1 [FDN:697] Temple of Deceit
+1 [BRC:56] Terisiare's Devastation
+1 [NEO:304] Tezzeret, Betrayer of Flesh
+1 [WAR:275] Tezzeret, Master of the Bridge
+1 [J25:373] Thought Monitor
+1 [MRD:54] Thoughtcast
+1 [USG:311] Thran Turbine
+1 [DKA:76] Tragic Slip
+1 [MKC:29] Unshakable Tail
+1 [MRD:286] Vault of Whispers
+1 [MH3:110] Warren Soultrader
+1 [CLU:283] Watery Grave
+1 [ELD:237] Witch's Oven
+SB: 1 [MIC:3] Eloise, Nephalia Sleuth
+LAYOUT MAIN:(1,1)(NONE,false,50)|([BLC:264],[CLB:107],[FDN:160],[ELD:331],[MH3:214],[ACR:161],[LCC:183],[DFT:77],[WWK:132],[CLU:8],[VOW:254],[ZNR:260],[ELD:333],[M15:242],[MKM:399],[CLU:109],[MKM:293],[MKC:21],[FDN:688],[CLU:221],[MRD:62],[MKC:127],[XLN:253],[MH3:61],[MKC:105],[CON:142],[MKM:84],[LCI:105],[AER:57],[AKH:243],[J21:193],[MKM:342],[FDN:253],[H2R:5],[SLX:9],[MMQ:320],[MKM:343],[BIG:10],[KHM:262],[TDC:319],[NCC:128],[AER:160],[VOW:258],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[VOW:320],[MID:108],[5DN:134],[CLU:9],[MKM:255],[MH3:100],[KLD:90],[LTR:421],[BRC:189],[CLB:357],[DSK:110],[BLC:184],[WHO:366],[RIX:81],[VOW:126],[KTK:239],[DRC:136],[AER:42],[SNC:420],[MKM:267],[MRD:283],[CLU:20],[ELD:317],[MID:267],[SUM:274],[BFZ:249],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[MRD:253],[MH3:72],[LCI:126],[FDN:697],[BRC:56],[NEO:304],[WAR:275],[J25:373],[MRD:54],[USG:311],[DKA:76],[MKC:29],[MRD:286],[MH3:110],[CLU:283],[ELD:237])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MIC:3])

@@ -1,0 +1,86 @@
+1 [THB:206] Acolyte of Affliction
+1 [FDN:136] Angel of Finality
+1 [FIC:229] Angel of the Ruins
+1 [LCI:90] Another Chance
+1 [FIC:374] Ash Barrens
+1 [C20:76] Astral Drift
+1 [ONS:4] Astral Slide
+1 [ONS:312] Barren Moor
+1 [DMU:8] Benalish Sleeper
+1 [TDM:251] Blossoming Sands
+1 [ULG:49] Bone Shredder
+1 [LCI:337] Bringer of the Last Gift
+1 [ROE:99] Cadaver Imp
+1 [GTC:150] Cartel Aristocrat
+1 [AKH:8] Cast Out
+1 [FDN:139] Cathar Commando
+1 [LCI:97] Chupacabra Echo
+1 [IKO:6] Coordinated Charge
+1 [LCI:100] Deathcap Marionette
+1 [TDC:356] Deceptive Landscape
+1 [DFT:12] Detention Chariot
+1 [SNC:76] Dig Up the Body
+1 [IKO:10] Drannith Healer
+1 [SNC:77] Dusk Mangler
+1 [MID:185] Eccentric Farmer
+1 [M19:180] Elvish Rejuvenator
+1 [CLB:230] Erinis, Gloom Stalker
+1 [TDM:255] Evolving Wilds
+1 [MKM:84] Extract a Confession
+1 [FDN:636] Fierce Empath
+6 [FIN:306] Forest
+1 [ORI:99] Gilt-Leaf Winnower
+1 [GRN:173] Glowspore Shaman
+1 [FDN:689] Golgari Guildgate
+1 [EMN:160] Grapple with the Past
+1 [IKO:157] Greater Sandwurm
+1 [NEO:189] Greater Tanuki
+1 [C20:27] Herald of the Forgotten
+1 [OTJ:90] Hollow Marauder
+1 [AKH:95] Horror of the Broken Lands
+1 [IKO:17] Imposing Vantasaur
+1 [TDM:258] Jungle Hollow
+1 [MOC:254] Keskit, the Flesh Sculptor
+1 [ODY:28] Kirtar's Wrath
+1 [ONS:272] Krosan Tusker
+1 [JUD:141] Krosan Verge
+1 [THB:103] Lampad of Death's Vigil
+1 [CMM:170] Legion Vanguard
+1 [GRN:74] Lotleth Giant
+1 [HOU:69] Lurching Rotbeast
+1 [DFT:170] Migrating Ketradon
+1 [J21:359] Mob
+1 [AFR:195] Neverwinter Dryad
+1 [DFT:258] Night Market
+1 [J25:694] Orchard Strider
+1 [FDN:692] Orzhov Guildgate
+6 [FIN:294] Plains
+1 [DFT:176] Pothole Mole
+1 [M15:198] Satyr Wayfinder
+1 [AFR:204] Scaled Herbalist
+1 [AKH:247] Scattered Groves
+1 [DKA:125] Scorned Villager
+1 [TDM:267] Scoured Barrens
+1 [ONS:324] Secluded Steppe
+1 [FDN:694] Selesnya Guildgate
+1 [DFT:104] Shefet Archfiend
+1 [CLB:148] Sivriss, Nightmare Speaker
+1 [AFR:120] Skullport Merchant
+1 [RAV:185] Sundering Vitae
+7 [FIN:300] Swamp
+1 [DSK:269] Terramorphic Expanse
+1 [BLB:198] Three Tree Rootweaver
+1 [CLU:251] Thriving Heath
+1 [ONS:326] Tranquil Thicket
+1 [TSB:50] Twisted Abomination
+1 [IKO:36] Valiant Rescuer
+1 [LTR:113] Voracious Fell Beast
+1 [OTJ:188] Voracious Varmint
+1 [DTK:126] Vulturous Aven
+1 [KLD:173] Wild Wanderer
+1 [AKH:39] Winged Shepherd
+1 [WOE:241] Woodland Acolyte
+1 [J21:406] Young Necromancer
+SB: 1 [CMM:342] Karador, Ghost Chieftain
+LAYOUT MAIN:(1,1)(NONE,false,50)|([THB:206],[FDN:136],[FIC:229],[LCI:90],[FIC:374],[C20:76],[ONS:4],[ONS:312],[DMU:8],[TDM:251],[ULG:49],[LCI:337],[ROE:99],[GTC:150],[AKH:8],[FDN:139],[LCI:97],[IKO:6],[LCI:100],[TDC:356],[DFT:12],[SNC:76],[IKO:10],[SNC:77],[MID:185],[M19:180],[CLB:230],[TDM:255],[MKM:84],[FDN:636],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[ORI:99],[GRN:173],[FDN:689],[EMN:160],[IKO:157],[NEO:189],[C20:27],[OTJ:90],[AKH:95],[IKO:17],[TDM:258],[MOC:254],[ODY:28],[ONS:272],[JUD:141],[THB:103],[CMM:170],[GRN:74],[HOU:69],[DFT:170],[J21:359],[AFR:195],[DFT:258],[J25:694],[FDN:692],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[DFT:176],[M15:198],[AFR:204],[AKH:247],[DKA:125],[TDM:267],[ONS:324],[FDN:694],[DFT:104],[CLB:148],[AFR:120],[RAV:185],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[DSK:269],[BLB:198],[CLU:251],[ONS:326],[TSB:50],[IKO:36],[LTR:113],[OTJ:188],[DTK:126],[KLD:173],[AKH:39],[WOE:241],[J21:406])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMM:342])

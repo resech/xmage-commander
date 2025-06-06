@@ -1,0 +1,82 @@
+1 [ONC:114] Adriana, Captain of the Guard
+1 [ONC:125] Arcane Signet
+1 [ONC:115] Assemble the Legion
+1 [ONC:59] Battle Screech
+1 [ONC:116] Boros Charm
+1 [ONC:146] Boros Garrison
+1 [ONC:126] Boros Signet
+1 [ONC:147] Buried Ruin
+1 [ONC:60] Call the Coppercoats
+1 [ONC:149] Castle Ardenvale
+1 [ONC:150] Castle Embereth
+1 [ONC:97] Chain Reaction
+1 [ONC:5] Clever Concealment
+1 [ONC:61] Collective Effort
+1 [ONC:151] Command Tower
+1 [ONC:128] Commander's Sphere
+1 [ONC:62] Court of Grace
+1 [ONC:63] Cut a Deal
+1 [ONC:98] Dragonmaster Outcast
+1 [ONC:64] Elspeth Tirel
+1 [ONC:65] Emeria Angel
+1 [ONC:152] Exotic Orchard
+1 [ONC:66] Felidar Retreat
+1 [ONC:130] Fellwar Stone
+1 [ONC:67] Finale of Glory
+1 [ONC:68] Flawless Maneuver
+1 [ONC:153] Forgotten Cave
+1 [ONC:155] Furycalm Snarl
+1 [ONC:70] Generous Gift
+1 [ONC:6] Glimmer Lens
+1 [ONC:72] Goldnight Commander
+1 [ONC:13] Goldwardens' Gambit
+1 [ONC:74] Harmonious Archon
+1 [ONC:99] Hate Mirage
+1 [ONC:118] Heroic Reinforcements
+1 [ONC:14] Hexplate Wallbreaker
+1 [ONC:100] Hordeling Outburst
+1 [ONC:75] Hour of Reckoning
+1 [ONC:134] Idol of Oblivion
+1 [ONC:76] Increasing Devotion
+1 [ONC:77] Intangible Virtue
+1 [ONC:119] Jor Kadeen, the Prevailer
+1 [ONC:7] Kemba's Banner
+1 [ONC:157] Kher Keep
+1 [ONC:101] Legion Warboss
+1 [ONC:135] Loxodon Warhammer
+1 [ONC:102] Loyal Apprentice
+1 [ONC:78] Mace of the Valiant
+1 [ONC:79] Martial Coup
+1 [ONC:136] Mask of Memory
+1 [ONC:80] Maul of the Skyclaves
+1 [ONC:81] Mentor of the Meek
+1 [ONC:82] Midnight Haunting
+1 [ONC:137] Mind Stone
+11 [ONE:275] Mountain
+1 [ONC:138] Myr Battlesphere
+1 [ONC:159] Myriad Landscape
+1 [ONC:3] Otharri, Suns' Glory
+1 [ONC:161] Path of Ancestry
+1 [ONC:84] Path to Exile
+1 [ONC:85] Phantom General
+11 [ONE:272] Plains
+1 [ONC:87] Prava of the Steel Legion
+1 [ONC:124] Rip Apart
+1 [ONC:15] Roar of Resistance
+1 [ONC:163] Secluded Steppe
+1 [ONC:103] Siege-Gang Commander
+1 [ONC:88] Silverwing Squadron
+1 [ONC:165] Slayers' Stronghold
+1 [ONC:140] Sol Ring
+1 [ONC:141] Solemn Simulacrum
+1 [ONC:142] Soul-Guide Lantern
+1 [ONC:10] Staff of the Storyteller
+1 [ONC:143] Talisman of Conviction
+1 [ONC:172] Temple of the False God
+1 [ONC:173] Temple of Triumph
+1 [ONC:16] Vulshok Factory
+1 [ONC:90] White Sun's Zenith
+1 [ONC:174] Windbrisk Heights
+SB: 1 [ONC:2] Neyali, Suns' Vanguard
+LAYOUT MAIN:(1,1)(NONE,false,50)|([ONC:114],[ONC:125],[ONC:115],[ONC:59],[ONC:116],[ONC:146],[ONC:126],[ONC:147],[ONC:60],[ONC:149],[ONC:150],[ONC:97],[ONC:5],[ONC:61],[ONC:151],[ONC:128],[ONC:62],[ONC:63],[ONC:98],[ONC:64],[ONC:65],[ONC:152],[ONC:66],[ONC:130],[ONC:67],[ONC:68],[ONC:153],[ONC:155],[ONC:70],[ONC:6],[ONC:72],[ONC:13],[ONC:74],[ONC:99],[ONC:118],[ONC:14],[ONC:100],[ONC:75],[ONC:134],[ONC:76],[ONC:77],[ONC:119],[ONC:7],[ONC:157],[ONC:101],[ONC:135],[ONC:102],[ONC:78],[ONC:79],[ONC:136],[ONC:80],[ONC:81],[ONC:82],[ONC:137],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONE:275],[ONC:138],[ONC:159],[ONC:3],[ONC:161],[ONC:84],[ONC:85],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONE:272],[ONC:87],[ONC:124],[ONC:15],[ONC:163],[ONC:103],[ONC:88],[ONC:165],[ONC:140],[ONC:141],[ONC:142],[ONC:10],[ONC:143],[ONC:172],[ONC:173],[ONC:16],[ONC:90],[ONC:174])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ONC:2])

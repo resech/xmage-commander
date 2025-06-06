@@ -1,0 +1,77 @@
+1 [WOC:59] Ajani's Chosen
+1 [WOC:119] Ancestral Mask
+1 [WOC:60] Angelic Destiny
+1 [WOC:145] Arcane Signet
+1 [WOC:61] Archon of Sun's Grace
+1 [WOC:120] Aura Gnarlid
+1 [WOC:62] Austere Command
+1 [WOC:121] Bear Umbra
+1 [WOC:153] Canopy Vista
+1 [WOC:122] Careful Cultivation
+1 [WOC:154] Castle Ardenvale
+1 [WOC:63] Celestial Archon
+1 [WOC:156] Command Tower
+1 [WOC:64] Danitha Capashen, Paragon
+1 [WOC:65] Daybreak Coronet
+1 [WOC:123] Destiny Spinner
+1 [WOC:124] Eidolon of Blossoms
+1 [WOC:66] Eidolon of Countless Battles
+1 [WOC:125] Enchantress's Presence
+1 [WOC:67] Ethereal Armor
+1 [WOC:126] Fertile Ground
+8 [WOE:275] Forest
+7 [WOE:276] Forest
+1 [WOC:161] Fortified Village
+1 [WOC:68] Generous Gift
+1 [WOC:17] Giant Inheritance
+1 [WOC:4] Gylwain, Casting Director
+1 [WOC:162] Hall of Heliod's Generosity
+1 [WOC:127] Indomitable Might
+1 [WOC:140] Jukai Naturalist
+1 [WOC:128] Kenrith's Transformation
+1 [WOC:18] Knickknack Ouphe
+1 [WOC:69] Kor Spiritdancer
+1 [WOC:163] Krosan Verge
+1 [WOC:5] Liberated Livestock
+1 [WOC:19] Loamcrafter Faun
+1 [WOC:70] Mantle of the Ancients
+1 [WOC:164] Myriad Landscape
+1 [WOC:6] Ox Drover
+1 [WOC:129] Paradise Druid
+7 [WOE:267] Plains
+7 [WOE:268] Plains
+1 [WOC:143] Pollenbright Wings
+1 [ELD:26] Realm-Cloaked Giant
+1 [WOC:72] Retether
+1 [WOC:130] Rishkar's Expertise
+1 [WOC:73] Sage's Reverie
+1 [WOC:131] Sanctum Weaver
+1 [WOC:132] Setessan Champion
+1 [WOC:74] Shalai, Voice of Plenty
+1 [WOC:144] Siona, Captain of the Pyleas
+1 [WOC:133] Snake Umbra
+1 [WOC:149] Sol Ring
+1 [WOC:7] Songbirds' Blessing
+1 [WOC:75] Spectral Steel
+1 [WOC:76] Starfield Mystic
+1 [WOC:77] Sun Titan
+1 [WOC:167] Sungrass Prairie
+1 [WOC:78] Swords to Plowshares
+1 [WOC:134] Sylvan Ranger
+1 [WOE:214] Syr Armont, the Redeemer
+1 [WOE:188] Tanglespan Lookout
+1 [WOC:171] Temple of Plenty
+1 [WOC:20] Timber Paladin
+1 [WOC:79] Timely Ward
+1 [WOC:80] Tithe Taker
+1 [WOC:81] Transcendent Envoy
+1 [WOC:82] Umbra Mystic
+1 [WOC:8] Unfinished Business
+1 [WOC:135] Utopia Sprawl
+1 [WOC:136] Verdant Embrace
+1 [WOC:173] Vitu-Ghazi, the City-Tree
+1 [WOC:137] Warbriar Blessing
+1 [WOC:83] Winds of Rath
+SB: 1 [WOC:2] Ellivere of the Wild Court
+LAYOUT MAIN:(1,1)(NONE,false,50)|([WOC:59],[WOC:119],[WOC:60],[WOC:145],[WOC:61],[WOC:120],[WOC:62],[WOC:121],[WOC:153],[WOC:122],[WOC:154],[WOC:63],[WOC:156],[WOC:64],[WOC:65],[WOC:123],[WOC:124],[WOC:66],[WOC:125],[WOC:67],[WOC:126],[WOE:275],[WOE:275],[WOE:275],[WOE:275],[WOE:275],[WOE:275],[WOE:275],[WOE:275],[WOE:276],[WOE:276],[WOE:276],[WOE:276],[WOE:276],[WOE:276],[WOE:276],[WOC:161],[WOC:68],[WOC:17],[WOC:4],[WOC:162],[WOC:127],[WOC:140],[WOC:128],[WOC:18],[WOC:69],[WOC:163],[WOC:5],[WOC:19],[WOC:70],[WOC:164],[WOC:6],[WOC:129],[WOE:267],[WOE:267],[WOE:267],[WOE:267],[WOE:267],[WOE:267],[WOE:267],[WOE:268],[WOE:268],[WOE:268],[WOE:268],[WOE:268],[WOE:268],[WOE:268],[WOC:143],[ELD:26],[WOC:72],[WOC:130],[WOC:73],[WOC:131],[WOC:132],[WOC:74],[WOC:144],[WOC:133],[WOC:149],[WOC:7],[WOC:75],[WOC:76],[WOC:77],[WOC:167],[WOC:78],[WOC:134],[WOE:214],[WOE:188],[WOC:171],[WOC:20],[WOC:79],[WOC:80],[WOC:81],[WOC:82],[WOC:8],[WOC:135],[WOC:136],[WOC:173],[WOC:137],[WOC:83])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([WOC:2])

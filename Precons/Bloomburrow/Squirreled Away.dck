@@ -1,0 +1,89 @@
+1 [BLC:264] Academy Manufactor
+1 [BLC:205] Arasta of the Endless Web
+1 [BLC:127] Arcane Signet
+1 [BLC:292] Barren Moor
+1 [BLC:179] Bastion of Remembrance
+1 [BLC:118] Beastmaster Ascension
+1 [BLC:247] Beledros Witherbloom
+1 [BLC:248] Binding the Old Gods
+1 [BLC:294] Bojuka Bog
+1 [BLB:167] Cache Grab
+1 [BLC:125] Casualties of War
+1 [BLC:82] Chatterfang, Squirrel General
+1 [BLC:210] Chatterstorm
+1 [BLC:180] Chittering Witch
+1 [BLC:211] Chitterspitter
+1 [BLC:130] Command Tower
+1 [BLC:181] Deadly Dispute
+1 [BLC:182] Decree of Pain
+1 [BLC:213] Deep Forest Hermit
+1 [BLC:214] End-Raze Forerunners
+1 [BLC:302] Evolving Wilds
+1 [BLC:131] Exotic Orchard
+5 [BLB:377] Forest
+4 [BLB:378] Forest
+1 [BLC:99] Garruk, Cursed Huntsman
+1 [BLC:83] Gilded Goose
+1 [BLC:308] Golgari Rot Farm
+1 [BLC:272] Golgari Signet
+1 [BLC:31] Gourmand's Talent
+1 [BLC:309] Grim Backwoods
+1 [BLC:311] Haunted Mire
+1 [BLC:274] Haywire Mite
+1 [BLC:17] Hazel's Brewmaster
+1 [BLB:178] Honored Dreyleader
+1 [BLC:277] Idol of Oblivion
+1 [BLC:18] Insatiable Frugivore
+1 [BLC:313] Jungle Hollow
+1 [BLC:315] Llanowar Wastes
+1 [BLC:126] Maelstrom Pulse
+1 [BLC:279] Maskwood Nexus
+1 [BLC:255] Moldervine Reclamation
+1 [BLC:19] Moonstone Eulogist
+1 [BLC:183] Morbid Opportunist
+1 [BLC:184] Nadier's Nightblade
+1 [BLC:319] Necroblossom Snarl
+1 [BLC:185] Nested Shambler
+1 [BLC:186] Ogre Slumlord
+1 [BLC:320] Oran-Rief, the Vastwood
+1 [BLC:322] Path of Ancestry
+1 [BLC:187] Plaguecrafter
+1 [BLC:188] Plumb the Forbidden
+1 [BLC:256] Poison-Tip Archer
+1 [BLC:121] Prosperous Innkeeper
+1 [BLC:257] Putrefy
+1 [BLC:258] Ravenous Squirrel
+1 [BLC:32] Rootcast Apprenticeship
+1 [BLC:113] Saw in Half
+1 [BLC:33] Scurry of Squirrels
+1 [BLC:123] Second Harvest
+1 [BLC:237] Shamanic Revelation
+1 [BLC:283] Skullclamp
+1 [BLC:261] Skyfisher Spider
+1 [BLC:129] Sol Ring
+1 [BLC:239] Squirrel Nest
+1 [BLC:240] Squirrel Sovereign
+4 [BLB:373] Swamp
+4 [BLB:374] Swamp
+1 [BLC:133] Swarmyard
+1 [BLC:20] Swarmyard Massacre
+1 [BLC:40] Sword of the Squeak
+1 [BLC:337] Tainted Wood
+1 [BLC:288] Talisman of Resilience
+1 [BLC:241] Tear Asunder
+1 [BLC:341] Temple of Malady
+1 [BLC:345] Terramorphic Expanse
+1 [BLC:7] The Odd Acorn Gang
+1 [BLC:243] Tireless Provisioner
+1 [BLC:244] Toski, Bearer of Secrets
+1 [BLC:350] Tranquil Thicket
+1 [BLC:351] Twilight Mire
+1 [BLC:352] Viridescent Bog
+1 [BLC:263] Windgrace's Judgment
+1 [BLC:189] Woe Strider
+1 [BLC:246] Wolfwillow Haven
+1 [BLC:354] Woodland Cemetery
+1 [BLC:190] Zulaport Cutthroat
+SB: 1 [BLC:2] Hazel of the Rootbloom
+LAYOUT MAIN:(1,1)(NONE,false,50)|([BLC:264],[BLC:205],[BLC:127],[BLC:292],[BLC:179],[BLC:118],[BLC:247],[BLC:248],[BLC:294],[BLB:167],[BLC:125],[BLC:82],[BLC:210],[BLC:180],[BLC:211],[BLC:130],[BLC:181],[BLC:182],[BLC:213],[BLC:214],[BLC:302],[BLC:131],[BLB:377],[BLB:377],[BLB:377],[BLB:377],[BLB:377],[BLB:378],[BLB:378],[BLB:378],[BLB:378],[BLC:99],[BLC:83],[BLC:308],[BLC:272],[BLC:31],[BLC:309],[BLC:311],[BLC:274],[BLC:17],[BLB:178],[BLC:277],[BLC:18],[BLC:313],[BLC:315],[BLC:126],[BLC:279],[BLC:255],[BLC:19],[BLC:183],[BLC:184],[BLC:319],[BLC:185],[BLC:186],[BLC:320],[BLC:322],[BLC:187],[BLC:188],[BLC:256],[BLC:121],[BLC:257],[BLC:258],[BLC:32],[BLC:113],[BLC:33],[BLC:123],[BLC:237],[BLC:283],[BLC:261],[BLC:129],[BLC:239],[BLC:240],[BLB:373],[BLB:373],[BLB:373],[BLB:373],[BLB:374],[BLB:374],[BLB:374],[BLB:374],[BLC:133],[BLC:20],[BLC:40],[BLC:337],[BLC:288],[BLC:241],[BLC:341],[BLC:345],[BLC:7],[BLC:243],[BLC:244],[BLC:350],[BLC:351],[BLC:352],[BLC:263],[BLC:189],[BLC:246],[BLC:354],[BLC:190])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BLC:2])

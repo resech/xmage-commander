@@ -1,0 +1,89 @@
+1 [LCC:125] Akroma's Will
+1 [LCC:232] Apex Altisaur
+1 [LCC:104] Arcane Signet
+1 [LCC:319] Arch of Orazca
+1 [LCC:265] Atzocan Seer
+1 [LCC:127] Bellowing Aegisaur
+1 [LCC:69] Bronzebeak Foragers
+1 [LCC:321] Canopy Vista
+1 [LCC:220] Chandra's Ignition
+1 [LCC:323] Cinder Glade
+1 [LCC:324] Clifftop Retreat
+1 [LCC:325] Command Tower
+1 [LCC:235] Cultivate
+1 [LCC:90] Curious Altisaur
+1 [LCC:236] Deathgorge Scavenger
+1 [LCC:238] Descendants' Path
+1 [LCC:92] Dinosaur Egg
+1 [LCC:239] Drover of the Mighty
+1 [LCI:183] Earthshaker Dreadmaw
+1 [LCC:224] Etali, Primal Storm
+1 [LCC:328] Evolving Wilds
+1 [LCC:329] Exotic Orchard
+1 [LCC:242] Farseek
+1 [LCC:226] Fiery Confluence
+8 [LCI:401] Forest
+1 [LCC:331] Fortified Village
+1 [LCC:72] From the Rubble
+1 [LCC:333] Furycalm Snarl
+1 [LCC:334] Game Trail
+1 [LCC:128] Generous Gift
+1 [LCI:230] Itzquinth, Firstborn of Gishath
+1 [LCI:194] Ixalli's Lorekeeper
+1 [LCC:338] Jungle Shrine
+1 [LCC:340] Kessig Wolf Run
+1 [LCC:130] Kinjalli's Sunwing
+1 [LCC:307] Lifecrafter's Bestiary
+1 [LCC:131] Majestic Heliopterus
+1 [LCC:228] Marauding Raptor
+1 [LCC:246] Migration Path
+1 [LCC:342] Mosswort Bridge
+4 [LCI:399] Mountain
+1 [LCC:343] Myriad Landscape
+1 [LCC:229] Otepec Huntmaster
+1 [LCC:346] Path of Ancestry
+1 [LCC:134] Path to Exile
+4 [LCI:393] Plains
+1 [LCC:100] Progenitor's Icon
+1 [LCC:281] Quartzwood Crasher
+1 [LCC:282] Raging Regisaur
+1 [LCC:283] Raging Swordtooth
+1 [LCC:247] Rampaging Brontodon
+1 [LCC:248] Rampant Growth
+1 [LCC:249] Ranging Raptors
+1 [LCC:251] Regal Behemoth
+1 [LCC:286] Regisaur Alpha
+1 [LCC:252] Return of the Wildspeaker
+1 [LCC:287] Rhythm of the Wild
+1 [LCC:253] Ripjaw Raptor
+1 [LCC:254] Rishkar's Expertise
+1 [LCC:349] Rogue's Passage
+1 [LCC:256] Runic Armasaur
+1 [LCC:257] Savage Stomp
+1 [LCC:93] Scion of Calamity
+1 [LCC:350] Secluded Courtyard
+1 [LCC:258] Shifting Ceratops
+1 [LCC:313] Sol Ring
+1 [LCC:94] Sunfrill Imitator
+1 [LCC:138] Temple Altisaur
+1 [LCC:359] Temple of the False God
+1 [LCC:360] Terramorphic Expanse
+1 [LCI:216] Thrashing Brontodon
+1 [LCC:361] Thriving Bluff
+1 [LCC:362] Thriving Grove
+1 [LCC:363] Thriving Heath
+1 [LCC:259] Thunderherd Migration
+1 [LCC:260] Thundering Spineback
+1 [LCC:261] Topiary Stomper
+1 [LCC:366] Unclaimed Territory
+1 [LCC:262] Verdant Sun's Avatar
+1 [LCC:139] Wakening Sun's Avatar
+1 [LCC:7] Wayta, Trainer Prodigy
+1 [LCC:263] Wayward Swordtooth
+1 [LCC:88] Wrathful Raptors
+1 [LCC:295] Xenagos, God of Revels
+1 [LCC:296] Zacama, Primal Calamity
+1 [LCC:141] Zetalpa, Primal Dawn
+SB: 1 [LCC:4] Pantlaza, Sun-Favored
+LAYOUT MAIN:(1,1)(NONE,false,50)|([LCC:125],[LCC:232],[LCC:104],[LCC:319],[LCC:265],[LCC:127],[LCC:69],[LCC:321],[LCC:220],[LCC:323],[LCC:324],[LCC:325],[LCC:235],[LCC:90],[LCC:236],[LCC:238],[LCC:92],[LCC:239],[LCI:183],[LCC:224],[LCC:328],[LCC:329],[LCC:242],[LCC:226],[LCI:401],[LCI:401],[LCI:401],[LCI:401],[LCI:401],[LCI:401],[LCI:401],[LCI:401],[LCC:331],[LCC:72],[LCC:333],[LCC:334],[LCC:128],[LCI:230],[LCI:194],[LCC:338],[LCC:340],[LCC:130],[LCC:307],[LCC:131],[LCC:228],[LCC:246],[LCC:342],[LCI:399],[LCI:399],[LCI:399],[LCI:399],[LCC:343],[LCC:229],[LCC:346],[LCC:134],[LCI:393],[LCI:393],[LCI:393],[LCI:393],[LCC:100],[LCC:281],[LCC:282],[LCC:283],[LCC:247],[LCC:248],[LCC:249],[LCC:251],[LCC:286],[LCC:252],[LCC:287],[LCC:253],[LCC:254],[LCC:349],[LCC:256],[LCC:257],[LCC:93],[LCC:350],[LCC:258],[LCC:313],[LCC:94],[LCC:138],[LCC:359],[LCC:360],[LCI:216],[LCC:361],[LCC:362],[LCC:363],[LCC:259],[LCC:260],[LCC:261],[LCC:366],[LCC:262],[LCC:139],[LCC:7],[LCC:263],[LCC:88],[LCC:295],[LCC:296],[LCC:141])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LCC:4])

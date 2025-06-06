@@ -1,0 +1,90 @@
+1 [NCC:241] Aether Snap
+1 [NCC:360] Arcane Signet
+1 [NCC:191] Artisan of Kozilek
+1 [NCC:386] Ash Barrens
+1 [NCC:280] Avenger of Zendikar
+1 [NCC:33] Bellowing Mauler
+1 [NCC:264] Blasphemous Act
+1 [NCC:388] Blighted Woodland
+1 [NCC:56] Caldaia Guardian
+1 [NCC:266] Chaos Warp
+1 [NCC:394] Cinder Glade
+1 [NCC:395] Command Tower
+1 [NCC:363] Commander's Sphere
+1 [NCC:246] Deathbringer Regent
+1 [NCC:336] Deathreap Ritual
+1 [NCC:247] Disciple of Bolas
+1 [NCC:58] Dodgy Jalopy
+1 [NCC:268] Etali, Primal Storm
+1 [NCC:288] Evolutionary Leap
+1 [NCC:400] Exotic Orchard
+1 [NCC:289] Explore
+1 [NCC:290] Farseek
+1 [NCC:367] Fellwar Stone
+1 [NCC:60] First Responder
+1 [NCC:403] Foreboding Ruins
+6 [SNC:270] Forest
+1 [NCC:405] Game Trail
+1 [NCC:292] Garruk's Uprising
+1 [NCC:293] Giant Adephage
+1 [SNC:107] Glittering Stockpile
+1 [NCC:294] Greenwarden of Murasa
+1 [NCC:72] Grime Gorger
+1 [NCC:297] Indrik Stomphowler
+1 [NCC:47] Industrial Advancement
+1 [NCC:269] Inferno Titan
+1 [NCC:73] Jolene, the Plunder Queen
+1 [NCC:408] Jund Panorama
+1 [NCC:411] Kessig Wolf Run
+1 [NCC:298] Kodama's Reach
+1 [NCC:345] Kresh the Bloodbraided
+1 [NCC:300] Life's Legacy
+1 [NCC:370] Lifecrafter's Bestiary
+1 [NCC:49] Mezzio Mugger
+1 [NCC:301] Migration Path
+1 [NCC:302] Mitotic Slime
+1 [NCC:414] Mossfire Valley
+1 [NCC:415] Mosswort Bridge
+5 [SNC:268] Mountain
+1 [NCC:416] Myriad Landscape
+1 [NCC:62] Next of Kin
+1 [NCC:254] Noxious Gearhulk
+1 [NCC:303] Overgrown Battlement
+1 [NCC:255] Painful Truths
+1 [NCC:419] Path of Ancestry
+1 [NCC:39] Protection Racket
+1 [NCC:50] Rain of Riches
+1 [NCC:304] Rampant Growth
+1 [SNC:217] Riveteers Charm
+1 [NCC:79] Riveteers Confluence
+1 [SNC:255] Riveteers Overlook
+1 [NCC:424] Savage Lands
+1 [NCC:426] Shadowblood Ridge
+1 [NCC:428] Smoldering Marsh
+1 [NCC:379] Sol Ring
+1 [NCC:380] Solemn Simulacrum
+1 [NCC:429] Spinerock Knoll
+1 [NCC:276] Stalking Vengeance
+4 [SNC:266] Swamp
+1 [NCC:433] Temple of Malady
+1 [NCC:436] Temple of the False God
+1 [NCC:315] Temur Sabertooth
+1 [NCC:353] Terminate
+1 [NCC:6] The Beamtown Bullies
+1 [NCC:316] Thragtusk
+1 [NCC:438] Thriving Bluff
+1 [NCC:439] Thriving Grove
+1 [NCC:442] Thriving Moor
+1 [NCC:318] Treeshaker Chimera
+1 [NCC:54] Turf War
+1 [NCC:443] Twilight Mire
+1 [NCC:261] Victimize
+1 [NCC:277] Warstorm Surge
+1 [NCC:41] Wave of Rats
+1 [NCC:85] Weathered Sentinels
+1 [NCC:358] Windgrace's Judgment
+1 [NCC:322] Woodfall Primus
+1 [NCC:323] World Shaper
+SB: 1 [NCC:2] Henzie "Toolbox" Torre
+LAYOUT MAIN:(1,1)(NONE,false,50)|([NCC:241],[NCC:360],[NCC:191],[NCC:386],[NCC:280],[NCC:33],[NCC:264],[NCC:388],[NCC:56],[NCC:266],[NCC:394],[NCC:395],[NCC:363],[NCC:246],[NCC:336],[NCC:247],[NCC:58],[NCC:268],[NCC:288],[NCC:400],[NCC:289],[NCC:290],[NCC:367],[NCC:60],[NCC:403],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[NCC:405],[NCC:292],[NCC:293],[SNC:107],[NCC:294],[NCC:72],[NCC:297],[NCC:47],[NCC:269],[NCC:73],[NCC:408],[NCC:411],[NCC:298],[NCC:345],[NCC:300],[NCC:370],[NCC:49],[NCC:301],[NCC:302],[NCC:414],[NCC:415],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[NCC:416],[NCC:62],[NCC:254],[NCC:303],[NCC:255],[NCC:419],[NCC:39],[NCC:50],[NCC:304],[SNC:217],[NCC:79],[SNC:255],[NCC:424],[NCC:426],[NCC:428],[NCC:379],[NCC:380],[NCC:429],[NCC:276],[SNC:266],[SNC:266],[SNC:266],[SNC:266],[NCC:433],[NCC:436],[NCC:315],[NCC:353],[NCC:6],[NCC:316],[NCC:438],[NCC:439],[NCC:442],[NCC:318],[NCC:54],[NCC:443],[NCC:261],[NCC:277],[NCC:41],[NCC:85],[NCC:358],[NCC:322],[NCC:323])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NCC:2])

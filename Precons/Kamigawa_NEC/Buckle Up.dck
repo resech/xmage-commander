@@ -1,0 +1,76 @@
+1 [NEC:11] Access Denied
+1 [NEC:5] Aerial Surveyor
+1 [NEC:79] Aeronaut Admiral
+1 [NEC:144] Arcane Signet
+1 [NEC:135] Arcanist's Owl
+1 [NEC:80] Armed and Armored
+1 [NEC:145] Azorius Signet
+1 [NEC:81] Cataclysmic Gearhulk
+1 [NEC:148] Colossal Plow
+1 [NEC:167] Command Tower
+1 [NEC:82] Crush Contraband
+1 [NEC:149] Cultivator's Caravan
+1 [NEC:12] Cyberdrive Awakener
+1 [NEC:136] Dance of the Manse
+1 [NEC:83] Dispatch
+1 [NEC:6] Drumbellower
+1 [NEC:91] Emry, Lurker of the Loch
+1 [NEC:92] Etherium Sculptor
+1 [NEC:168] Exotic Orchard
+1 [NEC:150] Fellwar Stone
+1 [NEC:152] Foundry Inspector
+1 [NEC:84] Generous Gift
+1 [NEC:153] Gold Myr
+1 [NEC:139] Hanna, Ship's Navigator
+1 [NEO:18] Imperial Recovery Unit
+1 [NEC:13] Imposter Mech
+1 [NEC:85] Indomitable Archangel
+1 [NEC:7] Ironsoul Enforcer
+8 [NEO:285] Island
+7 [NEO:286] Island
+1 [NEC:93] Jace, Architect of Thought
+1 [NEC:14] Kappa Cannoneer
+1 [NEC:15] Katsumasa, the Animator
+1 [NEC:94] Master of Etherium
+1 [NEC:154] Mirage Mirror
+1 [NEO:65] Mobilizer Mech
+1 [NEC:86] Myrsmith
+1 [NEC:8] Organic Extinction
+1 [NEC:87] Parhelion II
+1 [NEC:155] Peacewalker Colossus
+8 [NEO:283] Plains
+7 [NEO:284] Plains
+1 [NEC:174] Port Town
+1 [NEC:175] Prairie Stream
+1 [NEO:231] Prodigy's Prototype
+1 [NEC:141] Raff Capashen, Ship's Mage
+1 [NEC:156] Raiders' Karve
+1 [NEC:95] Reality Shift
+1 [NEC:9] Release to Memory
+1 [NEC:16] Research Thief
+1 [NEC:96] Riddlesmith
+1 [NEC:97] Sai, Master Thopterist
+1 [NEC:157] Shimmer Myr
+1 [NEC:4] Shorikai, Genesis Engine
+1 [NEC:158] Silver Myr
+1 [NEC:177] Skycloud Expanse
+1 [NEC:159] Skysovereign, Consul Flagship
+1 [NEC:160] Smuggler's Copter
+1 [NEC:161] Sol Ring
+1 [NEC:162] Solemn Simulacrum
+1 [NEC:178] Spire of Industry
+1 [NEC:88] Sram, Senior Edificer
+1 [NEO:260] Surgehacker Mech
+1 [NEC:10] Swift Reconfiguration
+1 [NEC:89] Swords to Plowshares
+1 [NEC:180] Temple of Enlightenment
+1 [NEC:90] Teshar, Ancestor's Apostle
+1 [NEC:98] Thopter Spy Network
+1 [NEC:99] Thoughtcast
+1 [NEC:17] Universal Surveillance
+1 [NEC:100] Vedalken Engineer
+1 [NEC:165] Weatherlight
+1 [NEC:101] Whirler Rogue
+SB: 1 [NEC:2] Kotori, Pilot Prodigy
+LAYOUT MAIN:(1,1)(NONE,false,50)|([NEC:11],[NEC:5],[NEC:79],[NEC:144],[NEC:135],[NEC:80],[NEC:145],[NEC:81],[NEC:148],[NEC:167],[NEC:82],[NEC:149],[NEC:12],[NEC:136],[NEC:83],[NEC:6],[NEC:91],[NEC:92],[NEC:168],[NEC:150],[NEC:152],[NEC:84],[NEC:153],[NEC:139],[NEO:18],[NEC:13],[NEC:85],[NEC:7],[NEO:285],[NEO:285],[NEO:285],[NEO:285],[NEO:285],[NEO:285],[NEO:285],[NEO:285],[NEO:286],[NEO:286],[NEO:286],[NEO:286],[NEO:286],[NEO:286],[NEO:286],[NEC:93],[NEC:14],[NEC:15],[NEC:94],[NEC:154],[NEO:65],[NEC:86],[NEC:8],[NEC:87],[NEC:155],[NEO:283],[NEO:283],[NEO:283],[NEO:283],[NEO:283],[NEO:283],[NEO:283],[NEO:283],[NEO:284],[NEO:284],[NEO:284],[NEO:284],[NEO:284],[NEO:284],[NEO:284],[NEC:174],[NEC:175],[NEO:231],[NEC:141],[NEC:156],[NEC:95],[NEC:9],[NEC:16],[NEC:96],[NEC:97],[NEC:157],[NEC:4],[NEC:158],[NEC:177],[NEC:159],[NEC:160],[NEC:161],[NEC:162],[NEC:178],[NEC:88],[NEO:260],[NEC:10],[NEC:89],[NEC:180],[NEC:90],[NEC:98],[NEC:99],[NEC:17],[NEC:100],[NEC:165],[NEC:101])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NEC:2])

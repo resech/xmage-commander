@@ -1,0 +1,89 @@
+1 [NCC:263] Agitator Ant
+1 [NCC:279] Arasta of the Endless Web
+1 [NCC:360] Arcane Signet
+1 [NCC:326] Artifact Mutation
+1 [NCC:386] Ash Barrens
+1 [NCC:327] Assemble the Legion
+1 [NCC:328] Aura Mutation
+1 [NCC:281] Awakening Zone
+1 [NCC:282] Beast Within
+1 [NCC:283] Beastmaster Ascension
+1 [NCC:67] Bess, Soul Nourisher
+1 [NCC:362] Bloodthirsty Blade
+1 [NCC:332] Boros Charm
+1 [NCC:13] Boss's Chauffeur
+1 [SNC:173] Cabaretti Charm
+1 [NCC:69] Cabaretti Confluence
+1 [SNC:249] Cabaretti Courtyard
+1 [NCC:195] Call the Coppercoats
+1 [NCC:334] Camaraderie
+1 [NCC:389] Canopy Vista
+1 [NCC:391] Castle Ardenvale
+1 [NCC:392] Castle Embereth
+1 [NCC:284] Champion of Lambholt
+1 [NCC:394] Cinder Glade
+1 [NCC:395] Command Tower
+1 [NCC:363] Commander's Sphere
+1 [NCC:57] Crash the Party
+1 [NCC:285] Cultivate
+1 [NCC:197] Duelist's Heritage
+1 [NCC:400] Exotic Orchard
+1 [NCC:82] False Floor
+1 [NCC:199] Felidar Retreat
+1 [NCC:200] Fell the Mighty
+1 [NCC:367] Fellwar Stone
+8 [SNC:270] Forest
+1 [NCC:404] Fortified Village
+1 [NCC:340] Gahiji, Honored One
+1 [NCC:405] Game Trail
+1 [NCC:16] Grand Crescendo
+1 [NCC:295] Harmonize
+1 [NCC:368] Idol of Oblivion
+1 [NCC:46] Indulge // Excess
+1 [NCC:204] Intangible Virtue
+1 [NCC:409] Jungle Shrine
+1 [NCC:270] Kazuul, Tyrant of the Cliffs
+1 [NCC:61] Killer Service
+1 [NCC:299] Leafkin Druid
+1 [NCC:48] Life of the Party
+1 [NCC:271] Magus of the Wheel
+1 [NCC:346] March of the Multitudes
+1 [NCC:206] Martial Coup
+1 [NCC:18] Master of Ceremonies
+1 [NCC:414] Mossfire Valley
+4 [SNC:268] Mountain
+1 [NCC:416] Myriad Landscape
+1 [NCC:417] Naya Panorama
+1 [NCC:207] Orzhov Advokist
+1 [NCC:272] Outpost Siege
+1 [NCC:419] Path of Ancestry
+1 [NCC:208] Path to Exile
+1 [NCC:9] Phabine, Boss's Confidant
+4 [SNC:262] Plains
+1 [NCC:78] Prosperous Partnership
+1 [NCC:51] Rose Room Treasurer
+1 [NCC:423] Rugged Prairie
+1 [SNC:29] Rumor Gatherer
+1 [NCC:307] Sakura-Tribe Elder
+1 [NCC:308] Sandwurm Convergence
+1 [NCC:64] Scepter of Celebration
+1 [NCC:310] Scute Swarm
+1 [NCC:52] Seize the Spotlight
+1 [NCC:350] Selvala, Explorer Returned
+1 [NCC:311] Shamanic Revelation
+1 [SNC:123] Sizzling Soloist
+1 [NCC:379] Sol Ring
+1 [NCC:430] Sungrass Prairie
+1 [NCC:314] Sylvan Offering
+1 [NCC:437] Temple of Triumph
+1 [NCC:438] Thriving Bluff
+1 [NCC:439] Thriving Grove
+1 [NCC:440] Thriving Heath
+1 [NCC:317] Thunderfoot Baloth
+1 [NCC:65] Vivien's Stampede
+1 [NCC:447] Windbrisk Heights
+1 [NCC:321] Wood Elves
+1 [NCC:278] Zurzoth, Chaos Rider
+SB: 1 [NCC:4] Kitt Kanto, Mayhem Diva
+LAYOUT MAIN:(1,1)(NONE,false,50)|([NCC:263],[NCC:279],[NCC:360],[NCC:326],[NCC:386],[NCC:327],[NCC:328],[NCC:281],[NCC:282],[NCC:283],[NCC:67],[NCC:362],[NCC:332],[NCC:13],[SNC:173],[NCC:69],[SNC:249],[NCC:195],[NCC:334],[NCC:389],[NCC:391],[NCC:392],[NCC:284],[NCC:394],[NCC:395],[NCC:363],[NCC:57],[NCC:285],[NCC:197],[NCC:400],[NCC:82],[NCC:199],[NCC:200],[NCC:367],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[SNC:270],[NCC:404],[NCC:340],[NCC:405],[NCC:16],[NCC:295],[NCC:368],[NCC:46],[NCC:204],[NCC:409],[NCC:270],[NCC:61],[NCC:299],[NCC:48],[NCC:271],[NCC:346],[NCC:206],[NCC:18],[NCC:414],[SNC:268],[SNC:268],[SNC:268],[SNC:268],[NCC:416],[NCC:417],[NCC:207],[NCC:272],[NCC:419],[NCC:208],[NCC:9],[SNC:262],[SNC:262],[SNC:262],[SNC:262],[NCC:78],[NCC:51],[NCC:423],[SNC:29],[NCC:307],[NCC:308],[NCC:64],[NCC:310],[NCC:52],[NCC:350],[NCC:311],[SNC:123],[NCC:379],[NCC:430],[NCC:314],[NCC:437],[NCC:438],[NCC:439],[NCC:440],[NCC:317],[NCC:65],[NCC:447],[NCC:321],[NCC:278])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NCC:4])

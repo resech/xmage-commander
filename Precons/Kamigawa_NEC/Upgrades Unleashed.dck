@@ -1,0 +1,79 @@
+1 [NEC:112] Acidic Slime
+1 [NEC:102] Agitator Ant
+1 [NEC:18] Akki Battle Squad
+1 [NEC:144] Arcane Signet
+1 [NEC:24] Ascendant Acolyte
+1 [NEC:113] Bear Umbra
+1 [NEC:114] Beast Within
+1 [NEC:146] Blackblade Reforged
+1 [NEC:147] Bonehoard
+1 [NEC:103] Chain Reaction
+1 [NEC:115] Champion of Lambholt
+1 [NEC:104] Chaos Warp
+1 [NEC:166] Cinder Glade
+1 [NEC:19] Collision of Realms
+1 [NEC:167] Command Tower
+1 [NEC:25] Concord with the Kami
+1 [NEC:137] Decimate
+1 [NEC:105] Elemental Mastery
+1 [NEC:168] Exotic Orchard
+1 [NEC:116] Fertilid
+1 [NEC:151] Fireshrieker
+7 [NEO:291] Forest
+7 [NEO:292] Forest
+1 [NEC:117] Forgotten Ancient
+1 [NEC:169] Game Trail
+1 [NEC:118] Genesis Hydra
+1 [NEC:106] Goblin Razerunners
+1 [NEC:138] Grumgully, the Generous
+1 [NEC:170] Gruul Turf
+1 [NEC:119] Hunter's Insight
+1 [NEO:223] Invigorating Hot Spring
+1 [NEC:3] Kaima, the Fractured Calm
+1 [NEC:20] Kami of Celebration
+1 [NEC:120] Kodama's Reach
+1 [NEC:21] Komainu Battle Armor
+1 [NEC:26] Kosei, Penitent Warlord
+1 [NEC:107] Krenko, Tin Street Kingpin
+1 [NEC:121] Loyal Guardian
+1 [NEC:140] Mage Slayer
+2 [NEC:171] Mossfire Valley
+6 [NEO:290] Mountain
+6 [NEO:289] Mountain
+1 [NEC:27] One with the Kami
+1 [NEC:172] Opal Palace
+1 [NEC:173] Oran-Rief, the Vastwood
+1 [NEC:123] Ordeal of Nylea
+1 [NEO:203] Orochi Merge-Keeper
+1 [NEC:108] Ox of Agonas
+1 [NEC:124] Primeval Protector
+1 [NEC:176] Raging Ravine
+1 [NEC:125] Rampant Growth
+1 [NEC:28] Rampant Rejuvenator
+1 [NEC:142] Rhythm of the Wild
+1 [NEC:126] Rishkar, Peema Renegade
+1 [NEC:127] Rishkar's Expertise
+1 [NEC:128] Sakura-Tribe Elder
+1 [NEC:129] Shamanic Revelation
+1 [NEC:109] Shifting Shadow
+1 [NEC:29] Silkguard
+1 [NEC:22] Smoke Spirits' Aid
+1 [NEC:130] Snake Umbra
+1 [NEC:161] Sol Ring
+1 [NEC:131] Soul's Majesty
+1 [NEC:132] Spearbreaker Behemoth
+1 [NEC:110] Starstorm
+1 [NEC:163] Swiftfoot Boots
+1 [NEC:164] Sword of Vengeance
+1 [NEC:30] Tanuki Transplanter
+1 [NEC:111] Taurean Mauler
+1 [NEC:179] Temple of Abandon
+1 [NEO:262] Towashi Guide-Bot
+1 [NEC:143] Ulasht, the Hate Seed
+1 [NEC:23] Unquenchable Fury
+1 [NEC:133] Vastwood Surge
+1 [NEO:263] Walking Skyscraper
+1 [NEC:134] Whiptongue Hydra
+SB: 1 [NEC:1] Chishiro, the Shattered Blade
+LAYOUT MAIN:(1,1)(NONE,false,50)|([NEC:112],[NEC:102],[NEC:18],[NEC:144],[NEC:24],[NEC:113],[NEC:114],[NEC:146],[NEC:147],[NEC:103],[NEC:115],[NEC:104],[NEC:166],[NEC:19],[NEC:167],[NEC:25],[NEC:137],[NEC:105],[NEC:168],[NEC:116],[NEC:151],[NEO:291],[NEO:291],[NEO:291],[NEO:291],[NEO:291],[NEO:291],[NEO:291],[NEO:292],[NEO:292],[NEO:292],[NEO:292],[NEO:292],[NEO:292],[NEO:292],[NEC:117],[NEC:169],[NEC:118],[NEC:106],[NEC:138],[NEC:170],[NEC:119],[NEO:223],[NEC:3],[NEC:20],[NEC:120],[NEC:21],[NEC:26],[NEC:107],[NEC:121],[NEC:140],[NEC:171],[NEC:171],[NEO:290],[NEO:290],[NEO:290],[NEO:290],[NEO:290],[NEO:290],[NEO:289],[NEO:289],[NEO:289],[NEO:289],[NEO:289],[NEO:289],[NEC:27],[NEC:172],[NEC:173],[NEC:123],[NEO:203],[NEC:108],[NEC:124],[NEC:176],[NEC:125],[NEC:28],[NEC:142],[NEC:126],[NEC:127],[NEC:128],[NEC:129],[NEC:109],[NEC:29],[NEC:22],[NEC:130],[NEC:161],[NEC:131],[NEC:132],[NEC:110],[NEC:163],[NEC:164],[NEC:30],[NEC:111],[NEC:179],[NEO:262],[NEC:143],[NEC:23],[NEC:133],[NEO:263],[NEC:134])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NEC:1])
