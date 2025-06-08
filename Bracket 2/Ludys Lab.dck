@@ -1,0 +1,81 @@
+1 [THS:112] Anger of the Gods
+1 [ALL:22a] Arcane Denial
+1 [M3C:257] Brudiclad, Telchor Engineer
+1 [MID:131] Burn Down the House
+1 [EVE:175] Cascade Bluffs
+1 [M20:126] Chandra, Acolyte of Flame
+1 [HOU:87] Chaos Maw
+1 [40K:111*] Chaos Mutation
+1 [FIC:291] Chaos Warp
+1 [DMU:117] Chaotic Transformation
+1 [KTK:34] Clever Impersonator
+1 [ELD:333] Command Tower
+1 [THS:46] Curse of the Swine
+1 [MB2:80] Dack Fayden
+1 [AVR:227] Desolate Lighthouse
+1 [CMM:216] Divergent Transformations
+1 [FDN:535] Dragon Fodder
+1 [FDN:621] Dragon Mage
+1 [FDN:193] Drakuseth, Maw of Flames
+1 [H2R:4] Dress Down
+1 [OTC:5] Eris, Roar of the Storm
+1 [STX:186] Expressive Iteration
+1 [NEO:141] Fable of the Mirror-Breaker
+1 [SOI:244] Fevered Visions
+1 [MID:262] Field of Ruin
+1 [MH3:123] Ghostfire Slice
+1 [FDN:725] Gilded Lotus
+1 [MH3:124] Glimpse the Impossible
+1 [CMM:737] Guff Rewrites History
+1 [H2R:5] Hard Evidence
+1 [KTK:111] Hordeling Outburst
+1 [HOU:97] Hour of Devastation
+1 [ELD:193] Improbable Alliance
+1 [MH3:190] Invert Polarity
+10 [FIN:297] Island
+1 [CLU:239] Izzet Boilerworks
+1 [CLU:224] Izzet Signet
+1 [WWK:31] Jace, the Mind Sculptor
+1 [TSP:275] Kher Keep
+1 [CLU:141] Lightning Bolt
+1 [40K:24*] Lord of Change
+1 [IKO:125] Lukka, Coppercoat Outcast
+1 [SCD:150] Magmatic Force
+13 [FIN:303] Mountain
+1 [TDC:380] Myriad Landscape
+1 [KHM:346] Mystic Reflection
+1 [FDN:663] Ovika, Enigma Goliath
+1 [FUT:103] Pact of the Titan
+1 [M10:67] Polymorph
+1 [PLC:44] Pongify
+1 [STX:214] Prismari Command
+1 [CLU:93] Rapid Hybridization
+1 [PZ2:70723] Reality Scramble
+1 [SHM:278*] Reflecting Pool
+1 [AER:96] Release the Gremlins
+1 [LTR:259] Rivendell
+1 [ZNR:264] Riverglide Pathway
+1 [DMU:255] Shivan Reef
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [MKC:118] Sphinx of the Second Sun
+1 [M13:69] Sphinx of Uthuun
+1 [CLU:280] Steam Vents
+1 [VOW:265] Stormcarved Coast
+1 [DOM:247] Sulfur Falls
+1 [MH2:68] Suspend
+1 [FDN:258] Swiftfoot Boots
+1 [TDC:330] Talisman of Creativity
+1 [FDN:699] Temple of Epiphany
+1 [SCG:143] Temple of the False God
+1 [UDS:139] Thran Dynamo
+1 [C13:62] Tidal Force
+1 [CMM:434] Training Center
+1 [M21:167] Transmogrify
+1 [DRC:143] Triplicate Titan
+1 [CMR:211] Wheel of Misfortune
+1 [USG:318] Worn Powerstone
+1 [SOM:223] Wurmcoil Engine
+SB: 1 [FCA:56] Kraum, Ludevic's Opus
+SB: 1 [CMR:525] Ludevic, Necro-Alchemist
+LAYOUT MAIN:(1,4)(COLOR,false,50)|([EVE:175],[ELD:333],[AVR:227],[MID:262],[MH3:123],[FDN:725],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[CLU:239],[CLU:224],[TSP:275],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[TDC:380],[SHM:278*],[LTR:259],[ZNR:264],[DMU:255],[NEO:276],[CLU:280],[VOW:265],[DOM:247],[FDN:258],[TDC:330],[FDN:699],[SCG:143],[UDS:139],[CMM:434],[DRC:143],[USG:318],[SOM:223])([ALL:22a],[KTK:34],[THS:46],[H2R:4],[H2R:5],[WWK:31],[40K:24*],[KHM:346],[M10:67],[PLC:44],[CLU:93],[MKC:118],[M13:69],[MH2:68],[C13:62])([THS:112],[MID:131],[M20:126],[HOU:87],[FIC:291],[DMU:117],[CMM:216],[FDN:535],[FDN:621],[FDN:193],[NEO:141],[MH3:124],[CMM:737],[KTK:111],[HOU:97],[CLU:141],[IKO:125],[SCD:150],[FUT:103],[PZ2:70723],[AER:96],[M21:167],[CMR:211])([M3C:257],[40K:111*],[MB2:80],[OTC:5],[STX:186],[SOI:244],[ELD:193],[MH3:190],[FDN:663],[STX:214])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FCA:56],[CMR:525])

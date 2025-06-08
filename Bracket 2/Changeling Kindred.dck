@@ -1,0 +1,88 @@
+1 [KHM:383] Absorb Identity
+1 [THB:231] Altar of the Pantheon
+1 [LRW:51] Amoeboid Changeling
+1 [LRW:266] Ancient Amphitheater
+1 [ELD:331] Arcane Signet
+1 [LRW:4] Avian Changeling
+1 [PIP:348] Ayula, Queen Among Bears
+1 [BLB:243] Barkform Harvester
+1 [BFZ:233] Blighted Woodland
+1 [KHM:235] Bloodline Pretender
+1 [WWK:132] Bojuka Bog
+1 [OTC:128] Changeling Outcast
+1 [ELD:333] Command Tower
+1 [ZNR:337] Coveted Prize
+1 [ZNR:261] Cragcrown Pathway
+1 [LRW:11] Crib Swap
+1 [M21:177] Cultivate
+1 [IKO:183] Dire Tactics
+1 [DTK:136] Dragon Tempest
+1 [FDN:219] Elvish Archdruid
+1 [ONS:255] Elvish Guidance
+1 [CON:142] Exotic Orchard
+1 [WHO:673] Exterminate!
+1 [ELD:190] Faeburrow Elder
+1 [M13:170] Farseek
+1 [LRW:164] Fire-Belly Changeling
+6 [FIN:306] Forest
+1 [WHO:1053] Gallifrey Council Chamber
+1 [TSP:196] Gemhide Sliver
+1 [LRW:116] Ghostly Changeling
+1 [KHM:392] Gladewalker Ritualist
+1 [ZNR:328] Glasspool Mimic
+1 [KHM:60] Glimpse the Cosmos
+1 [M3C:198] Graveshifter
+1 [KHM:174] Guardian Gladewalker
+1 [WWK:105] Harabaz Druid
+1 [MOC:22] Herald of Hoofbeats
+1 [J21:96] Impostor of the Sixth Pride
+1 [J21:697] Ingenious Infiltrator
+1 [CLB:696] Irregular Cohort
+5 [FIN:297] Island
+1 [IKO:162] Kogla, the Titan Ape
+1 [FDN:627] Lathliss, Dragon Queen
+1 [M19:107] Liliana's Contract
+1 [ZNR:226] Linvala, Shield of Sea Gate
+1 [KHM:66] Littjara Kinseekers
+1 [KHM:142] Magda, Brazen Outlaw
+1 [M14:184] Manaweft Sliver
+1 [KHM:184] Masked Vandal
+1 [AVR:66] Mass Appeal
+1 [LRW:31] Mirror Entity
+1 [KHM:68] Mistwalker
+1 [MOR:67] Moonglove Changeling
+1 [MOR:42] Mothdust Changeling
+2 [FIN:303] Mountain
+1 [MOR:147] Murmuring Bosk
+1 [FCA:42] Najeela, the Blade-Blossom
+1 [AFR:157] Orb of Dragonkind
+1 [FIC:411] Path of Ancestry
+3 [FIN:294] Plains
+1 [M12:190] Rampant Growth
+1 [ELD:26] Realm-Cloaked Giant
+1 [KHM:188] Realmwalker
+1 [SHM:260] Reaper King
+1 [KHM:347] Reflections of Littjara
+1 [M20:217] Risen Reef
+1 [ZNR:264] Riverglide Pathway
+1 [ALA:228] Savage Lands
+1 [MOR:104] Shared Animosity
+1 [LRW:140] Skeletal Changeling
+1 [M19:160] Spit Flame
+1 [ZNR:237] Spoils of Adventure
+3 [FIN:300] Swamp
+1 [FDN:633] Taurean Mauler
+1 [FDN:702] Temple of Mystery
+1 [AFR:260] Temple of the Dragon Queen
+1 [DSK:269] Terramorphic Expanse
+1 [KHM:275] The World Tree
+1 [FDN:682] Three Tree Mascot
+1 [XLN:258] Unclaimed Territory
+1 [HOU:52] Unesh, Criosphinx Sovereign
+1 [J21:759] Universal Automaton
+1 [J21:400] Venomous Changeling
+1 [LRW:242] Woodland Changeling
+1 [DMU:261] Yavimaya Coast
+SB: 1 [CMM:361] The Ur-Dragon
+LAYOUT MAIN:(1,7)(COLOR,false,50)|([THB:231],[LRW:266],[ELD:331],[BLB:243],[BFZ:233],[KHM:235],[WWK:132],[ELD:333],[ZNR:261],[CON:142],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[WHO:1053],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:303],[FIN:303],[MOR:147],[FIC:411],[FIN:294],[FIN:294],[FIN:294],[ZNR:264],[ALA:228],[FIN:300],[FIN:300],[FIN:300],[FDN:702],[AFR:260],[DSK:269],[KHM:275],[FDN:682],[XLN:258],[J21:759],[DMU:261])([OTC:128],[ZNR:337],[WHO:673],[LRW:116],[M3C:198],[M19:107],[MOR:67],[LRW:140],[J21:400])([KHM:383],[LRW:51],[ZNR:328],[KHM:60],[MOC:22],[KHM:66],[AVR:66],[KHM:68],[MOR:42],[KHM:347],[HOU:52])([PIP:348],[M21:177],[FDN:219],[ONS:255],[M13:170],[TSP:196],[KHM:392],[KHM:174],[WWK:105],[IKO:162],[M14:184],[KHM:184],[M12:190],[KHM:188],[LRW:242])([DTK:136],[LRW:164],[FDN:627],[KHM:142],[FCA:42],[AFR:157],[MOR:104],[M19:160],[FDN:633])([LRW:4],[LRW:11],[J21:96],[CLB:696],[LRW:31],[ELD:26])([IKO:183],[ELD:190],[J21:697],[ZNR:226],[SHM:260],[M20:217],[ZNR:237])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMM:361])

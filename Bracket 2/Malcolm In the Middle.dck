@@ -1,0 +1,74 @@
+1 [CLB:612] Aboleth Spawn
+1 [PZ1:18] Aethersnatch
+1 [M15:44] Aetherspouts
+1 [MH3:51] Amphibian Downpour
+1 [ALL:22a] Arcane Denial
+1 [OTP:8] Archmage's Charm
+1 [CSP:29] Commandeer
+1 [7ED:67] Counterspell
+1 [RIX:33] Crafty Cutpurse
+1 [LRW:56] Cryptic Command
+1 [J25:6] Delightful Discovery
+1 [6ED:64] Desertion
+1 [KTK:36] Dig Through Time
+1 [M21:349] Discontinuity
+1 [H2R:4] Dress Down
+1 [CLB:561] Elminster's Simulacrum
+1 [DSK:371] Enduring Curiosity
+1 [10E:83] Evacuation
+1 [ONE:278] Experimental Augury
+1 [INV:57] Fact or Fiction
+1 [MOM:352] Faerie Mastermind
+1 [KTK:233] Flooded Strand
+1 [BRO:381] Flow of Knowledge
+1 [MBS:25] Fuel for the Cause
+1 [ALA:45] Gather Specimens
+1 [JUD:41] Grip of Amnesia
+1 [M3C:78] Horizon of Progress
+1 [ELD:50] Into the Story
+1 [MKM:296] Intrude on the Mind
+29 [FIN:297] Island
+1 [SOI:71] Just the Wind
+1 [DTK:60] Learn from the Past
+1 [BLB:58] Long River's Pull
+1 [NPH:38] Mental Misstep
+1 [ZEN:57] Mindbreak Trap
+1 [ONE:382] Mindsplice Apparatus
+1 [MMQ:87] Misdirection
+1 [WOC:11] Misleading Signpost
+1 [LTR:245] Mithril Coat
+1 [CMM:108] Mystic Confluence
+1 [ELD:247] Mystic Sanctuary
+1 [WAR:62] Narset's Reversal
+1 [TOR:43] Obsessive Search
+1 [NEO:271] Otawara, Soaring City
+1 [KTK:239] Polluted Delta
+1 [ONE:67] Reject Imperfection
+1 [M21:63] Rewind
+1 [LCC:77] Ripples of Potential
+1 [WOE:312] Rowdy Research
+1 [MOM:353] See Double
+1 [ONE:68] Serum Snare
+1 [MH3:241] Sink into Stupor
+1 [CLU:99] Slip Out the Back
+1 [OTC:16] Smirking Spelljacker
+1 [ISD:78] Snapcaster Mage
+1 [XLN:82] Spell Swindle
+1 [JUD:51] Spelljack
+1 [SOM:45] Steady Progress
+1 [M21:355] Sublime Epiphany
+1 [NEM:48] Submerge
+1 [H2R:6] Subtlety
+1 [M3C:82] Talon Gates of Madara
+1 [SCG:143] Temple of the False God
+1 [NEM:143] Terrain Generator
+1 [FDN:166] Time Stop
+1 [LCI:335] Tishana's Tidebinder
+1 [KLD:67] Torrential Gearhulk
+1 [TDC:22] Transcendent Dragon
+1 [DOM:72] Unwind
+1 [THB:81] Whirlwind Denial
+1 [SLD:1781] Reality Shift
+SB: 1 [LCI:293] Malcolm, Alluring Scoundrel
+LAYOUT MAIN:(1,2)(COLOR,false,50)|([KTK:233],[M3C:78],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[LTR:245],[ELD:247],[NEO:271],[KTK:239],[M3C:82],[SCG:143],[NEM:143])([CLB:612],[PZ1:18],[M15:44],[MH3:51],[ALL:22a],[OTP:8],[CSP:29],[7ED:67],[RIX:33],[LRW:56],[J25:6],[6ED:64],[KTK:36],[M21:349],[H2R:4],[CLB:561],[DSK:371],[10E:83],[ONE:278],[INV:57],[MOM:352],[BRO:381],[MBS:25],[ALA:45],[JUD:41],[ELD:50],[MKM:296],[SOI:71],[DTK:60],[BLB:58],[NPH:38],[ZEN:57],[ONE:382],[MMQ:87],[WOC:11],[CMM:108],[WAR:62],[TOR:43],[ONE:67],[M21:63],[LCC:77],[WOE:312],[MOM:353],[ONE:68],[MH3:241],[CLU:99],[OTC:16],[ISD:78],[XLN:82],[JUD:51],[SOM:45],[M21:355],[NEM:48],[H2R:6],[FDN:166],[LCI:335],[KLD:67],[TDC:22],[DOM:72],[THB:81],[SLD:1781])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LCI:293])

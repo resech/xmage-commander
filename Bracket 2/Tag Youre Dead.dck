@@ -1,0 +1,82 @@
+1 [8ED:118] Ambition's Cost
+1 [5ED:140] Animate Dead
+1 [STX:301] Baleful Mastery
+1 [ONS:312] Barren Moor
+1 [ACR:161] Black Market Connections
+1 [FDN:317] Blasphemous Edict
+1 [WWK:132] Bojuka Bog
+1 [ACR:255] Brotherhood Regalia
+1 [UDS:54] Bubbling Muck
+1 [TOR:139] Cabal Coffers
+1 [CMM:374] Campfire
+1 [FCA:64] Command Beacon
+1 [CMR:305] Commander's Plate
+1 [MH3:84] Consuming Corruption
+1 [ULG:123] Crawlspace
+1 [GTC:61] Crypt Ghast
+1 [PLC:85] Damnation
+1 [MMQ:129] Dark Ritual
+1 [TSB:40] Darkness
+1 [CMM:147] Deadly Rollick
+1 [40K:199*] Defile
+1 [SCG:65] Dragon Shadow
+1 [M20:96] Dread Presence
+1 [5DN:49] Endless Whispers
+1 [FDN:173] Exsanguinate
+1 [FDN:712] Feed the Swarm
+1 [CMM:386] Geode Golem
+1 [FDN:725] Gilded Lotus
+1 [THB:355] Gray Merchant of Asphodel
+1 [LTC:365] Homeward Path
+1 [PLC:72] Imp's Mischief
+1 [BOK:71] Ink-Eyes, Servant of Oni
+1 [OTJ:325] Insatiable Avarice
+1 [TMP:292] Jet Medallion
+1 [FCA:36] K'rrik, Son of Yawgmoth
+1 [KLD:220] Key to the City
+1 [DOM:98] Lich's Mastery
+1 [MRD:199] Lightning Greaves
+1 [M14:102] Liliana of the Dark Realms
+1 [PLC:73] Magus of the Coffers
+1 [DSK:108] Meathook Massacre II
+1 [BFZ:240] Mortuary Mire
+1 [VIS:64] Necromancy
+1 [C20:45] Netherborn Altar
+1 [5DN:55] Night's Whisper
+1 [ROE:120] Nirkana Revenant
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [THB:235] Nyx Lotus
+1 [FDN:180] Phyrexian Arena
+1 [ULG:63] Phyrexian Reclamation
+1 [USG:322] Phyrexian Tower
+1 [M11:212] Platinum Angel
+1 [ORI:114] Read the Bones
+1 [TMP:151] Reanimate
+1 [MRD:75] Reiver Demon
+1 [M19:254] Reliquary Tower
+1 [FDN:264] Rogue's Passage
+1 [DMU:107] Sheoldred, the Apocalypse
+1 [CHK:283] Shizo, Death's Storehouse
+1 [M15:114] Sign in Blood
+1 [5DN:150] Silent Arbiter
+1 [ACR:259] Smoke Bomb
+1 [SUM:274] Sol Ring
+1 [C21:371] Stinging Study
+1 [BBD:51] Stunning Reversal
+1 [TSP:135] Sudden Spoiling
+1 [M12:218] Sundial of the Infinite
+21 [FIN:300] Swamp
+1 [FDN:258] Swiftfoot Boots
+1 [LTC:80] The Black Gate
+1 [40K:157*] The Golden Throne
+1 [GTC:248] Thespian's Stage
+1 [UDS:139] Thran Dynamo
+1 [BIG:27] Torpor Orb
+1 [MH3:277] Toxic Deluge
+1 [RIX:88] Twilight Prophet
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [M11:221] Whispersilk Cloak
+1 [DSK:124] Withering Torment
+SB: 1 [10E:166] Phage the Untouchable
+LAYOUT MAIN:(1,2)(COLOR,false,50)|([ONS:312],[WWK:132],[ACR:255],[TOR:139],[CMM:374],[FCA:64],[CMR:305],[ULG:123],[CMM:386],[FDN:725],[LTC:365],[TMP:292],[KLD:220],[MRD:199],[BFZ:240],[THS:223],[THB:235],[USG:322],[M11:212],[M19:254],[FDN:264],[CHK:283],[5DN:150],[ACR:259],[SUM:274],[M12:218],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FDN:258],[LTC:80],[40K:157*],[GTC:248],[UDS:139],[BIG:27],[M15:248],[M11:221])([8ED:118],[5ED:140],[STX:301],[ACR:161],[FDN:317],[UDS:54],[MH3:84],[GTC:61],[PLC:85],[MMQ:129],[TSB:40],[CMM:147],[40K:199*],[SCG:65],[M20:96],[5DN:49],[FDN:173],[FDN:712],[THB:355],[PLC:72],[BOK:71],[OTJ:325],[FCA:36],[DOM:98],[M14:102],[PLC:73],[DSK:108],[VIS:64],[C20:45],[5DN:55],[ROE:120],[FDN:180],[ULG:63],[ORI:114],[TMP:151],[MRD:75],[DMU:107],[M15:114],[C21:371],[BBD:51],[TSP:135],[MH3:277],[RIX:88],[DSK:124])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([10E:166])

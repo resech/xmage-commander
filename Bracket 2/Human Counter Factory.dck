@@ -1,0 +1,96 @@
+1 [FCA:21] Akroma's Will
+1 [KHM:249] Arctic Treeline
+1 [HOU:59] Banewhip Punisher
+1 [TDM:171] Barrensteppe Siege
+1 [NPH:104] Birthing Pod
+1 [MH3:146] Birthing Ritual
+1 [CLB:348] Bountiful Promenade
+1 [BFZ:234] Canopy Vista
+1 [GTC:150] Cartel Aristocrat
+1 [FDN:139] Cathar Commando
+1 [AVR:10] Cathars' Crusade
+1 [LCI:410a] Cavern of Souls
+1 [AVR:171] Champion of Lambholt
+1 [MH3:83] Chthonian Nightmare
+1 [ELD:333] Command Tower
+1 [ISD:9] Dearly Departed
+1 [MKM:12] Delney, Streetwise Lookout
+1 [DKA:112] Deranged Outcast
+1 [M13:88] Disciple of Bolas
+1 [FRF:11] Dragonscale General
+1 [DRC:49] Druid of Purification
+1 [5DN:86] Eternal Witness
+1 [TDM:184] Felothar, Dawn of the Abzan
+3 [FIN:306] Forest
+1 [ISD:239] Gavony Township
+1 [AER:62] Glint-Sleeve Siphoner
+1 [CLU:276] Godless Shrine
+1 [9ED:245] Greater Good
+1 [SLX:18] Greymond, Avacyn's Stalwart
+1 [MH3:29] Guide of Souls
+1 [KTK:133] Hardened Scales
+1 [MIC:26] Heronblade Elite
+1 [TDM:192] Hollowmurk Siege
+1 [VOW:20] Hopeful Initiate
+1 [IKO:248] Indatha Triome
+1 [CSP:130] Juniper Order Ranger
+1 [MID:230] Katilda, Dawnhart Prime
+1 [JUD:141] Krosan Verge
+1 [MIC:1] Leinore, Autumn Sovereign
+1 [BRO:12] Loran of the Third Path
+1 [ZNR:24] Luminarch Aspirant
+1 [ZEN:219] Marsh Flats
+1 [MH3:35] Metastatic Evangel
+1 [ISD:23] Mikaeus, the Lunarch
+1 [MOR:147] Murmuring Bosk
+1 [J25:230] Nykthos Paragon
+1 [VOW:27] Ollenbock Escort
+1 [CLU:278] Overgrown Tomb
+1 [MOM:198] Ozolith, the Shattered Spire
+1 [ULG:63] Phyrexian Reclamation
+1 [SLD:1050] Pir, Imaginative Rascal
+1 [RIX:81] Pitiless Plunderer
+3 [FIN:294] Plains
+1 [MH3:166] Primal Prayers
+1 [KHM:241] Pyre of Heroes
+1 [SNC:90] Raffine's Silencer
+1 [MH3:266] Recruiter of the Guard
+1 [SHM:278*] Reflecting Pool
+1 [AER:133] Renegade Rallier
+1 [J25:484] Ruthless Technomancer
+1 [TSP:245] Saffi Eriksdotter
+1 [TDM:266] Sandsteppe Citadel
+1 [VOW:330] Savior of Ollenbock
+1 [AKH:247] Scattered Groves
+1 [FIC:252] Scholar of New Horizons
+1 [DTK:203] Servant of the Scale
+1 [DKA:74] Skirsdag Flayer
+1 [TDM:24] Smile at Death
+1 [KHM:269] Snowfield Sinkhole
+1 [C20:47] Species Specialist
+1 [XLN:257] Sunpetal Grove
+1 [MOM:337] Surrak and Goreclaw
+3 [FIN:300] Swamp
+1 [CLU:282] Temple Garden
+1 [RNA:212] Teysa Karlov
+1 [SOI:43] Thalia's Lieutenant
+1 [ELD:161] The Great Henge
+1 [IKO:237] The Ozolith
+1 [BLB:260] Three Tree City
+1 [FIC:257] Together Forever
+1 [CMM:435] Undergrowth Stadium
+1 [TSB:53] Undertaker
+1 [CMM:436] Vault of Champions
+1 [DKA:158] Vault of the Archangel
+1 [ZEN:229] Verdant Catacombs
+1 [WTH:144] Veteran Explorer
+1 [9ED:54] Weathered Wayfarer
+1 [SLD:882] Winds of Abandon
+1 [KTK:248] Windswept Heath
+1 [KHM:274] Woodland Chasm
+1 [FCA:11] Yawgmoth, Thran Physician
+1 [J21:406] Young Necromancer
+SB: 1 [CMR:534] Reyhan, Last of the Abzan
+SB: 1 [FCA:18] Tymna the Weaver
+LAYOUT MAIN:(1,5)(COLOR,false,50)|([KHM:249],[CLB:348],[BFZ:234],[LCI:410a],[ELD:333],[FIN:306],[FIN:306],[FIN:306],[ISD:239],[CLU:276],[IKO:248],[JUD:141],[ZEN:219],[MOR:147],[CLU:278],[FIN:294],[FIN:294],[FIN:294],[KHM:241],[SHM:278*],[TDM:266],[AKH:247],[KHM:269],[XLN:257],[FIN:300],[FIN:300],[FIN:300],[CLU:282],[IKO:237],[BLB:260],[CMM:435],[CMM:436],[DKA:158],[ZEN:229],[KTK:248],[KHM:274])([HOU:59],[MH3:83],[M13:88],[AER:62],[ULG:63],[RIX:81],[SNC:90],[J25:484],[DKA:74],[C20:47],[TSB:53],[FCA:11],[J21:406])([NPH:104],[MH3:146],[AVR:171],[DKA:112],[DRC:49],[5DN:86],[9ED:245],[KTK:133],[MIC:26],[MOM:198],[SLD:1050],[MH3:166],[DTK:203],[MOM:337],[ELD:161],[WTH:144])([FCA:21],[FDN:139],[AVR:10],[ISD:9],[MKM:12],[FRF:11],[SLX:18],[MH3:29],[VOW:20],[BRO:12],[ZNR:24],[MH3:35],[ISD:23],[J25:230],[VOW:27],[MH3:266],[VOW:330],[FIC:252],[TDM:24],[SOI:43],[FIC:257],[9ED:54],[SLD:882])([TDM:171],[GTC:150],[TDM:184],[TDM:192],[CSP:130],[MID:230],[MIC:1],[AER:133],[TSP:245],[RNA:212])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMR:534],[FCA:18])

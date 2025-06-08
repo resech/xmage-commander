@@ -1,0 +1,76 @@
+1 [FDN:151] Aetherize
+1 [CLB:366] Ancient Silver Dragon
+1 [M14:43] Archaeomancer
+1 [OTJ:252] Arid Archway
+1 [ROE:2] Artisan of Kozilek
+1 [BNG:157] Astral Cornucopia
+1 [DOM:211] Blackblade Reforged
+1 [ONS:71] Blatant Thievery
+1 [MH3:53] Brainsurge
+1 [ELD:281] Brazen Borrower
+1 [NPH:132] Caged Sun
+1 [CMM:374] Campfire
+1 [FDN:586] Chart a Course
+1 [AKH:211] Commit // Memory
+1 [MBS:22] Corrupted Conscience
+1 [7ED:67] Counterspell
+1 [THS:46] Curse of the Swine
+1 [FDN:687] Demolition Field
+1 [FDN:588] Dive Down
+1 [MRD:34] Dream's Grip
+1 [MH3:59] Dreamtide Whale
+1 [FDN:507] Eaten by Piranhas
+1 [MH3:61] Emrakul's Messenger
+1 [DSK:371] Enduring Curiosity
+1 [WWK:123] Everflowing Chalice
+1 [ONE:278] Experimental Augury
+1 [ZEN:202] Explorer's Scope
+1 [FDN:674] Fireshrieker
+1 [OTJ:49] Fleeting Reflection
+1 [DSK:59] Floodpits Drowner
+1 [WAR:52] Flux Channeler
+1 [FEM:18a] High Tide
+1 [NEO:248] Iron Apprentice
+27 [FIN:297] Island
+1 [NEO:408] Kairi, the Swirling Sky
+1 [WAR:248] Karn's Bastion
+1 [LCI:364] Kitesail Larcenist
+1 [BLB:58] Long River's Pull
+1 [40K:24*] Lord of Change
+1 [MH2:49] Lose Focus
+1 [BIG:23] Lost Jitte
+1 [SPG:2] Malcolm, Keen-Eyed Navigator
+1 [FDN:676] Mazemind Tome
+1 [ELD:346] Midnight Clock
+1 [HOU:165] Mirage Mirror
+1 [THB:234] Mirror Shield
+1 [WOC:11] Misleading Signpost
+1 [CLB:83] Modify Memory
+1 [CMM:108] Mystic Confluence
+1 [ELD:247] Mystic Sanctuary
+1 [IKO:61] Ominous Seas
+1 [M3C:361] Opal Palace
+1 [ROE:9] Pathrazer of Ulamog
+1 [LCI:278] Pit of Offerings
+1 [CLU:93] Rapid Hybridization
+1 [STX:51] Resculpt
+1 [FDN:595] River's Rebuke
+1 [FDN:264] Rogue's Passage
+1 [HOU:182] Scavenger Grounds
+1 [MH3:70] Shadow of the Second Sun
+1 [MH3:241] Sink into Stupor
+1 [XLN:79] Siren Stormtamer
+1 [FDN:164] Spectral Sailor
+1 [MKC:118] Sphinx of the Second Sun
+1 [LCI:405] Spyglass Siren
+1 [CLB:489] Sword Coast Sailor
+1 [NPH:47] Tezzeret's Gambit
+1 [THS:66] Thassa, God of the Sea
+1 [LCC:43] The Indomitable
+1 [OTJ:320] The Key to the Vault
+1 [ONE:288] Thrummingbird
+1 [KLD:67] Torrential Gearhulk
+1 [TDC:22] Transcendent Dragon
+SB: 1 [LCI:293] Malcolm, Alluring Scoundrel
+LAYOUT MAIN:(1,2)(COLOR,false,50)|([OTJ:252],[ROE:2],[BNG:157],[DOM:211],[NPH:132],[CMM:374],[FDN:687],[MH3:61],[WWK:123],[ZEN:202],[FDN:674],[NEO:248],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[WAR:248],[BIG:23],[FDN:676],[HOU:165],[THB:234],[ELD:247],[M3C:361],[ROE:9],[LCI:278],[FDN:264],[HOU:182])([FDN:151],[CLB:366],[M14:43],[ONS:71],[MH3:53],[ELD:281],[FDN:586],[AKH:211],[MBS:22],[7ED:67],[THS:46],[FDN:588],[MRD:34],[MH3:59],[FDN:507],[DSK:371],[ONE:278],[OTJ:49],[DSK:59],[WAR:52],[FEM:18a],[NEO:408],[LCI:364],[BLB:58],[40K:24*],[MH2:49],[SPG:2],[ELD:346],[WOC:11],[CLB:83],[CMM:108],[IKO:61],[CLU:93],[STX:51],[FDN:595],[MH3:70],[MH3:241],[XLN:79],[FDN:164],[MKC:118],[LCI:405],[CLB:489],[NPH:47],[THS:66],[LCC:43],[OTJ:320],[ONE:288],[KLD:67],[TDC:22])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LCI:293])

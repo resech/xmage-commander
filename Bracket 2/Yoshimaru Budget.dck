@@ -1,0 +1,70 @@
+1 [CLB:2] Abdel Adrian, Gorion's Ward
+1 [DTK:2] Anafenza, Kin-Tree Spirit
+1 [ELD:331] Arcane Signet
+1 [CMR:10] Ardenn, Intrepid Archaeologist
+1 [DMU:195] Baird, Argivian Recruiter
+1 [DOM:211] Blackblade Reforged
+1 [CLU:231] Boros Garrison
+1 [CLU:220] Boros Signet
+1 [DMC:10] Cadric, Soul Kindler
+1 [XLN:136] Captain Lannery Storm
+1 [FIC:291] Chaos Warp
+1 [ELD:333] Command Tower
+1 [TDC:111] Commander's Insignia
+1 [DOM:12] Danitha Capashen, Paragon
+1 [BOK:1] Day of Destiny
+1 [MOM:221] Djeru and Hazoret
+1 [NEO:245] Eater of Virtue
+1 [CHK:8] Eight-and-a-Half-Tails
+1 [AFR:243] Eye of Vecna
+1 [DKA:87] Faithless Looting
+1 [CLB:17] Far Traveler
+1 [CLB:18] Flaming Fist
+1 [BOK:164] Gods' Eye, Gate to the Reikai
+1 [NEO:145] Goro-Goro, Disciple of Ryusei
+1 [CLB:179] Guild Artisan
+1 [FRF:160] Hero's Blade
+1 [BNG:159] Heroes' Podium
+1 [CHK:19] Isamaru, Hound of Konda
+1 [AER:87] Kari Zev, Skyship Raider
+1 [CMR:188] Kediss, Emberclaw Familiar
+1 [CMM:33] Keleth, Sunmane Familiar
+1 [ONE:19] Kemba, Kha Enduring
+1 [TSP:275] Kher Keep
+1 [KHM:220] Koll, the Forgemaster
+1 [CLB:29] Lae'zel, Vlaakith's Champion
+1 [NEO:153] Lizard Blades
+1 [ISD:23] Mikaeus, the Lunarch
+1 [10E:335] Mind Stone
+17 [FIN:303] Mountain
+1 [CLB:35] Noble Heritage
+1 [TSP:171] Norin the Wary
+1 [SOI:31] Odric, Lunarch Marshal
+1 [DOM:28] On Serra's Wings
+1 [SOI:32] Open the Armory
+17 [FIN:294] Plains
+1 [CLB:192] Popular Entertainer
+1 [DMU:236] Relic of Legends
+1 [FDN:264] Rogue's Passage
+1 [DMC:25] Rosnakht, Heir of Rohgahh
+1 [USG:326] Shivan Gorge
+1 [SUM:274] Sol Ring
+1 [DOM:146] Squee, the Immortal
+1 [AER:23] Sram, Senior Edificer
+1 [FDN:258] Swiftfoot Boots
+1 [STH:141] Sword of the Chosen
+1 [ICE:54] Swords to Plowshares
+1 [GRN:204] Tajic, Legion's Edge
+1 [CLB:200] Tavern Brawler
+1 [CHK:271] Tenza, Godo's Maul
+1 [DOM:36] Teshar, Ancestor's Apostle
+1 [VOW:318] Thalia, Guardian of Thraben
+1 [FIC:257] Together Forever
+1 [ROE:169] Tuktuk the Explorer
+1 [DOM:39] Urza's Ruinous Blast
+1 [DGM:135] Wear // Tear
+1 [DTK:169] Zurgo Bellstriker
+SB: 1 [CMR:197] Rograkh, Son of Rohgahh
+SB: 1 [SLD:794] Yoshimaru, Ever Faithful
+LAYOUT MAIN:(1,4)(COLOR,false,50)|([ELD:331],[DOM:211],[CLU:231],[CLU:220],[ELD:333],[NEO:245],[AFR:243],[BOK:164],[FRF:160],[BNG:159],[TSP:275],[10E:335],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[DMU:236],[FDN:264],[USG:326],[SUM:274],[FDN:258],[STH:141],[CHK:271])([XLN:136],[FIC:291],[DKA:87],[NEO:145],[CLB:179],[AER:87],[CMR:188],[NEO:153],[TSP:171],[CLB:192],[DMC:25],[DOM:146],[CLB:200],[ROE:169],[DTK:169])([CLB:2],[DTK:2],[CMR:10],[TDC:111],[DOM:12],[BOK:1],[CHK:8],[CLB:17],[CLB:18],[CHK:19],[CMM:33],[ONE:19],[CLB:29],[ISD:23],[CLB:35],[SOI:31],[DOM:28],[SOI:32],[AER:23],[ICE:54],[DOM:36],[VOW:318],[FIC:257],[DOM:39])([DMU:195],[DMC:10],[MOM:221],[KHM:220],[GRN:204],[DGM:135])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMR:197],[SLD:794])
