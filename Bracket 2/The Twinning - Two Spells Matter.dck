@@ -1,0 +1,84 @@
+1 [FIN:212] Absolute Virtue
+1 [TDC:18] Adaptive Training Post
+1 [DMU:243] Adarkar Wastes
+1 [TDC:12] Aligned Heart
+1 [DSC:71] Aminatou's Augury
+1 [ELD:331] Arcane Signet
+1 [FIN:46] Astrologian's Planisphere
+1 [CLU:229] Azorius Chancery
+1 [CLU:219] Azorius Signet
+1 [WOE:5] Break the Spell
+1 [ELD:242] Castle Vantress
+1 [KHM:6] Clarion Spirit
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [CLU:84] Consider
+1 [EMN:54] Curious Homunculus
+1 [THB:47] Deny the Divine
+1 [ROE:60] Distortion Strike
+1 [FDN:306] Drake Hatcher
+1 [FIN:50] Dreams of Laguna
+1 [ROE:20] Emerge Unscathed
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [OTP:1] Fell the Mighty
+1 [TDM:45] Focus the Mind
+1 [ULG:32] Frantic Search
+1 [DSK:60] Get Out
+1 [XLN:255] Glacial Fortress
+1 [TDM:47] Highspire Bell-Ringer
+1 [VOW:359] Hullbreaker Horror
+1 [AKH:245] Irrigated Farmland
+10 [FIN:297] Island
+1 [FIC:176] Krile Baldesion
+1 [CLU:284] Lavinia, Foil to Conspiracy
+1 [FIC:178] Lyse Hext
+1 [TDM:51] Marang River Regent
+1 [10E:335] Mind Stone
+1 [MOM:28] Monastery Mentor
+1 [AFR:228] Monk Class
+1 [AFR:25] Monk of the Open Hand
+1 [AFR:26] Moon-Blessed Cleric
+1 [TDC:380] Myriad Landscape
+1 [LCI:315] Ojer Pakpatiq, Deepest Epoch
+1 [FDN:512] Opt
+1 [CON:15] Path to Exile
+10 [FIN:294] Plains
+1 [M12:73] Ponder
+1 [SOI:278] Port Town
+1 [BFZ:241] Prairie Stream
+1 [M11:70] Preordain
+1 [M14:68] Quicken
+1 [TDM:19] Rally the Monastery
+1 [OTJ:63] Razzle-Dazzler
+1 [M19:254] Reliquary Tower
+1 [FDN:711] Rite of Replication
+1 [CLB:94] Sapphire Dragon
+1 [FIN:288] Sharlayan, Nation of Scholars
+1 [ODY:327] Skycloud Expanse
+1 [SUM:274] Sol Ring
+1 [FDN:257] Solemn Simulacrum
+1 [LTR:413] Storm of Saruman
+1 [FDN:148] Stroke of Midnight
+1 [FIN:79] Swallowed by Leviathan
+1 [CLB:99] Sword Coast Serpent
+1 [ICE:54] Swords to Plowshares
+1 [TDM:335] Taigam, Master Opportunist
+1 [MRD:256] Talisman of Progress
+1 [TDC:16] Tempest Technique
+1 [FDN:698] Temple of Enlightenment
+1 [CLB:271] The Council of Four
+1 [CLB:100] Tomb of Horrors Adventurer
+1 [TDM:270] Tranquil Cove
+1 [MH3:74] Triton Wavebreaker
+1 [TDM:62] Unending Whisper
+1 [DOM:72] Unwind
+1 [TDM:63] Ureni's Rebuff
+1 [MID:333] Vanquish the Horde
+1 [5DN:165] Wayfarer's Bauble
+1 [LRW:281] Windbrisk Heights
+1 [FIN:270] World Map
+SB: 1 [FIC:129] Alisaie Leveilleur
+SB: 1 [FIC:140] Alphinaud Leveilleur
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([FDN:257])([TDC:18],[ELD:331],[FIN:46],[CLU:219],[FIC:339],[10E:335],[SUM:274],[MRD:256],[5DN:165],[FIN:270])([FIN:212],[KHM:6],[EMN:54],[FDN:306],[TDM:47],[VOW:359],[FIC:176],[CLU:284],[FIC:178],[TDM:51],[MOM:28],[AFR:25],[AFR:26],[LCI:315],[OTJ:63],[CLB:94],[CLB:99],[TDM:335],[CLB:271],[CLB:100])([MH3:74])([TDC:12],[AFR:228],[LTR:413],[TDC:16])([WOE:5],[CLU:84],[THB:47],[FIN:50],[ROE:20],[TDM:45],[ULG:32],[DSK:60],[FDN:512],[CON:15],[M14:68],[TDM:19],[FDN:148],[FIN:79],[ICE:54],[DOM:72])([DMU:243],[CLU:229],[ELD:242],[ELD:333],[TDM:255],[CON:142],[XLN:255],[AKH:245],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[TDC:380],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[SOI:278],[BFZ:241],[M19:254],[FIN:288],[ODY:327],[FDN:698],[TDM:270],[LRW:281])([DSC:71],[ROE:60],[OTP:1],[M12:73],[M11:70],[FDN:711],[TDM:62],[TDM:63],[MID:333])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FIC:129],[FIC:140])
