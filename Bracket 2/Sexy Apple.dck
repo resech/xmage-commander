@@ -1,0 +1,81 @@
+1 [ELD:2] All That Glitters
+1 [M20:5] Angelic Gift
+1 [MB2:102] Arcane Lighthouse
+1 [ELD:331] Arcane Signet
+1 [CMR:10] Ardenn, Intrepid Archaeologist
+1 [JOU:4] Armament of Nyx
+1 [ATQ:3] Artifact Ward
+1 [M14:85] Artificer's Hex
+1 [ALA:65] Banewasp Affliction
+1 [CMR:13] Benevolent Blessing
+1 [ICE:6] Black Scarab
+1 [4ED:10] Blue Ward
+1 [WWK:132] Bojuka Bog
+1 [ELD:241] Castle Locthwain
+1 [NEO:91] Clawing Torment
+1 [ELD:333] Command Tower
+1 [10E:132*] Contaminated Bond
+1 [OTC:130] Curtains' Call
+1 [CMM:21] Darksteel Mutation
+1 [RIX:66] Dead Man's Chest
+1 [VIS:57] Death Watch
+1 [DSK:7] Ethereal Armor
+1 [CON:142] Exotic Orchard
+1 [NEO:13] Farewell
+1 [9ED:297] Fellwar Stone
+1 [EVE:176] Fetid Heath
+1 [BLC:106] Generous Gift
+1 [CMM:732] Ghoulish Impetus
+1 [THS:14] Gift of Immortality
+1 [THB:101] Hateful Eidolon
+1 [ROE:26] Hyena Umbra
+1 [DOM:241] Isolated Chapel
+1 [WAR:94] Kaya's Ghostform
+1 [STX:197] Killian, Ink Duelist
+1 [ROE:31] Kor Spiritdancer
+1 [NEO:25] Light-Paws, Emperor's Voice
+1 [WOE:340] Lord Skitter's Blessing
+1 [IKO:226] Lurrus of the Dream-Den
+1 [CLU:65] Martial Impetus
+1 [M12:25] Mesa Enchantress
+1 [THB:104] Minion's Return
+1 [TDC:380] Myriad Landscape
+1 [WOE:209] Neva, Stalked by Nightmares
+1 [40K:45*] Nurgle's Rot
+1 [CLU:118] Parasitic Impetus
+1 [10E:33*] Pariah
+1 [CON:15] Path to Exile
+1 [MH3:39] Pearl-Ear, Imperial Advisor
+1 [LCI:30] Petrify
+15 [FIN:294] Plains
+1 [ONE:28] Planar Disruption
+1 [J21:116] Reprobation
+1 [WOE:259] Restless Fortress
+1 [MH2:26] Resurgent Belief
+1 [PLC:13] Retether
+1 [FRF:23] Sage's Reverie
+1 [TDM:267] Scoured Barrens
+1 [STX:272] Shineshadow Snarl
+1 [ORI:31] Sigil of the Empty Throne
+1 [DGM:29] Sinister Possession
+1 [SUM:274] Sol Ring
+1 [10E:45*] Spirit Link
+1 [AER:23] Sram, Senior Edificer
+1 [M20:39] Starfield Mystic
+1 [FDN:148] Stroke of Midnight
+1 [DMU:257] Sunlit Marsh
+8 [FIN:300] Swamp
+1 [NEC:10] Swift Reconfiguration
+1 [FDN:258] Swiftfoot Boots
+1 [ICE:54] Swords to Plowshares
+1 [FIC:365] Talisman of Hierarchy
+1 [FDN:704] Temple of Silence
+1 [DSC:107] Timely Ward
+1 [DKA:76] Tragic Slip
+1 [THB:40] Transcendent Envoy
+1 [M20:119] Unholy Indenture
+1 [PLC:92] Vampiric Link
+1 [TMP:52] Winds of Rath
+SB: 1 [WOE:202] Eriette of the Charmed Apple
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([ELD:331],[9ED:297],[SUM:274],[FDN:258],[FIC:365])([CMR:10],[STX:197],[ROE:31],[NEO:25],[IKO:226],[M12:25],[WOE:209],[MH3:39],[AER:23],[M20:39])([THB:101],[THB:40])([ELD:2],[M20:5],[JOU:4],[ATQ:3],[M14:85],[ALA:65],[CMR:13],[ICE:6],[4ED:10],[NEO:91],[10E:132*],[CMM:21],[RIX:66],[VIS:57],[DSK:7],[CMM:732],[THS:14],[ROE:26],[WAR:94],[WOE:340],[CLU:65],[THB:104],[40K:45*],[CLU:118],[10E:33*],[LCI:30],[ONE:28],[J21:116],[FRF:23],[ORI:31],[DGM:29],[10E:45*],[NEC:10],[DSC:107],[M20:119],[PLC:92])([OTC:130],[BLC:106],[CON:15],[FDN:148],[ICE:54],[DKA:76])([MB2:102],[WWK:132],[ELD:241],[ELD:333],[CON:142],[EVE:176],[DOM:241],[TDC:380],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[WOE:259],[TDM:267],[STX:272],[DMU:257],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FDN:704])([NEO:13],[MH2:26],[PLC:13],[TMP:52])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([WOE:202])

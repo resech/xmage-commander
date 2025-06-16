@@ -1,0 +1,98 @@
+1 [KLD:242] Aether Hub
+1 [CMM:705] Anikthea, Hand of Erebos
+1 [ELD:331] Arcane Signet
+1 [THB:298] Archon of Sun's Grace
+1 [KHM:201] Arni Slays the Troll
+1 [FIC:374] Ash Barrens
+1 [NEO:172] Azusa's Many Journeys
+1 [BRO:257] Battlefield Forge
+1 [KHM:206] Binding the Old Gods
+1 [40K:107*] Birth of the Imperium
+1 [ISD:130] Blasphemous Act
+1 [BFZ:234] Canopy Vista
+1 [DMU:244] Caves of Koilos
+1 [BFZ:235] Cinder Glade
+1 [TSP:53] Clockspinning
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [KHC:3] Cosmic Intervention
+1 [M21:177] Cultivate
+1 [DRC:89] Damn
+1 [ELD:186] Dance of the Manse
+1 [MB2:27] Displacer Kitten
+1 [JOU:122] Eidolon of Blossoms
+1 [THB:13] Elspeth Conquers Death
+1 [THB:91] Elspeth's Nightmare
+1 [ONS:261] Enchantress's Presence
+1 [MH3:269] Estrid's Invocation
+1 [WAR:159] Evolution Sage
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [ELD:190] Faeburrow Elder
+1 [9ED:297] Fellwar Stone
+1 [THB:16] Flicker of Fate
+1 [WAR:52] Flux Channeler
+1 [CHK:276] Forbidden Orchard
+2 [FIN:306] Forest
+1 [ONE:202] Glissa Sunslayer
+1 [LTR:351] Goldberry, River-Daughter
+1 [VOW:17] Hallowed Haunting
+1 [NPH:137] Hex Parasite
+1 [DMC:21] Historian's Boon
+2 [FIN:297] Island
+1 [KHM:219] King Narfi's Betrayal
+1 [THB:52] Kiora Bests the Sea God
+1 [CHK:225] Kodama's Reach
+1 [BRO:264] Llanowar Wastes
+1 [CLB:356] Manor Gate
+1 [THB:53] Medomai's Prophecy
+1 [ELD:347] Mirrormade
+1 [FIN:303] Mountain
+1 [FIC:408] Nesting Grounds
+1 [LTR:102] One Ring to Rule Them All
+1 [M10:21] Open the Vaults
+1 [FIC:411] Path of Ancestry
+1 [DOM:100] Phyrexian Scriptures
+2 [FIN:294] Plains
+1 [MRD:229] Power Conduit
+1 [BFZ:241] Prairie Stream
+1 [M12:190] Rampant Growth
+1 [WOC:131] Sanctum Weaver
+1 [FIC:252] Scholar of New Horizons
+1 [LTR:520] Scroll of Isildur
+1 [KHM:27] Search for Glory
+1 [THB:198] Setessan Champion
+1 [DMU:255] Shivan Reef
+1 [ORI:31] Sigil of the Empty Throne
+1 [BFZ:247] Smoldering Marsh
+1 [KHM:32] Starnheim Courser
+1 [INV:278] Sterling Grove
+1 [NEO:209] Storyweave
+1 [M14:224] Strionic Resonator
+1 [BFZ:249] Sunken Hollow
+2 [FIN:300] Swamp
+1 [NEO:375] Tameshi, Reality Architect
+1 [FDN:703] Temple of Plenty
+1 [DSK:269] Terramorphic Expanse
+1 [THB:124] The Akroan War
+1 [DMU:87] The Cruelty of Gix
+1 [DOM:90] The Eldest Reborn
+1 [THB:170] The First Iroan Games
+1 [40K:126*] The Horus Heresy
+1 [NEO:227] The Kami War
+1 [DOM:173] The Mending of Dominaria
+1 [DMU:59] The Phasing of Zhalfir
+1 [DMU:188] The Weatherseed Treaty
+1 [DMU:259] Thran Portal
+1 [GTC:81] Thrull Parasite
+1 [LRW:275] Vivid Crag
+1 [LRW:276] Vivid Creek
+1 [LRW:277] Vivid Grove
+1 [LRW:278] Vivid Marsh
+1 [LRW:279] Vivid Meadow
+1 [KHM:234] Waking the Trolls
+1 [DMU:261] Yavimaya Coast
+1 [DMU:228] Zur, Eternal Schemer
+SB: 1 [LTR:234] Tom Bombadil
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([NPH:137])([ELD:331],[FIC:339],[9ED:297],[MRD:229],[M14:224])([THB:298],[MB2:27],[WAR:159],[ELD:190],[WAR:52],[ONE:202],[LTR:351],[FIC:252],[THB:198],[KHM:32],[NEO:375],[GTC:81],[DMU:228])([CMM:705],[JOU:122],[WOC:131])([KHM:201],[NEO:172],[KHM:206],[40K:107*],[THB:13],[THB:91],[ONS:261],[MH3:269],[VOW:17],[DMC:21],[KHM:219],[THB:52],[THB:53],[ELD:347],[LTR:102],[DOM:100],[LTR:520],[ORI:31],[INV:278],[THB:124],[DMU:87],[DOM:90],[THB:170],[40K:126*],[NEO:227],[DOM:173],[DMU:59],[DMU:188],[KHM:234])([TSP:53],[KHC:3],[THB:16],[NEO:209])([KLD:242],[FIC:374],[BRO:257],[BFZ:234],[DMU:244],[BFZ:235],[ELD:333],[TDM:255],[CON:142],[CHK:276],[FIN:306],[FIN:306],[FIN:297],[FIN:297],[BRO:264],[CLB:356],[FIN:303],[FIC:408],[FIC:411],[FIN:294],[FIN:294],[BFZ:241],[DMU:255],[BFZ:247],[BFZ:249],[FIN:300],[FIN:300],[FDN:703],[DSK:269],[DMU:259],[LRW:275],[LRW:276],[LRW:277],[LRW:278],[LRW:279],[DMU:261])([ISD:130],[M21:177],[DRC:89],[ELD:186],[CHK:225],[M10:21],[M12:190],[KHM:27])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LTR:234])

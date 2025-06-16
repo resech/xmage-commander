@@ -1,0 +1,89 @@
+1 [ELD:2] All That Glitters
+1 [ELD:331] Arcane Signet
+1 [THB:298] Archon of Sun's Grace
+1 [UDS:52] Attrition
+1 [CMR:13] Benevolent Blessing
+1 [ACR:161] Black Market Connections
+1 [FDN:318] Bloodthirsty Conqueror
+1 [ZNR:259] Brightclimb Pathway
+1 [DMU:244] Caves of Koilos
+1 [ELD:333] Command Tower
+1 [CMR:305] Commander's Plate
+1 [OTJ:268] Concealed Courtyard
+1 [FIN:334] Dark Confidant
+1 [CMM:21] Darksteel Mutation
+1 [PZ1:98] Daxos the Returned
+1 [FUT:21] Daybreak Coronet
+1 [MKM:12] Delney, Streetwise Lookout
+1 [JOU:66] Doomwake Giant
+1 [ROE:3] Eldrazi Conscription
+1 [THS:9] Elspeth, Sun's Champion
+1 [DSK:374] Enduring Tenacity
+1 [DSK:7] Ethereal Armor
+1 [MH3:244] Fell the Profane
+1 [9ED:297] Fellwar Stone
+1 [TMP:19] Flickering Ward
+1 [CHK:10] Ghostly Prison
+1 [CMM:732] Ghoulish Impetus
+1 [MH3:254] Glasswing Grace
+1 [CLU:276] Godless Shrine
+1 [40K:35*] Great Unclean One
+1 [DSC:283] Hall of Heliod's Generosity
+1 [VOW:17] Hallowed Haunting
+1 [THB:101] Hateful Eidolon
+1 [THB:19] Heliod's Intervention
+1 [GTC:17] Holy Mantle
+1 [PIP:17] Idolized
+1 [DOM:241] Isolated Chapel
+1 [STX:197] Killian, Ink Duelist
+1 [ROE:31] Kor Spiritdancer
+1 [M21:25] Light of Promise
+1 [NEO:25] Light-Paws, Emperor's Voice
+1 [WOE:340] Lord Skitter's Blessing
+1 [IKO:226] Lurrus of the Dream-Den
+1 [ZEN:219] Marsh Flats
+1 [M12:25] Mesa Enchantress
+1 [THB:104] Minion's Return
+1 [40K:45*] Nurgle's Rot
+1 [J25:230] Nykthos Paragon
+1 [DSC:101] Ondu Spiritdancer
+1 [ONE:26] Ossification
+1 [CLU:118] Parasitic Impetus
+1 [MH3:39] Pearl-Ear, Imperial Advisor
+8 [FIN:294] Plains
+1 [ONE:28] Planar Disruption
+1 [FRF:23] Sage's Reverie
+1 [TDM:267] Scoured Barrens
+1 [DST:52] Screams from Within
+1 [ZNR:37] Sejiri Shelter
+1 [DSK:30] Sheltered by Ghosts
+1 [STX:272] Shineshadow Snarl
+1 [CHK:283] Shizo, Death's Storehouse
+1 [SUM:274] Sol Ring
+1 [WOC:7] Songbirds' Blessing
+1 [M15:36] Spectra Ward
+1 [WOE:31] Spellbook Vendor
+1 [RTR:24] Sphere of Safety
+1 [10E:45*] Spirit Link
+1 [TSP:42] Spirit Loop
+1 [M12:35] Spirit Mantle
+1 [AER:23] Sram, Senior Edificer
+7 [FIN:300] Swamp
+1 [FDN:258] Swiftfoot Boots
+1 [FIC:365] Talisman of Hierarchy
+1 [TDC:16] Tempest Technique
+1 [LTC:80] The Black Gate
+1 [MID:112] The Meathook Massacre
+1 [DSC:107] Timely Ward
+1 [THB:40] Transcendent Envoy
+1 [JUD:31] Unquestioned Authority
+1 [MB2:114] Urza's Saga
+1 [PLC:92] Vampiric Link
+1 [CMM:436] Vault of Champions
+1 [DKA:158] Vault of the Archangel
+1 [PIP:1068] War Room
+1 [DST:159] Well of Lost Dreams
+1 [MH3:239] Witch Enchanter
+SB: 1 [WOE:202] Eriette of the Charmed Apple
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([ELD:331],[CMR:305],[9ED:297],[SUM:274],[FDN:258],[FIC:365],[DST:159])([THB:298],[FDN:318],[FIN:334],[PZ1:98],[MKM:12],[40K:35*],[STX:197],[ROE:31],[NEO:25],[IKO:226],[M12:25],[DSC:101],[MH3:39],[WOE:31],[AER:23],[MH3:239])([JOU:66],[DSK:374],[THB:101],[J25:230],[THB:40])([MB2:114])([ELD:2],[UDS:52],[CMR:13],[ACR:161],[CMM:21],[FUT:21],[DSK:7],[TMP:19],[CHK:10],[CMM:732],[MH3:254],[VOW:17],[GTC:17],[PIP:17],[M21:25],[WOE:340],[THB:104],[40K:45*],[ONE:26],[CLU:118],[ONE:28],[FRF:23],[DST:52],[DSK:30],[WOC:7],[M15:36],[RTR:24],[10E:45*],[TSP:42],[M12:35],[TDC:16],[MID:112],[DSC:107],[JUD:31],[PLC:92])([MH3:244],[THB:19],[ZNR:37])([ROE:3])([ZNR:259],[DMU:244],[ELD:333],[OTJ:268],[CLU:276],[DSC:283],[DOM:241],[ZEN:219],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[TDM:267],[STX:272],[CHK:283],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[LTC:80],[CMM:436],[DKA:158],[PIP:1068])([THS:9])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([WOE:202])
