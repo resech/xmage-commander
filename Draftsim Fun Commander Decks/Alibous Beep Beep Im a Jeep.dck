@@ -1,0 +1,98 @@
+1 [WAR:1*] Karn, the Great Creator
+1 [NPH:129] Alloy Myr
+1 [FIC:234] Bronze Guardian
+1 [J21:458] Goblin Engineer
+1 [ULG:80] Goblin Welder
+1 [SOM:157] Gold Myr
+1 [SOM:11] Indomitable Archangel
+1 [SOM:168] Iron Myr
+1 [MRD:200] Lodestone Myr
+1 [CMM:38] Losheel, Clockwork Scholar
+1 [SOM:180] Myr Battlesphere
+1 [MRD:215] Myr Retriever
+1 [M21:234] Palladium Myr
+1 [BFZ:226] Pilgrim's Eye
+1 [AER:175] Scrap Trawler
+1 [MBS:129] Shimmer Myr
+1 [FDN:257] Solemn Simulacrum
+1 [M12:39] Sun Titan
+1 [ORI:165] Thopter Engineer
+1 [FDN:721] Boros Charm
+1 [NPH:7] Dispatch
+1 [5DN:64] Feedback Bolt
+1 [CON:15] Path to Exile
+1 [ICE:54] Swords to Plowshares
+1 [C21:16] Excavation Technique
+1 [DKA:87] Faithless Looting
+1 [STX:243] Thrilling Discovery
+1 [AER:142] Aethersphere Harvester
+1 [MRD:278] Ancient Den
+1 [ELD:331] Arcane Signet
+1 [KLD:196] Ballista Charger
+1 [KLD:198] Bomat Bazaar Barge
+1 [CLU:220] Boros Signet
+1 [FIC:339] Commander's Sphere
+1 [FDN:670] Cultivator's Caravan
+1 [MH3:279] Cursed Mirror
+1 [AER:149] Daredevil Dragster
+1 [M15:242] Darksteel Citadel
+1 [KLD:206] Demolition Stomper
+1 [MH2:224] Dermotaxi
+1 [ELD:218] Enchanted Carriage
+1 [KLD:214] Fleetwheel Cruiser
+1 [KHM:390] Gilded Assault Cart
+1 [FDN:725] Gilded Lotus
+1 [MRD:282] Great Furnace
+1 [AER:161] Irontread Crusher
+1 [10E:335] Mind Stone
+1 [DST:130] Mycosynth Lattice
+1 [DST:132] Myr Matrix
+1 [MBS:117] Myr Turbine
+1 [KLD:225] Ovalchase Dragster
+1 [WAR:24] Parhelion II
+1 [AER:170] Peacewalker Colossus
+1 [KHM:242] Raiders' Karve
+1 [PIP:285] Rustvale Bridge
+1 [TMP:308] Scroll Rack
+1 [10E:342] Sculpting Steel
+1 [SOM:201] Semblance Anvil
+1 [NPH:155] Shrine of Loyal Legions
+1 [KLD:234] Skysovereign, Consul Flagship
+1 [XLN:247] Sleek Schooner
+1 [KLD:235] Smuggler's Copter
+1 [SUM:274] Sol Ring
+1 [FIC:363] Talisman of Conviction
+1 [THB:239] Thundering Chariot
+1 [AER:179] Untethered Express
+1 [DOM:237] Weatherlight
+1 [KHM:248] Alpine Meadow
+1 [ZEN:211] Arid Mesa
+1 [BRO:257] Battlefield Forge
+1 [KTK:230] Bloodstained Mire
+1 [AFR:253] Cave of the Frost Dragon
+1 [8ED:322] City of Brass
+1 [DOM:239] Clifftop Retreat
+1 [ELD:333] Command Tower
+1 [AFR:254] Den of the Bugbear
+1 [KTK:233] Flooded Strand
+1 [STX:266] Furycalm Snarl
+1 [JOU:163] Mana Confluence
+1 [ZEN:219] Marsh Flats
+1 [4ED:361] Mishra's Factory
+3 [FIN:303] Mountain
+1 [M14:228] Mutavault
+1 [ZNR:263] Needleverge Pathway
+3 [FIN:294] Plains
+1 [SUM:284] Plateau
+1 [SPG:38] Prismatic Vista
+1 [EVE:178] Rugged Prairie
+1 [CLU:279] Sacred Foundry
+1 [ZEN:223] Scalding Tarn
+1 [CMM:427] Spectator Seating
+1 [ACR:111] Sunbaked Canyon
+1 [FDN:705] Temple of Triumph
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+SB: 1 [C21:334] Alibou, Ancient Witness
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([NPH:129],[FIC:234],[SOM:157],[SOM:168],[MRD:200],[SOM:180],[MRD:215],[M21:234],[BFZ:226],[AER:175],[MBS:129],[FDN:257])([MRD:278],[M15:242],[MRD:282],[PIP:285])([AER:142],[ELD:331],[KLD:196],[KLD:198],[CLU:220],[FIC:339],[FDN:670],[MH3:279],[AER:149],[KLD:206],[MH2:224],[ELD:218],[KLD:214],[KHM:390],[FDN:725],[AER:161],[10E:335],[DST:130],[DST:132],[MBS:117],[KLD:225],[WAR:24],[AER:170],[KHM:242],[TMP:308],[10E:342],[SOM:201],[NPH:155],[KLD:234],[XLN:247],[KLD:235],[SUM:274],[FIC:363],[THB:239],[AER:179],[DOM:237])([J21:458],[ULG:80],[SOM:11],[CMM:38],[M12:39],[ORI:165])([FDN:721],[NPH:7],[5DN:64],[CON:15],[ICE:54])([KHM:248],[ZEN:211],[BRO:257],[KTK:230],[AFR:253],[8ED:322],[DOM:239],[ELD:333],[AFR:254],[KTK:233],[STX:266],[JOU:163],[ZEN:219],[4ED:361],[FIN:303],[FIN:303],[FIN:303],[M14:228],[ZNR:263],[FIN:294],[FIN:294],[FIN:294],[SUM:284],[SPG:38],[EVE:178],[CLU:279],[ZEN:223],[CMM:427],[ACR:111],[FDN:705],[KTK:248],[KTK:249])([WAR:1*])([C21:16],[DKA:87],[STX:243])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C21:334])

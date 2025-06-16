@@ -1,0 +1,76 @@
+1 [DOM:210] Amaranthine Wall
+1 [M14:4] Angelic Wall
+1 [KLD:202] Consulate Skygate
+1 [MMQ:290] Crenellated Wall
+1 [STX:255] Excavated Wall
+1 [7ED:78] Glacial Wall
+1 [RTR:40] Hover Barrier
+1 [FRF:15] Jeskai Barricade
+1 [APC:106] Jungle Barrier
+1 [THS:55] Mnemonic Wall
+1 [USG:303] Mobile Fort
+1 [ROE:203] Overgrown Battlement
+1 [PCY:41] Quicksilver Wall
+1 [MRD:248] Steel Wall
+1 [PLS:17] Sunscape Familiar
+1 [10E:124*] Wall of Air
+1 [ARB:16] Wall of Denial
+1 [USG:315] Wall of Junk
+1 [CSP:23] Wall of Shards
+1 [C19:13] Wall of Stolen Identity
+1 [SOM:222] Wall of Tanglecord
+1 [STH:50] Wall of Tears
+1 [RTR:115] Axebane Guardian
+1 [JUD:107] Brawn
+1 [THS:214] Colossus of Akros
+1 [RAV:46] Drift of Phantasms
+1 [AFR:15] Flumph
+1 [M15:177] Hornet Nest
+1 [WWK:16] Perimeter Captain
+1 [THB:61] Riptide Turtle
+1 [TDC:303] Sidar Kondo of Jamuraa
+1 [DOM:69] Tetsuko Umezawa, Fugitive
+1 [TDC:276] Towering Titan
+1 [JUD:54] Wonder
+1 [FCA:21] Akroma's Will
+1 [ALA:155] Bant Charm
+1 [IKO:145] Barrier Breach
+1 [7ED:67] Counterspell
+1 [SOI:16] Eerie Interlude
+1 [M21:188] Heroic Intervention
+1 [TSP:202] Krosan Grip
+1 [FDN:710] Negate
+1 [RNA:147] Tower Defense
+1 [DTK:173] Assault Formation
+1 [RNA:182] High Alert
+1 [TMP:80] Propaganda
+1 [EXO:17] Reconnaissance
+1 [IKO:65] Reconnaissance Mission
+1 [9ED:44] Serra's Blessing
+1 [ELD:331] Arcane Signet
+1 [FIC:339] Commander's Sphere
+1 [KTK:219] Dragon Throne of Tarkir
+1 [7ED:307] Meekstone
+1 [THB:234] Mirror Shield
+1 [RAV:268] Peregrine Mask
+1 [CLU:228] Simic Signet
+1 [SUM:274] Sol Ring
+1 [CLU:229] Azorius Chancery
+1 [FDN:683] Azorius Guildgate
+1 [FCA:64] Command Beacon
+1 [ELD:333] Command Tower
+1 [TDM:255] Evolving Wilds
+10 [FIN:306] Forest
+10 [FIN:297] Island
+1 [M3C:361] Opal Palace
+1 [MID:265] Overgrown Farmland
+9 [FIN:294] Plains
+1 [BFZ:241] Prairie Stream
+1 [FDN:264] Rogue's Passage
+1 [ALA:229] Seaside Citadel
+1 [FDN:694] Selesnya Guildgate
+1 [FDN:702] Temple of Mystery
+1 [TDM:270] Tranquil Cove
+SB: 1 [M19:212] Arcades, the Strategist
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([DOM:210],[KLD:202],[MMQ:290],[STX:255],[USG:303],[MRD:248],[USG:315],[SOM:222],[THS:214])([ELD:331],[FIC:339],[KTK:219],[7ED:307],[THB:234],[RAV:268],[CLU:228],[SUM:274])([M14:4],[7ED:78],[RTR:40],[FRF:15],[APC:106],[THS:55],[ROE:203],[PCY:41],[PLS:17],[10E:124*],[ARB:16],[CSP:23],[C19:13],[STH:50],[RTR:115],[JUD:107],[RAV:46],[AFR:15],[M15:177],[WWK:16],[THB:61],[TDC:303],[DOM:69],[TDC:276],[JUD:54])([DTK:173],[RNA:182],[TMP:80],[EXO:17],[IKO:65],[9ED:44])([FCA:21],[ALA:155],[IKO:145],[7ED:67],[SOI:16],[M21:188],[TSP:202],[FDN:710],[RNA:147])([CLU:229],[FDN:683],[FCA:64],[ELD:333],[TDM:255],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[M3C:361],[MID:265],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[BFZ:241],[FDN:264],[ALA:229],[FDN:694],[FDN:702],[TDM:270])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M19:212])

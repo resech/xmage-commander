@@ -1,0 +1,88 @@
+1 [JMP:28] Allosaurus Shepherd
+1 [M13:160] Arbor Elf
+1 [ZNR:179] Ashaya, Soul of the Wild
+1 [MID:168] Augur of Autumn
+1 [CLU:158] Beast Whisperer
+1 [ONS:248] Birchlore Rangers
+1 [AFR:176] Circle of Dreams Druid
+1 [TDM:138] Craterhoof Behemoth
+1 [CHK:205] Dosan the Falling Leaf
+1 [DRC:49] Druid of Purification
+1 [FDN:219] Elvish Archdruid
+1 [M15:173] Elvish Mystic
+1 [8ED:243] Elvish Pioneer
+1 [H2R:14] Endurance
+1 [5DN:86] Eternal Witness
+1 [BRO:179] Fauna Shaman
+1 [ICE:244] Fyndhorn Elves
+1 [MOR:124] Gilt-Leaf Archdruid
+1 [LTC:247] Great Oak Guardian
+1 [GTC:123] Gyre Sage
+1 [HOU:119] Hope Tender
+1 [ROE:190] Joraga Treespeaker
+1 [THS:160] Karametra's Acolyte
+1 [WTH:133] Llanowar Druid
+1 [FDN:227] Llanowar Elves
+1 [DOM:172] Marwyn, the Nurturer
+1 [KHM:184] Masked Vandal
+1 [USG:270] Priest of Titania
+1 [VIS:117] Quirion Ranger
+1 [KHM:188] Realmwalker
+1 [EVE:74] Regal Force
+1 [TSP:215] Scryb Ranger
+1 [W16:16] Soul of the Harvest
+1 [FRF:141] Temur Sabertooth
+1 [LRW:239] Treefolk Harbinger
+1 [MIR:251] Village Elder
+1 [FDN:649] Vizier of the Menagerie
+1 [SCD:215] Voice of Many
+1 [THS:182] Voyaging Satyr
+1 [LGN:144] Wirewood Channeler
+1 [SCG:133] Wirewood Symbiote
+1 [M15:209] Yisan, the Wanderer Bard
+1 [NPH:103] Beast Within
+1 [PZ2:36] Benefactor's Draught
+1 [M15:172] Chord of Calling
+1 [ULG:98] Crop Rotation
+1 [OTP:29] Force of Vigor
+1 [M21:188] Heroic Intervention
+1 [WWK:108] Nature's Claim
+1 [M20:193] Shared Summons
+1 [FUT:139] Summoner's Pact
+1 [M20:198] Veil of Summer
+1 [6ED:269] Worldly Tutor
+1 [8ED:238] Collective Unconscious
+1 [MBS:81] Green Sun's Zenith
+1 [AKH:170] Harvest Season
+1 [VIS:114] Natural Order
+1 [FRF:138] Shamanic Revelation
+1 [BFZ:192] Sylvan Scrying
+1 [MRD:134] Tooth and Nail
+1 [ZNR:215] Turntimber Symbiosis
+1 [9ED:282] Weird Harvest
+1 [TMP:213] Aluren
+1 [MIR:221] Hall of Gemstone
+1 [CMM:324] Song of the Dryads
+1 [EXO:129] Survival of the Fittest
+1 [5ED:329] Sylvan Library
+1 [RAV:257] Cloudstone Curio
+1 [STH:138] Mox Diamond
+1 [5DN:156] Staff of Domination
+1 [ELD:161] The Great Henge
+1 [LRW:263] Thousand-Year Elixir
+1 [SHM:267] Umbral Mantle
+1 [LCI:410a] Cavern of Souls
+1 [FUT:174] Dryad Arbor
+15 [FIN:306] Forest
+1 [USG:321] Gaea's Cradle
+1 [ZEN:220] Misty Rainforest
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [SPG:38] Prismatic Vista
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:248] Windswept Heath
+1 [ONS:329] Wirewood Lodge
+1 [KTK:249] Wooded Foothills
+1 [M3C:409] Yavimaya, Cradle of Growth
+SB: 1 [ODY:267] Seton, Krosan Protector
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([RAV:257],[STH:138],[5DN:156],[ELD:161],[LRW:263],[SHM:267])([JMP:28],[M13:160],[ZNR:179],[MID:168],[CLU:158],[ONS:248],[AFR:176],[TDM:138],[CHK:205],[DRC:49],[FDN:219],[M15:173],[8ED:243],[H2R:14],[5DN:86],[BRO:179],[ICE:244],[MOR:124],[LTC:247],[GTC:123],[HOU:119],[ROE:190],[THS:160],[WTH:133],[FDN:227],[DOM:172],[KHM:184],[USG:270],[VIS:117],[KHM:188],[EVE:74],[TSP:215],[W16:16],[FRF:141],[LRW:239],[MIR:251],[FDN:649],[SCD:215],[THS:182],[LGN:144],[SCG:133],[M15:209])([TMP:213],[MIR:221],[CMM:324],[EXO:129],[5ED:329])([NPH:103],[PZ2:36],[M15:172],[ULG:98],[OTP:29],[M21:188],[WWK:108],[M20:193],[FUT:139],[M20:198],[6ED:269])([FUT:174])([LCI:410a],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[USG:321],[ZEN:220],[THS:223],[SPG:38],[ZEN:229],[KTK:248],[ONS:329],[KTK:249],[M3C:409])([8ED:238],[MBS:81],[AKH:170],[VIS:114],[FRF:138],[BFZ:192],[MRD:134],[ZNR:215],[9ED:282])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ODY:267])

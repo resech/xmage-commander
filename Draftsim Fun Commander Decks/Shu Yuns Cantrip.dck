@@ -1,0 +1,91 @@
+1 [STX:295] Archmage Emeritus
+1 [KHM:123] Birgi, God of Storytelling
+1 [2X2:208] Elsha of the Infinite
+1 [WAR:197] Feather, the Redeemed
+1 [FDN:716] Guttersnipe
+1 [M20:212] Kykar, Wind's Fury
+1 [STX:21] Mavinda, Students' Advocate
+1 [MOM:28] Monastery Mentor
+1 [STX:115] Storm-Kiln Artist
+1 [M13:72] Talrand, Sky Summoner
+1 [M14:163] Young Pyromancer
+1 [ORI:84] Willbreaker
+1 [MMQ:61] Brainstorm
+1 [PLC:116] Brute Force
+1 [KLD:108] Built to Smash
+1 [PLS:22] Confound
+1 [7ED:67] Counterspell
+1 [SHM:88] Crimson Wisps
+1 [M21:15] Defiant Strike
+1 [JUD:38] Defy Gravity
+1 [ROE:20] Emerge Unscathed
+1 [OGW:108] Expedite
+1 [J25:550] Fists of Flame
+1 [CMM:24] Flawless Maneuver
+1 [BLC:106] Generous Gift
+1 [CLU:63] Gods Willing
+1 [THB:141] Infuriate
+1 [ZNR:146] Kazuul's Fury
+1 [IKO:56] Keep Safe
+1 [STH:35] Leap
+1 [FDN:512] Opt
+1 [CON:15] Path to Exile
+1 [ZNR:37] Sejiri Shelter
+1 [TMP:86] Shadow Rift
+1 [ODY:46] Shelter
+1 [XLN:35] Sheltering Light
+1 [KTK:56] Stubborn Denial
+1 [ICE:54] Swords to Plowshares
+1 [ORI:166] Titan's Strength
+1 [M21:170] Unleash Fury
+1 [FDN:583] Valorous Stance
+1 [DGM:135] Wear // Tear
+1 [POR:44] Cloak of Feathers
+1 [FDN:620] Crash Through
+1 [ROE:60] Distortion Strike
+1 [NPH:35] Gitaxian Probe
+1 [M12:73] Ponder
+1 [ODY:215] Reckless Charge
+1 [5DN:36] Serum Visions
+1 [OGW:47] Slip Through Space
+1 [10E:61] Wrath of God
+1 [THS:39] Aqueous Form
+1 [KTK:180] Jeskai Ascendancy
+1 [PCY:45] Rhystic Study
+1 [RNA:22] Smothering Tithe
+1 [IKO:215] Whirlwind of Thought
+1 [ELD:331] Arcane Signet
+1 [CLU:219] Azorius Signet
+1 [CLU:220] Boros Signet
+1 [CLU:224] Izzet Signet
+1 [EVE:171] Leering Emblem
+1 [ISD:231] Runechanter's Pike
+1 [SUM:274] Sol Ring
+1 [FDN:258] Swiftfoot Boots
+1 [FIC:363] Talisman of Conviction
+1 [TDC:330] Talisman of Creativity
+1 [MRD:256] Talisman of Progress
+1 [DMU:243] Adarkar Wastes
+1 [BRO:257] Battlefield Forge
+1 [ELD:333] Command Tower
+1 [ACR:112] Fiery Islet
+1 [CLU:277] Hallowed Fountain
+1 [KHM:260] Hengegate Pathway
+5 [FIN:297] Island
+5 [FIN:303] Mountain
+1 [SHM:277] Mystic Gate
+1 [TDM:262] Mystic Monastery
+1 [ZNR:263] Needleverge Pathway
+4 [FIN:294] Plains
+1 [IKO:251] Raugrin Triome
+1 [ZNR:264] Riverglide Pathway
+1 [CLU:279] Sacred Foundry
+1 [CLB:360] Sea of Clouds
+1 [DMU:255] Shivan Reef
+1 [CMM:427] Spectator Seating
+1 [CLU:280] Steam Vents
+1 [ACR:111] Sunbaked Canyon
+1 [CMM:434] Training Center
+SB: 1 [FRF:52] Shu Yun, the Silent Tempest
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([ELD:331],[CLU:219],[CLU:220],[CLU:224],[EVE:171],[ISD:231],[SUM:274],[FDN:258],[FIC:363],[TDC:330],[MRD:256])([STX:295],[KHM:123],[2X2:208],[WAR:197],[FDN:716],[M20:212],[STX:21],[MOM:28],[STX:115],[M13:72],[M14:163],[ORI:84])([THS:39],[KTK:180],[PCY:45],[RNA:22],[IKO:215])([DGM:135])([MMQ:61],[PLC:116],[KLD:108],[PLS:22],[7ED:67],[SHM:88],[M21:15],[JUD:38],[ROE:20],[OGW:108],[J25:550],[CMM:24],[BLC:106],[CLU:63],[THB:141],[ZNR:146],[IKO:56],[STH:35],[FDN:512],[CON:15],[ZNR:37],[TMP:86],[ODY:46],[XLN:35],[KTK:56],[ICE:54],[ORI:166],[M21:170],[FDN:583])([DMU:243],[BRO:257],[ELD:333],[ACR:112],[CLU:277],[KHM:260],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[SHM:277],[TDM:262],[ZNR:263],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[IKO:251],[ZNR:264],[CLU:279],[CLB:360],[DMU:255],[CMM:427],[CLU:280],[ACR:111],[CMM:434])([POR:44],[FDN:620],[ROE:60],[NPH:35],[M12:73],[ODY:215],[5DN:36],[OGW:47],[10E:61])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FRF:52])

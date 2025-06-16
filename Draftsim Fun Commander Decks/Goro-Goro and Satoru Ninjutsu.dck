@@ -1,0 +1,89 @@
+1 [NEO:338] Biting-Palm Ninja
+1 [OTC:128] Changeling Outcast
+1 [CLB:172] Elturel Survivors
+1 [OTC:226] Fallen Shinobi
+1 [CLB:642] Firkraag, Cunning Instigator
+1 [FDN:198] Flamewake Phoenix
+1 [MKM:126] Frantic Scapegoat
+1 [WOE:246] Gingerbrute
+1 [AFR:367] Grazilaxx, Illithid Scholar
+1 [BOK:37] Higure, the Still Wind
+1 [J21:697] Ingenious Infiltrator
+1 [BOK:71] Ink-Eyes, Servant of Oni
+1 [FRF:155] Kolaghan, the Storm's Fury
+1 [TDC:222] Loyal Apprentice
+1 [BOK:43] Mistblade Shinobi
+1 [NEO:334] Moon-Circuit Hacker
+1 [NEO:335] Moonsnare Specialist
+1 [NEO:114] Nashi, Moon Sage's Scion
+1 [TSP:120] Nether Traitor
+1 [NEO:116] Nezumi Prowler
+1 [BOK:44] Ninja of the Deep Hours
+1 [OTC:22] Orochi Soul-Reaver
+1 [DMU:140] Phoenix Chick
+1 [SNC:116] Professional Face-Breaker
+1 [NEO:336] Prosperous Thief
+1 [NEO:157] Rabbit Battery
+1 [DTK:115] Reckless Imp
+1 [NEO:158] Reinforced Ronin
+1 [OTJ:230] Satoru, the Infiltrator
+1 [ZNR:159] Shatterskull Charger
+1 [DMU:143] Shivan Devastator
+1 [OTC:241] Silent-Blade Oni
+1 [NEO:236] Silver-Fur Master
+1 [AKH:71] Slither Blade
+1 [DOM:69] Tetsuko Umezawa, Fugitive
+1 [NEO:337] Thousand-Faced Shadow
+1 [BOK:88] Throat Slitter
+1 [RNA:120] Tin Street Dodger
+1 [FCA:60] Yuriko, the Tiger's Shadow
+1 [MKM:111] Anzrag's Rampage
+1 [ISD:130] Blasphemous Act
+1 [MH3:252] Bloodsoaked Insight
+1 [FDN:586] Chart a Course
+1 [FDN:712] Feed the Swarm
+1 [IKO:60] Of One Mind
+1 [BFZ:120] Painful Truths
+1 [WOE:150] Song of Totentanz
+1 [MH3:248] Sundering Eruption
+1 [FDN:188] Abrade
+1 [LRW:64] Familiar's Ruse
+1 [MAT:7] Filter Out
+1 [PLC:72] Imp's Mischief
+1 [FDN:710] Negate
+1 [BLC:171] Perplexing Test
+1 [ARB:29] Soul Manipulation
+1 [ELD:331] Arcane Signet
+1 [MH3:279] Cursed Mirror
+1 [MRD:199] Lightning Greaves
+1 [SUM:274] Sol Ring
+1 [ONE:153] Urabrask's Forge
+1 [TDC:209] Curse of Opulence
+1 [J22:33] Daring Piracy
+1 [MH3:215] Arena of Glory
+1 [FIC:374] Ash Barrens
+1 [WWK:132] Bojuka Bog
+1 [EVE:175] Cascade Bluffs
+1 [SOI:270] Choked Estuary
+1 [ELD:333] Command Tower
+1 [ALA:222] Crumbling Necropolis
+1 [ODY:319] Darkwater Catacombs
+1 [XLN:252] Dragonskull Summit
+1 [XLN:253] Drowned Catacomb
+1 [CON:142] Exotic Orchard
+1 [SOI:272] Foreboding Ruins
+1 [STX:265] Frostboil Snarl
+1 [ALA:224] Grixis Panorama
+7 [FIN:297] Island
+1 [CLU:239] Izzet Boilerworks
+4 [FIN:303] Mountain
+1 [FIC:411] Path of Ancestry
+1 [MH3:225] Seething Landscape
+1 [ODY:326] Shadowblood Ridge
+1 [BFZ:247] Smoldering Marsh
+1 [DOM:247] Sulfur Falls
+1 [BFZ:249] Sunken Hollow
+5 [FIN:300] Swamp
+SB: 1 [MOC:445] Goro-Goro and Satoru
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([WOE:246],[NEO:116],[NEO:157],[NEO:158])([ELD:331],[MH3:279],[MRD:199],[SUM:274],[ONE:153])([NEO:338],[OTC:128],[CLB:172],[OTC:226],[CLB:642],[FDN:198],[MKM:126],[AFR:367],[BOK:37],[J21:697],[BOK:71],[FRF:155],[TDC:222],[BOK:43],[NEO:335],[NEO:114],[TSP:120],[BOK:44],[OTC:22],[DMU:140],[SNC:116],[NEO:336],[DTK:115],[OTJ:230],[ZNR:159],[DMU:143],[OTC:241],[NEO:236],[AKH:71],[DOM:69],[NEO:337],[BOK:88],[RNA:120],[FCA:60])([NEO:334])([TDC:209],[J22:33])([FDN:188],[LRW:64],[MAT:7],[PLC:72],[FDN:710],[BLC:171],[ARB:29])([MH3:215],[FIC:374],[WWK:132],[EVE:175],[SOI:270],[ELD:333],[ALA:222],[ODY:319],[XLN:252],[XLN:253],[CON:142],[SOI:272],[STX:265],[ALA:224],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[CLU:239],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIC:411],[MH3:225],[ODY:326],[BFZ:247],[DOM:247],[BFZ:249],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300])([MKM:111],[ISD:130],[MH3:252],[FDN:586],[FDN:712],[IKO:60],[BFZ:120],[WOE:150],[MH3:248])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MOC:445])

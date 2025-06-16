@@ -1,0 +1,87 @@
+1 [OGW:104] Chandra, Flamecaller
+1 [ULG:29] Cloud of Faeries
+1 [MBS:21] Consecrated Sphinx
+1 [AKH:49] Curator of Mysteries
+1 [IKO:10] Drannith Healer
+1 [IKO:113] Drannith Stinger
+1 [SCG:12] Eternal Dragon
+1 [IKO:13] Flourishing Fox
+1 [ELD:128] Irencrag Pyromancer
+1 [RIX:45] Nezahal, Primal Tide
+1 [HOU:40] Nimble Obstructionist
+1 [GPT:123] Niv-Mizzet, the Firemind
+1 [MBS:126] Psychosis Crawler
+1 [HOU:139] The Locust God
+1 [AKH:75] Vizier of Tumbling Sands
+1 [APC:36] Whirlpool Warrior
+1 [ALA:4] Angelsong
+1 [USG:7] Clear
+1 [HOU:32] Countervailing Winds
+1 [WTH:101] Firestorm
+1 [CMM:24] Flawless Maneuver
+1 [AKH:13] Forsake the Worldly
+1 [SCG:16] Gilded Light
+1 [AKH:57] Hieroglyphic Illumination
+1 [ULG:36] Miscalculation
+1 [IKO:59] Neutralize
+1 [ULG:22] Radiant's Judgment
+1 [IKO:131] Raking Claws
+1 [ULG:40] Rebuild
+1 [USG:92] Rescind
+1 [USG:213] Scrap
+1 [IKO:68] Startling Development
+1 [ICE:54] Swords to Plowshares
+1 [ONS:2] Akroma's Vengeance
+1 [IKO:43] Boon of the Wish-Giver
+1 [IKO:122] Go for Blood
+1 [AKH:67] Sacred Excavation
+1 [ONS:232] Slice and Dice
+1 [AKH:149] Sweltering Suns
+1 [AKH:154] Violent Impact
+1 [USG:111] Windfall
+1 [C20:76] Astral Drift
+1 [AKH:8] Cast Out
+1 [AKH:61] Lay Claim
+1 [ONS:217] Lightning Rift
+1 [IKO:61] Ominous Seas
+1 [USG:90] Power Taint
+1 [IKO:65] Reconnaissance Mission
+1 [IKO:319] Shark Typhoon
+1 [HA3:18] Tectonic Reformation
+1 [M21:294] Teferi's Ageless Insight
+1 [HOU:158] Abandoned Sarcophagus
+1 [ORI:221] Alhammarret's Archive
+1 [ELD:331] Arcane Signet
+1 [CLU:219] Azorius Signet
+1 [AFR:240] Bag of Holding
+1 [CLU:220] Boros Signet
+1 [GRN:233] Chromatic Lantern
+1 [FIC:339] Commander's Sphere
+1 [M14:209] Elixir of Immortality
+1 [USG:295] Fluctuator
+1 [CLU:224] Izzet Signet
+1 [IKO:238] Raugrin Crystal
+1 [SUM:274] Sol Ring
+1 [EVE:175] Cascade Bluffs
+1 [8ED:322] City of Brass
+1 [ELD:333] Command Tower
+1 [USG:320] Drifting Meadow
+1 [CON:142] Exotic Orchard
+1 [ONS:317] Forgotten Cave
+1 [EMN:203] Geier Reach Sanitarium
+1 [KLD:247] Inventors' Fair
+8 [FIN:297] Island
+1 [ONS:320] Lonely Sandbar
+6 [FIN:303] Mountain
+1 [SHM:277] Mystic Gate
+4 [FIN:294] Plains
+1 [IKO:251] Raugrin Triome
+1 [M19:254] Reliquary Tower
+1 [USG:324] Remote Isle
+1 [EVE:178] Rugged Prairie
+1 [ONS:324] Secluded Steppe
+1 [USG:328] Smoldering Crater
+SB: 1 [C20:4] Brallin, Skyshark Rider
+SB: 1 [C20:14] Shabraz, the Skyshark
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([MBS:126])([HOU:158],[ORI:221],[ELD:331],[CLU:219],[AFR:240],[CLU:220],[GRN:233],[FIC:339],[M14:209],[USG:295],[CLU:224],[IKO:238],[SUM:274])([ULG:29],[MBS:21],[AKH:49],[IKO:10],[IKO:113],[SCG:12],[IKO:13],[ELD:128],[RIX:45],[HOU:40],[GPT:123],[HOU:139],[AKH:75],[APC:36])([C20:76],[AKH:8],[AKH:61],[ONS:217],[IKO:61],[USG:90],[IKO:65],[IKO:319],[HA3:18],[M21:294])([ALA:4],[USG:7],[HOU:32],[WTH:101],[CMM:24],[AKH:13],[SCG:16],[AKH:57],[ULG:36],[IKO:59],[ULG:22],[IKO:131],[ULG:40],[USG:92],[USG:213],[IKO:68],[ICE:54])([EVE:175],[8ED:322],[ELD:333],[USG:320],[CON:142],[ONS:317],[EMN:203],[KLD:247],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[ONS:320],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[SHM:277],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[IKO:251],[M19:254],[USG:324],[EVE:178],[ONS:324],[USG:328])([OGW:104])([ONS:2],[IKO:43],[IKO:122],[AKH:67],[ONS:232],[AKH:149],[AKH:154],[USG:111])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C20:4],[C20:14])

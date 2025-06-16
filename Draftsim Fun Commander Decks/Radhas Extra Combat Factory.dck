@@ -1,0 +1,74 @@
+1 [XLN:132] Angrath's Marauders
+1 [GTC:226] Armored Transport
+1 [ISD:131] Bloodcrazed Neonate
+1 [M21:131] Bolt Hound
+1 [KLD:199] Bomat Courier
+1 [M21:133] Brash Taunter
+1 [AKH:125] Combat Celebrant
+1 [SOM:116] Copperhorn Scout
+1 [FDN:621] Dragon Mage
+1 [MID:136] Falkenrath Perforator
+1 [DST:75] Fangren Firstborn
+1 [FDN:636] Fierce Empath
+1 [FDN:199] Frenzied Goblin
+1 [J21:693] Goblin Anarchomancer
+1 [MBS:64] Goblin Wardriver
+1 [TDC:216] Grenzo, Havoc Raiser
+1 [ZNR:143] Grotag Night-Runner
+1 [EMN:130a] Hanweir Garrison
+1 [KTK:134] Heir of the Wilds
+1 [DKA:93] Hellrider
+1 [AFR:148] Hobgoblin Captain
+1 [AER:87] Kari Zev, Skyship Raider
+1 [ZNR:147] Leyline Tyrant
+1 [FDN:227] Llanowar Elves
+1 [PLC:134] Magus of the Library
+1 [CMM:241] Magus of the Wheel
+1 [DKA:96] Markov Blademaster
+1 [ZNR:150] Moraug, Fury of Akoum
+1 [ICE:199] Marton Stromgald
+1 [OTC:199] Ohran Frostfang
+1 [CSP:115] Ohran Viper
+1 [SPG:33] Port Razer
+1 [PLC:162] Radha, Heir to Keld
+1 [ELD:138] Robber of the Rich
+1 [CHK:239] Sakura-Tribe Elder
+1 [M20:159] Scorch Spitter
+1 [TDC:230] Scourge of the Throne
+1 [MBS:131] Signal Pest
+1 [CMM:325] Stonehoof Chieftain
+1 [ELD:177] Syr Faren, the Hengehammer
+1 [DSC:201] Thunderfoot Baloth
+1 [RIX:121] Tilonalli's Summoner
+1 [ELD:147] Torbran, Thane of Red Fell
+1 [KHM:197] Toski, Bearer of Secrets
+1 [PZ2:70759] Varchild, Betrayer of Kjeldor
+1 [9ED:283] Wood Elves
+1 [AFC:329] Wulfgar of Icewind Dale
+1 [ELD:172] Return of the Wildspeaker
+1 [DKA:87] Faithless Looting
+1 [M12:190] Rampant Growth
+1 [10E:225] Relentless Assault
+1 [FRF:138] Shamanic Revelation
+1 [ROE:172] World at War
+1 [ONS:185] Aggravated Assault
+1 [FDN:715] Gratuitous Violence
+1 [RNA:130] Guardian Project
+1 [RNA:201] Rhythm of the Wild
+1 [DOM:123] The Flame of Keld
+1 [7ED:282] Wild Growth
+1 [ELD:331] Arcane Signet
+1 [AFR:240] Bag of Holding
+1 [LRW:256] Dolmen Gate
+1 [SUM:274] Sol Ring
+1 [ELD:333] Command Tower
+1 [TDM:255] Evolving Wilds
+15 [FIN:306] Forest
+1 [FDN:690] Gruul Guildgate
+1 [ZEN:217] Kazandu Refuge
+14 [FIN:303] Mountain
+1 [TDC:380] Myriad Landscape
+1 [TDM:265] Rugged Highlands
+SB: 1 [DOM:195] Grand Warlord Radha
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([GTC:226],[KLD:199],[MBS:131])([ELD:331],[AFR:240],[LRW:256],[SUM:274])([XLN:132],[ISD:131],[M21:131],[M21:133],[AKH:125],[SOM:116],[FDN:621],[MID:136],[DST:75],[FDN:636],[FDN:199],[J21:693],[MBS:64],[TDC:216],[ZNR:143],[EMN:130a],[KTK:134],[DKA:93],[AFR:148],[AER:87],[ZNR:147],[FDN:227],[PLC:134],[CMM:241],[DKA:96],[ZNR:150],[ICE:199],[OTC:199],[CSP:115],[SPG:33],[PLC:162],[ELD:138],[CHK:239],[M20:159],[TDC:230],[CMM:325],[ELD:177],[DSC:201],[RIX:121],[ELD:147],[KHM:197],[PZ2:70759],[9ED:283],[AFC:329])([ONS:185],[FDN:715],[RNA:130],[RNA:201],[DOM:123],[7ED:282])([ELD:172])([ELD:333],[TDM:255],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FDN:690],[ZEN:217],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[TDC:380],[TDM:265])([DKA:87],[M12:190],[10E:225],[FRF:138],[ROE:172])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DOM:195])

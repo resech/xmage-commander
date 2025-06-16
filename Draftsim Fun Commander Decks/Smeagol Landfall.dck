@@ -1,0 +1,89 @@
+1 [ZNR:231] Nissa of Shadowed Boughs
+1 [KLD:163] Nissa, Vital Force
+1 [ZNR:178] Ancient Greenwarden
+1 [DSC:130] Arvinox, the Mind Flail
+1 [ZNR:179] Ashaya, Soul of the Wild
+1 [WWK:96] Avenger of Zendikar
+1 [DFT:77] Bloodghast
+1 [ONE:161] Cankerbloom
+1 [REX:34] Compy Swarm
+1 [LTR:159] Dunedain Rangers
+1 [CLU:111] Fleshbag Marauder
+1 [LTR:309] Gollum, Patient Plotter
+1 [DMC:27] Greensleeves, Maro-Sorcerer
+1 [OTJ:207] Honest Rutstein
+1 [MID:108] Jadar, Ghoulcaller of Nephalia
+1 [ZNR:189] Kazandu Mammoth
+1 [ZNR:193] Lotus Cobra
+1 [MID:113] Morbid Opportunist
+1 [WOE:231] Mosswood Dreadknight
+1 [LTR:100] Nazgul
+1 [ZEN:107] Ob Nixilis, the Fallen
+1 [LTR:217] Old Man Willow
+1 [GRN:82] Plaguecrafter
+1 [FDN:645] Rampaging Baloths
+1 [HOU:129] Ramunap Excavator
+1 [FDN:182] Reassembling Skeleton
+1 [LTR:284] Ringwraiths
+1 [CHK:239] Sakura-Tribe Elder
+1 [LTR:106] Sauron, the Necromancer
+1 [ZNR:203] Scute Swarm
+1 [M14:196] Sporemound
+1 [J25:728] Tireless Provisioner
+1 [SOI:233] Tireless Tracker
+1 [BFZ:197] Undergrowth Champion
+1 [PIP:383] Wasteland Raider
+1 [THB:123] Woe Strider
+1 [M13:162] Boundless Realms
+1 [LTR:532] Claim the Precious
+1 [FDN:221] Genesis Wave
+1 [MBS:81] Green Sun's Zenith
+1 [AKH:170] Harvest Season
+1 [LTR:408] Lash of the Balrog
+1 [TMP:151] Reanimate
+1 [FDN:183] Rise of the Dark Realms
+1 [LTR:221] Rise of the Witch-king
+1 [LTR:105] Sam's Desperate Rescue
+1 [LTR:186] The Ring Goes South
+1 [MKM:187] Assassin's Trophy
+1 [ZNR:192] Khalni Ambush
+1 [ONE:163] Conduit of Worlds
+1 [LTR:242] Inherited Envelope
+1 [BRC:27] Staff of Titania
+1 [LCI:126] Tarrian's Journal
+1 [5ED:140] Animate Dead
+1 [ROE:176] Awakening Zone
+1 [LTR:355] Call of the Ring
+1 [MIC:18] Curse of the Restless Dead
+1 [DSC:86] Deathreap Ritual
+1 [ORI:176] Evolutionary Leap
+1 [MKM:208] Insidious Roots
+1 [M20:214] Moldervine Reclamation
+1 [LTR:102] One Ring to Rule Them All
+1 [ULG:63] Phyrexian Reclamation
+1 [FDN:644] Primeval Bounty
+1 [BFZ:121] Retreat to Hagra
+1 [LTR:187] Shortcut to Mushrooms
+1 [ORI:209] Zendikar's Roil
+1 [LTR:253] Barad-dur
+1 [BFZ:233] Blighted Woodland
+1 [SNC:248] Brokers Hideout
+1 [SNC:249] Cabaretti Courtyard
+1 [FUT:174] Dryad Arbor
+1 [LCI:271] Echoing Deeps
+1 [MKM:261] Escape Tunnel
+1 [TDM:255] Evolving Wilds
+1 [BLB:252] Fabled Passage
+8 [FIN:306] Forest
+1 [DKA:156] Grim Backwoods
+1 [MMQ:320] High Market
+1 [SNC:251] Maestros Theater
+1 [SNC:252] Obscura Storefront
+1 [LCI:279] Promising Vein
+1 [SNC:255] Riveteers Overlook
+1 [LTR:261] Shire Terrace
+7 [FIN:300] Swamp
+1 [DSK:269] Terramorphic Expanse
+SB: 1 [LTR:231] Smeagol, Helpful Guide
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([ONE:163],[LTR:242],[BRC:27],[LCI:126])([ZNR:178],[ZNR:179],[WWK:96],[DFT:77],[ONE:161],[REX:34],[LTR:159],[CLU:111],[LTR:309],[DMC:27],[OTJ:207],[MID:108],[ZNR:189],[ZNR:193],[MID:113],[WOE:231],[LTR:100],[ZEN:107],[LTR:217],[GRN:82],[FDN:645],[HOU:129],[FDN:182],[LTR:284],[CHK:239],[LTR:106],[ZNR:203],[M14:196],[J25:728],[SOI:233],[BFZ:197],[PIP:383],[THB:123])([DSC:130])([5ED:140],[ROE:176],[LTR:355],[MIC:18],[DSC:86],[ORI:176],[MKM:208],[M20:214],[LTR:102],[ULG:63],[FDN:644],[BFZ:121],[LTR:187],[ORI:209])([MKM:187],[ZNR:192])([FUT:174])([LTR:253],[BFZ:233],[SNC:248],[SNC:249],[LCI:271],[MKM:261],[TDM:255],[BLB:252],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[DKA:156],[MMQ:320],[SNC:251],[SNC:252],[LCI:279],[SNC:255],[LTR:261],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[DSK:269])([ZNR:231],[KLD:163])([M13:162],[LTR:532],[FDN:221],[MBS:81],[AKH:170],[LTR:408],[TMP:151],[FDN:183],[LTR:221],[LTR:105],[LTR:186])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LTR:231])

@@ -1,0 +1,90 @@
+1 [LGN:2] Akroma's Devoted
+1 [CMM:10] Alms Collector
+1 [ONS:9] Battlefield Medic
+1 [MOR:2] Battletide Alchemist
+1 [XLN:5] Bishop of Rebirth
+1 [SOI:8] Bygone Bishop
+1 [MID:13] Chaplain of Alms
+1 [ZNR:97] Demon's Disciple
+1 [ONS:27] Doubtless One
+1 [BFZ:210] Drana's Emissary
+1 [IKO:86] Duskfang Mentor
+1 [SCG:137] Edgewalker
+1 [ODY:25] Hallowed Healer
+1 [THB:20] Heliod's Pilgrim
+1 [GTC:171] High Priest of Penance
+1 [IKO:18] Keensight Mentor
+1 [ODY:32] Master Apothecary
+1 [DGM:27] Pontiff of Blight
+1 [CMR:533] Ravos, Soultender
+1 [KHM:24] Righteous Valkyrie
+1 [ONS:164] Rotlung Reanimator
+1 [EMN:40] Selfless Spirit
+1 [BFZ:46] Serene Steward
+1 [USG:52] Songstitcher
+1 [M10:34] Soul Warden
+1 [ROE:44] Soul's Attendant
+1 [M21:347] Speaker of the Heavens
+1 [CLU:74] Syndic of Tithes
+1 [FCA:18] Tymna the Weaver
+1 [KHM:116] Vengeful Reaper
+1 [LGN:26] Whipgrass Entangler
+1 [SOI:242] Anguished Unmaking
+1 [EVE:81] Batwing Brume
+1 [WAR:190] Despark
+1 [FDN:572] Disenchant
+1 [AFR:103] Feign Death
+1 [FRF:154] Harsh Sustenance
+1 [EMA:96] Malicious Affliction
+1 [FDN:662] Mortify
+1 [DKA:77] Undying Evil
+1 [KTK:210] Utter End
+1 [SCD:75] Deadly Tempest
+1 [DGM:64] Debt to the Deathless
+1 [KLD:75] Diabolic Tutor
+1 [APC:126] Vindicate
+1 [M11:5] Armored Ascension
+1 [FDN:137] Authority of the Consuls
+1 [GTC:6] Blind Obedience
+1 [EVE:87] Edge of the Divinity
+1 [AVR:102] Exquisite Blood
+1 [GTC:219] Gift of Orzhova
+1 [GTC:183] One Thousand Lashes
+1 [ULG:63] Phyrexian Reclamation
+1 [GPT:125] Pillory of the Sleepless
+1 [GPT:14] Shadow Lance
+1 [M12:35] Spirit Mantle
+1 [7ED:289s] Charcoal Diamond
+1 [FIC:339] Commander's Sphere
+1 [KHM:237] Cosmos Elixir
+1 [7ED:306] Marble Diamond
+1 [CLU:225] Orzhov Signet
+1 [LRW:259] Rings of Brighthearth
+1 [ORI:239] Sigil of Valor
+1 [SUM:274] Sol Ring
+1 [OGW:166] Stoneforge Masterwork
+1 [5DN:165] Wayfarer's Bauble
+1 [WWK:132] Bojuka Bog
+1 [DMU:244] Caves of Koilos
+1 [ELD:333] Command Tower
+1 [TDM:255] Evolving Wilds
+1 [DOM:241] Isolated Chapel
+1 [ZEN:216] Kabira Crossroads
+1 [DOM:242] Memorial to Folly
+1 [TDC:380] Myriad Landscape
+1 [CLU:241] Orzhov Basilica
+1 [FDN:692] Orzhov Guildgate
+1 [FIC:411] Path of Ancestry
+10 [FIN:294] Plains
+1 [FDN:264] Rogue's Passage
+1 [TDM:267] Scoured Barrens
+4 [FIN:300] Swamp
+1 [TOR:140] Tainted Field
+1 [FDN:704] Temple of Silence
+1 [SCG:143] Temple of the False God
+1 [DSK:269] Terramorphic Expanse
+1 [DKA:158] Vault of the Archangel
+1 [SOI:281] Westvale Abbey
+SB: 1 [FDN:652] Ayli, Eternal Pilgrim
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([7ED:289s],[FIC:339],[KHM:237],[7ED:306],[CLU:225],[LRW:259],[ORI:239],[SUM:274],[OGW:166],[5DN:165])([LGN:2],[CMM:10],[ONS:9],[MOR:2],[XLN:5],[SOI:8],[MID:13],[ZNR:97],[ONS:27],[BFZ:210],[IKO:86],[SCG:137],[ODY:25],[THB:20],[GTC:171],[IKO:18],[ODY:32],[DGM:27],[CMR:533],[KHM:24],[ONS:164],[EMN:40],[BFZ:46],[USG:52],[M10:34],[ROE:44],[M21:347],[CLU:74],[FCA:18],[KHM:116],[LGN:26])([M11:5],[FDN:137],[GTC:6],[EVE:87],[AVR:102],[GTC:219],[GTC:183],[ULG:63],[GPT:125],[GPT:14],[M12:35])([SOI:242],[EVE:81],[WAR:190],[FDN:572],[AFR:103],[FRF:154],[EMA:96],[FDN:662],[DKA:77],[KTK:210])([WWK:132],[DMU:244],[ELD:333],[TDM:255],[DOM:241],[ZEN:216],[DOM:242],[TDC:380],[CLU:241],[FDN:692],[FIC:411],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FDN:264],[TDM:267],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[TOR:140],[FDN:704],[SCG:143],[DSK:269],[DKA:158],[SOI:281])([SCD:75],[DGM:64],[KLD:75],[APC:126])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FDN:652])

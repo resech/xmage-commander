@@ -1,0 +1,78 @@
+1 [WAR:56*] Kasmina, Enigmatic Mentor
+1 [WAR:211*] Ral, Storm Conduit
+1 [ONS:64] Aphetto Alchemist
+1 [4ED:61] Apprentice Wizard
+1 [STX:295] Archmage Emeritus
+1 [CHK:52] Azami, Lady of Scrolls
+1 [KHM:343] Cyclone Summoner
+1 [EMN:56] Docent of Perfection
+1 [C21:165] Dualcaster Mage
+1 [ALA:43] Fatestitcher
+1 [GRN:174] Goblin Electromancer
+1 [FDN:716] Guttersnipe
+1 [J21:466] Harmonic Prodigy
+1 [ONS:88] Information Dealer
+1 [ISD:61] Laboratory Maniac
+1 [MID:336] Malevolent Hermit
+1 [VOW:170] Manaform Hellkite
+1 [GRN:192] Niv-Mizzet, Parun
+1 [RTR:182] Nivix Guildmage
+1 [ELD:60] Overwhelmed Apprentice
+1 [LGN:50] Riptide Director
+1 [XLN:79] Siren Stormtamer
+1 [MOR:51] Stonybrook Banneret
+1 [STX:115] Storm-Kiln Artist
+1 [MID:342] Triskaidekaphile
+1 [TDC:310] Veyran, Voice of Duality
+1 [M21:83] Vodalian Arcanist
+1 [FDN:188] Abrade
+1 [MMQ:61] Brainstorm
+1 [WWK:76] Comet Storm
+1 [RTR:35] Cyclonic Rift
+1 [CMM:214] Deflecting Swat
+1 [KLD:44] Dramatic Reversal
+1 [CLU:136] Goblin Wizardry
+1 [DKA:95] Increasing Vengeance
+1 [GRN:228] Invert // Invent
+1 [WAR:62] Narset's Reversal
+1 [PLC:44] Pongify
+1 [CLU:93] Rapid Hybridization
+1 [FRF:46] Reality Shift
+1 [HOU:156] Refuse // Cooperate
+1 [THS:65] Swan Song
+1 [FDN:190] Brass's Bounty
+1 [STX:308] Crackle with Power
+1 [M19:137] Doublecast
+1 [RTR:159] Epic Experiment
+1 [STX:186] Expressive Iteration
+1 [SPG:66] Expropriate
+1 [WAR:127] Finale of Promise
+1 [FDN:589] Finale of Revelation
+1 [GPT:118] Invoke the Firemind
+1 [DOM:133] Jaya's Immolating Inferno
+1 [5DN:75] Mana Geyser
+1 [ZNR:333] Sea Gate Restoration
+1 [STX:54] Solve the Equation
+1 [CMR:201] Soulfire Eruption
+1 [MH2:66] Step Through
+1 [AFR:368] Tasha's Hideous Laughter
+1 [IKO:319] Shark Typhoon
+1 [AFR:233] Sorcerer Class
+1 [ELD:331] Arcane Signet
+1 [MID:142] Geistflame Reservoir
+1 [FIC:228] Herald's Horn
+1 [MRD:188] Isochron Scepter
+1 [FDN:677] Pyromancer's Goggles
+1 [SUM:274] Sol Ring
+1 [ZNR:257] Base Camp
+1 [AVR:227] Desolate Lighthouse
+13 [FIN:297] Island
+1 [DRK:117] Maze of Ith
+1 [CHK:279] Minamo, School at Water's Edge
+13 [FIN:303] Mountain
+1 [ELD:247] Mystic Sanctuary
+1 [M19:254] Reliquary Tower
+1 [DMU:255] Shivan Reef
+SB: 1 [ZNR:225] Kaza, Roil Chaser
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([ELD:331],[MID:142],[FIC:228],[MRD:188],[FDN:677],[SUM:274])([ONS:64],[4ED:61],[STX:295],[CHK:52],[KHM:343],[EMN:56],[C21:165],[ALA:43],[GRN:174],[FDN:716],[J21:466],[ONS:88],[ISD:61],[MID:336],[VOW:170],[GRN:192],[RTR:182],[ELD:60],[LGN:50],[XLN:79],[MOR:51],[STX:115],[MID:342],[TDC:310],[M21:83])([IKO:319],[AFR:233])([GRN:228],[HOU:156])([FDN:188],[MMQ:61],[WWK:76],[RTR:35],[CMM:214],[KLD:44],[CLU:136],[DKA:95],[WAR:62],[PLC:44],[CLU:93],[FRF:46],[THS:65])([ZNR:257],[AVR:227],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[DRK:117],[CHK:279],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[ELD:247],[M19:254],[DMU:255])([WAR:56*],[WAR:211*])([FDN:190],[STX:308],[M19:137],[RTR:159],[STX:186],[SPG:66],[WAR:127],[FDN:589],[GPT:118],[DOM:133],[5DN:75],[ZNR:333],[STX:54],[CMR:201],[MH2:66],[AFR:368])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ZNR:225])

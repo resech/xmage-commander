@@ -1,0 +1,85 @@
+1 [M21:108] Liliana, Waker of the Dead
+1 [WAR:100*] Ob Nixilis, the Hate-Twisted
+1 [CMM:137] Archfiend of Despair
+1 [TMP:114] Coffin Queen
+1 [GTC:61] Crypt Ghast
+1 [FDN:603] Desecration Demon
+1 [2X2:107] Dockside Extortionist
+1 [FDN:621] Dragon Mage
+1 [BNG:68] Fate Unraveler
+1 [CLU:111] Fleshbag Marauder
+1 [KHM:139] Goldspan Dragon
+1 [FRF:104] Humble Defector
+1 [FDN:660] Immersturm Predator
+1 [CON:48] Kederekt Parasite
+1 [CHK:122] Kokusho, the Evening Star
+1 [TMP:143] Maddening Imp
+1 [CMM:241] Magus of the Wheel
+1 [FDN:714] Massacre Wurm
+1 [RTR:187] Rakdos, Lord of Riots
+1 [MBS:53] Sangromancer
+1 [NPH:73] Sheoldred, Whispering One
+1 [ELD:203] Stormfist Crusader
+1 [KHM:112] Tergrid, God of Fright
+1 [RNA:273] The Haunt of Hightower
+1 [KHM:115] Varragoth, Bloodsky Sire
+1 [RNA:157] Bedevil
+1 [RTR:184] Rakdos Charm
+1 [FUT:78] Slaughter Pact
+1 [ZNR:127] Soul Shatter
+1 [TSP:135] Sudden Spoiling
+1 [ARB:46] Terminate
+1 [DKA:76] Tragic Slip
+1 [PLC:85] Damnation
+1 [FRF:66] Dark Deal
+1 [SUM:105] Demonic Tutor
+1 [SCD:76] Dredge the Mire
+1 [M21:103] Grim Tutor
+1 [LRW:179] Incendiary Command
+1 [SOM:98] Molten Psyche
+1 [AVR:151] Reforge the Soul
+1 [FDN:183] Rise of the Dark Realms
+1 [M20:113] Scheming Symmetry
+1 [HOU:77] Torment of Hailfire
+1 [MH3:277] Toxic Deluge
+1 [TSP:187] Wheel of Fate
+1 [CMR:211] Wheel of Misfortune
+1 [5ED:275] Winds of Change
+1 [M11:103] Liliana's Caress
+1 [M10:104] Megrim
+1 [USG:218] Sneak Attack
+1 [THB:161] Underworld Breach
+1 [THB:121] Underworld Dreams
+1 [M15:122] Waste Not
+1 [ELD:331] Arcane Signet
+1 [FIC:339] Commander's Sphere
+1 [9ED:297] Fellwar Stone
+1 [DST:123] Geth's Grimoire
+1 [M10:212] Howling Mine
+1 [SPG:17a] Mana Crypt
+1 [ULG:129] Memory Jar
+1 [10E:335] Mind Stone
+1 [SUM:274] Sol Ring
+1 [MRD:255] Talisman of Indulgence
+1 [FIC:368] Thought Vessel
+1 [KHM:252] Blightstep Pathway
+1 [CLU:274] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [WWK:132] Bojuka Bog
+1 [TOR:139] Cabal Coffers
+1 [ELD:333] Command Tower
+1 [XLN:252] Dragonskull Summit
+1 [CON:142] Exotic Orchard
+1 [BLB:252] Fabled Passage
+1 [SHM:272] Graven Cairns
+1 [CLB:355] Luxury Suite
+1 [TSP:276] Molten Slagheap
+8 [FIN:303] Mountain
+1 [MIR:329] Rocky Tar Pit
+1 [BFZ:247] Smoldering Marsh
+1 [DMU:256] Sulfurous Springs
+11 [FIN:300] Swamp
+1 [M15:248] Urborg, Tomb of Yawgmoth
+SB: 1 [J21:683] Chainer, Nightmare Adept
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([ELD:331],[FIC:339],[9ED:297],[DST:123],[M10:212],[SPG:17a],[ULG:129],[10E:335],[SUM:274],[MRD:255],[FIC:368])([CMM:137],[TMP:114],[GTC:61],[FDN:603],[2X2:107],[FDN:621],[CLU:111],[KHM:139],[FRF:104],[FDN:660],[CON:48],[CHK:122],[TMP:143],[CMM:241],[FDN:714],[RTR:187],[MBS:53],[NPH:73],[ELD:203],[KHM:112],[RNA:273],[KHM:115])([BNG:68])([M11:103],[M10:104],[USG:218],[THB:161],[THB:121],[M15:122])([RNA:157],[RTR:184],[FUT:78],[ZNR:127],[TSP:135],[ARB:46],[DKA:76])([KHM:252],[CLU:274],[KTK:230],[WWK:132],[TOR:139],[ELD:333],[XLN:252],[CON:142],[BLB:252],[SHM:272],[CLB:355],[TSP:276],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[MIR:329],[BFZ:247],[DMU:256],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[M15:248])([M21:108],[WAR:100*])([PLC:85],[FRF:66],[SUM:105],[SCD:76],[M21:103],[LRW:179],[SOM:98],[AVR:151],[FDN:183],[M20:113],[HOU:77],[MH3:277],[TSP:187],[CMR:211],[5ED:275])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([J21:683])

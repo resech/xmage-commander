@@ -1,0 +1,76 @@
+1 [THS:111] Akroan Crusader
+1 [GRN:13] Haazda Marshal
+1 [MBS:131] Signal Pest
+1 [MBS:1] Accorder Paladin
+1 [THS:185] Akroan Hoplite
+1 [MBS:64] Goblin Wardriver
+1 [M20:218] Skyknight Vanguard
+1 [GTC:200] Sunhome Guildmage
+1 [M14:163] Young Pyromancer
+1 [THB:125] Anax, Hardened in the Forge
+1 [WAR:197] Feather, the Redeemed
+1 [EMN:130a] Hanweir Garrison
+1 [THB:219] Hero of the Nyxborn
+1 [FDN:578] Mentor of the Meek
+1 [RAV:33] Twilight Drover
+1 [THS:210] Akroan Horse
+1 [FRF:11] Dragonscale General
+1 [FDN:497] Jazal Goldmane
+1 [FDN:204] Krenko, Mob Boss
+1 [AKH:21] Oketra the True
+1 [ALL:82a] Varchild's Crusader
+1 [M13:8] Captain of the Watch
+1 [CSP:4] Darien, King of Kjeldor
+1 [ELD:17] Harmonious Archon
+1 [MKC:222] Ancient Stone Idol
+1 [M21:15] Defiant Strike
+1 [OGW:108] Expedite
+1 [CLU:63] Gods Willing
+1 [SHM:15] Niveous Wisps
+1 [ICE:54] Swords to Plowshares
+1 [RAV:2] Bathe in Light
+1 [DIS:6] Carom
+1 [J25:550] Fists of Flame
+1 [JUD:13] Guided Strike
+1 [THB:19] Heliod's Intervention
+1 [DIS:68] Psychotic Fury
+1 [ODY:46] Shelter
+1 [10E:240] Stun
+1 [FIC:291] Chaos Warp
+1 [CLU:71] Rootborn Defenses
+1 [DGM:135] Wear // Tear
+1 [CLU:67] Oust
+1 [KLD:127] Renegade Tactics
+1 [XLN:158] Rile
+1 [OTP:1] Fell the Mighty
+1 [FDN:575] Fumigate
+1 [PLS:10] March of Souls
+1 [THS:4] Chained to the Rocks
+1 [XLN:22] Legion's Landing
+1 [M15:37] Spirit Bonds
+1 [KTK:109] Goblinslide
+1 [BFZ:44] Retreat to Emeria
+1 [GTC:142] Assemble the Legion
+1 [DST:140] Skullclamp
+1 [CLU:220] Boros Signet
+1 [CSP:136] Coldsteel Heart
+1 [SOM:148] Culling Dais
+1 [TDC:319] Idol of Oblivion
+1 [10E:335] Mind Stone
+1 [FIC:363] Talisman of Conviction
+1 [ELD:332] Tome of Legends
+1 [LCI:267] Treasure Map
+1 [AKH:233] Oketra's Monument
+1 [10E:337] Phyrexian Vault
+1 [BRO:257] Battlefield Forge
+1 [ELD:238] Castle Ardenvale
+1 [ELD:239] Castle Embereth
+1 [ELD:333] Command Tower
+1 [FDN:705] Temple of Triumph
+1 [TDM:271] Wind-Scarred Crag
+14 [FIN:294] Plains
+14 [FIN:303] Mountain
+1 [SLD:1140] Elspeth, Sun's Champion
+SB: 1 [THS:186] Anax and Cymede
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,50)|([MBS:131],[THS:210],[MKC:222])([DST:140],[CLU:220],[CSP:136],[SOM:148],[TDC:319],[10E:335],[FIC:363],[ELD:332],[LCI:267],[AKH:233],[10E:337])([THS:111],[GRN:13],[MBS:1],[THS:185],[MBS:64],[M20:218],[GTC:200],[M14:163],[WAR:197],[EMN:130a],[FDN:578],[RAV:33],[FRF:11],[FDN:497],[FDN:204],[AKH:21],[ALL:82a],[M13:8],[CSP:4],[ELD:17])([THB:125],[THB:219])([THS:4],[XLN:22],[M15:37],[KTK:109],[BFZ:44],[GTC:142])([DGM:135])([M21:15],[OGW:108],[CLU:63],[SHM:15],[ICE:54],[RAV:2],[DIS:6],[J25:550],[JUD:13],[THB:19],[DIS:68],[ODY:46],[10E:240],[FIC:291],[CLU:71])([BRO:257],[ELD:238],[ELD:239],[ELD:333],[FDN:705],[TDM:271],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303])([SLD:1140])([CLU:67],[KLD:127],[XLN:158],[OTP:1],[FDN:575],[PLS:10])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([THS:186])

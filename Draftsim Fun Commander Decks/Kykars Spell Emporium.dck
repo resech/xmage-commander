@@ -1,0 +1,81 @@
+1 [WAR:234*] Saheeli, Sublime Artificer
+1 [STX:295] Archmage Emeritus
+1 [EMN:56] Docent of Perfection
+1 [GRN:174] Goblin Electromancer
+1 [FDN:716] Guttersnipe
+1 [J21:466] Harmonic Prodigy
+1 [MID:313] Lier, Disciple of the Drowned
+1 [GRN:45] Murmuring Mystic
+1 [MID:339] Poppet Stitcher
+1 [THS:135] Purphoros, God of the Forge
+1 [STX:115] Storm-Kiln Artist
+1 [M13:72] Talrand, Sky Summoner
+1 [TDC:310] Veyran, Voice of Duality
+1 [M14:163] Young Pyromancer
+1 [ALL:22a] Arcane Denial
+1 [AVR:128] Battle Hymn
+1 [MMQ:61] Brainstorm
+1 [CLU:81] Chemister's Insight
+1 [7ED:67] Counterspell
+1 [CMM:216] Divergent Transformations
+1 [WAR:193] Dovin's Veto
+1 [GRN:224] Expansion // Explosion
+1 [INV:57] Fact or Fiction
+1 [MID:221] Faithful Mending
+1 [MID:224] Galvanic Iteration
+1 [DKA:95] Increasing Vengeance
+1 [C19:4] Mandate of Peace
+1 [M21:57] Miscast
+1 [FDN:710] Negate
+1 [FDN:512] Opt
+1 [PLC:44] Pongify
+1 [FRF:46] Reality Shift
+1 [ZNR:80] Silundi Vision
+1 [ICE:54] Swords to Plowshares
+1 [KHC:44] Synthetic Destiny
+1 [DOM:72] Unwind
+1 [BBD:56] Bonus Round
+1 [MOR:32] Distant Melody
+1 [ISD:155] Past in Flames
+1 [M11:70] Preordain
+1 [STX:222] Reconstruct History
+1 [STX:54] Solve the Equation
+1 [WAR:223] Time Wipe
+1 [USG:111] Windfall
+1 [ONC:62] Court of Grace
+1 [FDN:717] Impact Tremors
+1 [ISD:19] Intangible Virtue
+1 [ORI:61] Jace's Sanctum
+1 [KLD:56] Metallurgic Summonings
+1 [IKO:65] Reconnaissance Mission
+1 [AFR:233] Sorcerer Class
+1 [IKO:215] Whirlwind of Thought
+1 [ELD:331] Arcane Signet
+1 [CLU:219] Azorius Signet
+1 [THS:42] Bident of Thassa
+1 [CLU:220] Boros Signet
+1 [9ED:297] Fellwar Stone
+1 [CLU:224] Izzet Signet
+1 [10E:335] Mind Stone
+1 [SUM:274] Sol Ring
+1 [FIC:363] Talisman of Conviction
+1 [TDC:330] Talisman of Creativity
+1 [BRO:257] Battlefield Forge
+1 [ELD:333] Command Tower
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [KHM:257] Glacial Floodplain
+1 [TDC:380] Myriad Landscape
+1 [TDM:262] Mystic Monastery
+1 [BFZ:241] Prairie Stream
+1 [M19:254] Reliquary Tower
+1 [DMU:255] Shivan Reef
+8 [KHM:278] Snow-Covered Island
+10 [KHM:282] Snow-Covered Mountain
+6 [KHM:276] Snow-Covered Plains
+1 [FDN:699] Temple of Epiphany
+1 [DSK:269] Terramorphic Expanse
+1 [CMM:434] Training Center
+SB: 1 [M20:212] Kykar, Wind's Fury
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,50)|([ELD:331],[CLU:219],[CLU:220],[9ED:297],[CLU:224],[10E:335],[SUM:274],[FIC:363],[TDC:330])([STX:295],[EMN:56],[GRN:174],[FDN:716],[J21:466],[MID:313],[GRN:45],[MID:339],[STX:115],[M13:72],[TDC:310],[M14:163])([THS:42])([THS:135])([ONC:62],[FDN:717],[ISD:19],[ORI:61],[KLD:56],[IKO:65],[AFR:233],[IKO:215])([GRN:224])([ALL:22a],[AVR:128],[MMQ:61],[CLU:81],[7ED:67],[CMM:216],[WAR:193],[INV:57],[MID:221],[MID:224],[DKA:95],[C19:4],[M21:57],[FDN:710],[FDN:512],[PLC:44],[FRF:46],[ZNR:80],[ICE:54],[KHC:44],[DOM:72])([BRO:257],[ELD:333],[TDM:255],[CON:142],[KHM:257],[TDC:380],[TDM:262],[BFZ:241],[M19:254],[DMU:255],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:278],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[FDN:699],[DSK:269],[CMM:434])([WAR:234*])([BBD:56],[MOR:32],[ISD:155],[M11:70],[STX:222],[STX:54],[WAR:223],[USG:111])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M20:212])

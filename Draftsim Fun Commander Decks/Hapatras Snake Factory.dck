@@ -1,0 +1,88 @@
+1 [GRN:213] Vraska, Golgari Queen
+1 [HOU:57] Ammit Eternal
+1 [M13:160] Arbor Elf
+1 [M12:165] Birds of Paradise
+1 [AVR:86] Blood Artist
+1 [CSP:105] Boreal Druid
+1 [SOM:57] Carnifex Demon
+1 [AKH:160] Channeler Initiate
+1 [BLC:82] Chatterfang, Squirrel General
+1 [TDM:138] Craterhoof Behemoth
+1 [RTR:213] Deathrite Shaman
+1 [SHM:110] Devoted Druid
+1 [SHM:65] Dusk Urchins
+1 [RAV:161] Elves of Deep Shadow
+1 [M15:173] Elvish Mystic
+1 [WAR:159] Evolution Sage
+1 [ICE:244] Fyndhorn Elves
+1 [FDN:637] Fynn, the Fangbearer
+1 [FIC:305] Generous Patron
+1 [M21:104] Hooded Blightfang
+1 [CLU:166] Ivy Lane Denizen
+1 [FDN:227] Llanowar Elves
+1 [SHM:72] Midnight Banshee
+1 [EVE:38] Necroskitter
+1 [HOU:141] Obelisk Spider
+1 [OTC:199] Ohran Frostfang
+1 [CHK:239] Sakura-Tribe Elder
+1 [10E:296] Seedborn Muse
+1 [CHK:241] Seshiro the Anointed
+1 [SOM:78] Skinrender
+1 [EVE:45] Soul Snuffers
+1 [KHM:197] Toski, Bearer of Secrets
+1 [EVE:80] Wickerbough Elder
+1 [FCA:11] Yawgmoth, Thran Physician
+1 [NPH:103] Beast Within
+1 [NPH:63] Grim Affliction
+1 [WWK:108] Nature's Claim
+1 [SOI:227] Second Harvest
+1 [MBS:39] Black Sun's Zenith
+1 [M21:177] Cultivate
+1 [M13:170] Farseek
+1 [CHK:225] Kodama's Reach
+1 [SPG:42] Persist
+1 [TMP:151] Reanimate
+1 [FRF:138] Shamanic Revelation
+1 [HOU:77] Torment of Hailfire
+1 [5ED:140] Animate Dead
+1 [ZEN:159] Beastmaster Ascension
+1 [SHM:58] Blowfly Infestation
+1 [EVE:35] Crumbling Ashes
+1 [SOI:200] Cryptolith Rite
+1 [SHM:114] Flourishing Defenses
+1 [LCI:188] Growing Rites of Itlimoc
+1 [AKH:101] Nest of Scarabs
+1 [5ED:329] Sylvan Library
+1 [ELD:331] Arcane Signet
+1 [6ED:274] Ashnod's Altar
+1 [CLU:222] Golgari Signet
+1 [MRD:199] Lightning Greaves
+1 [INV:306] Phyrexian Altar
+1 [DST:140] Skullclamp
+1 [DSC:255] Talisman of Resilience
+1 [AKH:237] Throne of the God-Pharaoh
+1 [MRD:270] Viridian Longbow
+1 [M11:221] Whispersilk Cloak
+1 [STX:262] Access Tunnel
+1 [OTJ:266] Blooming Marsh
+1 [ELD:333] Command Tower
+1 [KHM:254] Darkbore Pathway
+1 [VOW:261] Deathcap Glade
+1 [CON:142] Exotic Orchard
+8 [FIN:306] Forest
+1 [AKH:244] Grasping Dunes
+1 [DKA:156] Grim Backwoods
+1 [HOU:179] Ifnir Deadlands
+1 [WAR:248] Karn's Bastion
+1 [BRO:264] Llanowar Wastes
+1 [FIC:408] Nesting Grounds
+1 [CLU:278] Overgrown Tomb
+1 [USG:322] Phyrexian Tower
+1 [FDN:264] Rogue's Passage
+8 [FIN:300] Swamp
+1 [TOR:143] Tainted Wood
+1 [EVE:180] Twilight Mire
+1 [DOM:248] Woodland Cemetery
+SB: 1 [AKH:199] Hapatra, Vizier of Poisons
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([ELD:331],[6ED:274],[CLU:222],[MRD:199],[INV:306],[DST:140],[DSC:255],[AKH:237],[MRD:270],[M11:221])([HOU:57],[M13:160],[M12:165],[AVR:86],[CSP:105],[SOM:57],[AKH:160],[BLC:82],[TDM:138],[RTR:213],[SHM:110],[SHM:65],[RAV:161],[M15:173],[WAR:159],[ICE:244],[FDN:637],[FIC:305],[M21:104],[CLU:166],[FDN:227],[SHM:72],[EVE:38],[HOU:141],[OTC:199],[CHK:239],[10E:296],[CHK:241],[SOM:78],[EVE:45],[KHM:197],[EVE:80],[FCA:11])([5ED:140],[ZEN:159],[SHM:58],[EVE:35],[SOI:200],[SHM:114],[LCI:188],[AKH:101],[5ED:329])([NPH:103],[NPH:63],[WWK:108],[SOI:227])([STX:262],[OTJ:266],[ELD:333],[KHM:254],[VOW:261],[CON:142],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[AKH:244],[DKA:156],[HOU:179],[WAR:248],[BRO:264],[FIC:408],[CLU:278],[USG:322],[FDN:264],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[TOR:143],[EVE:180],[DOM:248])([GRN:213])([MBS:39],[M21:177],[M13:170],[CHK:225],[SPG:42],[TMP:151],[FRF:138],[HOU:77])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([AKH:199])

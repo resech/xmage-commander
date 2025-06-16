@@ -1,0 +1,82 @@
+1 [WAR:211*] Ral, Storm Conduit
+1 [M14:43] Archaeomancer
+1 [STX:295] Archmage Emeritus
+1 [AER:28] Baral, Chief of Compliance
+1 [KHM:123] Birgi, God of Storytelling
+1 [EMN:54] Curious Homunculus
+1 [EMN:56] Docent of Perfection
+1 [GRN:97] Electrostatic Field
+1 [GRN:174] Goblin Electromancer
+1 [WAR:53] God-Eternal Kefnet
+1 [FDN:716] Guttersnipe
+1 [SOM:168] Iron Myr
+1 [OGW:155] Jori En, Ruin Diver
+1 [SOM:202] Silver Myr
+1 [STX:235] Spectacle Mage
+1 [STX:115] Storm-Kiln Artist
+1 [THB:309] Thryx, the Sudden Storm
+1 [TDC:310] Veyran, Voice of Duality
+1 [M14:163] Young Pyromancer
+1 [FDN:151] Aetherize
+1 [MBS:20] Blue Sun's Zenith
+1 [MMQ:61] Brainstorm
+1 [WWK:76] Comet Storm
+1 [DTK:131] Commune with Lava
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [NEM:31] Dominate
+1 [M3C:181] Drown in Dreams
+1 [RNA:99] Electrodominance
+1 [INV:57] Fact or Fiction
+1 [FEM:18a] High Tide
+1 [DKA:95] Increasing Vengeance
+1 [M13:140] Magmaquake
+1 [KTK:189] Mindswipe
+1 [CMM:108] Mystic Confluence
+1 [FDN:512] Opt
+1 [6ED:87] Power Sink
+1 [ORI:159] Ravaging Blaze
+1 [ROE:81] Reality Spasm
+1 [TSP:175] Reiterate
+1 [9ED:216] Seething Song
+1 [TSP:79] Spell Burst
+1 [USG:100] Stroke of Genius
+1 [FIN:80] Syncopate
+1 [M19:130] Banefire
+1 [ISD:130] Blasphemous Act
+1 [SOI:148] Burn from Within
+1 [THS:46] Curse of the Swine
+1 [M10:134] Earthquake
+1 [FDN:589] Finale of Revelation
+1 [M12:131] Fireball
+1 [DOM:133] Jaya's Immolating Inferno
+1 [MKC:156] Jeska's Will
+1 [MIR:185] Kaervek's Torch
+1 [5DN:75] Mana Geyser
+1 [RNA:42] Mass Manipulation
+1 [BLB:389] Mind Spring
+1 [FCA:41] Mizzix's Mastery
+1 [MBS:74] Red Sun's Zenith
+1 [RTR:111] Vandalblast
+1 [MH1:118] Aria of Flame
+1 [TMP:80] Propaganda
+1 [PCY:45] Rhystic Study
+1 [FDN:248] Thousand-Year Storm
+1 [THB:161] Underworld Breach
+1 [ELD:331] Arcane Signet
+1 [MRD:199] Lightning Greaves
+1 [SPG:17a] Mana Crypt
+1 [SUM:274] Sol Ring
+1 [FDN:258] Swiftfoot Boots
+1 [FIC:368] Thought Vessel
+1 [ELD:333] Command Tower
+1 [TDM:255] Evolving Wilds
+11 [FIN:297] Island
+11 [FIN:303] Mountain
+1 [SCG:143] Temple of the False God
+1 [SUM:291] Volcanic Island
+1 [DOM:247] Sulfur Falls
+1 [CLU:280] Steam Vents
+SB: 1 [CMM:348] Mizzix of the Izmagnus
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([SOM:168],[SOM:202])([ELD:331],[MRD:199],[SPG:17a],[SUM:274],[FDN:258],[FIC:368])([M14:43],[STX:295],[AER:28],[KHM:123],[EMN:54],[EMN:56],[GRN:97],[GRN:174],[WAR:53],[FDN:716],[OGW:155],[STX:235],[STX:115],[THB:309],[TDC:310],[M14:163])([MH1:118],[TMP:80],[PCY:45],[FDN:248],[THB:161])([FDN:151],[MBS:20],[MMQ:61],[WWK:76],[DTK:131],[7ED:67],[RTR:35],[NEM:31],[M3C:181],[RNA:99],[INV:57],[FEM:18a],[DKA:95],[M13:140],[KTK:189],[CMM:108],[FDN:512],[6ED:87],[ORI:159],[ROE:81],[TSP:175],[9ED:216],[TSP:79],[USG:100],[FIN:80])([ELD:333],[TDM:255],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[SCG:143],[SUM:291],[DOM:247],[CLU:280])([WAR:211*])([M19:130],[ISD:130],[SOI:148],[THS:46],[M10:134],[FDN:589],[M12:131],[DOM:133],[MKC:156],[MIR:185],[5DN:75],[RNA:42],[BLB:389],[FCA:41],[MBS:74],[RTR:111])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMM:348])

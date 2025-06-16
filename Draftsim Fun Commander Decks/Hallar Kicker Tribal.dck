@@ -1,0 +1,86 @@
+1 [M12:165] Birds of Paradise
+1 [CSP:105] Boreal Druid
+1 [M21:136] Chandra's Incinerator
+1 [AFC:314] Dragonborn Champion
+1 [M15:173] Elvish Mystic
+1 [APC:136] Emblazoned Golem
+1 [MH2:125] Flametongue Yearling
+1 [ICE:244] Fyndhorn Elves
+1 [ELD:160] Gilded Goose
+1 [J21:693] Goblin Anarchomancer
+1 [ZEN:125] Goblin Bushwhacker
+1 [WWK:106] Joraga Warcaller
+1 [CMR:188] Kediss, Emberclaw Familiar
+1 [FDN:227] Llanowar Elves
+1 [CMM:241] Magus of the Wheel
+1 [WWK:91] Skitter of Lizards
+1 [WWK:76] Comet Storm
+1 [CMM:214] Deflecting Swat
+1 [PLS:79] Falling Timber
+1 [M21:188] Heroic Intervention
+1 [M12:180] Hunter's Insight
+1 [ZNR:186] Inscription of Abundance
+1 [M21:190] Invigorating Surge
+1 [ZNR:146] Kazuul's Fury
+1 [WWK:108] Nature's Claim
+1 [INV:157] Overload
+1 [ELD:172] Return of the Wildspeaker
+1 [INV:164] Scorching Lava
+1 [TDM:159] Snakeskin Veil
+1 [JOU:141] Solidarity of Heroes
+1 [WWK:113] Strength of the Tajuru
+1 [KHM:153] Tibalt's Trickery
+1 [ZEN:153] Unstable Footing
+1 [ZNR:174] Valakut Awakening
+1 [ZEN:193] Vines of Vastwood
+1 [INV:184] Canopy Surge
+1 [J21:450] Galvanic Relay
+1 [FDN:225] Grow from the Ashes
+1 [CLB:797] Ignite the Future
+1 [MKC:156] Jeska's Will
+1 [CLU:140] Light Up the Stage
+1 [FUT:102] Molten Disaster
+1 [PLS:87] Primal Growth
+1 [ZNR:200] Reclaim the Wastes
+1 [AER:123] Rishkar's Expertise
+1 [INV:162] Savage Offensive
+1 [MIC:37] Visions of Dominance
+1 [CMR:211] Wheel of Misfortune
+1 [GTC:114] Alpha Authority
+1 [ROE:177] Bear Umbra
+1 [RNA:161] Cindervines
+1 [M21:143] Fiery Emancipation
+1 [FDN:715] Gratuitous Violence
+1 [KTK:133] Hardened Scales
+1 [THB:172] Hydra's Growth
+1 [PLC:152] Keen Sense
+1 [BOK:135] Mark of Sakiko
+1 [ZEN:144] Quest for Pure Flame
+1 [ROE:207] Snake Umbra
+1 [DIS:99] Utopia Sprawl
+1 [7ED:282] Wild Growth
+1 [WWK:123] Everflowing Chalice
+1 [C21:388] Fractal Harness
+1 [SUM:274] Sol Ring
+1 [KTK:230] Bloodstained Mire
+1 [ELD:333] Command Tower
+1 [ONE:249] Copperline Gorge
+1 [ZNR:261] Cragcrown Pathway
+1 [SHM:271] Fire-Lit Thicket
+12 [FIN:306] Forest
+1 [SOI:276] Game Trail
+1 [FUT:176] Grove of the Burnwillows
+1 [DMU:250] Karplusan Forest
+1 [ODY:321] Mossfire Valley
+6 [FIN:303] Mountain
+1 [SPG:38] Prismatic Vista
+1 [XLN:256] Rootbound Crag
+1 [HOU:182] Scavenger Grounds
+1 [CLB:361] Spire Garden
+1 [CLU:281] Stomping Ground
+1 [KTK:248] Windswept Heath
+1 [DSC:325] Witch's Clinic
+1 [M3C:409] Yavimaya, Cradle of Growth
+SB: 1 [DOM:196] Hallar, the Firefletcher
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([APC:136])([WWK:123],[C21:388],[SUM:274])([M12:165],[CSP:105],[M21:136],[AFC:314],[M15:173],[MH2:125],[ICE:244],[ELD:160],[J21:693],[ZEN:125],[WWK:106],[CMR:188],[FDN:227],[CMM:241],[WWK:91])([GTC:114],[ROE:177],[RNA:161],[M21:143],[FDN:715],[KTK:133],[THB:172],[PLC:152],[BOK:135],[ZEN:144],[ROE:207],[DIS:99],[7ED:282])([WWK:76],[CMM:214],[PLS:79],[M21:188],[M12:180],[ZNR:186],[M21:190],[ZNR:146],[WWK:108],[INV:157],[ELD:172],[INV:164],[TDM:159],[JOU:141],[WWK:113],[KHM:153],[ZEN:153],[ZNR:174],[ZEN:193])([KTK:230],[ELD:333],[ONE:249],[ZNR:261],[SHM:271],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[SOI:276],[FUT:176],[DMU:250],[ODY:321],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[SPG:38],[XLN:256],[HOU:182],[CLB:361],[CLU:281],[KTK:248],[DSC:325],[M3C:409])([INV:184],[J21:450],[FDN:225],[CLB:797],[MKC:156],[CLU:140],[FUT:102],[PLS:87],[ZNR:200],[AER:123],[INV:162],[MIC:37],[CMR:211])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DOM:196])

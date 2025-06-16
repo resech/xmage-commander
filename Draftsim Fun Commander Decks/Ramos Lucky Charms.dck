@@ -1,0 +1,100 @@
+1 [DMC:140] Archelos, Lagoon Mystic
+1 [RTR:152] Corpsejack Menace
+1 [EMN:54] Curious Homunculus
+1 [EMN:56] Docent of Perfection
+1 [GRN:174] Goblin Electromancer
+1 [FDN:716] Guttersnipe
+1 [10E:271] Joiner Adept
+1 [NCC:344] Kess, Dissident Mage
+1 [DGM:84] Melek, Izzet Paragon
+1 [MUL:125] Taigam, Ojutai Master
+1 [M13:72] Talrand, Sky Summoner
+1 [KTK:161] Abzan Charm
+1 [ALA:155] Bant Charm
+1 [FDN:721] Boros Charm
+1 [KTK:171] Crackling Doom
+1 [PLS:99] Crosis's Charm
+1 [WAR:193] Dovin's Veto
+1 [DTK:221] Dromoka's Command
+1 [ALA:171] Grixis Charm
+1 [RNA:178] Growth Spiral
+1 [DKA:95] Increasing Vengeance
+1 [KTK:181] Jeskai Charm
+1 [FDN:662] Mortify
+1 [DTK:227] Ojutai's Command
+1 [DTK:232] Silumgar's Command
+1 [GTC:195] Simic Charm
+1 [M21:355] Sublime Epiphany
+1 [KTK:204] Sultai Charm
+1 [ICE:54] Swords to Plowshares
+1 [SCD:248] Sylvan Reclamation
+1 [KTK:209] Trap Essence
+1 [5DN:81] All Suns' Dawn
+1 [M19:129] Apex of Power
+1 [LRW:3] Austere Command
+1 [M19:130] Banefire
+1 [FDN:635] Circuitous Route
+1 [CON:102] Conflux
+1 [M21:177] Cultivate
+1 [KTK:174] Duneblast
+1 [FUT:144] Edge of Autumn
+1 [APC:77] Gaea's Balance
+1 [DGM:72] Gaze of Granite
+1 [CHK:225] Kodama's Reach
+1 [SCG:41] Mind's Desire
+1 [RNA:133] Open the Gates
+1 [SOI:83] Rise from the Tides
+1 [WAR:223] Time Wipe
+1 [GTC:204] Urban Evolution
+1 [GRN:148] Vivid Revival
+1 [ARB:86] Cloven Casting
+1 [M21:142] Double Vision
+1 [GRN:171] Firemind's Research
+1 [ORI:61] Jace's Sanctum
+1 [KLD:56] Metallurgic Summonings
+1 [XLN:165] Sunbird's Invocation
+1 [HOU:50] Swarm Intelligence
+1 [ELD:331] Arcane Signet
+1 [FIC:339] Commander's Sphere
+1 [FDN:724] Expedition Map
+1 [BBD:79] Sentinel Tower
+1 [SUM:274] Sol Ring
+1 [FDN:683] Azorius Guildgate
+1 [SUM:282] Badlands
+1 [SUM:283] Bayou
+1 [FDN:684] Boros Guildgate
+1 [ELD:333] Command Tower
+1 [FDN:688] Dimir Guildgate
+1 [CON:142] Exotic Orchard
+1 [FIN:306] Forest
+1 [TDM:256] Frontier Bivouac
+1 [FDN:689] Golgari Guildgate
+1 [FDN:690] Gruul Guildgate
+1 [IKO:248] Indatha Triome
+2 [FIN:297] Island
+1 [FDN:691] Izzet Guildgate
+1 [ALA:226] Jungle Shrine
+1 [FDN:727] Maze's End
+1 [FIN:303] Mountain
+1 [TDM:262] Mystic Monastery
+1 [M3C:361] Opal Palace
+1 [FDN:692] Orzhov Guildgate
+1 [FIC:411] Path of Ancestry
+1 [FIN:294] Plains
+1 [SUM:284] Plateau
+1 [FDN:693] Rakdos Guildgate
+1 [M19:254] Reliquary Tower
+1 [SUM:285] Savannah
+1 [SUM:286] Scrubland
+1 [ALA:229] Seaside Citadel
+1 [FDN:694] Selesnya Guildgate
+1 [FDN:695] Simic Guildgate
+2 [FIN:300] Swamp
+1 [SUM:287] Taiga
+1 [SUM:288] Tropical Island
+1 [SUM:289] Tundra
+1 [SUM:290] Underground Sea
+1 [SUM:291] Volcanic Island
+SB: 1 [FDN:678] Ramos, Dragon Engine
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([ELD:331],[FIC:339],[FDN:724],[BBD:79],[SUM:274])([DMC:140],[RTR:152],[EMN:54],[EMN:56],[GRN:174],[FDN:716],[10E:271],[NCC:344],[DGM:84],[MUL:125],[M13:72])([ARB:86],[M21:142],[GRN:171],[ORI:61],[KLD:56],[XLN:165],[HOU:50])([KTK:161],[ALA:155],[FDN:721],[KTK:171],[PLS:99],[WAR:193],[DTK:221],[ALA:171],[RNA:178],[DKA:95],[KTK:181],[FDN:662],[DTK:227],[DTK:232],[GTC:195],[M21:355],[KTK:204],[ICE:54],[SCD:248],[KTK:209])([FDN:683],[SUM:282],[SUM:283],[FDN:684],[ELD:333],[FDN:688],[CON:142],[FIN:306],[TDM:256],[FDN:689],[FDN:690],[IKO:248],[FIN:297],[FIN:297],[FDN:691],[ALA:226],[FDN:727],[FIN:303],[TDM:262],[M3C:361],[FDN:692],[FIC:411],[FIN:294],[SUM:284],[FDN:693],[M19:254],[SUM:285],[SUM:286],[ALA:229],[FDN:694],[FDN:695],[FIN:300],[FIN:300],[SUM:287],[SUM:288],[SUM:289],[SUM:290],[SUM:291])([5DN:81],[M19:129],[LRW:3],[M19:130],[FDN:635],[CON:102],[M21:177],[KTK:174],[FUT:144],[APC:77],[DGM:72],[CHK:225],[SCG:41],[RNA:133],[SOI:83],[WAR:223],[GTC:204],[GRN:148])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FDN:678])

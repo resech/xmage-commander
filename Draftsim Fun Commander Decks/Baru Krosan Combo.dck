@@ -1,0 +1,67 @@
+1 [M10:166] Ant Queen
+1 [THB:165] Arasta of the Endless Web
+1 [WWK:96] Avenger of Zendikar
+1 [FIC:299] Bane of Progress
+1 [SOM:111] Bellowing Tanglewurm
+1 [ONS:250] Broodhatch Nantuko
+1 [FDN:250] Burnished Hart
+1 [ELD:217] Crashing Drawbridge
+1 [5DN:86] Eternal Witness
+1 [KTK:136] Hooded Hydra
+1 [CON:88] Paleoloth
+1 [M15:178] Hornet Queen
+1 [M12:181] Jade Mage
+1 [CMM:304] Loyal Guardian
+1 [FDN:645] Rampaging Baloths
+1 [MMQ:267] Saber Ants
+1 [CHK:239] Sakura-Tribe Elder
+1 [FRF:141] Temur Sabertooth
+1 [M21:208] Sporeweb Weaver
+1 [NPH:103] Beast Within
+1 [C20:59] Curious Herd
+1 [OTP:29] Force of Vigor
+1 [CLU:163] Fungal Rebirth
+1 [ZEN:165] Harrow
+1 [MID:195] Return to Nature
+1 [ZNR:201] Roiling Regrowth
+1 [SOI:227] Second Harvest
+1 [M13:162] Boundless Realms
+1 [8ED:238] Collective Unconscious
+1 [M21:177] Cultivate
+1 [DSC:178] Ezuri's Predation
+1 [TOR:125] Far Wanderings
+1 [FDN:225] Grow from the Ashes
+1 [CHK:225] Kodama's Reach
+1 [IKO:164] Migration Path
+1 [OTP:30] Pest Infestation
+1 [M12:190] Rampant Growth
+1 [CMR:249] Reshape the Earth
+1 [FRF:138] Shamanic Revelation
+1 [DOM:183] Sylvan Awakening
+1 [NPH:123] Triumph of the Hordes
+1 [6ED:266] Waiting in the Weeds
+1 [SOM:110] Asceticism
+1 [ZEN:159] Beastmaster Ascension
+1 [LEG:179] Concordant Crossroads
+1 [ODY:239] Druid's Call
+1 [INV:185] Elfhame Sanctuary
+1 [LCI:188] Growing Rites of Itlimoc
+1 [M14:180] Into the Wilds
+1 [PCY:112] Dual Nature
+1 [RAV:176] Perilous Forays
+1 [7ED:266] Rowen
+1 [MMQ:271] Snake Pit
+1 [J21:649] Sylvan Anthem
+1 [ORI:209] Zendikar's Roil
+1 [EXO:132] Erratic Portal
+1 [WWK:130] Seer's Sundial
+1 [FDN:258] Swiftfoot Boots
+1 [ORI:240] Sword of the Animist
+1 [BFZ:233] Blighted Woodland
+1 [MID:262] Field of Ruin
+36 [FIN:306] Forest
+1 [TDC:380] Myriad Landscape
+1 [ZEN:221] Oran-Rief, the Vastwood
+SB: 1 [FUT:142] Baru, Fist of Krosa
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([FDN:250],[ELD:217])([EXO:132],[WWK:130],[FDN:258],[ORI:240])([M10:166],[WWK:96],[FIC:299],[SOM:111],[ONS:250],[5DN:86],[KTK:136],[CON:88],[M15:178],[M12:181],[CMM:304],[FDN:645],[MMQ:267],[CHK:239],[FRF:141],[M21:208])([THB:165])([SOM:110],[ZEN:159],[LEG:179],[ODY:239],[INV:185],[LCI:188],[M14:180],[PCY:112],[RAV:176],[7ED:266],[MMQ:271],[J21:649],[ORI:209])([NPH:103],[C20:59],[OTP:29],[CLU:163],[ZEN:165],[MID:195],[ZNR:201],[SOI:227])([BFZ:233],[MID:262],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[TDC:380],[ZEN:221])([M13:162],[8ED:238],[M21:177],[DSC:178],[TOR:125],[FDN:225],[CHK:225],[IKO:164],[OTP:30],[M12:190],[CMR:249],[FRF:138],[DOM:183],[NPH:123],[6ED:266])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FUT:142])
