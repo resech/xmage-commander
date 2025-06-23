@@ -1,0 +1,77 @@
+1 [LRW:2] Arbiter of Knollridge
+1 [CON:134] Armillary Sphere
+1 [LRW:3] Austere Command
+1 [CLU:229] Azorius Chancery
+1 [DIS:141] Azorius Guildmage
+1 [CLU:231] Boros Garrison
+1 [MMQ:61] Brainstorm
+1 [INV:138] Breath of Darigaaz
+1 [LRW:246] Brion Stoutarm
+1 [FIC:337] Champion's Helm
+1 [FIC:291] Chaos Warp
+1 [LGN:32] Chromeshell Crab
+1 [ELD:333] Command Tower
+1 [DIS:22] Court Hussar
+1 [VMA:21] Crescendo of War
+1 [M14:207] Darksteel Ingot
+1 [CMA:80] Death by Dragons
+1 [EVE:102] Dominus of Fealty
+1 [ROE:216] Dreamstone Hedron
+1 [TDM:255] Evolving Wilds
+1 [UDS:6] False Prophet
+1 [9ED:297] Fellwar Stone
+1 [PLS:60] Flametongue Kavu
+1 [MB2:163] Flusterstorm
+1 [FDN:591] Fog Bank
+1 [CHK:10] Ghostly Prison
+1 [USG:189] Goblin Cadets
+1 [ZEN:46] Gomazoa
+1 [ROE:70] Guard Gomazoa
+1 [M10:212] Howling Mine
+1 [ONS:213] Insurrection
+12 [FIN:297] Island
+1 [CLU:239] Izzet Boilerworks
+1 [GPT:119] Izzet Chronarch
+1 [CSP:8] Jotun Grunt
+1 [ZEN:14] Journey to Nowhere
+1 [LRW:183] Lash Out
+1 [MRD:199] Lightning Greaves
+1 [SS2:2] Martyr's Bond
+8 [FIN:303] Mountain
+1 [SOK:47] Murmurs from Beyond
+1 [J18:3] Nin, the Pain Artist
+1 [PLC:160] Numot, the Devastator
+1 [ONS:46] Oblation
+1 [CSP:41] Perilous Research
+8 [FIN:294] Plains
+1 [SHM:145] Plumeveil
+1 [LRW:36] Pollen Lullaby
+1 [SHM:18] Prison Term
+1 [TMP:80] Propaganda
+1 [WOE:249] Prophetic Prism
+1 [ZEN:142] Punishing Fire
+1 [ROE:162] Rapacious One
+1 [STH:41] Reins of Power
+1 [INV:70] Repulse
+1 [SLD:1695] Ruhan of the Fomori
+1 [LRW:82] Scattering Stroke
+1 [DIS:32] Skyscribing
+1 [SUM:274] Sol Ring
+1 [MKC:85] Soul Snare
+1 [CM2:50] Spell Crumple
+1 [JUD:27] Spurnmage Advocate
+1 [DSK:269] Terramorphic Expanse
+1 [ONS:118] Trade Secrets
+1 [GPT:41] Vedalken Plotter
+1 [DIS:36] Vision Skeins
+1 [MKC:89] Vow of Duty
+1 [GN3:42] Vow of Flight
+1 [MKC:164] Vow of Lightning
+1 [ARB:16] Wall of Denial
+1 [ROE:53] Wall of Omens
+1 [LRW:96] Whirlpool Whelm
+1 [M14:162] Wild Ricochet
+1 [10E:60*] Windborn Muse
+SB: 1 [CMR:543] Zedruu the Greathearted
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([CON:134],[FIC:337],[M14:207],[ROE:216],[9ED:297],[M10:212],[MRD:199],[WOE:249],[SUM:274])([LRW:2],[DIS:141],[LRW:246],[LGN:32],[DIS:22],[EVE:102],[UDS:6],[PLS:60],[FDN:591],[USG:189],[ZEN:46],[ROE:70],[GPT:119],[CSP:8],[J18:3],[PLC:160],[SHM:145],[ROE:162],[SLD:1695],[JUD:27],[GPT:41],[ARB:16],[ROE:53],[10E:60*])([VMA:21],[CHK:10],[ZEN:14],[SS2:2],[SHM:18],[TMP:80],[MKC:85],[MKC:89],[GN3:42],[MKC:164])([MMQ:61],[FIC:291],[MB2:163],[LRW:183],[SOK:47],[ONS:46],[CSP:41],[LRW:36],[ZEN:142],[STH:41],[INV:70],[LRW:82],[CM2:50],[DIS:36],[LRW:96],[M14:162])([CLU:229],[CLU:231],[ELD:333],[TDM:255],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[CLU:239],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[DSK:269])([LRW:3],[INV:138],[CMA:80],[ONS:213],[DIS:32],[ONS:118])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMR:543])

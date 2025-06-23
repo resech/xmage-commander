@@ -1,0 +1,83 @@
+1 [ZEN:210] Akoum Refuge
+1 [INV:94] Annihilate
+1 [AVR:44] Arcane Melee
+1 [CON:134] Armillary Sphere
+1 [ISD:87] Army of the Damned
+1 [WAR:41] Augur of Bolas
+1 [VMA:105] Baleful Force
+1 [FIC:318] Baleful Strix
+1 [WWK:132] Bojuka Bog
+1 [ISD:134] Charmbreaker Devils
+1 [ELD:333] Command Tower
+1 [PLS:99] Crosis's Charm
+1 [ALA:164] Cruel Ultimatum
+1 [ALA:222] Crumbling Necropolis
+1 [C13:105] Curse of Chaos
+1 [CMA:35] Curse of Inertia
+1 [C13:71] Curse of Shallow Graves
+1 [SCG:64] Decree of Pain
+1 [FDN:688] Dimir Guildgate
+1 [TMP:58] Dismiss
+1 [CMA:37] Diviner Spirit
+1 [ROE:64] Echo Mage
+1 [TDM:255] Evolving Wilds
+1 [C13:243] Eye of Doom
+1 [ROE:144] Fissure Vent
+1 [FDN:591] Fog Bank
+1 [ALA:171] Grixis Charm
+1 [ALA:224] Grixis Panorama
+1 [ROE:70] Guard Gomazoa
+1 [FDN:716] Guttersnipe
+1 [C13:80] Hooded Horror
+1 [BLC:166] Illusionist's Gambit
+1 [LRW:179] Incendiary Command
+1 [CLU:114] Infest
+9 [FIN:297] Island
+1 [CLU:239] Izzet Boilerworks
+1 [FDN:691] Izzet Guildgate
+1 [M12:59] Jace's Archivist
+1 [TSB:112] Mirari
+1 [THS:55] Mnemonic Wall
+1 [FUT:102] Molten Disaster
+1 [TSP:276] Molten Slagheap
+5 [FIN:303] Mountain
+1 [CMM:349] Nekusar, the Mindrazer
+1 [PLS:48] Nightscape Familiar
+1 [RTR:182] Nivix Guildmage
+1 [ALA:214] Obelisk of Grixis
+1 [M3C:361] Opal Palace
+1 [M14:66] Opportunity
+1 [TSP:122] Phthisis
+1 [C13:89] Price of Knowledge
+1 [TMP:80] Propaganda
+1 [6ED:89] Prosperity
+1 [CLU:243] Rakdos Carnarium
+1 [FDN:693] Rakdos Guildgate
+1 [M19:255] Rupture Spire
+1 [DIS:32] Skyscribing
+1 [SUM:274] Sol Ring
+1 [ARB:29] Soul Manipulation
+1 [SHM:198] Spiteful Visions
+1 [ONS:238] Starstorm
+1 [KHM:402] Strategic Planning
+1 [TSP:135] Sudden Spoiling
+8 [FIN:300] Swamp
+1 [FDN:258] Swiftfoot Boots
+1 [M11:217] Temple Bell
+1 [SCG:143] Temple of the False God
+1 [C13:60] Tempt with Reflections
+1 [C13:126] Terra Ravager
+1 [ARB:113] Thraximundar
+1 [TSR:321] True-Name Nemesis
+1 [TSP:280] Urza's Factory
+1 [CHK:99] Uyo, Silent Prophet
+1 [FDN:186] Vampire Nighthawk
+1 [NEM:140] Viseling
+1 [DIS:36] Vision Skeins
+1 [LRW:276] Vivid Creek
+1 [LRW:278] Vivid Marsh
+1 [5DN:165] Wayfarer's Bauble
+1 [M14:162] Wild Ricochet
+SB: 1 [C13:194] Jeleva, Nephalia's Scourge
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([FIC:318],[NEM:140])([CON:134],[C13:243],[TSB:112],[ALA:214],[SUM:274],[FDN:258],[M11:217],[5DN:165])([WAR:41],[VMA:105],[ISD:134],[CMA:37],[ROE:64],[FDN:591],[ROE:70],[FDN:716],[C13:80],[M12:59],[THS:55],[CMM:349],[PLS:48],[RTR:182],[C13:126],[ARB:113],[TSR:321],[CHK:99],[FDN:186])([AVR:44],[C13:105],[CMA:35],[C13:71],[C13:89],[TMP:80],[SHM:198])([INV:94],[PLS:99],[TMP:58],[ALA:171],[BLC:166],[M14:66],[ARB:29],[ONS:238],[TSP:135],[DIS:36],[M14:162])([ZEN:210],[WWK:132],[ELD:333],[ALA:222],[FDN:688],[TDM:255],[ALA:224],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[CLU:239],[FDN:691],[TSP:276],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[M3C:361],[CLU:243],[FDN:693],[M19:255],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[SCG:143],[TSP:280],[LRW:276],[LRW:278])([ISD:87],[ALA:164],[SCG:64],[ROE:144],[LRW:179],[CLU:114],[FUT:102],[TSP:122],[6ED:89],[DIS:32],[KHM:402],[C13:60])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C13:194])

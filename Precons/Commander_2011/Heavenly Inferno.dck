@@ -1,0 +1,81 @@
+1 [ZEN:210] Akoum Refuge
+1 [PLC:94] Akroma, Angel of Fury
+1 [ONS:2] Akroma's Vengeance
+1 [GPT:101] Angel of Despair
+1 [M11:4] Angelic Arbiter
+1 [JUD:77] Anger
+1 [CMA:5] Archangel of Strife
+1 [CON:134] Armillary Sphere
+1 [CMM:206] Avatar of Slaughter
+1 [ONS:312] Barren Moor
+1 [CMA:174] Basandra, Battle Seraph
+1 [RAV:2] Bathe in Light
+1 [SCG:136] Bladewing the Risen
+1 [WWK:132] Bojuka Bog
+1 [CLU:231] Boros Garrison
+1 [RAV:242] Boros Guildmage
+1 [CLU:220] Boros Signet
+1 [RAV:118] Cleansing Beam
+1 [WWK:76] Comet Storm
+1 [ELD:333] Command Tower
+1 [M15:6] Congregate
+1 [M14:207] Darksteel Ingot
+1 [CMA:80] Death by Dragons
+1 [KLD:75] Diabolic Tutor
+1 [DMU:120] Dragon Whelp
+1 [CMA:55] Dread Cacodemon
+1 [EVE:137] Duergar Hedge-Mage
+1 [M10:134] Earthquake
+1 [TMP:134] Evincar's Justice
+1 [TDM:255] Evolving Wilds
+1 [8ED:133] Fallen Angel
+1 [ONS:317] Forgotten Cave
+1 [M15:279] Furnace Whelp
+1 [EVE:89] Gwyllion Hedge-Mage
+1 [WWK:12] Lightkeeper of Emeria
+1 [MRD:199] Lightning Greaves
+1 [CON:117] Malfegor
+1 [CMA:84] Mana-Charged Dragon
+1 [RAV:250] Master Warcraft
+1 [TSP:276] Molten Slagheap
+1 [FDN:662] Mortify
+1 [ULG:14] Mother of Runes
+8 [FIN:303] Mountain
+1 [SOK:108] Oni of Wild Places
+1 [APC:15] Orim's Thunder
+1 [PLC:161] Oros, the Avenger
+1 [CLU:241] Orzhov Basilica
+1 [CLU:201] Orzhov Guildmage
+1 [CLU:225] Orzhov Signet
+1 [CON:15] Path to Exile
+8 [FIN:294] Plains
+1 [PLC:119] Pyrohemia
+1 [CLU:243] Rakdos Carnarium
+1 [CLU:226] Rakdos Signet
+1 [SOK:87] Razorjaw Oni
+1 [MRD:75] Reiver Demon
+1 [TSP:39] Return to Dust
+1 [ONS:51] Righteous Cause
+1 [M19:255] Rupture Spire
+1 [ONS:324] Secluded Steppe
+1 [FDN:147] Serra Angel
+1 [NPH:23] Shattered Angel
+1 [SUM:274] Sol Ring
+1 [MKC:85] Soul Snare
+1 [P22:4] Stranglehold
+1 [TSP:180] Sulfurous Blast
+8 [FIN:300] Swamp
+1 [SCD:110] Syphon Flesh
+1 [ONS:175] Syphon Mind
+1 [2X2:281] Tariel, Reckoner of Souls
+1 [ARB:46] Terminate
+1 [LRW:279] Vivid Meadow
+1 [10E:56*] Voice of All
+1 [MKC:89] Vow of Duty
+1 [MKC:164] Vow of Lightning
+1 [CM2:82] Vow of Malice
+1 [DIS:139] Wrecking Ball
+1 [FUT:180] Zoetic Cavern
+SB: 1 [MH3:290] Kaalia of the Vast
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([CON:134],[CLU:220],[M14:207],[MRD:199],[CLU:225],[CLU:226],[SUM:274])([PLC:94],[GPT:101],[M11:4],[JUD:77],[CMA:5],[CMM:206],[CMA:174],[SCG:136],[RAV:242],[DMU:120],[CMA:55],[EVE:137],[8ED:133],[M15:279],[EVE:89],[WWK:12],[CON:117],[CMA:84],[ULG:14],[SOK:108],[PLC:161],[CLU:201],[SOK:87],[MRD:75],[FDN:147],[NPH:23],[2X2:281],[10E:56*])([PLC:119],[ONS:51],[MKC:85],[P22:4],[MKC:89],[MKC:164],[CM2:82])([RAV:2],[RAV:118],[WWK:76],[M15:6],[RAV:250],[FDN:662],[APC:15],[CON:15],[TSP:39],[TSP:180],[ARB:46],[DIS:139])([ZEN:210],[ONS:312],[WWK:132],[CLU:231],[ELD:333],[TDM:255],[ONS:317],[TSP:276],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[CLU:241],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[CLU:243],[M19:255],[ONS:324],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[LRW:279],[FUT:180])([ONS:2],[CMA:80],[KLD:75],[M10:134],[TMP:134],[SCD:110],[ONS:175])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MH3:290])

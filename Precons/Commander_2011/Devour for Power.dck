@@ -1,0 +1,78 @@
+1 [M13:159] Acidic Slime
+1 [ROE:2] Artisan of Kozilek
+1 [TSB:37] Avatar of Woe
+1 [ONS:312] Barren Moor
+1 [JUD:107] Brawn
+1 [ODY:118] Buried Alive
+1 [WWK:53] Butcher of Malakir
+1 [ELD:333] Command Tower
+1 [M21:177] Cultivate
+1 [CM2:2] Damia, Sage of Stone
+1 [USG:126] Dark Hatchling
+1 [EVE:119] Desecrator Hag
+1 [CLU:233] Dimir Aqueduct
+1 [CLU:221] Dimir Signet
+1 [TSP:271] Dreadship Reef
+1 [10E:82] Dreamborn Muse
+1 [5DN:86] Eternal Witness
+1 [CON:44] Extractor Demon
+1 [INV:57] Fact or Fiction
+1 [CLU:111] Fleshbag Marauder
+8 [FIN:306] Forest
+1 [CLU:236] Golgari Rot Farm
+1 [CLU:222] Golgari Signet
+1 [10E:144] Grave Pact
+1 [M20:103] Gravedigger
+8 [FIN:297] Island
+1 [ZEN:215] Jwar Isle Refuge
+1 [8ED:259] Lhurgoyf
+1 [MRD:199] Lightning Greaves
+1 [TMP:142] Living Death
+1 [ONS:320] Lonely Sandbar
+1 [ALA:50] Memory Erosion
+1 [CMM:105] Minds Aglow
+1 [10E:161*] Mortivore
+1 [LRW:76] Mulldrifter
+1 [CHK:129] Nezumi Graverobber
+1 [MRD:222] Oblivion Stone
+1 [BOK:77] Patron of the Nezumi
+1 [ZEN:179] Relic Crush
+1 [CM2:48] Riddlekeeper
+1 [M19:117] Rise from the Grave
+1 [M19:255] Rupture Spire
+1 [SCD:105] Scythe Specter
+1 [CLB:771] Sewer Nemesis
+1 [CM2:76] Shared Trauma
+1 [M15:114] Sign in Blood
+1 [CLU:247] Simic Growth Chamber
+1 [CLU:228] Simic Signet
+1 [2X2:277] Skullbriar, the Walking Grave
+1 [ONS:114] Slipstream Eel
+1 [SUM:274] Sol Ring
+1 [FDN:257] Solemn Simulacrum
+1 [CM2:50] Spell Crumple
+1 [JUD:72] Stitch Together
+1 [RAV:283] Svogthos, the Restless Tomb
+11 [FIN:300] Swamp
+1 [SCD:110] Syphon Flesh
+1 [ONS:175] Syphon Mind
+1 [RAV:234] Szadek, Lord of Secrets
+1 [SCG:143] Temple of the False God
+1 [DSK:269] Terramorphic Expanse
+1 [ONS:326] Tranquil Thicket
+1 [C20:193] Tribute to the Wild
+1 [TSP:266] Triskelavus
+1 [10E:305*] Troll Ascetic
+1 [USG:162] Unnerve
+1 [PLC:164] Vorosh, the Hunter
+1 [GN3:42] Vow of Flight
+1 [CM2:82] Vow of Malice
+1 [GN3:111] Vow of Wildness
+1 [RAV:238] Vulturous Zombie
+1 [USG:111] Windfall
+1 [JUD:54] Wonder
+1 [WWK:120] Wrexial, the Risen Deep
+1 [UDS:124] Yavimaya Elder
+SB: 1 [OTC:234] The Mimeoplasm
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([FDN:257],[TSP:266])([CLU:221],[CLU:222],[MRD:199],[MRD:222],[CLU:228],[SUM:274])([M13:159],[ROE:2],[TSB:37],[JUD:107],[WWK:53],[CM2:2],[USG:126],[EVE:119],[10E:82],[5DN:86],[CON:44],[CLU:111],[M20:103],[8ED:259],[10E:161*],[LRW:76],[CHK:129],[BOK:77],[CM2:48],[SCD:105],[CLB:771],[2X2:277],[ONS:114],[RAV:234],[10E:305*],[PLC:164],[RAV:238],[JUD:54],[WWK:120],[UDS:124])([10E:144],[ALA:50],[GN3:42],[CM2:82],[GN3:111])([INV:57],[ZEN:179],[CM2:50],[C20:193])([ONS:312],[ELD:333],[CLU:233],[TSP:271],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[CLU:236],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[ZEN:215],[ONS:320],[M19:255],[CLU:247],[RAV:283],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[SCG:143],[DSK:269],[ONS:326])([ODY:118],[M21:177],[TMP:142],[CMM:105],[M19:117],[CM2:76],[M15:114],[JUD:72],[SCD:110],[ONS:175],[USG:162],[USG:111])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([OTC:234])

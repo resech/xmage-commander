@@ -1,0 +1,79 @@
+1 [CMD:241] Acorn Catapult
+1 [MMQ:1] Afterlife
+1 [CMD:4] Alliance of Arms
+1 [DIS:80] Aquastrand Spider
+1 [UDS:52] Attrition
+1 [INV:233] Aura Shards
+1 [ROE:176] Awakening Zone
+1 [ONS:312] Barren Moor
+1 [WWK:97] Bestial Menace
+1 [CMD:10] Celestial Force
+1 [RAV:195] Chorus of the Conclave
+1 [ZEN:160] Cobra Trap
+1 [ELD:333] Command Tower
+1 [M21:177] Cultivate
+1 [USG:126] Dark Hatchling
+1 [M14:207] Darksteel Ingot
+1 [M14:168] Deadly Recluse
+1 [APC:96] Death Mutation
+1 [M14:96] Doom Blade
+1 [TDM:255] Evolving Wilds
+1 [IKO:152] Fertilid
+1 [RAV:164] Fists of Ironwood
+1 [LRW:115] Footbottom Feast
+10 [FIN:306] Forest
+1 [CLU:194] Golgari Guildmage
+1 [CLU:236] Golgari Rot Farm
+1 [CLU:222] Golgari Signet
+1 [PLC:149] Harmonize
+1 [RAV:89] Hex
+1 [M15:178] Hornet Queen
+1 [RAV:21] Hour of Reckoning
+1 [CMM:342] Karador, Ghost Chieftain
+1 [MRD:199] Lightning Greaves
+1 [USG:21] Monk Realist
+1 [FDN:662] Mortify
+1 [ORI:109] Nantuko Husk
+1 [ALA:181] Necrogenesis
+1 [WWK:61] Nemesis Trap
+1 [M13:22] Oblivion Ring
+1 [CLU:241] Orzhov Basilica
+1 [CLU:225] Orzhov Signet
+1 [TSP:210] Penumbra Spider
+8 [FIN:294] Plains
+1 [M19:255] Rupture Spire
+1 [CHK:239] Sakura-Tribe Elder
+1 [FDN:232] Scavenging Ooze
+1 [ONS:324] Secluded Steppe
+1 [RAV:228] Selesnya Evangel
+1 [CLU:207] Selesnya Guildmage
+1 [CLU:246] Selesnya Sanctuary
+1 [CLU:227] Selesnya Signet
+1 [LRW:139] Shriekmaw
+1 [ARB:77] Sigil Captain
+1 [DST:140] Skullclamp
+1 [SUM:274] Sol Ring
+1 [MKC:85] Soul Snare
+1 [SHM:129] Spawnwrithe
+1 [TSB:84] Spike Feeder
+1 [MMQ:276] Squallmonger
+1 [GPT:19] Storm Herd
+8 [FIN:300] Swamp
+1 [ONS:289] Symbiotic Wurm
+1 [SCD:110] Syphon Flesh
+1 [SCG:143] Temple of the False God
+1 [PLC:163] Teneb, the Harvester
+1 [ONS:326] Tranquil Thicket
+1 [C20:193] Tribute to the Wild
+1 [FDN:186] Vampire Nighthawk
+1 [2XM:226] Vish Kal, Blood Arbiter
+1 [LRW:277] Vivid Grove
+1 [LRW:278] Vivid Marsh
+1 [LRW:279] Vivid Meadow
+1 [MKC:89] Vow of Duty
+1 [CM2:82] Vow of Malice
+1 [GN3:111] Vow of Wildness
+1 [UDS:124] Yavimaya Elder
+SB: 1 [2X2:216] Ghave, Guru of Spores
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([CMD:241],[M14:207],[CLU:222],[MRD:199],[CLU:225],[CLU:227],[DST:140],[SUM:274])([DIS:80],[CMD:10],[RAV:195],[USG:126],[M14:168],[IKO:152],[CLU:194],[M15:178],[CMM:342],[USG:21],[ORI:109],[TSP:210],[CHK:239],[FDN:232],[RAV:228],[CLU:207],[LRW:139],[ARB:77],[SHM:129],[TSB:84],[MMQ:276],[ONS:289],[PLC:163],[FDN:186],[2XM:226],[UDS:124])([UDS:52],[INV:233],[ROE:176],[RAV:164],[ALA:181],[M13:22],[MKC:85],[MKC:89],[CM2:82],[GN3:111])([MMQ:1],[ZEN:160],[M14:96],[LRW:115],[FDN:662],[WWK:61],[C20:193])([ONS:312],[ELD:333],[TDM:255],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[CLU:236],[CLU:241],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[M19:255],[ONS:324],[CLU:246],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[SCG:143],[ONS:326],[LRW:277],[LRW:278],[LRW:279])([CMD:4],[WWK:97],[M21:177],[APC:96],[PLC:149],[RAV:89],[RAV:21],[GPT:19],[SCD:110])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([2X2:216])

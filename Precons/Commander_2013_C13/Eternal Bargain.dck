@@ -1,0 +1,81 @@
+1 [C13:1] Act of Authority
+1 [FDN:135] Ajani's Pridemate
+1 [ALA:220] Arcane Sanctum
+1 [SHM:137] Augury Adept
+1 [CLU:229] Azorius Chancery
+1 [FDN:683] Azorius Guildgate
+1 [DIS:2] Azorius Herald
+1 [ONS:312] Barren Moor
+1 [PZ2:70833] Brilliant Plan
+1 [ELD:333] Command Tower
+1 [ALA:7] Cradle of Vitality
+1 [ULG:123] Crawlspace
+1 [CMA:35] Curse of Inertia
+1 [C13:71] Curse of Shallow Graves
+1 [CMA:8] Curse of the Forsaken
+1 [CMM:21] Darksteel Mutation
+1 [APC:95] Death Grasp
+1 [TOR:36] Deep Analysis
+1 [FDN:688] Dimir Guildgate
+1 [ISD:98] Disciple of Griselbrand
+1 [CMA:37] Diviner Spirit
+1 [EVE:86] Divinity of Pride
+1 [PLS:105] Dromar's Charm
+1 [ALA:223] Esper Panorama
+1 [TDM:255] Evolving Wilds
+1 [VMA:120] Famine
+1 [ARB:6] Filigree Angel
+1 [7ED:140] Greed
+1 [C13:80] Hooded Horror
+6 [FIN:297] Island
+1 [ZEN:215] Jwar Isle Refuge
+1 [A25:20] Kongming, "Sleeping Dragon"
+1 [ALL:107] Lim-Dul's Vault
+1 [ONS:320] Lonely Sandbar
+1 [AVR:113] Marrow Bats
+1 [SOM:180] Myr Battlesphere
+1 [5ED:391] Nevinyrral's Disk
+1 [SOM:187] Nihil Spellbomb
+1 [ALA:213] Obelisk of Esper
+1 [M3C:361] Opal Palace
+1 [C13:52] Order of Succession
+1 [CLU:241] Orzhov Basilica
+1 [FDN:692] Orzhov Guildgate
+1 [INV:115] Phyrexian Delver
+1 [MOM:121] Phyrexian Gargantua
+1 [ULG:63] Phyrexian Reclamation
+9 [FIN:294] Plains
+1 [NPH:151] Pristine Talisman
+1 [ULG:39] Raven Familiar
+1 [SOM:17] Razor Hippogriff
+1 [INV:121] Reckless Spite
+1 [M19:255] Rupture Spire
+1 [M14:112] Sanguine Bond
+1 [C13:20] Serene Master
+1 [M13:32] Serra Avatar
+1 [ALA:55] Sharding Sphinx
+1 [ALA:194] Sharuum the Hegemon
+1 [SUM:274] Sol Ring
+1 [ARB:110] Sphinx of the Steel Wind
+1 [INV:276] Spinal Embrace
+1 [EVE:179] Springjack Pasture
+1 [PLS:35] Stormscape Battlemage
+1 [MRD:249] Sun Droplet
+1 [ROE:48] Survival Cache
+9 [FIN:300] Swamp
+1 [FDN:258] Swiftfoot Boots
+1 [C16:224] Sydri, Galvanic Genius
+1 [SCG:143] Temple of the False God
+1 [C13:95] Tempt with Immortality
+1 [ARB:133] Thopter Foundry
+1 [C13:62] Tidal Force
+1 [ALA:203] Tidehollow Strix
+1 [ALA:205] Tower Gargoyle
+1 [MH3:277] Toxic Deluge
+1 [RTR:249] Transguild Promenade
+1 [GTC:206] Vizkopa Guildmage
+1 [CON:20] Wall of Reverence
+1 [DST:159] Well of Lost Dreams
+SB: 1 [SLD:1962] Oloro, Ageless Ascetic
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([ARB:6],[SOM:180],[ALA:55],[ALA:194],[ARB:110],[ALA:203],[ALA:205])([ULG:123],[5ED:391],[SOM:187],[ALA:213],[NPH:151],[SUM:274],[MRD:249],[FDN:258],[ARB:133],[DST:159])([FDN:135],[SHM:137],[DIS:2],[ISD:98],[CMA:37],[EVE:86],[C13:80],[A25:20],[AVR:113],[INV:115],[MOM:121],[ULG:39],[SOM:17],[C13:20],[M13:32],[PLS:35],[C16:224],[C13:62],[GTC:206],[CON:20])([C13:1],[ALA:7],[CMA:35],[C13:71],[CMA:8],[CMM:21],[7ED:140],[ULG:63],[M14:112])([PLS:105],[ALL:107],[INV:121],[INV:276])([ALA:220],[CLU:229],[FDN:683],[ONS:312],[ELD:333],[FDN:688],[ALA:223],[TDM:255],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[ZEN:215],[ONS:320],[M3C:361],[CLU:241],[FDN:692],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[M19:255],[EVE:179],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[SCG:143],[RTR:249])([PZ2:70833],[APC:95],[TOR:36],[VMA:120],[C13:52],[ROE:48],[C13:95],[MH3:277])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SLD:1962])
