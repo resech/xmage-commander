@@ -1,0 +1,84 @@
+1 [10E:249] Abundance
+1 [KTK:2] Abzan Falconer
+1 [M13:159] Acidic Slime
+1 [WWK:1] Admonition Angel
+1 [ELD:331] Arcane Signet
+1 [KLD:144] Armorcraft Judge
+1 [FDN:138] Banishing Light
+1 [ELD:149] Beanstalk Giant
+1 [BFZ:233] Blighted Woodland
+1 [CLU:231] Boros Garrison
+1 [FDN:684] Boros Guildgate
+1 [FDN:635] Circuitous Route
+1 [ELD:333] Command Tower
+1 [M11:11] Condemn
+1 [GRN:7] Crush Contraband
+1 [FDN:686] Cryptic Caves
+1 [FRF:12] Elite Scaleguard
+1 [M19:180] Elvish Rejuvenator
+1 [OGW:131] Embodiment of Insight
+1 [ZEN:11] Emeria Angel
+1 [BFZ:22] Emeria Shepherd
+1 [WAR:159] Evolution Sage
+1 [TDM:255] Evolving Wilds
+1 [TOR:125] Far Wanderings
+1 [IKO:152] Fertilid
+10 [FIN:306] Forest
+1 [SCD:144] Geode Rager
+1 [GTC:168] Ground Assault
+1 [FDN:690] Gruul Guildgate
+1 [CLU:238] Gruul Turf
+1 [PLC:149] Harmonize
+1 [ZEN:165] Harrow
+1 [HOU:15] Hour of Revelation
+1 [FDN:226] Inspiring Call
+1 [ALA:226] Jungle Shrine
+1 [ELD:163] Keeper of Fables
+1 [ZEN:167] Khalni Heart Expedition
+1 [CHK:225] Kodama's Reach
+1 [ZEN:18] Kor Cartographer
+1 [JUD:141] Krosan Verge
+1 [WAR:203] Living Twister
+1 [OGW:156] Mina and Denn, Wildborn
+4 [FIN:303] Mountain
+1 [DOM:174] Multani, Yavimaya's Avatar
+1 [ZNR:229] Murasa Rootgrazer
+1 [TDC:380] Myriad Landscape
+1 [ALA:180] Naya Charm
+1 [ALA:227] Naya Panorama
+1 [OGW:175] Needle Spires
+1 [BFZ:180] Nissa's Renewal
+1 [BFZ:217] Omnath, Locus of Rage
+7 [FIN:294] Plains
+1 [BFZ:42] Planar Outburst
+1 [FDN:645] Rampaging Baloths
+1 [BFZ:44] Retreat to Emeria
+1 [BFZ:186] Retreat to Kazandu
+1 [ELD:172] Return of the Wildspeaker
+1 [M12:192] Rites of Flourishing
+1 [ZNR:201] Roiling Regrowth
+1 [CMM:406] Sandstone Oracle
+1 [M15:198] Satyr Wayfinder
+1 [OTC:266] Scaretiller
+1 [WWK:130] Seer's Sundial
+1 [FDN:694] Selesnya Guildgate
+1 [CLU:246] Selesnya Sanctuary
+1 [SUM:274] Sol Ring
+1 [M14:196] Sporemound
+1 [FDN:646] Springbloom Druid
+1 [HOU:151] Struggle // Survive
+1 [M12:39] Sun Titan
+1 [OGW:144] Sylvan Advocate
+1 [SCD:248] Sylvan Reclamation
+1 [DSK:269] Terramorphic Expanse
+1 [DOM:173] The Mending of Dominaria
+1 [FIC:257] Together Forever
+1 [ZNC:105] Treacherous Terrain
+1 [J22:259] Trove Warden
+1 [KTK:156] Tuskguard Captain
+1 [XLN:215] Waker of the Wilds
+1 [UDS:124] Yavimaya Elder
+1 [ORI:209] Zendikar's Roil
+SB: 1 [ZNC:2] Obuun, Mul Daya Ancestor
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([CMM:406],[OTC:266])([ELD:331],[WWK:130],[SUM:274])([KTK:2],[M13:159],[WWK:1],[KLD:144],[ELD:149],[FRF:12],[M19:180],[OGW:131],[ZEN:11],[BFZ:22],[WAR:159],[IKO:152],[SCD:144],[ELD:163],[ZEN:18],[WAR:203],[OGW:156],[DOM:174],[ZNR:229],[BFZ:217],[FDN:645],[M15:198],[M14:196],[FDN:646],[M12:39],[OGW:144],[J22:259],[KTK:156],[XLN:215],[UDS:124])([10E:249],[FDN:138],[ZEN:167],[BFZ:44],[BFZ:186],[M12:192],[DOM:173],[FIC:257],[ORI:209])([HOU:151])([M11:11],[GRN:7],[ZEN:165],[FDN:226],[ALA:180],[ELD:172],[ZNR:201],[SCD:248])([BFZ:233],[CLU:231],[FDN:684],[ELD:333],[FDN:686],[TDM:255],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FDN:690],[CLU:238],[ALA:226],[JUD:141],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[TDC:380],[ALA:227],[OGW:175],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FDN:694],[CLU:246],[DSK:269])([FDN:635],[TOR:125],[GTC:168],[PLC:149],[HOU:15],[CHK:225],[BFZ:180],[BFZ:42],[ZNC:105])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ZNC:2])

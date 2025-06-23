@@ -1,0 +1,74 @@
+1 [M13:159] Acidic Slime
+1 [ALL:22a] Arcane Denial
+1 [WWK:96] Avenger of Zendikar
+1 [NPH:103] Beast Within
+1 [BFZ:233] Blighted Woodland
+1 [DIS:107] Coiling Oracle
+1 [ELD:333] Command Tower
+1 [RAV:40] Compulsive Research
+1 [VIS:160] Coral Atoll
+1 [7ED:67] Counterspell
+1 [M21:177] Cultivate
+1 [EMN:5] Elder Deep-Fiend
+1 [5DN:86] Eternal Witness
+1 [TDM:255] Evolving Wilds
+1 [WWK:99] Explore
+1 [INV:57] Fact or Fiction
+1 [GTC:162] Fathom Mage
+15 [FIN:306] Forest
+1 [RNA:178] Growth Spiral
+1 [PLC:149] Harmonize
+1 [FDN:509] Into the Roil
+1 [ZEN:49] Ior Ruin Expedition
+15 [FIN:297] Island
+1 [VIS:164] Jungle Basin
+1 [ZEN:167] Khalni Heart Expedition
+1 [CHK:225] Kodama's Reach
+1 [CHK:74] Meloku the Clouded Mirror
+1 [DOM:243] Memorial to Genius
+1 [FDN:256] Meteor Golem
+1 [10E:280*] Molimo, Maro-Sorcerer
+1 [LRW:76] Mulldrifter
+1 [EVE:156] Murkfiend Liege
+1 [RIX:45] Nezahal, Primal Tide
+1 [M15:74] Peel from Reality
+1 [FDN:645] Rampaging Baloths
+1 [M12:190] Rampant Growth
+1 [HOU:129] Ramunap Excavator
+1 [FDN:231] Reclamation Sage
+1 [M19:254] Reliquary Tower
+1 [BFZ:186] Retreat to Kazandu
+1 [JOU:51] Scourge of Fleets
+1 [TSP:216] Search for Tomorrow
+1 [WWK:130] Seer's Sundial
+1 [RNA:206] Sharktocrab
+1 [THS:63] Shipbreaker Kraken
+1 [GTC:195] Simic Charm
+1 [CLU:247] Simic Growth Chamber
+1 [FDN:695] Simic Guildgate
+1 [CLU:228] Simic Signet
+1 [DIS:130] Simic Sky Swallower
+1 [DOM:66] Slinn Voda, the Rising Deep
+1 [SUM:274] Sol Ring
+1 [M13:69] Sphinx of Uthuun
+1 [EVE:162] Spitting Image
+1 [M14:196] Sporemound
+1 [M15:80] Stormtide Leviathan
+1 [CMR:367] Stumpsquall Hydra
+1 [FDN:258] Swiftfoot Boots
+1 [WWK:115] Terastodon
+1 [DSK:269] Terramorphic Expanse
+1 [TDM:269] Thornwood Falls
+1 [CMR:366] Trench Behemoth
+1 [BNG:55] Tromokratis
+1 [GTC:204] Urban Evolution
+1 [XLN:213] Verdant Sun's Avatar
+1 [LRW:276] Vivid Creek
+1 [LRW:277] Vivid Grove
+1 [BNG:57] Whelming Wave
+1 [EVE:80] Wickerbough Elder
+1 [M19:260] Woodland Stream
+1 [UDS:124] Yavimaya Elder
+SB: 1 [DSC:210] Aesi, Tyrant of Gyre Strait
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([FDN:256])([WWK:130],[CLU:228],[SUM:274],[FDN:258])([M13:159],[WWK:96],[DIS:107],[EMN:5],[5DN:86],[GTC:162],[CHK:74],[10E:280*],[LRW:76],[EVE:156],[RIX:45],[FDN:645],[HOU:129],[FDN:231],[JOU:51],[RNA:206],[THS:63],[DIS:130],[DOM:66],[M13:69],[M14:196],[M15:80],[CMR:367],[WWK:115],[CMR:366],[BNG:55],[XLN:213],[EVE:80],[UDS:124])([ZEN:49],[ZEN:167],[BFZ:186])([ALL:22a],[NPH:103],[7ED:67],[INV:57],[RNA:178],[FDN:509],[M15:74],[GTC:195])([BFZ:233],[ELD:333],[VIS:160],[TDM:255],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[VIS:164],[DOM:243],[M19:254],[CLU:247],[FDN:695],[DSK:269],[TDM:269],[LRW:276],[LRW:277],[M19:260])([RAV:40],[M21:177],[WWK:99],[PLC:149],[CHK:225],[M12:190],[TSP:216],[EVE:162],[GTC:204],[BNG:57])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DSC:210])

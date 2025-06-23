@@ -1,0 +1,83 @@
+1 [CMM:10] Alms Collector
+1 [M21:242] Animal Sanctuary
+1 [AKH:2] Anointed Procession
+1 [ELD:331] Arcane Signet
+1 [FDN:669] Basilisk Collar
+1 [ZEN:159] Beastmaster Ascension
+1 [KHM:235] Bloodline Pretender
+1 [BNG:5] Brimaz, King of Oreskos
+1 [BFZ:234] Canopy Vista
+1 [AKH:8] Cast Out
+1 [BFZ:235] Cinder Glade
+1 [DOM:239] Clifftop Retreat
+1 [ELD:333] Command Tower
+1 [LRW:11] Crib Swap
+1 [M21:177] Cultivate
+1 [MH3:279] Cursed Mirror
+1 [AKH:210] Dusk // Dawn
+1 [CON:142] Exotic Orchard
+1 [M13:170] Farseek
+1 [FDN:574] Felidar Retreat
+1 [M21:180] Feline Sovereign
+1 [PLS:108] Fleetfoot Panther
+7 [FIN:306] Forest
+1 [SOI:274] Fortified Village
+1 [SOI:276] Game Trail
+1 [NEO:189] Greater Tanuki
+1 [FIC:228] Herald's Horn
+1 [GN2:1] Highcliff Felidar
+1 [PZ2:65711] Hungry Lynx
+1 [FDN:717] Impact Tremors
+1 [FDN:497] Jazal Goldmane
+1 [SNC:193] Jetmir, Nexus of Revels
+1 [SNC:250] Jetmir's Garden
+1 [SNC:195] Jinnie Fay, Jetmir's Second
+1 [ALA:226] Jungle Shrine
+1 [ELD:163] Keeper of Fables
+1 [J25:214] King of the Pride
+1 [NCC:104] Kitt Kanto, Mayhem Diva
+1 [NEC:21] Komainu Battle Armor
+1 [JUD:141] Krosan Verge
+1 [NEO:26] Lion Sash
+1 [AFR:23] Loyal Warhound
+1 [M10:190] Lurking Predators
+1 [C19:46] Marisi, Breaker of the Coil
+1 [KHM:184] Masked Vandal
+1 [KHM:240] Maskwood Nexus
+1 [LRW:31] Mirror Entity
+5 [FIN:303] Mountain
+1 [FUT:147] Nacatl War-Pride
+1 [5ED:316] Nature's Lore
+1 [AKH:233] Oketra's Monument
+1 [CMM:832] Oreskos Explorer
+1 [M21:29] Pack Leader
+1 [FIC:411] Path of Ancestry
+1 [CON:15] Path to Exile
+1 [NCC:108] Phabine, Boss's Confidant
+10 [FIN:294] Plains
+1 [SLD:24] Qasali Slingers
+1 [KHM:188] Realmwalker
+1 [FDN:579] Regal Caracal
+1 [ELD:172] Return of the Wildspeaker
+1 [XLN:256] Rootbound Crag
+1 [AKH:247] Scattered Groves
+1 [FUT:31] Seht's Tiger
+1 [AKH:248] Sheltered Thicket
+1 [KHM:229] Showdown of the Skalds
+1 [DST:140] Skullclamp
+1 [ONC:21] Skyhunter Strike Force
+1 [SUM:274] Sol Ring
+1 [NEO:38] Spirited Companion
+1 [MKC:86] Stalking Leonin
+1 [XLN:257] Sunpetal Grove
+1 [FDN:633] Taurean Mauler
+1 [FRF:141] Temur Sabertooth
+1 [FIC:315] Three Visits
+1 [BRO:30] Tocasia's Welcome
+1 [XLN:251] Vanquisher's Banner
+1 [M10:163] Warp World
+1 [MBS:19] White Sun's Zenith
+1 [PLC:22] Whitemane Lion
+SB: 1 [M21:278] Rin and Seri, Inseparable
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,50)|([KHM:235],[NEC:21],[NEO:26])([ELD:331],[FDN:669],[MH3:279],[FIC:228],[KHM:240],[AKH:233],[DST:140],[SUM:274],[XLN:251])([CMM:10],[BNG:5],[M21:180],[PLS:108],[GN2:1],[PZ2:65711],[FDN:497],[SNC:193],[SNC:195],[ELD:163],[J25:214],[NCC:104],[AFR:23],[C19:46],[KHM:184],[LRW:31],[FUT:147],[CMM:832],[M21:29],[NCC:108],[SLD:24],[KHM:188],[FDN:579],[FUT:31],[ONC:21],[MKC:86],[FDN:633],[FRF:141],[PLC:22])([NEO:189],[NEO:38])([AKH:2],[ZEN:159],[AKH:8],[FDN:574],[FDN:717],[M10:190],[KHM:229],[BRO:30])([CON:15],[ELD:172],[MBS:19])([LRW:11])([M21:242],[BFZ:234],[BFZ:235],[DOM:239],[ELD:333],[CON:142],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[SOI:274],[SOI:276],[SNC:250],[ALA:226],[JUD:141],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIC:411],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[XLN:256],[AKH:247],[AKH:248],[XLN:257])([AKH:210])([M21:177],[M13:170],[5ED:316],[FIC:315],[M10:163])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M21:278])

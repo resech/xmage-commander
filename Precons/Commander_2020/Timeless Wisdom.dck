@@ -1,0 +1,90 @@
+1 [HOU:158] Abandoned Sarcophagus
+1 [MKC:145] Agitator Ant
+1 [C20:6] Akim, the Soaring Wind
+1 [ONS:2] Akroma's Vengeance
+1 [ELD:331] Arcane Signet
+1 [FIC:374] Ash Barrens
+1 [C20:76] Astral Drift
+1 [CLU:229] Azorius Chancery
+1 [CLU:219] Azorius Signet
+1 [CMM:370] Bonder's Ornament
+1 [IKO:43] Boon of the Wish-Giver
+1 [CLU:231] Boros Garrison
+1 [CLU:220] Boros Signet
+1 [C20:4] Brallin, Skyshark Rider
+1 [AKH:8] Cast Out
+1 [OGW:104] Chandra, Flamecaller
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [C20:21] Cryptic Trilobite
+1 [C20:31] Crystalline Resonance
+1 [AKH:49] Curator of Mysteries
+1 [SCG:8] Decree of Justice
+1 [SOI:13] Descend upon the Sinful
+1 [HOU:170] Desert of the Fervent
+1 [HOU:173] Desert of the Mindful
+1 [HOU:174] Desert of the True
+1 [TDC:112] Dismantling Wave
+1 [AKH:51] Drake Haven
+1 [USG:320] Drifting Meadow
+1 [SCG:12] Eternal Dragon
+1 [C20:34] Ethereal Forager
+1 [CON:142] Exotic Orchard
+1 [CMM:94] Fierce Guardianship
+1 [USG:295] Fluctuator
+1 [ONS:317] Forgotten Cave
+1 [C20:27] Herald of the Forgotten
+1 [AKH:57] Hieroglyphic Illumination
+1 [LRW:21] Hoofprints of the Stag
+1 [HOU:178] Hostile Desert
+1 [AKH:245] Irrigated Farmland
+5 [FIN:297] Island
+1 [RTR:171] Isperia, Supreme Judge
+1 [CLU:239] Izzet Boilerworks
+1 [CLU:224] Izzet Signet
+1 [ONS:217] Lightning Rift
+1 [ONS:320] Lonely Sandbar
+1 [CLU:65] Martial Impetus
+1 [RTR:180] Mercurial Chemister
+1 [MOC:336] Migratory Route
+6 [FIN:303] Mountain
+1 [TDC:380] Myriad Landscape
+1 [TDM:262] Mystic Monastery
+1 [IKO:59] Neutralize
+1 [AKH:63] New Perspectives
+1 [HOU:40] Nimble Obstructionist
+1 [GPT:123] Niv-Mizzet, the Firemind
+1 [IKO:61] Ominous Seas
+4 [FIN:294] Plains
+1 [CMM:112] Portal Mage
+1 [BFZ:241] Prairie Stream
+1 [CLU:92] Psychic Impetus
+1 [MBS:126] Psychosis Crawler
+1 [IKO:238] Raugrin Crystal
+1 [IKO:65] Reconnaissance Mission
+1 [M19:254] Reliquary Tower
+1 [USG:324] Remote Isle
+1 [IKO:133] Rooting Moloch
+1 [IKO:205] Savai Thundermane
+1 [ONS:324] Secluded Steppe
+1 [C20:14] Shabraz, the Skyshark
+1 [CLU:147] Shiny Impetus
+1 [DMU:255] Shivan Reef
+1 [ODY:327] Skycloud Expanse
+1 [ONS:232] Slice and Dice
+1 [USG:328] Smoldering Crater
+1 [SUM:274] Sol Ring
+1 [C20:56] Spellpyre Phoenix
+1 [JUD:26] Spirit Cairn
+1 [M12:39] Sun Titan
+1 [C20:57] Surly Badgersaur
+1 [HA3:18] Tectonic Reformation
+1 [SCG:143] Temple of the False God
+1 [HOU:139] The Locust God
+1 [IKO:36] Valiant Rescuer
+1 [AKH:75] Vizier of Tumbling Sands
+1 [USG:111] Windfall
+1 [IKO:217] Zenith Flare
+SB: 1 [C20:7] Gavi, Nest Warden
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([MBS:126])([HOU:158],[ELD:331],[CLU:219],[CMM:370],[CLU:220],[FIC:339],[USG:295],[CLU:224],[IKO:238],[SUM:274])([MKC:145],[C20:6],[C20:4],[C20:21],[AKH:49],[SCG:12],[C20:34],[C20:27],[RTR:171],[RTR:180],[HOU:40],[GPT:123],[CMM:112],[IKO:133],[IKO:205],[C20:14],[C20:56],[M12:39],[C20:57],[HOU:139],[IKO:36],[AKH:75])([C20:76],[AKH:8],[C20:31],[AKH:51],[ONS:217],[CLU:65],[AKH:63],[IKO:61],[CLU:92],[IKO:65],[CLU:147],[JUD:26],[HA3:18])([CMM:94],[AKH:57],[IKO:59],[IKO:217])([LRW:21])([FIC:374],[CLU:229],[CLU:231],[ELD:333],[HOU:170],[HOU:173],[HOU:174],[USG:320],[CON:142],[ONS:317],[HOU:178],[AKH:245],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[CLU:239],[ONS:320],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[TDC:380],[TDM:262],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[BFZ:241],[M19:254],[USG:324],[ONS:324],[DMU:255],[ODY:327],[USG:328],[SCG:143])([OGW:104])([ONS:2],[IKO:43],[SCG:8],[SOI:13],[TDC:112],[MOC:336],[ONS:232],[USG:111])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C20:7])

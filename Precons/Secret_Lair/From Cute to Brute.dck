@@ -1,0 +1,100 @@
+1 [THB:231] Altar of the Pantheon
+1 [ELD:331] Arcane Signet
+1 [SOI:5] Archangel Avacyn
+1 [SOI:243] Arlinn Kord
+1 [MID:211] Arlinn, the Pack's Hope
+1 [RIX:176] Azor's Gateway
+1 [ZNR:180] Bala Ged Recovery
+1 [KHM:251] Barkchannel Pathway
+1 [CLU:158] Beast Whisperer
+1 [NPH:103] Beast Within
+1 [KHM:252] Blightstep Pathway
+1 [ISD:90] Bloodline Keeper
+1 [ZNR:258] Branchloft Pathway
+1 [ZNR:259] Brightclimb Pathway
+1 [WWK:53] Butcher of Malakir
+1 [ORI:135] Chandra, Fire of Kaladesh
+1 [GRN:233] Chromatic Lantern
+1 [ZNR:260] Clearwater Pathway
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [KHM:303] Cosima, God of the Voyage
+1 [ZNR:261] Cragcrown Pathway
+1 [KHM:254] Darkbore Pathway
+1 [MID:217] Dennick, Pious Apprentice
+1 [GTC:33] Diluvian Primordial
+1 [XLN:235] Dowsing Dagger
+1 [DKA:147] Elbrus, the Binding Blade
+1 [GRN:168] Emmara, Soul of the Accord
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [M13:170] Farseek
+1 [9ED:297] Fellwar Stone
+3 [FIN:306] Forest
+1 [TDM:256] Frontier Bivouac
+1 [ISD:181] Garruk Relentless
+1 [RNA:130] Guardian Project
+1 [RIX:158] Hadana's Climb
+1 [ZNR:106] Hagra Mauling
+1 [PLC:149] Harmonize
+1 [KHM:260] Hengegate Pathway
+1 [FIN:297] Island
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [M21:191] Jolrael, Mwonvuli Recluse
+1 [RIX:160] Journey to Eternity
+1 [ALA:226] Jungle Shrine
+1 [IKO:192] Kinnan, Bonder Prodigy
+1 [KHM:181] Kolvori, God of Kinship
+1 [ORI:23] Kytheon, Hero of Akros
+1 [XLN:22] Legion's Landing
+1 [ORI:106] Liliana, Heretical Healer
+1 [MID:233] Ludevic, Necrogenius
+1 [FDN:256] Meteor Golem
+1 [STX:153] Mila, Crafty Companion
+1 [FIN:303] Mountain
+1 [ZNR:263] Needleverge Pathway
+1 [M19:218] Nicol Bolas, the Ravager
+1 [ORI:189] Nissa, Vastwood Seer
+1 [ZNR:30] Ondu Inversion
+1 [TDM:264] Opulent Palace
+1 [FIC:411] Path of Ancestry
+1 [FIN:294] Plains
+1 [STX:155] Plargg, Dean of Chaos
+1 [PLC:44] Pongify
+1 [DGM:93] Putrefy
+1 [SHM:237] Rhys the Redeemed
+1 [KHM:266] Rimewood Falls
+1 [ZNR:264] Riverglide Pathway
+1 [TDM:266] Sandsteppe Citadel
+1 [CMM:406] Sandstone Oracle
+1 [ALA:228] Savage Lands
+1 [AKH:247] Scattered Groves
+1 [XLN:74] Search for Azcanta
+1 [ALA:229] Seaside Citadel
+1 [STX:158] Shaile, Dean of Radiance
+1 [AKH:248] Sheltered Thicket
+1 [H1R:6] Sisay, Weatherlight Captain
+1 [SUM:274] Sol Ring
+1 [MKC:118] Sphinx of the Second Sun
+1 [FIN:300] Swamp
+1 [DSK:269] Terramorphic Expanse
+1 [XLN:249] Thaumatic Compass
+1 [KHM:275] The World Tree
+1 [WAR:223] Time Wipe
+1 [J25:728] Tireless Provisioner
+1 [MID:204] Tovolar's Huntmaster
+1 [LCI:267] Treasure Map
+1 [DRC:143] Triplicate Titan
+1 [DOM:39] Urza's Ruinous Blast
+1 [KTK:210] Utter End
+1 [ZNR:174] Valakut Awakening
+1 [STX:161] Valentin, Dean of the Vein
+1 [KHM:114] Valki, God of Lies
+1 [LRW:277] Vivid Grove
+1 [EMN:111] Voldaren Pariah
+1 [SOI:281] Westvale Abbey
+1 [KHM:274] Woodland Chasm
+1 [FDN:584] Zetalpa, Primal Dawn
+SB: 1 [KHM:168] Esika, God of the Tree
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([FDN:256],[CMM:406],[DRC:143])([THB:231],[ELD:331],[RIX:176],[GRN:233],[FIC:339],[XLN:235],[DKA:147],[9ED:297],[SUM:274],[XLN:249],[LCI:267])([SOI:5],[CLU:158],[ISD:90],[WWK:53],[ORI:135],[KHM:303],[MID:217],[GTC:33],[GRN:168],[ORI:60],[M21:191],[IKO:192],[KHM:181],[ORI:23],[ORI:106],[MID:233],[STX:153],[M19:218],[ORI:189],[STX:155],[SHM:237],[STX:158],[H1R:6],[MKC:118],[J25:728],[MID:204],[STX:161],[KHM:114],[EMN:111],[FDN:584])([RNA:130],[RIX:158],[RIX:160],[XLN:22],[XLN:74])([NPH:103],[ZNR:106],[PLC:44],[DGM:93],[KTK:210],[ZNR:174])([KHM:251],[KHM:252],[ZNR:258],[ZNR:259],[ZNR:260],[ELD:333],[ZNR:261],[KHM:254],[TDM:255],[CON:142],[FIN:306],[FIN:306],[FIN:306],[TDM:256],[KHM:260],[FIN:297],[ALA:226],[FIN:303],[ZNR:263],[TDM:264],[FIC:411],[FIN:294],[KHM:266],[ZNR:264],[TDM:266],[ALA:228],[AKH:247],[ALA:229],[AKH:248],[FIN:300],[DSK:269],[KHM:275],[LRW:277],[SOI:281],[KHM:274])([SOI:243],[MID:211],[ISD:181])([ZNR:180],[M13:170],[PLC:149],[ZNR:30],[WAR:223],[DOM:39])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([KHM:168])

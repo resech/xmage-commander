@@ -1,0 +1,81 @@
+1 [FDN:188] Abrade
+1 [DOM:211] Blackblade Reforged
+1 [CMR:364] Blazing Sunsteel
+1 [MRD:146] Bonesplitter
+1 [FDN:721] Boros Charm
+1 [CLU:231] Boros Garrison
+1 [FDN:684] Boros Guildgate
+1 [CLU:220] Boros Signet
+1 [MBS:101] Brass Squire
+1 [WWK:76] Comet Storm
+1 [ELD:333] Command Tower
+1 [M11:11] Condemn
+1 [DOM:12] Danitha Capashen, Paragon
+1 [PLC:4] Dawn Charm
+1 [KTK:173] Deflecting Palm
+1 [FDN:572] Disenchant
+1 [C21:165] Dualcaster Mage
+1 [M14:227] Encroaching Wastes
+1 [TDM:255] Evolving Wilds
+1 [OGW:108] Expedite
+1 [ZEN:202] Explorer's Scope
+1 [EMN:24] Faith Unbroken
+1 [FDN:674] Fireshrieker
+1 [J25:550] Fists of Flame
+1 [EVE:6] Flickerwisp
+1 [ONS:317] Forgotten Cave
+1 [BLC:106] Generous Gift
+1 [SOI:257] Haunted Cloak
+1 [FRF:160] Hero's Blade
+1 [EMN:31] Ironclad Slayer
+1 [DOM:133] Jaya's Immolating Inferno
+1 [ZEN:18] Kor Cartographer
+1 [10E:332*] Loxodon Warhammer
+1 [CON:11] Martial Coup
+1 [ISD:229] Mask of Avacyn
+1 [RAV:250] Master Warcraft
+1 [DOM:246] Memorial to War
+9 [FIN:303] Mountain
+1 [TDC:380] Myriad Landscape
+1 [SOI:31] Odric, Lunarch Marshal
+1 [DOM:28] On Serra's Wings
+1 [CMM:832] Oreskos Explorer
+14 [FIN:294] Plains
+1 [10E:225] Relentless Assault
+1 [ORI:29] Relic Seeker
+1 [GRN:229] Response // Resurgence
+1 [TSP:39] Return to Dust
+1 [M13:213] Ring of Thune
+1 [M13:214] Ring of Valkas
+1 [FDN:264] Rogue's Passage
+1 [M19:255] Rupture Spire
+1 [ONS:324] Secluded Steppe
+1 [EMN:41] Sigarda's Aid
+1 [AVR:229] Slayers' Stronghold
+1 [SUM:274] Sol Ring
+1 [M12:35] Spirit Mantle
+1 [AER:23] Sram, Senior Edificer
+1 [M19:256] Stone Quarry
+1 [RAV:272] Sunforger
+1 [RAV:282] Sunhome, Fortress of the Legion
+1 [FDN:258] Swiftfoot Boots
+1 [BLB:395] Sword of Vengeance
+1 [ICE:54] Swords to Plowshares
+1 [FRF:116] Temur Battle Rage
+1 [DSK:269] Terramorphic Expanse
+1 [DOM:208] Tiana, Ship's Caretaker
+1 [DSC:107] Timely Ward
+1 [RTR:249] Transguild Promenade
+1 [RNA:29] Unbreakable Formation
+1 [JUD:31] Unquestioned Authority
+1 [FDN:583] Valorous Stance
+1 [CON:74] Volcanic Fallout
+1 [DGM:135] Wear // Tear
+1 [MBS:19] White Sun's Zenith
+1 [M14:162] Wild Ricochet
+1 [TDM:271] Wind-Scarred Crag
+1 [TMP:52] Winds of Rath
+1 [TSP:188] Word of Seizing
+SB: 1 [CMR:362] Wyleth, Soul of Steel
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([MBS:101])([DOM:211],[CMR:364],[MRD:146],[CLU:220],[ZEN:202],[FDN:674],[SOI:257],[FRF:160],[10E:332*],[ISD:229],[M13:213],[M13:214],[SUM:274],[RAV:272],[FDN:258],[BLB:395])([DOM:12],[C21:165],[EVE:6],[EMN:31],[ZEN:18],[SOI:31],[CMM:832],[ORI:29],[AER:23],[DOM:208])([EMN:24],[DOM:28],[EMN:41],[M12:35],[DSC:107],[JUD:31])([DGM:135])([GRN:229])([FDN:188],[FDN:721],[WWK:76],[M11:11],[PLC:4],[KTK:173],[FDN:572],[OGW:108],[J25:550],[BLC:106],[RAV:250],[TSP:39],[ICE:54],[FRF:116],[RNA:29],[FDN:583],[CON:74],[MBS:19],[M14:162],[TSP:188])([CLU:231],[FDN:684],[ELD:333],[M14:227],[TDM:255],[ONS:317],[DOM:246],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[TDC:380],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FDN:264],[M19:255],[ONS:324],[AVR:229],[M19:256],[RAV:282],[DSK:269],[RTR:249],[TDM:271])([DOM:133],[CON:11],[10E:225],[TMP:52])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMR:362])

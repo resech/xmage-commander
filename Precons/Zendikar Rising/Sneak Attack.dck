@@ -1,0 +1,74 @@
+1 [FDN:151] Aetherize
+1 [ELD:331] Arcane Signet
+1 [DOM:211] Blackblade Reforged
+1 [MBS:100] Bonehoard
+1 [OTC:128] Changeling Outcast
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [FDN:238] Consuming Aberration
+1 [CLU:233] Dimir Aqueduct
+1 [FDN:688] Dimir Guildgate
+1 [GTC:228] Dimir Keyrune
+1 [GRN:234] Dimir Locket
+1 [CLU:221] Dimir Signet
+1 [TDM:254] Dismal Backwater
+1 [MOR:32] Distant Melody
+1 [M15:94] Endless Obedience
+1 [ZNC:4] Enigma Thief
+1 [LTC:266] Extract from Darkness
+1 [INV:57] Fact or Fiction
+1 [SNC:44] Faerie Vandal
+1 [BNG:69] Fated Return
+1 [MOR:64] Frogtosser Banneret
+1 [KLD:84] Gonti, Lord of Luxury
+1 [PW24:16] Heirloom Blade
+1 [M15:100] In Garruk's Wake
+1 [ISD:60] Invisible Stalker
+15 [FIN:297] Island
+1 [ZEN:215] Jwar Isle Refuge
+1 [MOR:39] Latchkey Faerie
+1 [GTC:174] Lazav, Dimir Mastermind
+1 [FRF:40] Marang River Prowler
+1 [LRW:125] Marsh Flitter
+1 [M12:64] Master Thief
+1 [ZNR:70] Merfolk Windrobber
+1 [M15:69] Military Intelligence
+1 [10E:335] Mind Stone
+1 [DSK:110] Murder
+1 [TDC:380] Myriad Landscape
+1 [TDC:189] Necromantic Selection
+1 [THS:98] Nighthowler
+1 [GRN:48] Nightveil Sprite
+1 [DGM:88] Notion Thief
+1 [MOR:45] Notorious Throng
+1 [M15:222] Obelisk of Urd
+1 [GTC:74] Ogre Slumlord
+1 [SHM:172] Oona, Queen of the Fae
+1 [MOR:72] Oona's Blackguard
+1 [AKH:64] Open into Wonder
+1 [GRN:83] Price of Fame
+1 [M19:117] Rise from the Grave
+1 [FDN:264] Rogue's Passage
+1 [JOU:51] Scourge of Fleets
+1 [CMM:408] Scytheclaw
+1 [GTC:75] Sepulchral Primordial
+1 [DTK:232] Silumgar's Command
+1 [AKH:71] Slither Blade
+1 [ZNR:236] Soaring Thought-Thief
+1 [SUM:274] Sol Ring
+1 [ARB:29] Soul Manipulation
+1 [INV:276] Spinal Embrace
+1 [MOR:80] Stinkdrinker Bandit
+1 [GTC:53] Stolen Identity
+1 [M19:257] Submerged Boneyard
+1 [ZNR:83] Sure-Footed Infiltrator
+15 [FIN:300] Swamp
+1 [SHM:176] Sygg, River Cutthroat
+1 [ELD:107] Syr Konrad, the Grim
+1 [JOU:56] Triton Shorestalker
+1 [ORI:83] Whirler Rogue
+1 [ZNC:5] Whispersteel Dagger
+1 [BFZ:126] Zulaport Cutthroat
+SB: 1 [ZNC:1] Anowon, the Ruin Thief
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([ELD:331],[DOM:211],[MBS:100],[FIC:339],[GTC:228],[GRN:234],[CLU:221],[PW24:16],[10E:335],[M15:222],[CMM:408],[SUM:274],[ZNC:5])([OTC:128],[FDN:238],[ZNC:4],[SNC:44],[MOR:64],[KLD:84],[ISD:60],[MOR:39],[GTC:174],[FRF:40],[LRW:125],[M12:64],[ZNR:70],[GRN:48],[DGM:88],[GTC:74],[SHM:172],[MOR:72],[JOU:51],[GTC:75],[AKH:71],[ZNR:236],[MOR:80],[ZNR:83],[SHM:176],[ELD:107],[JOU:56],[ORI:83],[BFZ:126])([THS:98])([M15:69])([FDN:151],[INV:57],[BNG:69],[DSK:110],[GRN:83],[DTK:232],[ARB:29],[INV:276])([MOR:45])([ELD:333],[CLU:233],[FDN:688],[TDM:254],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[ZEN:215],[TDC:380],[FDN:264],[M19:257],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300])([MOR:32],[M15:94],[LTC:266],[M15:100],[TDC:189],[AKH:64],[M19:117],[GTC:53])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ZNC:1])

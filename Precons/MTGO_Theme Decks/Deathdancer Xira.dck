@@ -1,0 +1,80 @@
+1 [WTH:59] Abyssal Gatekeeper
+1 [LEG:88] All Hallow's Eve
+1 [9ED:173] Anarchist
+1 [ISD:127] Ancient Grudge
+1 [JUD:77] Anger
+1 [5ED:140] Animate Dead
+1 [5ED:141s] Ashes to Ashes
+1 [TSB:37] Avatar of Woe
+1 [ONS:312] Barren Moor
+1 [JUD:107] Brawn
+1 [ODY:118] Buried Alive
+1 [SCG:59] Carrion Feeder
+1 [INV:238] Cauldron Dance
+1 [LEG:137] Chain Lightning
+1 [SCG:84] Chartooth Cougar
+1 [10E:255] Civic Wayfinder
+1 [STH:104] Constant Mists
+1 [PLS:137] Darigaaz's Caldera
+1 [TSP:104] Dread Return
+1 [FUT:144] Edge of Autumn
+1 [6ED:224] Elven Cache
+1 [ORI:175] Elvish Visionary
+1 [5DN:86] Eternal Witness
+1 [DTK:186] Explosive Vegetation
+1 [INV:246] Fires of Yavimaya
+1 [PLS:60] Flametongue Kavu
+10 [FIN:306] Forest
+1 [ONS:317] Forgotten Cave
+1 [JUD:117] Genesis
+1 [ISD:240] Ghost Quarter
+1 [RAV:167] Golgari Grave-Troll
+1 [CLU:236] Golgari Rot Farm
+1 [CLU:222] Golgari Signet
+1 [RAV:87] Golgari Thug
+1 [CSP:58] Grim Harvest
+1 [CLU:223] Gruul Signet
+1 [CLU:238] Gruul Turf
+1 [PLC:149] Harmonize
+1 [ALA:104] Hissing Iguanar
+1 [ALA:225] Jund Panorama
+1 [UDS:91] Keldon Vandals
+1 [CHK:225] Kodama's Reach
+1 [ONS:272] Krosan Tusker
+1 [RAV:172] Life from the Loam
+1 [CLU:141] Lightning Bolt
+1 [MRD:199] Lightning Greaves
+1 [NEM:58] Massacre
+7 [FIN:303] Mountain
+1 [CHK:129] Nezumi Graverobber
+1 [APC:82] Penumbra Bobcat
+1 [FDN:180] Phyrexian Arena
+1 [DGM:93] Putrefy
+1 [CLU:243] Rakdos Carnarium
+1 [CLU:226] Rakdos Signet
+1 [SCG:72] Reaping the Graves
+1 [M19:197] Recollect
+1 [ALA:110] Resounding Thunder
+1 [9ED:267] Rootbreaker Wurm
+1 [M19:255] Rupture Spire
+1 [CHK:239] Sakura-Tribe Elder
+1 [ALA:228] Savage Lands
+1 [RAV:230] Shambling Shell
+1 [LRW:139] Shriekmaw
+1 [DST:140] Skullclamp
+1 [RAV:107] Stinkweed Imp
+8 [FIN:300] Swamp
+1 [ARB:46] Terminate
+1 [DSK:269] Terramorphic Expanse
+1 [10E:182] Terror
+1 [ONS:326] Tranquil Thicket
+1 [TSB:50] Twisted Abomination
+1 [ODY:296] Vampiric Dragon
+1 [ODY:282] Werebear
+1 [EVE:80] Wickerbough Elder
+1 [ODY:283] Wild Mongrel
+1 [SCG:132] Wirewood Guardian
+1 [UDS:124] Yavimaya Elder
+SB: 1 [LEG:270] Xira Arien
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([CLU:222],[CLU:223],[MRD:199],[CLU:226],[DST:140])([WTH:59],[9ED:173],[JUD:77],[TSB:37],[JUD:107],[SCG:59],[SCG:84],[10E:255],[ORI:175],[5DN:86],[PLS:60],[JUD:117],[RAV:167],[RAV:87],[ALA:104],[UDS:91],[ONS:272],[CHK:129],[APC:82],[9ED:267],[CHK:239],[RAV:230],[LRW:139],[RAV:107],[TSB:50],[ODY:296],[ODY:282],[EVE:80],[ODY:283],[SCG:132],[UDS:124])([5ED:140],[INV:246],[FDN:180])([ISD:127],[INV:238],[STH:104],[CSP:58],[CLU:141],[DGM:93],[SCG:72],[ALA:110],[ARB:46],[10E:182])([ONS:312],[PLS:137],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[ONS:317],[ISD:240],[CLU:236],[CLU:238],[ALA:225],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[CLU:243],[M19:255],[ALA:228],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[DSK:269],[ONS:326])([LEG:88],[5ED:141s],[ODY:118],[LEG:137],[TSP:104],[FUT:144],[6ED:224],[DTK:186],[PLC:149],[CHK:225],[RAV:172],[NEM:58],[M19:197])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LEG:270])

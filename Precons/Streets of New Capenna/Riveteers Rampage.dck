@@ -1,0 +1,90 @@
+1 [DST:37] Aether Snap
+1 [ELD:331] Arcane Signet
+1 [ROE:2] Artisan of Kozilek
+1 [FIC:374] Ash Barrens
+1 [WWK:96] Avenger of Zendikar
+1 [NCC:134] Bellowing Mauler
+1 [ISD:130] Blasphemous Act
+1 [BFZ:233] Blighted Woodland
+1 [NCC:156] Caldaia Guardian
+1 [FIC:291] Chaos Warp
+1 [BFZ:235] Cinder Glade
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [DTK:96] Deathbringer Regent
+1 [DSC:86] Deathreap Ritual
+1 [M13:88] Disciple of Bolas
+1 [NCC:158] Dodgy Jalopy
+1 [FDN:194] Etali, Primal Storm
+1 [ORI:176] Evolutionary Leap
+1 [CON:142] Exotic Orchard
+1 [WWK:99] Explore
+1 [M13:170] Farseek
+1 [9ED:297] Fellwar Stone
+1 [NCC:160] First Responder
+1 [SOI:272] Foreboding Ruins
+6 [FIN:306] Forest
+1 [SOI:276] Game Trail
+1 [FDN:220] Garruk's Uprising
+1 [CLU:164] Giant Adephage
+1 [SNC:107] Glittering Stockpile
+1 [BFZ:174] Greenwarden of Murasa
+1 [NCC:172] Grime Gorger
+1 [DIS:86] Indrik Stomphowler
+1 [NCC:147] Industrial Advancement
+1 [M12:147] Inferno Titan
+1 [NCC:173] Jolene, the Plunder Queen
+1 [ALA:225] Jund Panorama
+1 [ISD:243] Kessig Wolf Run
+1 [CHK:225] Kodama's Reach
+1 [ALA:178] Kresh the Bloodbraided
+1 [M15:183] Life's Legacy
+1 [AER:162] Lifecrafter's Bestiary
+1 [NCC:149] Mezzio Mugger
+1 [IKO:164] Migration Path
+1 [M11:185] Mitotic Slime
+1 [ODY:321] Mossfire Valley
+1 [LRW:270] Mosswort Bridge
+5 [FIN:303] Mountain
+1 [TDC:380] Myriad Landscape
+1 [NCC:162] Next of Kin
+1 [KLD:96] Noxious Gearhulk
+1 [ROE:203] Overgrown Battlement
+1 [BFZ:120] Painful Truths
+1 [FIC:411] Path of Ancestry
+1 [NCC:140] Protection Racket
+1 [BLC:200] Rain of Riches
+1 [M12:190] Rampant Growth
+1 [SNC:217] Riveteers Charm
+1 [NCC:179] Riveteers Confluence
+1 [SNC:255] Riveteers Overlook
+1 [ALA:228] Savage Lands
+1 [ODY:326] Shadowblood Ridge
+1 [BFZ:247] Smoldering Marsh
+1 [SUM:274] Sol Ring
+1 [FDN:257] Solemn Simulacrum
+1 [LRW:274] Spinerock Knoll
+1 [DIS:73] Stalking Vengeance
+4 [FIN:300] Swamp
+1 [FDN:700] Temple of Malady
+1 [SCG:143] Temple of the False God
+1 [FRF:141] Temur Sabertooth
+1 [ARB:46] Terminate
+1 [NCC:101] The Beamtown Bullies
+1 [M13:193] Thragtusk
+1 [CLU:249] Thriving Bluff
+1 [CLU:250] Thriving Grove
+1 [CLU:253] Thriving Moor
+1 [THB:297] Treeshaker Chimera
+1 [NCC:154] Turf War
+1 [EVE:180] Twilight Mire
+1 [USG:166] Victimize
+1 [M12:160] Warstorm Surge
+1 [NCC:142] Wave of Rats
+1 [TDC:336] Weathered Sentinels
+1 [BLC:263] Windgrace's Judgment
+1 [SHM:135] Woodfall Primus
+1 [RIX:151] World Shaper
+SB: 1 [NCC:102] Henzie "Toolbox" Torre
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([KLD:96],[FDN:257],[TDC:336])([ELD:331],[FIC:339],[NCC:158],[9ED:297],[SNC:107],[AER:162],[SUM:274])([ROE:2],[WWK:96],[NCC:134],[NCC:156],[DTK:96],[M13:88],[FDN:194],[NCC:160],[CLU:164],[BFZ:174],[NCC:172],[DIS:86],[M12:147],[NCC:173],[ALA:178],[NCC:149],[M11:185],[ROE:203],[DIS:73],[FRF:141],[NCC:101],[M13:193],[THB:297],[NCC:142],[SHM:135],[RIX:151])([DSC:86],[ORI:176],[FDN:220],[NCC:147],[NCC:162],[NCC:140],[BLC:200],[NCC:154],[M12:160])([FIC:291],[SNC:217],[ARB:46],[BLC:263])([FIC:374],[BFZ:233],[BFZ:235],[ELD:333],[CON:142],[SOI:272],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[SOI:276],[ALA:225],[ISD:243],[ODY:321],[LRW:270],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[TDC:380],[FIC:411],[SNC:255],[ALA:228],[ODY:326],[BFZ:247],[LRW:274],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FDN:700],[SCG:143],[CLU:249],[CLU:250],[CLU:253],[EVE:180])([DST:37],[ISD:130],[WWK:99],[M13:170],[CHK:225],[M15:183],[IKO:164],[BFZ:120],[M12:190],[NCC:179],[USG:166])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NCC:102])

@@ -1,0 +1,87 @@
+1 [KTK:160] Abzan Ascendancy
+1 [KTK:161] Abzan Charm
+1 [M13:159] Acidic Slime
+1 [KLD:2] Aerial Responder
+1 [AER:127] Ajani Unyielding
+1 [TSB:1] Akroma, Angel of Wrath
+1 [FDN:136] Angel of Finality
+1 [ELD:331] Arcane Signet
+1 [C20:202] Archon of Valor's Reach
+1 [NCC:194] Avenging Huntbonder
+1 [BFZ:233] Blighted Woodland
+1 [IKO:75] Blood Curdle
+1 [TDM:251] Blossoming Sands
+1 [CMM:370] Bonder's Ornament
+1 [LRW:105] Cairn Wanderer
+1 [BFZ:234] Canopy Vista
+1 [CMM:18] Cartographer's Hawk
+1 [KLD:9] Cataclysmic Gearhulk
+1 [DMU:244] Caves of Koilos
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [M21:177] Cultivate
+1 [C20:41] Daring Fiendbonder
+1 [CLU:184] Deadbridge Chant
+1 [WAR:189] Deathsprout
+1 [WAR:190] Despark
+1 [KTK:174] Duneblast
+1 [SOI:109] Ever After
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+4 [FIN:306] Forest
+1 [ISD:239] Gavony Township
+1 [CLU:236] Golgari Rot Farm
+1 [DKA:156] Grim Backwoods
+1 [RTR:165] Grisly Salvage
+1 [PLC:149] Harmonize
+1 [M15:178] Hornet Queen
+1 [TDM:258] Jungle Hollow
+1 [C20:92] Kalemne's Captain
+1 [BNG:148] Karametra, God of Harvests
+1 [JUD:141] Krosan Verge
+1 [HOU:122] Majestic Myriarch
+1 [CLU:65] Martial Impetus
+1 [DOM:242] Memorial to Folly
+1 [SOM:175] Mimic Vat
+1 [TDC:380] Myriad Landscape
+1 [FIC:408] Nesting Grounds
+1 [C20:45] Netherborn Altar
+1 [C20:3] Nikara, Lair Scavenger
+1 [JOU:153] Nyx Weaver
+1 [CMM:308] Obscuring Haze
+1 [SOI:31] Odric, Lunarch Marshal
+1 [CLU:241] Orzhov Basilica
+1 [CLU:118] Parasitic Impetus
+7 [FIN:294] Plains
+1 [CLU:172] Predatory Impetus
+1 [MOR:22] Reveillark
+1 [CHK:239] Sakura-Tribe Elder
+1 [TDM:266] Sandsteppe Citadel
+1 [M15:198] Satyr Wayfinder
+1 [TDM:267] Scoured Barrens
+1 [C20:65] Selective Adaptation
+1 [CLU:246] Selesnya Sanctuary
+1 [M3C:247] Skullwinder
+1 [NCC:312] Slippery Bogbonder
+1 [SUM:274] Sol Ring
+1 [AER:22] Solemn Recruit
+1 [M15:115] Soul of Innistrad
+1 [FRF:84] Soulflayer
+1 [ISD:205] Splinterfright
+1 [SOM:22] Sunblast Angel
+1 [ODY:328] Sungrass Prairie
+7 [FIN:300] Swamp
+1 [FDN:258] Swiftfoot Boots
+1 [C20:16] Tayam, Luminous Enigma
+1 [IKO:174] Titanoth Rex
+1 [FIC:257] Together Forever
+1 [IKO:101] Unbreakable Bond
+1 [ISD:122] Unburial Rites
+1 [FDN:186] Vampire Nighthawk
+1 [C20:30] Vitality Hunter
+1 [IKO:104] Void Beckoner
+1 [C20:19] Yannik, Scavenging Sentinel
+1 [FDN:584] Zetalpa, Primal Dawn
+SB: 1 [C20:10] Kathril, Aspect Warper
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([KLD:9])([ELD:331],[CMM:370],[FIC:339],[SOM:175],[C20:45],[SUM:274],[FDN:258])([M13:159],[KLD:2],[TSB:1],[FDN:136],[C20:202],[NCC:194],[LRW:105],[CMM:18],[C20:41],[M15:178],[C20:92],[HOU:122],[C20:3],[SOI:31],[MOR:22],[CHK:239],[M15:198],[M3C:247],[NCC:312],[AER:22],[M15:115],[FRF:84],[ISD:205],[SOM:22],[C20:16],[IKO:174],[FDN:186],[C20:30],[IKO:104],[C20:19],[FDN:584])([BNG:148],[JOU:153])([KTK:160],[CLU:184],[CLU:65],[CLU:118],[CLU:172],[FIC:257])([KTK:161],[IKO:75],[WAR:189],[WAR:190],[RTR:165],[CMM:308])([BFZ:233],[TDM:251],[BFZ:234],[DMU:244],[ELD:333],[TDM:255],[CON:142],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[ISD:239],[CLU:236],[DKA:156],[TDM:258],[JUD:141],[DOM:242],[TDC:380],[FIC:408],[CLU:241],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[TDM:266],[TDM:267],[CLU:246],[ODY:328],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300])([AER:127])([M21:177],[KTK:174],[SOI:109],[PLC:149],[C20:65],[IKO:101],[ISD:122])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C20:10])

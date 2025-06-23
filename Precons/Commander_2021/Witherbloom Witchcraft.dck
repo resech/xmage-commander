@@ -1,0 +1,82 @@
+1 [DST:73] Ageless Entity
+1 [ORI:221] Alhammarret's Archive
+1 [VOC:117] Ancient Craving
+1 [ELD:331] Arcane Signet
+1 [C21:36] Blight Mound
+1 [BFZ:233] Blighted Woodland
+1 [M20:91] Bloodthirsty Aerialist
+1 [LCC:186] Bloodtracker
+1 [C21:386] Blossoming Bogbeast
+1 [ELD:333] Command Tower
+1 [M21:177] Cultivate
+1 [DTK:93] Damnable Pact
+1 [SCD:75] Deadly Tempest
+1 [BFZ:107] Defiant Bloodlord
+1 [STX:178] Dina, Soul Steeper
+1 [M12:207] Druidic Satchel
+1 [M14:209] Elixir of Immortality
+1 [M20:99] Epicure of Blood
+1 [C21:366] Essence Pulse
+1 [CON:142] Exotic Orchard
+1 [C21:387] Ezzaroot Channeler
+1 [FDN:712] Feed the Swarm
+11 [FIN:306] Forest
+1 [DGM:72] Gaze of Granite
+1 [M20:173] Gift of Paradise
+1 [ELD:245] Gingerbread Cabin
+1 [ELD:327] Gluttonous Troll
+1 [CLU:236] Golgari Rot Farm
+1 [7ED:140] Greed
+1 [C21:332] Gyome, Master Chef
+1 [C21:390] Healing Technique
+1 [MMQ:320] High Market
+1 [STX:134] Honor Troll
+1 [TDM:258] Jungle Hollow
+1 [WAR:202] Leyline Prowler
+1 [BRO:264] Llanowar Wastes
+1 [10E:332*] Loxodon Warhammer
+1 [OTC:139] Marshland Bloodcaster
+1 [M20:214] Moldervine Reclamation
+1 [STX:207] Mortality Spear
+1 [TDC:380] Myriad Landscape
+1 [BFZ:180] Nissa's Renewal
+1 [KLD:96] Noxious Gearhulk
+1 [BFZ:119] Ob Nixilis Reignited
+1 [TSP:260] Paradise Plume
+1 [OTP:30] Pest Infestation
+1 [NPH:151] Pristine Talisman
+1 [M20:189] Pulse of Murasa
+1 [M21:248] Radiant Fountain
+1 [M12:190] Rampant Growth
+1 [INV:121] Reckless Spite
+1 [C21:401] Revival Experiment
+1 [FDN:264] Rogue's Passage
+1 [MBS:53] Sangromancer
+1 [M14:112] Sanguine Bond
+1 [EVE:128] Sapling of Colfenor
+1 [SHM:279] Sapseep Forest
+1 [M21:122] Silversmote Ghoul
+1 [SUM:274] Sol Ring
+1 [C21:395] Sproutback Trudge
+1 [C21:80] Study Hall
+1 [ROE:128] Suffer the Past
+1 [MRD:249] Sun Droplet
+11 [FIN:300] Swamp
+1 [TOR:143] Tainted Wood
+1 [DSC:255] Talisman of Resilience
+1 [ELD:320] Taste of Death
+1 [FDN:700] Temple of Malady
+1 [SCG:143] Temple of the False God
+1 [C21:372] Tivash, Gloom Summoner
+1 [C21:396] Trudge Garden
+1 [FDN:186] Vampire Nighthawk
+1 [OTC:151] Veinwitch Coven
+1 [SOM:220] Venser's Journal
+1 [XLN:213] Verdant Sun's Avatar
+1 [DST:159] Well of Lost Dreams
+1 [DSC:325] Witch's Clinic
+1 [STX:275] Witherbloom Campus
+1 [DSC:209] Yedora, Grave Gardener
+SB: 1 [C21:333] Willowdusk, Essence Seer
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([KLD:96])([ORI:221],[ELD:331],[M12:207],[M14:209],[10E:332*],[TSP:260],[NPH:151],[SUM:274],[MRD:249],[DSC:255],[SOM:220],[DST:159])([DST:73],[M20:91],[LCC:186],[C21:386],[BFZ:107],[STX:178],[M20:99],[C21:387],[ELD:327],[C21:332],[STX:134],[WAR:202],[OTC:139],[MBS:53],[EVE:128],[M21:122],[C21:395],[C21:372],[FDN:186],[OTC:151],[XLN:213],[DSC:209])([C21:36],[M20:173],[7ED:140],[M20:214],[M14:112],[C21:396])([STX:207],[M20:189],[INV:121],[ROE:128])([BFZ:233],[ELD:333],[CON:142],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[ELD:245],[CLU:236],[MMQ:320],[TDM:258],[BRO:264],[TDC:380],[M21:248],[FDN:264],[SHM:279],[C21:80],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[TOR:143],[FDN:700],[SCG:143],[DSC:325],[STX:275])([BFZ:119])([VOC:117],[M21:177],[DTK:93],[SCD:75],[C21:366],[FDN:712],[DGM:72],[C21:390],[BFZ:180],[OTP:30],[M12:190],[C21:401],[ELD:320])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C21:333])
