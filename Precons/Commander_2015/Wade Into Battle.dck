@@ -1,0 +1,79 @@
+1 [LRW:266] Ancient Amphitheater
+1 [RTR:1] Angel of Serenity
+1 [MKC:199] Anya, Merciless Angel
+1 [LRW:2] Arbiter of Knollridge
+1 [FDN:138] Banishing Light
+1 [SUM:235] Basalt Monolith
+1 [TDC:313] Blade of Selves
+1 [USG:319] Blasted Landscape
+1 [MOR:87] Borderland Behemoth
+1 [DGM:137] Boros Cluestone
+1 [CLU:231] Boros Garrison
+1 [FDN:684] Boros Guildgate
+1 [CLU:220] Boros Signet
+1 [INV:138] Breath of Darigaaz
+1 [CSP:136] Coldsteel Heart
+1 [ELD:333] Command Tower
+1 [LRW:11] Crib Swap
+1 [ISD:137] Curse of the Nightly Hunt
+1 [M14:207] Darksteel Ingot
+1 [SLD:1346] Dawnbreak Reclaimer
+1 [ROE:16] Dawnglare Invoker
+1 [TSB:57] Desolation Giant
+1 [ROE:141] Disaster Radius
+1 [SCD:139] Dream Pillager
+1 [ROE:216] Dreamstone Hedron
+1 [USG:320] Drifting Meadow
+1 [M10:134] Earthquake
+1 [TDM:255] Evolving Wilds
+1 [M21:17] Faith's Fetters
+1 [BNG:93] Fall of the Hammer
+1 [9ED:297] Fellwar Stone
+1 [LCC:226] Fiery Confluence
+1 [ONS:317] Forgotten Cave
+1 [BOK:104] Fumiko the Lowblood
+1 [AVR:209] Gisela, Blade of Goldnight
+1 [M13:136] Hamletback Goliath
+1 [RAV:130] Hammerfist Giant
+1 [CMM:30] Herald of the Host
+1 [LRW:176] Hostility
+1 [RAV:131] Hunted Dragon
+1 [M12:147] Inferno Titan
+1 [ONS:43] Jareth, Leonine Titan
+1 [C20:92] Kalemne's Captain
+1 [MRD:199] Lightning Greaves
+1 [10E:332*] Loxodon Warhammer
+1 [5DN:72] Magma Giant
+1 [CMM:241] Magus of the Wheel
+1 [CM2:114] Meteor Blast
+1 [10E:335] Mind Stone
+14 [FIN:303] Mountain
+1 [CMM:832] Oreskos Explorer
+1 [APC:15] Orim's Thunder
+11 [FIN:294] Plains
+1 [MKC:159] Rite of the Raging Storm
+1 [CMM:406] Sandstone Oracle
+1 [ONS:324] Secluded Steppe
+1 [WWK:130] Seer's Sundial
+1 [USG:328] Smoldering Crater
+1 [SUM:274] Sol Ring
+1 [M13:217] Staff of Nin
+1 [LRW:191] Stinkdrinker Daredevil
+1 [THS:142] Stoneshock Giant
+1 [M12:39] Sun Titan
+1 [LRW:192] Sunrise Sovereign
+1 [FDN:633] Taurean Mauler
+1 [DSK:269] Terramorphic Expanse
+1 [FIC:368] Thought Vessel
+1 [LRW:195] Thundercloud Shaman
+1 [UDS:142] Urza's Incubator
+1 [W17:6] Victory's Herald
+1 [LRW:275] Vivid Crag
+1 [LRW:279] Vivid Meadow
+1 [CM2:127] Warchief Giant
+1 [M12:160] Warstorm Surge
+1 [TDM:271] Wind-Scarred Crag
+1 [USG:318] Worn Powerstone
+SB: 1 [CM2:7] Kalemne, Disciple of Iroas
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([CMM:406])([SUM:235],[TDC:313],[DGM:137],[CLU:220],[CSP:136],[M14:207],[ROE:216],[9ED:297],[MRD:199],[10E:332*],[10E:335],[WWK:130],[SUM:274],[M13:217],[FIC:368],[UDS:142],[USG:318])([RTR:1],[MKC:199],[LRW:2],[MOR:87],[SLD:1346],[ROE:16],[TSB:57],[SCD:139],[BOK:104],[AVR:209],[M13:136],[RAV:130],[CMM:30],[LRW:176],[RAV:131],[M12:147],[ONS:43],[C20:92],[5DN:72],[CMM:241],[CMM:832],[LRW:191],[THS:142],[M12:39],[LRW:192],[FDN:633],[LRW:195],[W17:6],[CM2:127])([FDN:138],[ISD:137],[M21:17],[MKC:159],[M12:160])([BNG:93],[APC:15])([LRW:11])([LRW:266],[USG:319],[CLU:231],[FDN:684],[ELD:333],[USG:320],[TDM:255],[ONS:317],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[ONS:324],[USG:328],[DSK:269],[LRW:275],[LRW:279],[TDM:271])([INV:138],[ROE:141],[M10:134],[LCC:226],[CM2:114])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CM2:7])

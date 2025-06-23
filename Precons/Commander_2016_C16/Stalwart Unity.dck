@@ -1,0 +1,86 @@
+1 [THS:210] Akroan Horse
+1 [ALL:22a] Arcane Denial
+1 [FIC:374] Ash Barrens
+1 [CMM:369] Assault Suit
+1 [CLU:229] Azorius Chancery
+1 [NPH:103] Beast Within
+1 [PZ2:36] Benefactor's Draught
+1 [ISD:130] Blasphemous Act
+1 [RAV:4] Blazing Archon
+1 [M15:46] Chasm Skulker
+1 [SLD:1009] Collective Voyage
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [M21:177] Cultivate
+1 [OTC:221] Edric, Spymaster of Trest
+1 [MRD:168] Empyrial Plate
+1 [PIP:160] Entrapment Maneuver
+1 [PZ2:32] Evolutionary Escalation
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [CHK:276] Forbidden Orchard
+5 [FIN:306] Forest
+1 [TDM:256] Frontier Bivouac
+1 [CHK:10] Ghostly Prison
+1 [CLU:238] Gruul Turf
+1 [CON:110] Gwafa Hazid, Profiteer
+1 [LTC:365] Homeward Path
+1 [LRW:21] Hoofprints of the Stag
+1 [THS:194] Horizon Chimera
+1 [M10:212] Howling Mine
+1 [FRF:104] Humble Defector
+1 [M15:15] Hushwing Gryff
+5 [FIN:297] Island
+1 [CLU:239] Izzet Boilerworks
+1 [ALA:226] Jungle Shrine
+1 [WWK:84] Kazuul, Tyrant of the Cliffs
+1 [ROE:219] Keening Stone
+1 [CHK:225] Kodama's Reach
+1 [FCA:56] Kraum, Ludevic's Opus
+1 [JUD:141] Krosan Verge
+1 [CMR:525] Ludevic, Necro-Alchemist
+1 [M10:190] Lurking Predators
+1 [MOC:336] Migratory Route
+1 [CMM:105] Minds Aglow
+5 [FIN:303] Mountain
+1 [TDC:380] Myriad Landscape
+1 [TDM:262] Mystic Monastery
+1 [EXO:115] Oath of Druids
+1 [ONS:46] Oblation
+1 [M3C:361] Opal Palace
+1 [MKC:77] Orzhov Advokist
+5 [FIN:294] Plains
+1 [PZ2:71] Prismatic Geoscope
+1 [DGM:92] Progenitor Mimic
+1 [TMP:80] Propaganda
+1 [MBS:126] Psychosis Crawler
+1 [J25:705] Realm Seekers
+1 [STH:41] Reins of Power
+1 [CHK:41] Reverse the Sands
+1 [M12:192] Rites of Flourishing
+1 [GTC:191] Rubblehulk
+1 [M19:255] Rupture Spire
+1 [ALA:229] Seaside Citadel
+1 [LTC:260] Seeds of Renewal
+1 [CLU:246] Selesnya Sanctuary
+1 [MKC:82] Selfless Squire
+1 [BLC:259] Selvala, Explorer Returned
+1 [TDC:303] Sidar Kondo of Jamuraa
+1 [SUM:274] Sol Ring
+1 [RTR:24] Sphere of Safety
+1 [THS:65] Swan Song
+1 [ICE:54] Swords to Plowshares
+1 [SCD:248] Sylvan Reclamation
+1 [M11:217] Temple Bell
+1 [BLC:124] Tempt with Discovery
+1 [DSK:269] Terramorphic Expanse
+1 [RTR:249] Transguild Promenade
+1 [ZNC:105] Treacherous Terrain
+1 [SOM:220] Venser's Journal
+1 [WTH:144] Veteran Explorer
+1 [MMQ:56] Wave of Reckoning
+1 [10E:60*] Windborn Muse
+1 [CMR:543] Zedruu the Greathearted
+SB: 1 [PZ2:63] Kynaios and Tiro of Meletis
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([THS:210],[MBS:126])([CMM:369],[FIC:339],[MRD:168],[M10:212],[ROE:219],[PZ2:71],[SUM:274],[M11:217],[SOM:220])([RAV:4],[M15:46],[OTC:221],[CON:110],[THS:194],[FRF:104],[M15:15],[WWK:84],[FCA:56],[CMR:525],[MKC:77],[DGM:92],[J25:705],[GTC:191],[MKC:82],[BLC:259],[TDC:303],[WTH:144],[10E:60*],[CMR:543])([PZ2:32],[CHK:10],[M10:190],[EXO:115],[TMP:80],[M12:192],[RTR:24])([ALL:22a],[NPH:103],[PZ2:36],[PIP:160],[ONS:46],[STH:41],[THS:65],[ICE:54],[SCD:248])([LRW:21])([FIC:374],[CLU:229],[ELD:333],[TDM:255],[CON:142],[CHK:276],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[TDM:256],[CLU:238],[LTC:365],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[CLU:239],[ALA:226],[JUD:141],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[TDC:380],[TDM:262],[M3C:361],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[M19:255],[ALA:229],[CLU:246],[DSK:269],[RTR:249])([ISD:130],[SLD:1009],[M21:177],[CHK:225],[MOC:336],[CMM:105],[CHK:41],[LTC:260],[BLC:124],[ZNC:105],[MMQ:56])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PZ2:63])

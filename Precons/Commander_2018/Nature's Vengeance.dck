@@ -1,0 +1,87 @@
+1 [M13:159] Acidic Slime
+1 [ZEN:210] Akoum Refuge
+1 [WWK:96] Avenger of Zendikar
+1 [ZEN:157] Baloth Woodcrasher
+1 [ONS:312] Barren Moor
+1 [BFZ:233] Blighted Woodland
+1 [LCC:186] Bloodtracker
+1 [WWK:132] Bojuka Bog
+1 [PZ2:65775] Borderland Explorer
+1 [CHK:202] Budoka Gardener
+1 [C18:135] Centaur Vinecrasher
+1 [WWK:74] Chain Reaction
+1 [CON:100] Charnelhoard Wurm
+1 [ELD:333] Command Tower
+1 [JOU:119] Consign to Dust
+1 [CMM:279] Crash of Rhino Beetles
+1 [M21:177] Cultivate
+1 [DSC:86] Deathreap Ritual
+1 [ODY:287] Decimate
+1 [PZ2:70761] Emissary of Grudges
+1 [TDM:255] Evolving Wilds
+1 [WWK:99] Explore
+1 [DTK:186] Explosive Vegetation
+1 [TOR:125] Far Wanderings
+1 [SHM:113] Farhaven Elf
+1 [M12:133] Flameblast Dragon
+7 [FIN:306] Forest
+1 [FIC:395] Forge of Heroes
+1 [ONS:317] Forgotten Cave
+1 [PZ2:70751] Fury Storm
+1 [DGM:72] Gaze of Granite
+1 [CLU:236] Golgari Rot Farm
+1 [EMN:160] Grapple with the Past
+1 [DKA:156] Grim Backwoods
+1 [RTR:165] Grisly Salvage
+1 [CLU:238] Gruul Turf
+1 [PZ2:70661] Gyrus, Waker of Corpses
+1 [ZEN:165] Harrow
+1 [DKA:157] Haunted Fengraf
+1 [PLC:130] Hunting Wilds
+1 [ALA:225] Jund Panorama
+1 [TDM:258] Jungle Hollow
+1 [ZEN:217] Kazandu Refuge
+1 [WWK:138] Khalni Garden
+1 [ZEN:167] Khalni Heart Expedition
+1 [ARB:118] Lavalanche
+1 [TDC:222] Loyal Apprentice
+1 [CMM:304] Loyal Guardian
+1 [CMM:172] Loyal Subordinate
+1 [ISD:194] Moldgraf Monstrosity
+1 [RAV:95] Moonlight Bargain
+5 [FIN:303] Mountain
+1 [MIR:328] Mountain Valley
+1 [TDC:380] Myriad Landscape
+1 [TDC:225] Nesting Dragon
+1 [DGM:93] Putrefy
+1 [CLU:243] Rakdos Carnarium
+1 [FDN:645] Rampaging Baloths
+1 [PZ2:70723] Reality Scramble
+1 [BFZ:121] Retreat to Hagra
+1 [MIR:329] Rocky Tar Pit
+1 [GTC:191] Rubblehulk
+1 [BFZ:123] Ruinous Path
+1 [CHK:239] Sakura-Tribe Elder
+1 [ALA:228] Savage Lands
+1 [GPT:127] Savage Twister
+1 [ZEN:182] Scute Mob
+1 [WWK:130] Seer's Sundial
+1 [SUM:274] Sol Ring
+1 [M15:115] Soul of Innistrad
+1 [JUD:72] Stitch Together
+6 [FIN:300] Swamp
+1 [SCG:143] Temple of the False God
+1 [DSK:269] Terramorphic Expanse
+1 [PZ2:70671] Thantis, the Warweaver
+1 [ONS:326] Tranquil Thicket
+1 [OTC:211] Turntimber Sower
+1 [SOI:280] Warped Landscape
+1 [NEC:134] Whiptongue Hydra
+1 [BLC:263] Windgrace's Judgment
+1 [EVE:131] Worm Harvest
+1 [MB2:253] Xantcha, Sleeper Agent
+1 [UDS:124] Yavimaya Elder
+1 [ORI:219] Zendikar Incarnate
+SB: 1 [SPG:14] Lord Windgrace
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([WWK:130],[SUM:274])([M13:159],[WWK:96],[ZEN:157],[LCC:186],[PZ2:65775],[CHK:202],[C18:135],[CON:100],[CMM:279],[PZ2:70761],[SHM:113],[M12:133],[PZ2:70661],[TDC:222],[CMM:304],[CMM:172],[ISD:194],[TDC:225],[FDN:645],[GTC:191],[CHK:239],[ZEN:182],[M15:115],[PZ2:70671],[OTC:211],[NEC:134],[MB2:253],[UDS:124],[ORI:219])([DSC:86],[ZEN:167],[BFZ:121])([JOU:119],[PZ2:70751],[EMN:160],[RTR:165],[ZEN:165],[RAV:95],[DGM:93],[BLC:263])([ZEN:210],[ONS:312],[BFZ:233],[WWK:132],[ELD:333],[TDM:255],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIC:395],[ONS:317],[CLU:236],[DKA:156],[CLU:238],[DKA:157],[ALA:225],[TDM:258],[ZEN:217],[WWK:138],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[MIR:328],[TDC:380],[CLU:243],[MIR:329],[ALA:228],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[SCG:143],[DSK:269],[ONS:326],[SOI:280])([WWK:74],[M21:177],[ODY:287],[WWK:99],[DTK:186],[TOR:125],[DGM:72],[PLC:130],[ARB:118],[PZ2:70723],[BFZ:123],[GPT:127],[JUD:72],[EVE:131])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SPG:14])

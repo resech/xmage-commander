@@ -1,0 +1,84 @@
+1 [CON:134] Armillary Sphere
+1 [FIC:374] Ash Barrens
+1 [CLU:229] Azorius Chancery
+1 [RNA:231] Azorius Locket
+1 [2X2:103] Backdraft Hellkite
+1 [MKC:225] Bloodthirsty Blade
+1 [CLU:231] Boros Garrison
+1 [FDN:684] Boros Guildgate
+1 [ISD:133] Burning Vengeance
+1 [FDN:250] Burnished Hart
+1 [CLU:81] Chemister's Insight
+1 [KTK:34] Clever Impersonator
+1 [C19:1] Cliffside Rescuer
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [GRN:163] Crackling Drake
+1 [TOR:36] Deep Analysis
+1 [ISD:139] Desperate Ravings
+1 [ISD:140] Devil's Play
+1 [ISD:10] Divine Reckoning
+1 [2X2:107] Dockside Extortionist
+1 [AKH:210] Dusk // Dawn
+1 [2X2:208] Elsha of the Infinite
+1 [C19:54] Empowered Autogenerator
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [INV:57] Fact or Fiction
+1 [DKA:87] Faithless Looting
+1 [HOU:148] Farm // Market
+1 [ODY:86] Fervent Denial
+1 [MB2:251] Gerrard, Weatherlight Hero
+1 [CHK:10] Ghostly Prison
+1 [FDN:716] Guttersnipe
+1 [M19:252] Highland Lake
+1 [CLB:797] Ignite the Future
+1 [DKA:11] Increasing Devotion
+1 [DKA:95] Increasing Vengeance
+8 [FIN:297] Island
+1 [CLU:239] Izzet Boilerworks
+1 [FDN:691] Izzet Guildgate
+1 [GRN:238] Izzet Locket
+1 [ORI:61] Jace's Sanctum
+1 [C19:9] Leadership Vacuum
+1 [M13:140] Magmaquake
+1 [C19:4] Mandate of Peace
+1 [C19:10] Mass Diminish
+4 [FIN:303] Mountain
+1 [TDC:380] Myriad Landscape
+1 [TDM:262] Mystic Monastery
+1 [DKA:42] Mystic Retrieval
+1 [EVE:27] Oona's Grace
+9 [FIN:294] Plains
+1 [BFZ:241] Prairie Stream
+1 [C19:47] Pramikon, Sky Rampart
+1 [JUD:18] Prismatic Strands
+1 [DST:9] Pristine Angel
+1 [DTK:228] Pristine Skywise
+1 [ISD:27] Purify the Grave
+1 [DGM:94] Ral Zarek
+1 [ODY:42] Ray of Distortion
+1 [HOU:156] Refuse // Cooperate
+1 [SHM:49] River Kelpie
+1 [ISD:161] Rolling Temblor
+1 [ISD:72] Runic Repetition
+1 [OTC:266] Scaretiller
+1 [DKA:48] Secrets of the Dead
+1 [MH3:267] Sevinne's Reclamation
+1 [SUM:274] Sol Ring
+1 [M19:256] Stone Quarry
+1 [GPT:19] Storm Herd
+1 [M12:39] Sun Titan
+1 [TDM:268] Swiftwater Cliffs
+1 [M13:72] Talrand, Sky Summoner
+1 [SCG:143] Temple of the False God
+1 [DSK:269] Terramorphic Expanse
+1 [C19:7] Thalia's Geistcaller
+1 [FDN:165] Think Twice
+1 [TDM:270] Tranquil Cove
+1 [C19:13] Wall of Stolen Identity
+1 [TDM:271] Wind-Scarred Crag
+1 [FDN:584] Zetalpa, Primal Dawn
+SB: 1 [C19:49] Sevinne, the Chronoclasm
+LAYOUT MAIN:(1,11)(CARD_TYPE,false,50)|([FDN:250],[OTC:266])([CON:134],[RNA:231],[MKC:225],[FIC:339],[C19:54],[GRN:238],[SUM:274])([2X2:103],[KTK:34],[C19:1],[GRN:163],[2X2:107],[2X2:208],[MB2:251],[FDN:716],[C19:47],[DST:9],[DTK:228],[SHM:49],[M12:39],[M13:72],[C19:7],[C19:13],[FDN:584])([ISD:133],[CHK:10],[ORI:61],[DKA:48])([HOU:156])([HOU:148])([CLU:81],[ISD:139],[INV:57],[ODY:86],[DKA:95],[C19:9],[M13:140],[C19:4],[EVE:27],[JUD:18],[ISD:27],[ODY:42],[FDN:165])([FIC:374],[CLU:229],[CLU:231],[FDN:684],[ELD:333],[TDM:255],[CON:142],[M19:252],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[CLU:239],[FDN:691],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[TDC:380],[TDM:262],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[BFZ:241],[M19:256],[TDM:268],[SCG:143],[DSK:269],[TDM:270],[TDM:271])([DGM:94])([AKH:210])([TOR:36],[ISD:140],[ISD:10],[DKA:87],[CLB:797],[DKA:11],[C19:10],[DKA:42],[ISD:161],[ISD:72],[MH3:267],[GPT:19])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C19:49])

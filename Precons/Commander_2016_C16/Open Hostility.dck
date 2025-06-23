@@ -1,0 +1,90 @@
+1 [KTK:161] Abzan Charm
+1 [FRF:90] Alesha, Who Smiles at Death
+1 [KTK:164] Ankle Shanker
+1 [INV:231] Artifact Mutation
+1 [FIC:374] Ash Barrens
+1 [INV:232] Aura Mutation
+1 [ZEN:159] Beastmaster Ascension
+1 [GTC:6] Blind Obedience
+1 [FDN:721] Boros Charm
+1 [RAV:116] Breath of Fury
+1 [FRF:64] Brutal Hordechief
+1 [DMU:244] Caves of Koilos
+1 [PZ2:26] Charging Cinderhorn
+1 [CLU:182] Clan Defiance
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [FIC:340] Conqueror's Flail
+1 [KTK:171] Crackling Doom
+1 [ARB:67] Dauntless Escort
+1 [DTK:181] Den Protector
+1 [CMM:216] Divergent Transformations
+1 [XLN:252] Dragonskull Summit
+1 [SHM:186] Everlasting Torment
+1 [PZ2:32] Evolutionary Escalation
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [M13:170] Farseek
+1 [9ED:297] Fellwar Stone
+5 [FIN:306] Forest
+1 [PZ2:24] Frenzied Fugue
+1 [MRD:95] Grab the Reins
+1 [ONS:319] Grand Coliseum
+1 [PZ2:41] Grave Upheaval
+1 [CLU:223] Gruul Signet
+1 [CLU:238] Gruul Turf
+1 [JOU:150] Iroas, God of Victory
+1 [ALA:226] Jungle Shrine
+1 [DMU:250] Karplusan Forest
+1 [RTR:176] Korozda Guildmage
+1 [ARB:118] Lavalanche
+1 [MRD:199] Lightning Greaves
+1 [ORI:186] Managorger Hydra
+1 [FDN:578] Mentor of the Meek
+1 [LRW:31] Mirror Entity
+1 [LRW:270] Mosswort Bridge
+5 [FIN:303] Mountain
+1 [ALA:140] Mycoloth
+1 [ALA:180] Naya Charm
+1 [ALA:181] Necrogenesis
+1 [TDM:263] Nomad Outpost
+1 [APC:132] Order // Chaos
+1 [CLU:241] Orzhov Basilica
+3 [FIN:294] Plains
+1 [NEC:124] Primeval Protector
+1 [PLS:90] Quirion Explorer
+1 [M12:190] Rampant Growth
+1 [CMR:533] Ravos, Soultender
+1 [XLN:256] Rootbound Crag
+1 [CHK:239] Sakura-Tribe Elder
+1 [TDM:266] Sandsteppe Citadel
+1 [ALA:228] Savage Lands
+1 [CLU:207] Selesnya Guildmage
+1 [FRF:138] Shamanic Revelation
+1 [DST:140] Skullclamp
+1 [SUM:274] Sol Ring
+1 [LRW:274] Spinerock Knoll
+1 [DIS:73] Stalking Vengeance
+1 [CMM:325] Stonehoof Chieftain
+1 [RAV:272] Sunforger
+1 [XLN:257] Sunpetal Grove
+3 [FIN:300] Swamp
+1 [SCD:248] Sylvan Reclamation
+1 [5DN:93] Sylvok Explorer
+1 [CMR:537] Tana, the Bloodsower
+1 [FDN:633] Taurean Mauler
+1 [ARB:46] Terminate
+1 [DSK:269] Terramorphic Expanse
+1 [TSP:228] Thelonite Hermit
+1 [DSC:201] Thunderfoot Baloth
+1 [ZNC:105] Treacherous Terrain
+1 [FCA:18] Tymna the Weaver
+1 [KTK:210] Utter End
+1 [GTC:84] Wight of Precinct Six
+1 [RTR:139] Wild Beastmaster
+1 [CSP:134] Wilderness Elemental
+1 [LRW:281] Windbrisk Heights
+1 [DGM:120] Zhur-Taa Druid
+SB: 1 [SLD:55] Saskia the Unyielding
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([FIC:339],[FIC:340],[9ED:297],[CLU:223],[MRD:199],[DST:140],[SUM:274],[RAV:272])([FRF:90],[KTK:164],[FRF:64],[PZ2:26],[ARB:67],[DTK:181],[RTR:176],[ORI:186],[FDN:578],[LRW:31],[ALA:140],[NEC:124],[PLS:90],[CMR:533],[CHK:239],[CLU:207],[DIS:73],[CMM:325],[5DN:93],[CMR:537],[FDN:633],[TSP:228],[DSC:201],[FCA:18],[GTC:84],[RTR:139],[CSP:134],[DGM:120])([JOU:150])([ZEN:159],[GTC:6],[RAV:116],[SHM:186],[PZ2:32],[PZ2:24],[ALA:181])([APC:132])([KTK:161],[INV:231],[INV:232],[FDN:721],[KTK:171],[CMM:216],[MRD:95],[ALA:180],[SCD:248],[ARB:46],[KTK:210])([FIC:374],[DMU:244],[ELD:333],[XLN:252],[TDM:255],[CON:142],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[ONS:319],[CLU:238],[ALA:226],[DMU:250],[LRW:270],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[TDM:263],[CLU:241],[FIN:294],[FIN:294],[FIN:294],[XLN:256],[TDM:266],[ALA:228],[LRW:274],[XLN:257],[FIN:300],[FIN:300],[FIN:300],[DSK:269],[LRW:281])([CLU:182],[M13:170],[PZ2:41],[ARB:118],[M12:190],[FRF:138],[ZNC:105])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SLD:55])

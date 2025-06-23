@@ -1,0 +1,74 @@
+1 [MB2:102] Arcane Lighthouse
+1 [TDC:205] Beetleback Chief
+1 [CM2:84] Bitter Feud
+1 [ISD:130] Blasphemous Act
+1 [M10:127] Bogardan Hellkite
+1 [MRD:147] Bosh, Iron Golem
+1 [10E:312] Bottle Gnomes
+1 [M12:224] Buried Ruin
+1 [NPH:132] Caged Sun
+1 [MRD:149] Cathodion
+1 [FIC:291] Chaos Warp
+1 [FIC:339] Commander's Sphere
+1 [M15:242] Darksteel Citadel
+1 [VIS:161] Dormant Volcano
+1 [ROE:216] Dreamstone Hedron
+1 [C21:165] Dualcaster Mage
+1 [FUT:162] Epochrasite
+1 [WWK:123] Everflowing Chalice
+1 [DKA:87] Faithless Looting
+1 [MOC:277] Feldon of the Third Path
+1 [7ED:296] Fire Diamond
+1 [CM2:251] Flamekin Village
+1 [PLS:60] Flametongue Kavu
+1 [ONS:317] Forgotten Cave
+1 [ISD:240] Ghost Quarter
+1 [ULG:80] Goblin Welder
+1 [MRD:282] Great Furnace
+1 [SOM:93] Hoard-Smelter Dragon
+1 [MBS:110] Ichor Wellspring
+1 [CM2:107] Impact Resonance
+1 [CM2:108] Incite Rebellion
+1 [LRW:180] Ingot Chewer
+1 [7ED:303] Jalum Tome
+1 [UDS:132] Junk Diver
+1 [SOM:171] Liquimetal Coating
+1 [CMR:320] Loreseeker's Stone
+1 [M13:140] Magmaquake
+1 [10E:335] Mind Stone
+29 [FIN:303] Mountain
+1 [NPH:145] Mycosynth Wellspring
+1 [SOM:180] Myr Battlesphere
+1 [MRD:215] Myr Retriever
+1 [MBS:116] Myr Sire
+1 [M21:234] Palladium Myr
+1 [SOM:191] Panic Spellbomb
+1 [M12:213] Pentavus
+1 [NPH:165] Phyrexia's Core
+1 [BFZ:226] Pilgrim's Eye
+1 [NPH:151] Pristine Talisman
+1 [M19:254] Reliquary Tower
+1 [TMP:305] Ruby Medallion
+1 [CM2:116] Scrap Mastery
+1 [USG:328] Smoldering Crater
+1 [SUM:274] Sol Ring
+1 [FDN:257] Solemn Simulacrum
+1 [MBS:136] Spine of Ish Sah
+1 [MOR:105] Spitebellows
+1 [ONS:238] Starstorm
+1 [FDN:681] Steel Hellkite
+1 [FDN:258] Swiftfoot Boots
+1 [SCG:143] Temple of the False God
+1 [M14:225] Trading Post
+1 [ROE:169] Tuktuk the Explorer
+1 [SCD:165] Tyrant's Familiar
+1 [CMM:416] Unstable Obelisk
+1 [CM2:126] Volcanic Offering
+1 [CLB:814] Warmonger Hellkite
+1 [5DN:165] Wayfarer's Bauble
+1 [NPH:102] Whipflare
+1 [TSP:188] Word of Seizing
+1 [SOM:223] Wurmcoil Engine
+SB: 1 [CMM:213] Daretti, Scrap Savant
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([MRD:147],[10E:312],[MRD:149],[FUT:162],[UDS:132],[SOM:180],[MRD:215],[MBS:116],[M21:234],[M12:213],[BFZ:226],[FDN:257],[FDN:681],[SOM:223])([M15:242],[MRD:282])([NPH:132],[FIC:339],[ROE:216],[WWK:123],[7ED:296],[MBS:110],[7ED:303],[SOM:171],[CMR:320],[10E:335],[NPH:145],[SOM:191],[NPH:151],[TMP:305],[SUM:274],[MBS:136],[FDN:258],[M14:225],[CMM:416],[5DN:165])([TDC:205],[M10:127],[C21:165],[MOC:277],[PLS:60],[ULG:80],[SOM:93],[LRW:180],[MOR:105],[ROE:169],[SCD:165],[CLB:814])([CM2:84])([FIC:291],[CM2:107],[M13:140],[ONS:238],[CM2:126],[TSP:188])([MB2:102],[M12:224],[VIS:161],[CM2:251],[ONS:317],[ISD:240],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[NPH:165],[M19:254],[USG:328],[SCG:143])([ISD:130],[DKA:87],[CM2:108],[CM2:116],[NPH:102])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMM:213])

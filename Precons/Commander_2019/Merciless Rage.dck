@@ -1,0 +1,84 @@
+1 [C19:52] Aeon Engine
+1 [ZEN:210] Akoum Refuge
+1 [EMN:116] Alchemist's Greeting
+1 [J25:517] Anje's Ravager
+1 [C19:14] Archfiend of Spite
+1 [CON:134] Armillary Sphere
+1 [FIC:374] Ash Barrens
+1 [SOI:99] Asylum Visitor
+1 [SOI:145] Avacyn's Judgment
+1 [ONS:312] Barren Moor
+1 [10E:129] Beacon of Unrest
+1 [PLC:63] Big Game Hunter
+1 [TDM:250] Bloodfell Caves
+1 [EMN:181] Bloodhall Priest
+1 [MKC:225] Bloodthirsty Blade
+1 [SPG:87] Bone Miser
+1 [XLN:94] Boneyard Parley
+1 [TSP:97] Call to the Netherworld
+1 [J21:683] Chainer, Nightmare Adept
+1 [BNG:63] Champion of Stray Souls
+1 [FIC:291] Chaos Warp
+1 [M19:248] Cinder Barrens
+1 [ELD:333] Command Tower
+1 [C19:16] Curse of Fool's Wisdom
+1 [TSP:101] Dark Withering
+1 [10E:137] Doomed Necromancer
+1 [SOI:271] Drownyard Temple
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [AKH:90] Faith of the Devoted
+1 [SOI:156] Fiery Temper
+1 [DKA:89] Flayer of the Hatebound
+1 [ONS:317] Forgotten Cave
+1 [SOI:111] From Under the Floorboards
+1 [EMN:203] Geier Reach Sanitarium
+1 [SOM:64] Geth, Lord of the Vault
+1 [TSP:111] Gorgon Recluse
+1 [FUT:86] Grave Scrabbler
+1 [C19:43] Greven, Predator Captain
+1 [ISD:226] Grimoire of the Dead
+1 [ONC:99] Hate Mirage
+1 [DTK:106] Hedonist's Trove
+1 [FDN:726] Hedron Archive
+1 [M15:100] In Garruk's Wake
+1 [FCA:36] K'rrik, Son of Yawgmoth
+1 [KLD:220] Key to the City
+1 [CMM:241] Magus of the Wheel
+1 [SOI:173] Malevolent Whispers
+1 [DOM:242] Memorial to Folly
+1 [FDN:256] Meteor Golem
+1 [C19:19] Mire in Misery
+1 [BFZ:240] Mortuary Mire
+10 [FIN:303] Mountain
+1 [SOI:126] Murderous Compulsion
+1 [TDC:380] Myriad Landscape
+1 [WOC:114] Nightmare Unmaking
+1 [TSP:121] Nightshade Assassin
+1 [BFZ:119] Ob Nixilis Reignited
+1 [MKC:132] Overseer of the Damned
+1 [GRN:82] Plaguecrafter
+1 [CLU:243] Rakdos Carnarium
+1 [FDN:693] Rakdos Guildgate
+1 [RNA:237] Rakdos Locket
+1 [DIS:179] Rix Maadi, Dungeon Palace
+1 [C19:59] Sanctum of Eternity
+1 [M20:112] Sanitarium Skeleton
+1 [OTC:266] Scaretiller
+1 [C19:28] Skyfire Phoenix
+1 [SUM:274] Sol Ring
+1 [FDN:257] Solemn Simulacrum
+1 [M15:115] Soul of Innistrad
+1 [10E:239] Squee, Goblin Nabob
+1 [EMN:146] Stromkirk Occultist
+10 [FIN:300] Swamp
+1 [SCG:143] Temple of the False God
+1 [DSK:269] Terramorphic Expanse
+1 [DOM:90] The Eldest Reborn
+1 [TOR:117] Violent Eruption
+1 [M12:160] Warstorm Surge
+1 [SCD:170] Wildfire Devils
+1 [M12:120] Zombie Infestation
+SB: 1 [SLD:1874] Anje Falkenrath
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([FDN:256],[OTC:266],[FDN:257])([C19:52],[CON:134],[MKC:225],[ISD:226],[FDN:726],[KLD:220],[RNA:237],[SUM:274])([J25:517],[C19:14],[SOI:99],[PLC:63],[EMN:181],[SPG:87],[J21:683],[BNG:63],[10E:137],[DKA:89],[SOM:64],[TSP:111],[FUT:86],[C19:43],[FCA:36],[CMM:241],[TSP:121],[MKC:132],[GRN:82],[M20:112],[C19:28],[M15:115],[10E:239],[EMN:146],[SCD:170])([C19:16],[AKH:90],[DTK:106],[DOM:90],[M12:160],[M12:120])([FIC:291],[TSP:101],[SOI:156],[TOR:117])([ZEN:210],[FIC:374],[ONS:312],[TDM:250],[M19:248],[ELD:333],[SOI:271],[TDM:255],[CON:142],[ONS:317],[EMN:203],[DOM:242],[BFZ:240],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[TDC:380],[CLU:243],[FDN:693],[DIS:179],[C19:59],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[SCG:143],[DSK:269])([BFZ:119])([EMN:116],[SOI:145],[10E:129],[XLN:94],[TSP:97],[SOI:111],[ONC:99],[M15:100],[SOI:173],[C19:19],[SOI:126],[WOC:114])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SLD:1874])

@@ -1,0 +1,77 @@
+1 [DSC:109] Aether Gale
+1 [MKC:222] Ancient Stone Idol
+1 [ISD:130] Blasphemous Act
+1 [MRD:145] Blinkmoth Urn
+1 [MRD:147] Bosh, Iron Golem
+1 [M3C:257] Brudiclad, Telchor Engineer
+1 [M12:224] Buried Ruin
+1 [FIC:291] Chaos Warp
+1 [KLD:200] Chief of the Foundry
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [FIC:341] Coveted Jewel
+1 [M15:242] Darksteel Citadel
+1 [SOM:150] Darksteel Juggernaut
+1 [ROE:216] Dreamstone Hedron
+1 [MRD:165] Duplicant
+1 [MOC:221] Echo Storm
+1 [DSC:164] Enchanter's Bane
+1 [CMM:947] Endless Atlas
+1 [ALA:42] Etherium Sculptor
+1 [FIC:395] Forge of Heroes
+1 [ORI:247] Foundry of the Consuls
+1 [CMM:386] Geode Golem
+1 [MRD:282] Great Furnace
+1 [FDN:726] Hedron Archive
+1 [MBS:65] Hellkite Igniter
+1 [M19:252] Highland Lake
+1 [CON:30] Inkwell Leviathan
+1 [FDN:509] Into the Roil
+15 [FIN:297] Island
+1 [CLU:239] Izzet Boilerworks
+1 [FDN:691] Izzet Guildgate
+1 [CLU:224] Izzet Signet
+1 [TDC:222] Loyal Apprentice
+1 [CMM:104] Loyal Drake
+1 [M13:140] Magmaquake
+1 [MKM:255] Magnifying Glass
+1 [AER:130] Maverick Thopterist
+1 [SOM:175] Mimic Vat
+1 [10E:335] Mind Stone
+1 [MBS:114] Mirrorworks
+12 [FIN:303] Mountain
+1 [SOM:180] Myr Battlesphere
+1 [BFZ:226] Pilgrim's Eye
+1 [TSP:262] Prismatic Lens
+1 [SOM:195] Prototype Portal
+1 [MBS:126] Psychosis Crawler
+1 [DRC:136] Retrofitter Foundry
+1 [AER:42] Reverse Engineer
+1 [KLD:62] Saheeli's Artistry
+1 [PZ2:70675] Saheeli's Directive
+1 [RNA:238] Scrabbling Claws
+1 [M15:229] Scuttling Doom Engine
+1 [MRD:283] Seat of the Synod
+1 [ALA:55] Sharding Sphinx
+1 [SUM:274] Sol Ring
+1 [M15:231] Soul of New Phyrexia
+1 [FDN:681] Steel Hellkite
+1 [FDN:258] Swiftfoot Boots
+1 [TDM:268] Swiftwater Cliffs
+1 [PZ2:70687] Tawnos, Urza's Apprentice
+1 [NEO:85] Thirst for Knowledge
+1 [MBS:140] Thopter Assembly
+1 [ORI:165] Thopter Engineer
+1 [ORI:79] Thopter Spy Network
+1 [10E:116] Tidings
+1 [CMM:265] Treasure Nabber
+1 [CMM:416] Unstable Obelisk
+1 [NPH:164] Unwinding Clock
+1 [PZ2:70759] Varchild, Betrayer of Kjeldor
+1 [MOC:243] Vedalken Humiliator
+1 [AVR:224] Vessel of Endless Rest
+1 [ORI:83] Whirler Rogue
+1 [USG:318] Worn Powerstone
+SB: 1 [PZ2:70685] Saheeli, the Gifted
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([MKC:222],[MRD:147],[M3C:257],[KLD:200],[SOM:150],[MRD:165],[ALA:42],[CMM:386],[CON:30],[SOM:180],[BFZ:226],[MBS:126],[M15:229],[ALA:55],[M15:231],[FDN:681],[MBS:140])([M15:242],[MRD:282],[MRD:283])([MRD:145],[FIC:339],[FIC:341],[ROE:216],[CMM:947],[FDN:726],[CLU:224],[MKM:255],[SOM:175],[10E:335],[MBS:114],[TSP:262],[SOM:195],[DRC:136],[RNA:238],[SUM:274],[FDN:258],[CMM:416],[NPH:164],[AVR:224],[USG:318])([MBS:65],[TDC:222],[CMM:104],[AER:130],[PZ2:70687],[ORI:165],[CMM:265],[PZ2:70759],[MOC:243],[ORI:83])([DSC:164],[ORI:79])([FIC:291],[FDN:509],[M13:140],[NEO:85])([M12:224],[ELD:333],[FIC:395],[ORI:247],[M19:252],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[CLU:239],[FDN:691],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[TDM:268])([DSC:109],[ISD:130],[MOC:221],[AER:42],[KLD:62],[PZ2:70675],[10E:116])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PZ2:70685])

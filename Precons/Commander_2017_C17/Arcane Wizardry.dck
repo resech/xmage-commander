@@ -1,0 +1,85 @@
+1 [UDS:51] Apprentice Necromancer
+1 [FDN:585] Arcanis the Omnipotent
+1 [M14:43] Archaeomancer
+1 [CHK:52] Azami, Lady of Scrolls
+1 [LCC:185] Bloodline Necromancer
+1 [PLC:35] Body Double
+1 [INV:238] Cauldron Dance
+1 [FIC:291] Chaos Warp
+1 [DTK:48] Clone Legion
+1 [WWK:76] Comet Storm
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [DRC:40] Corpse Augur
+1 [PLS:99] Crosis's Charm
+1 [ALA:222] Crumbling Necropolis
+1 [SCD:74] Curse of Disturbance
+1 [TDC:209] Curse of Opulence
+1 [CLB:717] Curse of Verbosity
+1 [M14:207] Darksteel Ingot
+1 [SCG:64] Decree of Pain
+1 [CLU:233] Dimir Aqueduct
+1 [TDM:254] Dismal Backwater
+1 [C17:171] Etherium-Horn Sorcerer
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [9ED:297] Fellwar Stone
+1 [PZ2:65755] Galecaster Colossus
+1 [BRO:102] Go for the Throat
+1 [ALA:224] Grixis Panorama
+1 [FDN:593] Harbinger of the Tides
+1 [DKA:139] Havengul Lich
+1 [FDN:509] Into the Roil
+10 [FIN:297] Island
+1 [CLU:239] Izzet Boilerworks
+1 [CLB:798] Izzet Chemister
+1 [GPT:119] Izzet Chronarch
+1 [ZEN:215] Jwar Isle Refuge
+1 [NCC:344] Kess, Dissident Mage
+1 [WOC:113] Kindred Dominance
+1 [FUT:70] Magus of the Abyss
+1 [PZ2:65685] Magus of the Mind
+1 [C17:41] Mairsil, the Pretender
+1 [2X2:248] Marchesa, the Black Rose
+1 [SHM:169] Memory Plunder
+1 [8ED:90] Merchant of Secrets
+1 [RTR:180] Mercurial Chemister
+1 [PZ2:65751] Mirror of the Forebears
+4 [FIN:303] Mountain
+1 [M11:226] Mystifying Maze
+1 [TDC:189] Necromantic Selection
+1 [5ED:391] Nevinyrral's Disk
+1 [J18:3] Nin, the Pain Artist
+1 [GPT:123] Niv-Mizzet, the Firemind
+1 [RTR:182] Nivix Guildmage
+1 [M14:66] Opportunity
+1 [FIC:411] Path of Ancestry
+1 [M15:75] Polymorphist's Jest
+1 [CMM:112] Portal Mage
+1 [SHM:75] Puppeteer Clique
+1 [CLU:243] Rakdos Carnarium
+1 [RTR:184] Rakdos Charm
+1 [FRF:46] Reality Shift
+1 [ROE:85] Sea Gate Oracle
+1 [PLC:61] Serendib Sorcerer
+1 [TSB:99] Shadowmage Infiltrator
+1 [NEC:109] Shifting Shadow
+1 [DTK:232] Silumgar's Command
+1 [SUM:274] Sol Ring
+1 [M13:68] Spelltwine
+6 [FIN:300] Swamp
+1 [TDM:268] Swiftwater Cliffs
+1 [CMM:357] Taigam, Sidisi's Hand
+1 [SCG:143] Temple of the False God
+1 [ARB:46] Terminate
+1 [DSK:269] Terramorphic Expanse
+1 [CMM:416] Unstable Obelisk
+1 [SCD:256] Vela the Night-Clad
+1 [CMM:196] Vindictive Lich
+1 [LRW:275] Vivid Crag
+1 [LRW:276] Vivid Creek
+1 [LRW:278] Vivid Marsh
+1 [USG:318] Worn Powerstone
+SB: 1 [FCA:52] Inalla, Archmage Ritualist
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([C17:171])([FIC:339],[M14:207],[9ED:297],[PZ2:65751],[5ED:391],[SUM:274],[CMM:416],[USG:318])([UDS:51],[FDN:585],[M14:43],[CHK:52],[LCC:185],[PLC:35],[DRC:40],[PZ2:65755],[FDN:593],[DKA:139],[CLB:798],[GPT:119],[NCC:344],[FUT:70],[PZ2:65685],[C17:41],[2X2:248],[8ED:90],[RTR:180],[J18:3],[GPT:123],[RTR:182],[CMM:112],[SHM:75],[ROE:85],[PLC:61],[TSB:99],[CMM:357],[SCD:256],[CMM:196])([SCD:74],[TDC:209],[CLB:717],[NEC:109])([INV:238],[FIC:291],[WWK:76],[PLS:99],[BRO:102],[FDN:509],[SHM:169],[M14:66],[M15:75],[RTR:184],[FRF:46],[DTK:232],[ARB:46])([ELD:333],[ALA:222],[CLU:233],[TDM:254],[TDM:255],[CON:142],[ALA:224],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[CLU:239],[ZEN:215],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[M11:226],[FIC:411],[CLU:243],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[TDM:268],[SCG:143],[DSK:269],[LRW:275],[LRW:276],[LRW:278])([DTK:48],[SCG:64],[WOC:113],[TDC:189],[M13:68])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FCA:52])

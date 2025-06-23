@@ -1,0 +1,71 @@
+1 [WWK:47] Abyssal Persecutor
+1 [DST:37] Aether Snap
+1 [INV:94] Annihilate
+1 [MB2:102] Arcane Lighthouse
+1 [TSB:38] Bad Moon
+1 [ONS:312] Barren Moor
+1 [MBS:39] Black Sun's Zenith
+1 [ISD:89] Bloodgift Demon
+1 [WWK:132] Bojuka Bog
+1 [FDN:250] Burnished Hart
+1 [WWK:53] Butcher of Malakir
+1 [7ED:289s] Charcoal Diamond
+1 [FIC:339] Commander's Sphere
+1 [GTC:61] Crypt Ghast
+1 [ZEN:212] Crypt of Agadeem
+1 [C14:21] Demon of Wailing Agonies
+1 [M13:88] Disciple of Bolas
+1 [ROE:107] Drana, Kalastria Bloodchief
+1 [TSP:104] Dread Return
+1 [7ED:129] Dregs of Sorrow
+1 [VIS:162] Everglades
+1 [AVR:101] Evernight Shade
+1 [C14:22] Flesh Carver
+1 [ISD:240] Ghost Quarter
+1 [CMM:161] Ghoulcaller Gisa
+1 [M12:98] Grave Titan
+1 [THB:355] Gray Merchant of Asphodel
+1 [C21:146] Infernal Offering
+1 [TMP:292] Jet Medallion
+1 [NPH:143] Lashwrithe
+1 [M14:103] Liliana's Reaver
+1 [PLC:73] Magus of the Coffers
+1 [EMA:96] Malicious Affliction
+1 [10E:335] Mind Stone
+1 [ISD:110] Morkrut Banshee
+1 [M13:102] Mutilate
+1 [TDC:380] Myriad Landscape
+1 [M11:106] Nantuko Shade
+1 [TDC:189] Necromantic Selection
+1 [10E:163*] Nekrataal
+1 [MKC:132] Overseer of the Damned
+1 [ROE:124] Pestilence Demon
+1 [MOM:121] Phyrexian Gargantua
+1 [USG:323] Polluted Mire
+1 [DGM:27] Pontiff of Blight
+1 [LRW:135] Profane Command
+1 [MRD:74] Promise of Power
+1 [C14:29] Raving Dead
+1 [ORI:114] Read the Bones
+1 [ISD:112] Reaper from the Abyss
+1 [LRW:139] Shriekmaw
+1 [M15:114] Sign in Blood
+1 [ODY:161] Skeletal Scrying
+1 [ISD:117] Skirsdag High Priest
+1 [SUM:274] Sol Ring
+1 [C14:30] Spoils of Blood
+1 [TSP:135] Sudden Spoiling
+32 [FIN:300] Swamp
+1 [FDN:258] Swiftfoot Boots
+1 [ONS:175] Syphon Mind
+1 [M10:114] Tendrils of Corruption
+1 [DKA:76] Tragic Slip
+1 [CMM:416] Unstable Obelisk
+1 [ZEN:114] Vampire Hexmage
+1 [USG:166] Victimize
+1 [CMM:197] Wake the Dead
+1 [USG:318] Worn Powerstone
+1 [M10:122] Xathrid Demon
+SB: 1 [CMM:176] Ob Nixilis of the Black Oath
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([FDN:250])([7ED:289s],[FIC:339],[TMP:292],[NPH:143],[10E:335],[SUM:274],[FDN:258],[CMM:416],[USG:318])([WWK:47],[ISD:89],[WWK:53],[GTC:61],[C14:21],[M13:88],[ROE:107],[AVR:101],[C14:22],[CMM:161],[M12:98],[THB:355],[M14:103],[PLC:73],[ISD:110],[M11:106],[10E:163*],[MKC:132],[ROE:124],[MOM:121],[DGM:27],[C14:29],[ISD:112],[LRW:139],[ISD:117],[ZEN:114],[M10:122])([TSB:38])([INV:94],[EMA:96],[ODY:161],[C14:30],[TSP:135],[M10:114],[DKA:76],[CMM:197])([MB2:102],[ONS:312],[WWK:132],[ZEN:212],[VIS:162],[ISD:240],[TDC:380],[USG:323],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300])([DST:37],[MBS:39],[TSP:104],[7ED:129],[C21:146],[M13:102],[TDC:189],[LRW:135],[MRD:74],[ORI:114],[M15:114],[ONS:175],[USG:166])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMM:176])

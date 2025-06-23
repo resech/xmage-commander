@@ -1,0 +1,86 @@
+1 [C16:81] Academy Elite
+1 [PLC:32] Aeon Chronicler
+1 [PZ2:38] Ancient Excavation
+1 [ISD:87] Army of the Damned
+1 [FIC:374] Ash Barrens
+1 [ARB:34] Bituminous Blast
+1 [CON:99] Blood Tyrant
+1 [ARB:50] Bloodbraid Elf
+1 [CMM:371] Boompile
+1 [STH:102] Burgeoning
+1 [ONS:73] Chain of Vapor
+1 [FIC:291] Chaos Warp
+1 [GRN:233] Chromatic Lantern
+1 [DIS:107] Coiling Oracle
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [FDN:238] Consuming Aberration
+1 [C16:11] Cruel Entertainment
+1 [ALA:222] Crumbling Necropolis
+1 [OTC:130] Curtains' Call
+1 [ODY:287] Decimate
+1 [AVR:48] Devastation Tide
+1 [TDM:254] Dismal Backwater
+1 [FDN:621] Dragon Mage
+1 [C17:171] Etherium-Horn Sorcerer
+1 [10E:83] Evacuation
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [TOR:125] Far Wanderings
+1 [9ED:297] Fellwar Stone
+5 [FIN:306] Forest
+1 [PZ2:24] Frenzied Fugue
+1 [TDM:256] Frontier Bivouac
+1 [UDS:106] Gamekeeper
+1 [FRF:70] Ghastly Conscription
+1 [GPT:115] Glint-Eye Nephilim
+1 [CLB:795] Goblin Spymaster
+1 [PZ2:41] Grave Upheaval
+1 [JUD:68] Guiltfeeder
+1 [THS:194] Horizon Chimera
+1 [M15:100] In Garruk's Wake
+5 [FIN:297] Island
+1 [TDM:258] Jungle Hollow
+1 [CMR:524] Kydele, Chosen of Kruphix
+5 [FIN:303] Mountain
+1 [LRW:250] Nath of the Gilt-Leaf
+1 [TDM:264] Opulent Palace
+1 [PZ2:19] Parting Thoughts
+1 [ISD:155] Past in Flames
+1 [CLU:243] Rakdos Carnarium
+1 [RTR:184] Rakdos Charm
+1 [CLU:226] Rakdos Signet
+1 [AVR:151] Reforge the Soul
+1 [M19:254] Reliquary Tower
+1 [TDM:265] Rugged Highlands
+1 [SCD:155] Runehorn Hellkite
+1 [M19:255] Rupture Spire
+1 [MBS:53] Sangromancer
+1 [M15:198] Satyr Wayfinder
+1 [ALA:228] Savage Lands
+1 [ODY:326] Shadowblood Ridge
+1 [CLU:247] Simic Growth Chamber
+1 [CLU:228] Simic Signet
+1 [SUM:274] Sol Ring
+1 [THS:204] Spellheart Chimera
+1 [M13:68] Spelltwine
+5 [FIN:300] Swamp
+1 [TDM:268] Swiftwater Cliffs
+1 [DSK:269] Terramorphic Expanse
+1 [TDM:269] Thornwood Falls
+1 [FCA:58] Thrasios, Triton Hero
+1 [ZNC:105] Treacherous Terrain
+1 [KTK:59] Treasure Cruise
+1 [FCA:59] Vial Smasher the Fierce
+1 [DTK:167] Volcanic Vision
+1 [STH:125] Wall of Blossoms
+1 [M15:122] Waste Not
+1 [TSP:187] Wheel of Fate
+1 [BNG:115] Whims of the Fates
+1 [GTC:207] Whispering Madness
+1 [M11:221] Whispersilk Cloak
+1 [USG:111] Windfall
+1 [EVE:131] Worm Harvest
+SB: 1 [SLD:455] Yidris, Maelstrom Wielder
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([C17:171])([CMM:371],[GRN:233],[FIC:339],[9ED:297],[CLU:226],[CLU:228],[SUM:274],[M11:221])([C16:81],[PLC:32],[CON:99],[ARB:50],[DIS:107],[FDN:238],[FDN:621],[UDS:106],[GPT:115],[CLB:795],[JUD:68],[THS:194],[CMR:524],[LRW:250],[SCD:155],[MBS:53],[M15:198],[THS:204],[FCA:58],[FCA:59],[STH:125])([STH:102],[PZ2:24],[M15:122])([PZ2:38],[ARB:34],[ONS:73],[FIC:291],[OTC:130],[10E:83],[RTR:184])([FIC:374],[ELD:333],[ALA:222],[TDM:254],[TDM:255],[CON:142],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[TDM:256],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[TDM:258],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[TDM:264],[CLU:243],[M19:254],[TDM:265],[M19:255],[ALA:228],[ODY:326],[CLU:247],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[TDM:268],[DSK:269],[TDM:269])([ISD:87],[C16:11],[ODY:287],[AVR:48],[TOR:125],[FRF:70],[PZ2:41],[M15:100],[PZ2:19],[ISD:155],[AVR:151],[M13:68],[ZNC:105],[KTK:59],[DTK:167],[TSP:187],[BNG:115],[GTC:207],[USG:111],[EVE:131])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SLD:455])

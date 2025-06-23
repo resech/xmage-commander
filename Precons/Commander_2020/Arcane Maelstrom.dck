@@ -1,0 +1,87 @@
+1 [ELD:331] Arcane Signet
+1 [INV:231] Artifact Mutation
+1 [CMM:370] Bonder's Ornament
+1 [IKO:180] Channeled Force
+1 [FIC:291] Chaos Warp
+1 [ISD:134] Charmbreaker Devils
+1 [CLU:81] Chemister's Insight
+1 [BFZ:235] Cinder Glade
+1 [IKO:111] Clash of Titans
+1 [WWK:76] Comet Storm
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [DTK:131] Commune with Lava
+1 [GRN:163] Crackling Drake
+1 [ULG:98] Crop Rotation
+1 [C20:59] Curious Herd
+1 [C20:32] Decoy Gambit
+1 [CMM:214] Deflecting Swat
+1 [AVR:227] Desolate Lighthouse
+1 [GPT:142] Djinn Illuminatus
+1 [C21:165] Dualcaster Mage
+1 [C20:33] Eon Frolicker
+1 [FDN:194] Etali, Primal Storm
+1 [PLC:127] Evolution Charm
+1 [CON:142] Exotic Orchard
+8 [FIN:306] Forest
+1 [ULG:32] Frantic Search
+1 [TDM:256] Frontier Bivouac
+1 [C20:60] Glademuse
+1 [OGW:110] Goblin Dark-Dwellers
+1 [RNA:178] Growth Spiral
+1 [CLU:238] Gruul Turf
+1 [C20:2] Haldan, Avid Arcanist
+1 [WWK:137] Halimar Depths
+1 [ZEN:165] Harrow
+1 [M12:180] Hunter's Insight
+1 [SCG:121] Hunting Pack
+5 [FIN:297] Island
+1 [CLU:239] Izzet Boilerworks
+1 [RTR:44] Jace, Architect of Thought
+1 [ISD:243] Kessig Wolf Run
+1 [C20:53] Lavabrink Floodgates
+1 [MRD:199] Lightning Greaves
+1 [AVR:65] Lunar Mystic
+1 [DGM:84] Melek, Izzet Paragon
+1 [ODY:321] Mossfire Valley
+1 [LRW:270] Mosswort Bridge
+5 [FIN:303] Mountain
+1 [GRN:45] Murmuring Mystic
+1 [TDC:380] Myriad Landscape
+1 [C20:36] Nascent Metamorph
+1 [BFZ:179] Natural Connection
+1 [EMN:72] Niblis of Frost
+1 [ZEN:221] Oran-Rief, the Vastwood
+1 [C20:13] Pako, Arcane Retriever
+1 [CLU:172] Predatory Impetus
+1 [IKO:200] Primal Empathy
+1 [APC:116] Prophetic Bolt
+1 [CLU:92] Psychic Impetus
+1 [KLD:184] Rashmi, Eternities Crafter
+1 [C20:63] Ravenous Gigantotherium
+1 [TDM:265] Rugged Highlands
+1 [M19:255] Rupture Spire
+1 [HOU:182] Scavenger Grounds
+1 [CLU:147] Shiny Impetus
+1 [CLU:247] Simic Growth Chamber
+1 [XLN:207] Slice in Twain
+1 [SUM:274] Sol Ring
+1 [FDN:257] Solemn Simulacrum
+1 [ONS:238] Starstorm
+1 [WWK:113] Strength of the Tajuru
+1 [ROE:167] Surreal Memoir
+1 [HOU:50] Swarm Intelligence
+1 [TDM:268] Swiftwater Cliffs
+1 [M13:72] Talrand, Sky Summoner
+1 [KTK:208] Temur Charm
+1 [TDM:269] Thornwood Falls
+1 [C20:193] Tribute to the Wild
+1 [NCC:383] Twinning Staff
+1 [ZEN:77] Whiplash Trap
+1 [RNA:149] Wilderness Reclamation
+1 [SHM:223] Wort, the Raidmother
+1 [DMC:175] Xyris, the Writhing Storm
+1 [DMU:261] Yavimaya Coast
+SB: 1 [SPG:13] Kalamax, the Stormsire
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([FDN:257])([ELD:331],[CMM:370],[FIC:339],[C20:53],[MRD:199],[SUM:274],[NCC:383])([ISD:134],[GRN:163],[GPT:142],[C21:165],[C20:33],[FDN:194],[C20:60],[OGW:110],[C20:2],[AVR:65],[DGM:84],[GRN:45],[C20:36],[EMN:72],[C20:13],[KLD:184],[C20:63],[M13:72],[SHM:223],[DMC:175])([CLU:172],[IKO:200],[CLU:92],[CLU:147],[HOU:50],[RNA:149])([INV:231],[IKO:180],[FIC:291],[CLU:81],[IKO:111],[WWK:76],[DTK:131],[ULG:98],[C20:59],[C20:32],[CMM:214],[PLC:127],[ULG:32],[RNA:178],[ZEN:165],[M12:180],[SCG:121],[BFZ:179],[APC:116],[XLN:207],[ONS:238],[WWK:113],[KTK:208],[C20:193],[ZEN:77])([BFZ:235],[ELD:333],[AVR:227],[CON:142],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[TDM:256],[CLU:238],[WWK:137],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[CLU:239],[ISD:243],[ODY:321],[LRW:270],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[TDC:380],[ZEN:221],[TDM:265],[M19:255],[HOU:182],[CLU:247],[TDM:268],[TDM:269],[DMU:261])([RTR:44])([ROE:167])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SPG:13])

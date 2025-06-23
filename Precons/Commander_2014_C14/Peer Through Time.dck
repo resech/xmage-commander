@@ -1,0 +1,72 @@
+1 [DSC:109] Aether Gale
+1 [ROE:2] Artisan of Kozilek
+1 [CMM:369] Assault Suit
+1 [M12:45] Azure Mage
+1 [C14:12] Breaching Leviathan
+1 [TSP:50] Brine Elemental
+1 [ISD:46] Cackling Counterpart
+1 [M11:47] Call to Mind
+1 [FIC:339] Commander's Sphere
+1 [RAV:40] Compulsive Research
+1 [8ED:68] Concentrate
+1 [VIS:160] Coral Atoll
+1 [C14:55] Crown of Doom
+1 [RTR:35] Cyclonic Rift
+1 [TSP:56] Deep-Sea Kraken
+1 [TMP:58] Dismiss
+1 [INV:52] Distorting Wake
+1 [CLB:719] Domineering Will
+1 [ROE:216] Dreamstone Hedron
+1 [C14:14] Dulcet Sirens
+1 [WWK:123] Everflowing Chalice
+1 [INV:56] Exclude
+1 [TSP:62] Fathom Seer
+1 [FDN:591] Fog Bank
+1 [TSP:64] Fool's Demise
+1 [M12:55] Frost Titan
+1 [ISD:240] Ghost Quarter
+1 [5DN:32] Hoverguard Sweepers
+1 [AVR:61] Infinite Reflection
+1 [BLC:168] Intellectual Offering
+1 [FDN:509] Into the Roil
+31 [FIN:297] Island
+1 [TSP:65] Ixidron
+1 [ONS:320] Lonely Sandbar
+1 [ZEN:53] Lorthos, the Tidemaker
+1 [10E:335] Mind Stone
+1 [LRW:76] Mulldrifter
+1 [TDC:380] Myriad Landscape
+1 [5ED:391] Nevinyrral's Disk
+1 [NPH:41] Phyrexian Ingester
+1 [PLC:44] Pongify
+1 [MH3:271] Reef Worm
+1 [USG:324] Remote Isle
+1 [SCG:48] Riptide Survivor
+1 [FDN:711] Rite of Replication
+1 [SCG:49] Rush of Knowledge
+1 [TMP:306] Sapphire Medallion
+1 [ROE:85] Sea Gate Oracle
+1 [PLC:46] Shaper Parasite
+1 [7ED:316] Sky Diamond
+1 [SUM:274] Sol Ring
+1 [ZEN:68] Sphinx of Jwar Isle
+1 [W17:12] Sphinx of Magosi
+1 [M13:69] Sphinx of Uthuun
+1 [FDN:681] Steel Hellkite
+1 [CMM:121] Stitcher Geralf
+1 [CMM:122] Stormsurge Kraken
+1 [USG:100] Stroke of Genius
+1 [FDN:258] Swiftfoot Boots
+1 [WWK:145] Tectonic Edge
+1 [UDS:139] Thran Dynamo
+1 [M21:241] Tormod's Crypt
+1 [CLU:103] Turn to Frog
+1 [CMM:416] Unstable Obelisk
+1 [9ED:314] Ur-Golem's Eye
+1 [2XM:75] Well of Ideas
+1 [TSB:36] Willbender
+1 [USG:318] Worn Powerstone
+1 [FUT:180] Zoetic Cavern
+SB: 1 [CMM:125] Teferi, Temporal Archmage
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([FDN:681])([CMM:369],[FIC:339],[C14:55],[ROE:216],[WWK:123],[10E:335],[5ED:391],[TMP:306],[7ED:316],[SUM:274],[FDN:258],[UDS:139],[M21:241],[CMM:416],[9ED:314],[USG:318])([ROE:2],[M12:45],[C14:12],[TSP:50],[TSP:56],[C14:14],[TSP:62],[FDN:591],[M12:55],[5DN:32],[TSP:65],[ZEN:53],[LRW:76],[NPH:41],[MH3:271],[SCG:48],[ROE:85],[PLC:46],[ZEN:68],[W17:12],[M13:69],[CMM:121],[CMM:122],[TSB:36])([TSP:64],[AVR:61],[2XM:75])([ISD:46],[RTR:35],[TMP:58],[CLB:719],[INV:56],[BLC:168],[FDN:509],[PLC:44],[USG:100],[CLU:103])([VIS:160],[ISD:240],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[ONS:320],[TDC:380],[USG:324],[WWK:145],[FUT:180])([DSC:109],[M11:47],[RAV:40],[8ED:68],[INV:52],[FDN:711],[SCG:49])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMM:125])

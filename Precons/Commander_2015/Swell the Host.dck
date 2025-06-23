@@ -1,0 +1,79 @@
+1 [DSC:169] Arachnogenesis
+1 [THS:150] Arbor Colossus
+1 [FIC:299] Bane of Progress
+1 [ZEN:159] Beastmaster Ascension
+1 [THS:42] Bident of Thassa
+1 [DIS:142] Biomantic Mastery
+1 [PZ1:20] Broodbirth Viper
+1 [LGN:121] Caller of the Claw
+1 [CMA:94] Caller of the Pack
+1 [MOR:116] Chameleon Colossus
+1 [ZEN:160] Cobra Trap
+1 [DIS:107] Coiling Oracle
+1 [EVE:149] Cold-Eyed Selkie
+1 [FCA:64] Command Beacon
+1 [ELD:333] Command Tower
+1 [SCG:31] Day of the Dragons
+1 [MMQ:243] Desert Twister
+1 [ORI:175] Elvish Visionary
+1 [5DN:86] Eternal Witness
+1 [TDM:255] Evolving Wilds
+1 [GTC:119] Experiment One
+1 [DSC:178] Ezuri's Predation
+14 [FIN:306] Forest
+1 [SCG:120] Forgotten Ancient
+1 [LTC:247] Great Oak Guardian
+1 [MMQ:320] High Market
+1 [BLC:167] Illusory Ambusher
+11 [FIN:297] Island
+1 [C21:221] Kaseto, Orochi Archmage
+1 [CHK:225] Kodama's Reach
+1 [TSP:202] Krosan Grip
+1 [FUT:171] Llanowar Reborn
+1 [M20:180] Loaming Shaman
+1 [M21:221] Lorescale Coatl
+1 [PZ1:29] Mirror Match
+1 [LRW:270] Mosswort Bridge
+1 [LRW:76] Mulldrifter
+1 [TSB:97] Mystic Snake
+1 [BOK:44] Ninja of the Deep Hours
+1 [BNG:130] Noble Quarry
+1 [DIS:175] Novijen, Heart of Progress
+1 [CSP:115] Ohran Viper
+1 [ZEN:221] Oran-Rief, the Vastwood
+1 [CHK:266] Orochi Hatchery
+1 [FDN:230] Overrun
+1 [DIS:89] Patagia Viper
+1 [DIS:29] Plaxmanta
+1 [FDN:664] Prime Speaker Zegana
+1 [M12:190] Rampant Growth
+1 [CLU:93] Rapid Hybridization
+1 [M19:254] Reliquary Tower
+1 [CHK:239] Sakura-Tribe Elder
+1 [CMM:408] Scytheclaw
+1 [CLU:247] Simic Growth Chamber
+1 [FDN:695] Simic Guildgate
+1 [GTC:237] Simic Keyrune
+1 [CLU:228] Simic Signet
+1 [M3C:247] Skullwinder
+1 [CLU:209] Snakeform
+1 [SUM:274] Sol Ring
+1 [FDN:257] Solemn Simulacrum
+1 [M12:197] Stingerfling Spider
+1 [FDN:258] Swiftfoot Boots
+1 [BLB:395] Sword of Vengeance
+1 [KHC:44] Synthetic Destiny
+1 [DSK:269] Terramorphic Expanse
+1 [TSP:228] Thelonite Hermit
+1 [TDM:269] Thornwood Falls
+1 [FIC:368] Thought Vessel
+1 [FDN:667] Trygon Predator
+1 [CMM:329] Verdant Confluence
+1 [10E:308] Viridian Shaman
+1 [LRW:276] Vivid Creek
+1 [LRW:277] Vivid Grove
+1 [EVE:165] Wistful Selkie
+1 [FUT:180] Zoetic Cavern
+SB: 1 [MUL:103] Ezuri, Claw of Progress
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([FDN:257])([CHK:266],[CMM:408],[GTC:237],[CLU:228],[SUM:274],[FDN:258],[BLB:395],[FIC:368])([THS:150],[FIC:299],[PZ1:20],[LGN:121],[CMA:94],[MOR:116],[DIS:107],[EVE:149],[ORI:175],[5DN:86],[GTC:119],[SCG:120],[LTC:247],[BLC:167],[C21:221],[M20:180],[M21:221],[LRW:76],[TSB:97],[BOK:44],[CSP:115],[DIS:89],[DIS:29],[FDN:664],[CHK:239],[M3C:247],[M12:197],[TSP:228],[FDN:667],[10E:308],[EVE:165])([THS:42])([BNG:130])([ZEN:159],[SCG:31])([DSC:169],[ZEN:160],[TSP:202],[PZ1:29],[CLU:93],[CLU:209],[KHC:44])([FCA:64],[ELD:333],[TDM:255],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[MMQ:320],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FUT:171],[LRW:270],[DIS:175],[ZEN:221],[M19:254],[CLU:247],[FDN:695],[DSK:269],[TDM:269],[LRW:276],[LRW:277],[FUT:180])([DIS:142],[MMQ:243],[DSC:178],[CHK:225],[FDN:230],[M12:190],[CMM:329])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MUL:103])

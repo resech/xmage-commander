@@ -1,0 +1,88 @@
+1 [AVR:5] Archangel
+1 [WWK:96] Avenger of Zendikar
+1 [ZEN:157] Baloth Woodcrasher
+1 [ARB:65] Behemoth Sledge
+1 [FDN:721] Boros Charm
+1 [CLU:231] Boros Garrison
+1 [FDN:684] Boros Guildgate
+1 [ELD:333] Command Tower
+1 [ONS:314] Contested Cliffs
+1 [USG:179] Crater Hellion
+1 [M21:177] Cultivate
+1 [C13:105] Curse of Chaos
+1 [IMA:159] Curse of Predation
+1 [CMA:8] Curse of the Forsaken
+1 [CMM:21] Darksteel Mutation
+1 [PLC:126] Deadwood Treefolk
+1 [USG:320] Drifting Meadow
+1 [M12:207] Druidic Satchel
+1 [ALA:129] Drumhunter
+1 [SCG:12] Eternal Dragon
+1 [TDM:255] Evolving Wilds
+1 [TSB:92] Fiery Justice
+1 [M12:131] Fireball
+1 [INV:246] Fires of Yavimaya
+8 [FIN:306] Forest
+1 [ONS:317] Forgotten Cave
+1 [C13:108] From the Ashes
+1 [NCC:340] Gahiji, Honored One
+1 [ZEN:163] Grazing Gladehart
+1 [FDN:690] Gruul Guildgate
+1 [PLC:149] Harmonize
+1 [LTC:365] Homeward Path
+1 [PLS:111] Hull Breach
+1 [ALA:226] Jungle Shrine
+1 [WWK:138] Khalni Garden
+1 [ONS:272] Krosan Tusker
+1 [SCG:123] Krosan Warchief
+1 [PLC:104] Magus of the Arena
+1 [ALA:179] Mayael the Anima
+1 [ZEN:169] Mold Shambler
+1 [LRW:270] Mosswort Bridge
+5 [FIN:303] Mountain
+1 [C13:18] Mystic Barrier
+1 [ALA:180] Naya Charm
+1 [ALA:227] Naya Panorama
+1 [C13:157] Naya Soulbeast
+1 [FUT:172] New Benalia
+1 [MRD:126] One Dozen Eyes
+1 [M3C:361] Opal Palace
+4 [FIN:294] Plains
+1 [AVR:190] Rain of Thorns
+1 [ALA:186] Rakeclaw Gargantuan
+1 [FDN:645] Rampaging Baloths
+1 [ONS:278] Ravenous Baloth
+1 [CMA:141] Restore
+1 [M19:255] Rupture Spire
+1 [GPT:127] Savage Twister
+1 [ONS:324] Secluded Steppe
+1 [WWK:130] Seer's Sundial
+1 [FDN:694] Selesnya Guildgate
+1 [CLU:246] Selesnya Sanctuary
+1 [ONS:232] Slice and Dice
+1 [XLN:207] Slice in Twain
+1 [USG:327] Slippery Karst
+1 [USG:328] Smoldering Crater
+1 [SUM:274] Sol Ring
+1 [C18:163] Spawning Grounds
+1 [ARB:60] Spellbreaker Behemoth
+1 [MOR:105] Spitebellows
+1 [SCG:128] Sprouting Vines
+1 [CLU:150] Street Spasm
+1 [FDN:258] Swiftfoot Boots
+1 [SCG:143] Temple of the False God
+1 [BLC:124] Tempt with Discovery
+1 [C13:126] Terra Ravager
+1 [MRD:267] Tower of Fortunes
+1 [ONS:326] Tranquil Thicket
+1 [ARB:61] Valley Rannet
+1 [RAV:285] Vitu-Ghazi, the City-Tree
+1 [LRW:275] Vivid Crag
+1 [MMQ:224] War Cadence
+1 [M12:160] Warstorm Surge
+1 [ALA:122] Where Ancients Tread
+1 [C13:133] Witch Hunt
+1 [10E:61] Wrath of God
+SB: 1 [CMR:527] Marath, Will of the Wild
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([ARB:65],[M12:207],[WWK:130],[SUM:274],[FDN:258],[MRD:267])([AVR:5],[WWK:96],[ZEN:157],[USG:179],[PLC:126],[ALA:129],[SCG:12],[NCC:340],[ZEN:163],[ONS:272],[SCG:123],[PLC:104],[ALA:179],[ZEN:169],[C13:157],[ALA:186],[FDN:645],[ONS:278],[ARB:60],[MOR:105],[C13:126],[ARB:61])([C13:105],[IMA:159],[CMA:8],[CMM:21],[INV:246],[C13:18],[C18:163],[MMQ:224],[M12:160],[ALA:122],[C13:133])([FDN:721],[ALA:180],[XLN:207],[SCG:128],[CLU:150])([CLU:231],[FDN:684],[ELD:333],[ONS:314],[USG:320],[TDM:255],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[ONS:317],[FDN:690],[LTC:365],[ALA:226],[WWK:138],[LRW:270],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[ALA:227],[FUT:172],[M3C:361],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[M19:255],[ONS:324],[FDN:694],[CLU:246],[USG:327],[USG:328],[SCG:143],[ONS:326],[RAV:285],[LRW:275])([M21:177],[TSB:92],[M12:131],[C13:108],[PLC:149],[PLS:111],[MRD:126],[AVR:190],[CMA:141],[GPT:127],[ONS:232],[BLC:124],[10E:61])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMR:527])

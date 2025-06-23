@@ -1,0 +1,80 @@
+1 [M14:2] Ajani's Chosen
+1 [VOC:117] Ancient Craving
+1 [10E:6] Aura of Silence
+1 [FDN:138] Banishing Light
+1 [CMA:47] Banshee of the Dread Choir
+1 [ONS:312] Barren Moor
+1 [FIC:233] Bastion Protector
+1 [MMQ:116] Black Market
+1 [FDN:250] Burnished Hart
+1 [CHK:3] Cage of Hands
+1 [DIS:7] Celestial Ancient
+1 [THS:3] Celestial Archon
+1 [ELD:333] Command Tower
+1 [DRC:40] Corpse Augur
+1 [USG:292] Crystal Chimes
+1 [BNG:6] Dawn to Dusk
+1 [ROE:16] Dawnglare Invoker
+1 [PZ1:41] Daxos's Torment
+1 [SCD:75] Deadly Tempest
+1 [APC:95] Death Grasp
+1 [JOU:8] Dictate of Heliod
+1 [JOU:66] Doomwake Giant
+1 [JOU:67] Dreadbringer Lampads
+1 [TDM:255] Evolving Wilds
+1 [TSP:109] Fallen Ideal
+1 [BNG:68] Fate Unraveler
+1 [ISD:240] Ghost Quarter
+1 [BNG:12] Ghostblade Eidolon
+1 [BNG:73] Gild
+1 [WHO:1057] Grasp of Fate
+1 [FUT:67] Grave Peril
+1 [CMM:30] Herald of the Host
+1 [RVR:193] Karlov of the Ghost Council
+1 [ODY:26] Karmic Justice
+1 [ZEN:22] Kor Sanctifiers
+1 [MRD:199] Lightning Greaves
+1 [WWK:15] Marshal's Anthem
+1 [M12:25] Mesa Enchantress
+1 [USG:20] Monk Idealist
+1 [ARB:82] Necromancer's Covenant
+1 [FUT:172] New Benalia
+1 [THS:98] Nighthowler
+1 [M10:21] Open the Vaults
+1 [CMM:832] Oreskos Explorer
+1 [CLU:241] Orzhov Basilica
+1 [DGM:142] Orzhov Cluestone
+1 [FDN:692] Orzhov Guildgate
+1 [CLU:225] Orzhov Signet
+1 [FDN:180] Phyrexian Arena
+1 [ULG:63] Phyrexian Reclamation
+11 [FIN:294] Plains
+1 [CMM:53] Righteous Confluence
+1 [FDN:264] Rogue's Passage
+1 [CMM:406] Sandstone Oracle
+1 [TDM:267] Scoured Barrens
+1 [NEM:18] Seal of Cleansing
+1 [DIS:53] Seal of Doom
+1 [ONS:324] Secluded Steppe
+1 [SS2:5] Shielded by Faith
+1 [ORI:31] Sigil of the Empty Throne
+1 [BNG:26] Silent Sentinel
+1 [SUM:274] Sol Ring
+13 [FIN:300] Swamp
+1 [TOR:140] Tainted Field
+1 [SCG:143] Temple of the False God
+1 [DSK:269] Terramorphic Expanse
+1 [DGM:108] Teysa, Envoy of Ghosts
+1 [CMA:71] Thief of Blood
+1 [FIC:368] Thought Vessel
+1 [GTC:201] Treasury Thrull
+1 [JOU:157] Underworld Coinsmith
+1 [RTR:83] Underworld Connections
+1 [LRW:278] Vivid Marsh
+1 [LRW:279] Vivid Meadow
+1 [MKC:89] Vow of Duty
+1 [CM2:82] Vow of Malice
+1 [5DN:165] Wayfarer's Bauble
+SB: 1 [PZ1:98] Daxos the Returned
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([FDN:250],[CMM:406])([USG:292],[MRD:199],[DGM:142],[CLU:225],[SUM:274],[FIC:368],[5DN:165])([M14:2],[CMA:47],[FIC:233],[DIS:7],[DRC:40],[ROE:16],[CMM:30],[RVR:193],[ZEN:22],[M12:25],[USG:20],[CMM:832],[BNG:26],[DGM:108],[CMA:71],[GTC:201])([THS:3],[JOU:66],[JOU:67],[BNG:68],[BNG:12],[THS:98],[JOU:157])([10E:6],[FDN:138],[MMQ:116],[CHK:3],[PZ1:41],[JOU:8],[TSP:109],[WHO:1057],[FUT:67],[ODY:26],[WWK:15],[ARB:82],[FDN:180],[ULG:63],[NEM:18],[DIS:53],[SS2:5],[ORI:31],[RTR:83],[MKC:89],[CM2:82])([ONS:312],[ELD:333],[TDM:255],[ISD:240],[FUT:172],[CLU:241],[FDN:692],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FDN:264],[TDM:267],[ONS:324],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[TOR:140],[SCG:143],[DSK:269],[LRW:278],[LRW:279])([VOC:117],[BNG:6],[SCD:75],[APC:95],[BNG:73],[M10:21],[CMM:53])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PZ1:98])

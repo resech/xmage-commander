@@ -1,0 +1,89 @@
+1 [CSP:1] Adarkar Valkyrie
+1 [DIS:101] Aethermage's Touch
+1 [ONS:2] Akroma's Vengeance
+1 [DSC:71] Aminatou's Augury
+1 [ALA:220] Arcane Sanctum
+1 [ISD:87] Army of the Damned
+1 [CLU:229] Azorius Chancery
+1 [FDN:683] Azorius Guildgate
+1 [CLU:219] Azorius Signet
+1 [AVR:7] Banishing Stroke
+1 [ONS:312] Barren Moor
+1 [VOC:79] Boreas Charger
+1 [MMQ:61] Brainstorm
+1 [FRF:32] Cloudform
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [M11:51] Conundrum Sphinx
+1 [LRW:11] Crib Swap
+1 [M11:203] Crystal Ball
+1 [AVR:48] Devastation Tide
+1 [CLU:233] Dimir Aqueduct
+1 [FDN:688] Dimir Guildgate
+1 [CLU:221] Dimir Signet
+1 [TDM:254] Dismal Backwater
+1 [M19:52] Djinn of Wishes
+1 [6ED:66] Dream Cache
+1 [CLU:188] Duskmantle Seer
+1 [ARB:106] Enigma Sphinx
+1 [AVR:20] Entreat the Angels
+1 [PZ2:70743] Entreat the Dead
+1 [ALA:167] Esper Charm
+1 [FIC:395] Forge of Heroes
+1 [M19:250] Forsaken Sanctuary
+1 [CMM:386] Geode Golem
+1 [WWK:137] Halimar Depths
+1 [GTC:171] High Priest of Penance
+5 [FIN:297] Island
+1 [J19:4] Isolated Watchtower
+1 [FRF:36] Jeskai Infiltrator
+1 [ZEN:215] Jwar Isle Refuge
+1 [FRF:16] Lightform
+1 [ONS:320] Lonely Sandbar
+1 [CMM:172] Loyal Subordinate
+1 [CMM:40] Loyal Unicorn
+1 [CLB:699] Magus of the Balance
+1 [M19:253] Meandering River
+1 [10E:335] Mind Stone
+1 [FDN:662] Mortify
+1 [BFZ:240] Mortuary Mire
+1 [LRW:76] Mulldrifter
+1 [FUT:172] New Benalia
+1 [PZ2:70749] Night Incarnate
+1 [BOK:44] Ninja of the Deep Hours
+1 [CLU:241] Orzhov Basilica
+1 [FDN:692] Orzhov Guildgate
+1 [CLU:225] Orzhov Signet
+1 [INV:115] Phyrexian Delver
+1 [BFZ:226] Pilgrim's Eye
+8 [FIN:294] Plains
+1 [M12:73] Ponder
+1 [5ED:110] Portent
+1 [ODY:94] Predict
+1 [DSC:123] Primordial Mist
+1 [TSP:39] Return to Dust
+1 [TDM:267] Scoured Barrens
+1 [ONS:324] Secluded Steppe
+1 [OGW:165] Seer's Lantern
+1 [ZEN:224] Sejiri Refuge
+1 [M13:32] Serra Avatar
+1 [ORI:73] Sigiled Starfish
+1 [OTC:241] Silent-Blade Oni
+1 [PZ2:70713] Skull Storm
+1 [SUM:274] Sol Ring
+1 [CMM:187] Sower of Discord
+1 [ZEN:68] Sphinx of Jwar Isle
+1 [M13:69] Sphinx of Uthuun
+1 [M19:257] Submerged Boneyard
+3 [FIN:300] Swamp
+1 [10E:114] Telling Time
+1 [AVR:38] Terminus
+1 [TDM:270] Tranquil Cove
+1 [WWK:42] Treasure Hunt
+1 [KTK:210] Utter End
+1 [2X2:291] Varina, Lich Queen
+1 [CMM:363] Yennett, Cryptic Sovereign
+1 [FCA:60] Yuriko, the Tiger's Shadow
+SB: 1 [2X2:169] Aminatou, the Fateshifter
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([ARB:106],[CMM:386],[BFZ:226])([CLU:219],[FIC:339],[M11:203],[CLU:221],[10E:335],[CLU:225],[OGW:165],[SUM:274])([CSP:1],[VOC:79],[M11:51],[M19:52],[CLU:188],[GTC:171],[FRF:36],[CMM:172],[CMM:40],[CLB:699],[LRW:76],[PZ2:70749],[BOK:44],[INV:115],[M13:32],[ORI:73],[OTC:241],[CMM:187],[ZEN:68],[M13:69],[2X2:291],[CMM:363],[FCA:60])([FRF:32],[FRF:16],[DSC:123])([DIS:101],[AVR:7],[MMQ:61],[ALA:167],[FDN:662],[ODY:94],[TSP:39],[10E:114],[KTK:210])([LRW:11])([ALA:220],[CLU:229],[FDN:683],[ONS:312],[ELD:333],[CLU:233],[FDN:688],[TDM:254],[FIC:395],[M19:250],[WWK:137],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[J19:4],[ZEN:215],[ONS:320],[M19:253],[BFZ:240],[FUT:172],[CLU:241],[FDN:692],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[TDM:267],[ONS:324],[ZEN:224],[M19:257],[FIN:300],[FIN:300],[FIN:300],[TDM:270])([ONS:2],[DSC:71],[ISD:87],[AVR:48],[6ED:66],[AVR:20],[PZ2:70743],[M12:73],[5ED:110],[PZ2:70713],[AVR:38],[WWK:42])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([2X2:169])

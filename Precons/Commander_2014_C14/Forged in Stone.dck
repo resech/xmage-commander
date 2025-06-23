@@ -1,0 +1,71 @@
+1 [CSP:1] Adarkar Valkyrie
+1 [MMQ:1] Afterlife
+1 [JMP:85] Angel of the Dire Hour
+1 [CMM:13] Angelic Field Marshal
+1 [MB2:102] Arcane Lighthouse
+1 [SOM:137] Argentum Armor
+1 [MMQ:3] Armistice
+1 [CMM:369] Assault Suit
+1 [VOC:78] Benevolent Offering
+1 [MBS:100] Bonehoard
+1 [M14:10] Brave the Elements
+1 [AVR:10] Cathars' Crusade
+1 [TSP:7] Celestial Crusader
+1 [MKC:58] Comeuppance
+1 [FIC:339] Commander's Sphere
+1 [M11:11] Condemn
+1 [M21:13] Containment Priest
+1 [SCG:8] Decree of Justice
+1 [40K:184*] Deploy to the Front
+1 [USG:320] Drifting Meadow
+1 [ZEN:213] Emeria, the Sky Ruin
+1 [OTP:1] Fell the Mighty
+1 [EVE:6] Flickerwisp
+1 [ISD:17] Geist-Honored Monk
+1 [ISD:240] Ghost Quarter
+1 [9ED:15] Gift of Estates
+1 [BIG:2] Grand Abolisher
+1 [VOC:88] Hallowed Spiritkeeper
+1 [FDN:497] Jazal Goldmane
+1 [VIS:165] Karoo
+1 [SOM:12] Kemba, Kha Regent
+1 [ZEN:22] Kor Sanctifiers
+1 [CMR:320] Loreseeker's Stone
+1 [10E:332*] Loxodon Warhammer
+1 [7ED:306] Marble Diamond
+1 [WWK:15] Marshal's Anthem
+1 [CON:11] Martial Coup
+1 [MRD:203] Mask of Memory
+1 [PIP:1011] Masterwork of Ingenuity
+1 [FDN:578] Mentor of the Meek
+1 [ISD:22] Midnight Haunting
+1 [10E:29*] Mobilization
+1 [AVR:217] Moonsilver Spear
+1 [ROE:39] Nomads' Assembly
+1 [ONS:46] Oblation
+1 [TMP:300] Pearl Medallion
+32 [FIN:294] Plains
+1 [DKA:18] Requiem Angel
+1 [TSP:39] Return to Dust
+1 [TSB:13] Sacred Mesa
+1 [ONS:324] Secluded Steppe
+1 [M13:32] Serra Avatar
+1 [AVR:36] Silverblade Paladin
+1 [DST:140] Skullclamp
+1 [10E:43*] Skyhunter Skirmisher
+1 [SUM:274] Sol Ring
+1 [SHM:23] Spectral Procession
+1 [SOM:206] Strata Scythe
+1 [M12:39] Sun Titan
+1 [SOM:22] Sunblast Angel
+1 [FDN:258] Swiftfoot Boots
+1 [BLB:395] Sword of Vengeance
+1 [SCG:143] Temple of the False God
+1 [SOM:25] True Conviction
+1 [SHM:25] Twilight Shepherd
+1 [MBS:19] White Sun's Zenith
+1 [PLC:22] Whitemane Lion
+1 [SCG:25] Wing Shards
+SB: 1 [CMM:45] Nahiri, the Lithomancer
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([SOM:137],[CMM:369],[MBS:100],[FIC:339],[CMR:320],[10E:332*],[7ED:306],[MRD:203],[PIP:1011],[AVR:217],[TMP:300],[DST:140],[SUM:274],[SOM:206],[FDN:258],[BLB:395])([CSP:1],[JMP:85],[CMM:13],[TSP:7],[M21:13],[EVE:6],[ISD:17],[BIG:2],[VOC:88],[FDN:497],[SOM:12],[ZEN:22],[FDN:578],[DKA:18],[M13:32],[AVR:36],[10E:43*],[M12:39],[SOM:22],[SHM:25],[PLC:22])([MMQ:3],[AVR:10],[WWK:15],[10E:29*],[TSB:13],[SOM:25])([MMQ:1],[VOC:78],[M14:10],[MKC:58],[M11:11],[ISD:22],[ONS:46],[TSP:39],[MBS:19],[SCG:25])([MB2:102],[USG:320],[ZEN:213],[ISD:240],[VIS:165],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[ONS:324],[SCG:143])([SCG:8],[40K:184*],[OTP:1],[9ED:15],[CON:11],[ROE:39],[SHM:23])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMM:45])

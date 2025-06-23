@@ -1,0 +1,91 @@
+1 [10E:249] Abundance
+1 [CMM:10] Alms Collector
+1 [SOM:137] Argentum Armor
+1 [CMM:16] Balan, Wandering Knight
+1 [ARB:65] Behemoth Sledge
+1 [BFZ:233] Blighted Woodland
+1 [PIP:1009] Bloodforged Battle-Axe
+1 [TDM:251] Blossoming Sands
+1 [ELD:333] Command Tower
+1 [M11:11] Condemn
+1 [DKA:110] Crushing Vines
+1 [M21:177] Cultivate
+1 [SCD:178] Curse of Bounty
+1 [PZ2:65765] Curse of Vitality
+1 [ISD:10] Divine Reckoning
+1 [ROE:216] Dreamstone Hedron
+1 [8ED:324] Elfhame Palace
+1 [TDM:255] Evolving Wilds
+1 [THS:193] Fleecemane Lion
+6 [FIN:306] Forest
+1 [ZEN:203] Grappling Hook
+1 [MIR:327] Grasslands
+1 [ZEN:214] Graypelt Refuge
+1 [CMM:388] Hammer of Nazahn
+1 [PLC:149] Harmonize
+1 [FDN:726] Hedron Archive
+1 [PW24:16] Heirloom Blade
+1 [FIC:228] Herald's Horn
+1 [FRF:160] Hero's Blade
+1 [PZ2:65711] Hungry Lynx
+1 [BNG:124] Hunter's Prowess
+1 [ONS:43] Jareth, Leonine Titan
+1 [FDN:497] Jazal Goldmane
+1 [PLC:131] Jedit Ojanen of Efrava
+1 [SOM:12] Kemba, Kha Regent
+1 [AFC:163] Kindred Summons
+1 [JUD:141] Krosan Verge
+1 [SOM:14] Leonin Arbiter
+1 [MBS:10] Leonin Relic-Warder
+1 [DST:6] Leonin Shikari
+1 [MRD:199] Lightning Greaves
+1 [10E:332*] Loxodon Warhammer
+1 [JUD:139] Mirari's Wake
+1 [MB2:252] Mirri, Weatherlight Duelist
+1 [LRW:270] Mosswort Bridge
+1 [TDC:380] Myriad Landscape
+1 [PZ2:65771] Nazahn, Revered Bladesmith
+1 [ORI:190] Nissa's Pilgrimage
+1 [M3C:361] Opal Palace
+1 [CMM:832] Oreskos Explorer
+1 [FIC:411] Path of Ancestry
+1 [JUD:140] Phantom Nishoba
+7 [FIN:294] Plains
+1 [ARB:75] Qasali Pridemage
+1 [SLD:24] Qasali Slingers
+1 [ALA:217] Quietus Spike
+1 [5DN:12] Raksha Golden Cub
+1 [ZEN:179] Relic Crush
+1 [FDN:264] Rogue's Passage
+1 [INV:34] Rout
+1 [TSP:277] Saltcrusted Steppe
+1 [ONS:324] Secluded Steppe
+1 [FUT:31] Seht's Tiger
+1 [FDN:694] Selesnya Guildgate
+1 [CLU:246] Selesnya Sanctuary
+1 [DST:140] Skullclamp
+1 [SUM:274] Sol Ring
+1 [CON:92] Soul's Majesty
+1 [EVE:14] Spirit of the Hearth
+1 [M13:217] Staff of Nin
+1 [MKC:86] Stalking Leonin
+1 [WWK:144] Stirring Wildwood
+1 [SOM:23] Sunspear Shikari
+1 [FDN:258] Swiftfoot Boots
+1 [ORI:240] Sword of the Animist
+1 [BLB:395] Sword of Vengeance
+1 [MRD:27] Taj-Nar Swordsmith
+1 [SCG:143] Temple of the False God
+1 [FRF:141] Temur Sabertooth
+1 [DSK:269] Terramorphic Expanse
+1 [M19:259] Tranquil Expanse
+1 [ONS:326] Tranquil Thicket
+1 [CLB:258] Traverse the Outlands
+1 [LRW:277] Vivid Grove
+1 [LRW:279] Vivid Meadow
+1 [MBS:19] White Sun's Zenith
+1 [SCG:25] Wing Shards
+1 [OGW:147] Zendikar Resurgent
+SB: 1 [SLD:25] Arahbo, Roar of the World
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([SOM:137],[ARB:65],[PIP:1009],[ROE:216],[ZEN:203],[CMM:388],[FDN:726],[PW24:16],[FIC:228],[FRF:160],[MRD:199],[10E:332*],[ALA:217],[DST:140],[SUM:274],[M13:217],[FDN:258],[ORI:240],[BLB:395])([CMM:10],[CMM:16],[THS:193],[PZ2:65711],[ONS:43],[FDN:497],[PLC:131],[SOM:12],[SOM:14],[MBS:10],[DST:6],[MB2:252],[PZ2:65771],[CMM:832],[JUD:140],[ARB:75],[SLD:24],[5DN:12],[FUT:31],[EVE:14],[MKC:86],[SOM:23],[MRD:27],[FRF:141])([10E:249],[SCD:178],[PZ2:65765],[JUD:139],[OGW:147])([M11:11],[DKA:110],[AFC:163],[ZEN:179],[MBS:19],[SCG:25])([BFZ:233],[TDM:251],[ELD:333],[8ED:324],[TDM:255],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[FIN:306],[MIR:327],[ZEN:214],[JUD:141],[LRW:270],[TDC:380],[M3C:361],[FIC:411],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FDN:264],[TSP:277],[ONS:324],[FDN:694],[CLU:246],[WWK:144],[SCG:143],[DSK:269],[M19:259],[ONS:326],[LRW:277],[LRW:279])([M21:177],[ISD:10],[PLC:149],[BNG:124],[ORI:190],[INV:34],[CON:92],[CLB:258])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SLD:25])

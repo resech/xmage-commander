@@ -1,0 +1,89 @@
+1 [ONC:114] Adriana, Captain of the Guard
+1 [FRF:90] Alesha, Who Smiles at Death
+1 [8ED:118] Ambition's Cost
+1 [ELD:331] Arcane Signet
+1 [M14:7] Banisher Priest
+1 [IKO:73] Bastion of Remembrance
+1 [BRO:257] Battlefield Forge
+1 [TDM:250] Bloodfell Caves
+1 [WWK:132] Bojuka Bog
+1 [CMM:370] Bonder's Ornament
+1 [CLU:231] Boros Garrison
+1 [CLU:220] Boros Signet
+1 [GRN:2] Bounty Agent
+1 [ONC:60] Call the Coppercoats
+1 [XLN:137] Captivating Crew
+1 [THS:2] Cavalry Pegasus
+1 [GRN:4] Citywide Bust
+1 [M19:9] Cleansing Nova
+1 [ELD:333] Command Tower
+1 [FIC:339] Commander's Sphere
+1 [KTK:171] Crackling Doom
+1 [ISD:9] Dearly Departed
+1 [AVR:17] Devout Chaplain
+1 [IKO:183] Dire Tactics
+1 [M13:88] Disciple of Bolas
+1 [TDM:255] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [C20:51] Fireflux Squad
+1 [CMM:24] Flawless Maneuver
+1 [MKC:154] Frontier Warmonger
+1 [GTC:12] Frontline Medic
+1 [BOK:104] Fumiko the Lowblood
+1 [DOM:194] Garna, the Bloodflame
+1 [IKO:188] General's Enforcer
+1 [PW24:16] Heirloom Blade
+1 [FRF:104] Humble Defector
+1 [DKA:11] Increasing Devotion
+1 [C20:11] Kelsien, the Plague
+1 [ORI:21] Knight of the White Orchid
+1 [TSP:27] Magus of the Disk
+1 [CMM:241] Magus of the Wheel
+1 [CLU:65] Martial Impetus
+1 [VOC:148] Molten Echoes
+4 [FIN:303] Mountain
+1 [TDC:380] Myriad Landscape
+1 [SOI:247] Nahiri, the Harbinger
+1 [TDM:263] Nomad Outpost
+1 [M13:23] Odric, Master Tactician
+1 [CLU:241] Orzhov Basilica
+1 [CLU:225] Orzhov Signet
+1 [FRF:110] Outpost Siege
+1 [BFZ:120] Painful Truths
+1 [CLU:118] Parasitic Impetus
+1 [FIC:411] Path of Ancestry
+8 [FIN:294] Plains
+1 [CLU:243] Rakdos Carnarium
+1 [CLU:226] Rakdos Signet
+1 [AVR:33] Riders of Gavony
+1 [C20:69] Sanctuary Blade
+1 [IKO:28] Sanctuary Lockdown
+1 [TDM:267] Scoured Barrens
+1 [ODY:326] Shadowblood Ridge
+1 [MOR:104] Shared Animosity
+1 [CLU:147] Shiny Impetus
+1 [C20:15] Silvar, Devourer of the Free
+1 [DST:140] Skullclamp
+1 [BFZ:247] Smoldering Marsh
+1 [SUM:274] Sol Ring
+1 [C20:47] Species Specialist
+1 [LRW:274] Spinerock Knoll
+4 [FIN:300] Swamp
+1 [SCG:143] Temple of the False God
+1 [ARB:46] Terminate
+1 [SOI:43] Thalia's Lieutenant
+1 [DKA:25] Thraben Doomsayer
+1 [SCD:112] Titan Hunter
+1 [THS:144] Titan of Eternal Fire
+1 [C20:1] Trynn, Champion of Freedom
+1 [XLN:258] Unclaimed Territory
+1 [C20:106] Unexpectedly Absent
+1 [DSC:108] Verge Rangers
+1 [AVR:165] Vigilante Justice
+1 [TDM:271] Wind-Scarred Crag
+1 [LRW:281] Windbrisk Heights
+1 [M14:123] Xathrid Necromancer
+1 [BFZ:126] Zulaport Cutthroat
+SB: 1 [C20:8] Jirina Kudro
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([ELD:331],[CMM:370],[CLU:220],[FIC:339],[PW24:16],[CLU:225],[CLU:226],[C20:69],[DST:140],[SUM:274])([ONC:114],[FRF:90],[M14:7],[GRN:2],[XLN:137],[THS:2],[ISD:9],[AVR:17],[M13:88],[C20:51],[MKC:154],[GTC:12],[BOK:104],[DOM:194],[IKO:188],[FRF:104],[C20:11],[ORI:21],[TSP:27],[CMM:241],[M13:23],[AVR:33],[C20:15],[C20:47],[SOI:43],[DKA:25],[SCD:112],[THS:144],[C20:1],[DSC:108],[M14:123],[BFZ:126])([IKO:73],[CLU:65],[VOC:148],[FRF:110],[CLU:118],[IKO:28],[MOR:104],[CLU:147],[AVR:165])([ONC:60],[KTK:171],[IKO:183],[CMM:24],[ARB:46],[C20:106])([BRO:257],[TDM:250],[WWK:132],[CLU:231],[ELD:333],[TDM:255],[CON:142],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[TDC:380],[TDM:263],[CLU:241],[FIC:411],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[FIN:294],[CLU:243],[TDM:267],[ODY:326],[BFZ:247],[LRW:274],[FIN:300],[FIN:300],[FIN:300],[FIN:300],[SCG:143],[XLN:258],[TDM:271],[LRW:281])([SOI:247])([8ED:118],[GRN:4],[M19:9],[DKA:11],[BFZ:120])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C20:8])

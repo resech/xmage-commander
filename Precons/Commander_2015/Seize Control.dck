@@ -1,0 +1,77 @@
+1 [NPH:78] Act of Aggression
+1 [FDN:151] Aetherize
+1 [PZ1:18] Aethersnatch
+1 [2X2:172] Arjun, the Shifting Flame
+1 [PZ1:54] Awaken the Sky Tyrant
+1 [ONS:71] Blatant Thievery
+1 [MBS:20] Blue Sun's Zenith
+1 [RTR:30] Blustersquall
+1 [MMQ:61] Brainstorm
+1 [PZ1:20] Broodbirth Viper
+1 [EVE:98] Call the Skybreaker
+1 [WWK:74] Chain Reaction
+1 [ISD:134] Charmbreaker Devils
+1 [WWK:76] Comet Storm
+1 [ELD:333] Command Tower
+1 [RTR:153] Counterflux
+1 [ISD:139] Desperate Ravings
+1 [NEM:31] Dominate
+1 [FDN:621] Dragon Mage
+1 [DST:21] Echoing Truth
+1 [RTR:159] Epic Experiment
+1 [C17:171] Etherium-Horn Sorcerer
+1 [TDM:255] Evolving Wilds
+1 [INV:57] Fact or Fiction
+1 [DKA:87] Faithless Looting
+1 [RTR:162] Firemind's Foresight
+1 [RVR:450] Gigantoplasm
+1 [GRN:174] Goblin Electromancer
+1 [BLC:167] Illusory Ambusher
+14 [FIN:297] Island
+1 [CLU:239] Izzet Boilerworks
+1 [FDN:691] Izzet Guildgate
+1 [CLU:224] Izzet Signet
+1 [M12:59] Jace's Archivist
+1 [AVR:64] Lone Revenant
+1 [M13:140] Magmaquake
+1 [DGM:84] Melek, Izzet Paragon
+1 [CM2:114] Meteor Blast
+1 [PZ1:29] Mirror Match
+1 [RTR:101] Mizzium Mortars
+1 [FCA:41] Mizzix's Mastery
+13 [FIN:303] Mountain
+1 [CMM:108] Mystic Confluence
+1 [DKA:42] Mystic Retrieval
+1 [M11:70] Preordain
+1 [APC:116] Prophetic Bolt
+1 [MBS:126] Psychosis Crawler
+1 [STH:41] Reins of Power
+1 [M19:254] Reliquary Tower
+1 [CLU:94] Repeal
+1 [FDN:711] Rite of Replication
+1 [MKC:159] Rite of the Raging Storm
+1 [FDN:264] Rogue's Passage
+1 [RVR:266] Seal of the Guildpact
+1 [M19:74] Sleep
+1 [SUM:274] Sol Ring
+1 [LRW:274] Spinerock Knoll
+1 [THS:205] Steam Augury
+1 [AVR:78] Stolen Goods
+1 [USG:100] Stroke of Genius
+1 [TDM:268] Swiftwater Cliffs
+1 [M13:72] Talrand, Sky Summoner
+1 [SCG:143] Temple of the False God
+1 [DSK:269] Terramorphic Expanse
+1 [SHM:53] Thought Reflection
+1 [FIC:368] Thought Vessel
+1 [INV:178] Urza's Rage
+1 [RTR:111] Vandalblast
+1 [LRW:275] Vivid Crag
+1 [LRW:276] Vivid Creek
+1 [CM2:127] Warchief Giant
+1 [USG:111] Windfall
+1 [TSP:188] Word of Seizing
+1 [USG:318] Worn Powerstone
+SB: 1 [CMM:348] Mizzix of the Izmagnus
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([C17:171],[MBS:126])([CLU:224],[RVR:266],[SUM:274],[FIC:368],[USG:318])([2X2:172],[PZ1:20],[ISD:134],[FDN:621],[RVR:450],[GRN:174],[BLC:167],[M12:59],[AVR:64],[DGM:84],[M13:72],[CM2:127])([PZ1:54],[MKC:159],[SHM:53])([NPH:78],[FDN:151],[PZ1:18],[MBS:20],[RTR:30],[MMQ:61],[WWK:76],[RTR:153],[ISD:139],[NEM:31],[DST:21],[INV:57],[RTR:162],[M13:140],[PZ1:29],[CMM:108],[APC:116],[STH:41],[CLU:94],[THS:205],[USG:100],[INV:178],[TSP:188])([ELD:333],[TDM:255],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[FIN:297],[CLU:239],[FDN:691],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[FIN:303],[M19:254],[FDN:264],[LRW:274],[TDM:268],[SCG:143],[DSK:269],[LRW:275],[LRW:276])([ONS:71],[EVE:98],[WWK:74],[RTR:159],[DKA:87],[CM2:114],[RTR:101],[FCA:41],[DKA:42],[M11:70],[FDN:711],[M19:74],[AVR:78],[RTR:111],[USG:111])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMM:348])
