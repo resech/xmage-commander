@@ -1,0 +1,67 @@
+1 [DOM:42] The Antiquities War
+1 [ORI:79] Thopter Spy Network
+1 [MBS:140] Thopter Assembly
+1 [ALA:55] Sharding Sphinx
+1 [AER:33] Efficient Construction
+1 [AER:72] Sly Requisitioner
+1 [KLD:177] Contraband Kingpin
+1 [RIX:81] Pitiless Plunderer
+1 [ALA:82] Puppet Conjurer
+1 [KLD:101] Syndicate Trafficker
+1 [M15:47] Chief Engineer
+1 [AER:41] Quicksmith Spy
+1 [DOM:64] Sage of Lat-Nam
+1 [MBS:34] Treasure Mage
+1 [KLD:64] Shrewd Negotiation
+1 [SOM:40] Riddlesmith
+1 [AER:42] Reverse Engineer
+1 [ALA:41] Etherium Astrolabe
+1 [DOM:44] Artificer's Assistant
+1 [ALA:42] Etherium Sculptor
+1 [SOM:48] Trinket Mage
+1 [DST:35] Vedalken Engineer
+1 [SOM:180] Myr Battlesphere
+1 [MRD:164] Dross Scorpion
+1 [MBS:110] Ichor Wellspring
+1 [TSP:262] Prismatic Lens
+1 [NPH:145] Mycosynth Wellspring
+1 [5DN:165] Wayfarer's Bauble
+1 [MRD:141] Aether Spellbomb
+1 [MRD:216] Necrogen Spellbomb
+1 [RAV:274] Voyager Staff
+1 [EMN:201] Terrarion
+1 [M14:225] Trading Post
+1 [AER:56] Defiant Salvager
+1 [DST:122] Genesis Chamber
+1 [SOM:170] Leaden Myr
+1 [SOM:202] Silver Myr
+1 [WOE:249] Prophetic Prism
+1 [8ED:315] Star Compass
+1 [KLD:90] Marionette Master
+1 [ALA:75] Executioner's Capsule
+1 [NPH:165] Phyrexia's Core
+18 [SPM:191] Swamp
+19 [SPM:190] Island
+1 [CLU:233] Dimir Aqueduct
+1 [RNA:238] Scrabbling Claws
+1 [ALA:37] Courier's Capsule
+1 [SOM:148] Culling Dais
+1 [FDN:151] Aetherize
+1 [ARB:30] Soulquake
+1 [CMM:416] Unstable Obelisk
+1 [CN2:28] Canal Courier
+1 [GRN:177] House Guildmage
+1 [WTH:34] Argivian Restoration
+1 [KLD:241] Workshop Assistant
+1 [7ED:315] Sisay's Ring
+1 [9ED:314] Ur-Golem's Eye
+1 [KLD:200] Chief of the Foundry
+1 [M12:213] Pentavus
+1 [ORI:243] War Horn
+1 [BFZ:64] Ruination Guide
+1 [CMM:104] Loyal Drake
+1 [GRN:234] Dimir Locket
+1 [ODY:302] Millikin
+SB: 1 [DOM:203] Rona, Disciple of Gix
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([MBS:140],[ALA:55],[ALA:82],[ALA:42],[SOM:180],[MRD:164],[SOM:170],[SOM:202],[KLD:241],[KLD:200],[M12:213],[ODY:302])([ALA:41],[MBS:110],[TSP:262],[NPH:145],[5DN:165],[MRD:141],[MRD:216],[RAV:274],[EMN:201],[M14:225],[DST:122],[WOE:249],[8ED:315],[ALA:75],[RNA:238],[ALA:37],[SOM:148],[CMM:416],[7ED:315],[9ED:314],[ORI:243],[GRN:234])([AER:72],[KLD:177],[RIX:81],[KLD:101],[M15:47],[AER:41],[DOM:64],[MBS:34],[SOM:40],[DOM:44],[SOM:48],[DST:35],[AER:56],[KLD:90],[CN2:28],[GRN:177],[BFZ:64],[CMM:104])([DOM:42],[ORI:79],[AER:33])([FDN:151])([NPH:165],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[SPM:190],[CLU:233])([KLD:64],[AER:42],[ARB:30],[WTH:34])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DOM:203])

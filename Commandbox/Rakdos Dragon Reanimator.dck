@@ -1,0 +1,65 @@
+1 [ODY:302] Millikin
+1 [MRD:191] Leaden Myr
+1 [MRD:187] Iron Myr
+1 [AKH:229] Hazoret's Monument
+1 [DTK:241] Kolaghan Monument
+1 [5DN:165] Wayfarer's Bauble
+1 [C14:58] Unstable Obelisk
+1 [PC2:111] Fractured Powerstone
+1 [5DN:128] Guardian Idol
+1 [TSP:262] Prismatic Lens
+1 [RNA:237] Rakdos Locket
+1 [M12:212] Manalith
+1 [ROE:216] Dreamstone Hedron
+1 [DTK:233] Swift Warkite
+1 [FRF:155] Kolaghan, the Storm's Fury
+1 [BBD:60] Lava-Field Overlord
+1 [DTK:138] Dragonlord's Servant
+1 [SCG:55] Bladewing's Thrall
+1 [SOM:93] Hoard-Smelter Dragon
+1 [DTK:96] Deathbringer Regent
+1 [M11:144] Hoarding Dragon
+1 [DTK:214] Boltwing Marauder
+1 [ALA:68] Corpse Connoisseur
+1 [FRF:77] Noxious Dragon
+1 [M19:159] Sparktongue Dragon
+1 [LEA:174] Shivan Dragon
+1 [FRF:114] Shockmaw Dragon
+1 [GRN:106] Hellkite Whelp
+1 [RAV:131] Hunted Dragon
+1 [M13:128] Dragon Hatchling
+1 [C15:25] Dream Pillager
+1 [USG:214] Shivan Hellkite
+1 [BFZ:139] Akoum Hellkite
+1 [KLD:130] Skyship Stalker
+1 [DIS:145] Rakdos Guildmage
+1 [C14:39] Tyrant's Familiar
+1 [RTR:83] Underworld Connections
+1 [CN2:44] Marchesa's Decree
+1 [DTK:154] Sarkhan's Triumph
+1 [INV:238] Cauldron Dance
+1 [M13:140] Magmaquake
+1 [THS:102] Rescue from the Underworld
+1 [KLD:114] Fateful Showdown
+1 [DOM:83] Dark Bargain
+1 [M19:160] Spit Flame
+20 [LEA:292] Mountain
+19 [LEA:290] Swamp
+1 [DIS:178] Rakdos Carnarium
+1 [DOM:93] Final Parting
+1 [WWK:74] Chain Reaction
+1 [ODY:171] Zombify
+1 [5DN:75] Mana Geyser
+1 [FRF:69] Fearsome Awakening
+1 [KLD:109] Cathartic Reunion
+1 [RIX:109] Pirate's Pillage
+1 [DKA:104] Shattered Perception
+1 [KTK:123] Tormenting Voice
+1 [KTK:65] Bitter Revelation
+1 [PTK:67] Ambition's Cost
+1 [AKH:123] By Force
+1 [M13:157] Wild Guess
+1 [M10:109] Rise from the Grave
+SB: 1 [SCG:136] Bladewing the Risen
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([ODY:302],[MRD:191],[MRD:187])([AKH:229],[DTK:241],[5DN:165],[C14:58],[PC2:111],[5DN:128],[TSP:262],[RNA:237],[M12:212],[ROE:216])([DTK:233],[FRF:155],[BBD:60],[DTK:138],[SCG:55],[SOM:93],[DTK:96],[M11:144],[DTK:214],[ALA:68],[FRF:77],[M19:159],[LEA:174],[FRF:114],[GRN:106],[RAV:131],[M13:128],[C15:25],[USG:214],[BFZ:139],[KLD:130],[DIS:145],[C14:39])([RTR:83],[CN2:44])([DTK:154],[INV:238],[M13:140],[THS:102],[KLD:114],[DOM:83],[M19:160])([LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[DIS:178])([DOM:93],[WWK:74],[ODY:171],[5DN:75],[FRF:69],[KLD:109],[RIX:109],[DKA:104],[KTK:123],[KTK:65],[PTK:67],[AKH:123],[M13:157],[M10:109])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SCG:136])

@@ -1,0 +1,68 @@
+1 [MRD:164] Dross Scorpion
+1 [OGW:164] Hedron Crawler
+1 [MRD:191] Leaden Myr
+1 [TMP:296] Manakin
+1 [ODY:302] Millikin
+1 [SOM:180] Myr Battlesphere
+1 [MBS:116] Myr Sire
+1 [SOM:192] Perilous Myr
+1 [KLD:212] Filigree Familiar
+1 [KLD:241] Workshop Assistant
+1 [AER:150] Filigree Crawler
+1 [AER:177] Treasure Keeper
+1 [M19:241] Meteor Golem
+1 [CON:134] Armillary Sphere
+1 [DST:113] Darksteel Pendant
+1 [ZEN:202] Explorer's Scope
+1 [SOM:171] Liquimetal Coating
+1 [OGW:165] Seer's Lantern
+1 [C14:58] Unstable Obelisk
+1 [5DN:165] Wayfarer's Bauble
+1 [AKH:228] Gate to the Afterlife
+1 [THS:216] Fleetfeather Sandals
+1 [ZEN:198] Carnage Altar
+1 [THS:75] Abhorrent Overlord
+1 [DOM:84] Deathbloom Thallid
+1 [RAV:83] Dimir House Guard
+1 [AKH:87] Doomed Dissenter
+1 [ISD:100] Falkenrath Noble
+1 [M15:101] Indulgent Tormentor
+1 [ORI:104] Kothophed, Soul Hoarder
+1 [M13:98] Liliana's Shade
+1 [M11:104] Liliana's Specter
+1 [C18:16] Loyal Subordinate
+1 [KLD:90] Marionette Master
+1 [RAV:99] Netherborn Phalanx
+1 [RNA:79] Orzhov Enforcer
+1 [RIX:81] Pitiless Plunderer
+1 [ORI:112] Priest of the Blood Rite
+1 [DTK:114] Rakshasa Gravecaller
+1 [ALL:60a] Soldevi Adnate
+1 [DOM:107] Thallid Soothsayer
+1 [RNA:90] Vindictive Vampire
+1 [KLD:105] Weaponcraft Enthusiast
+1 [GPT:62] Skeletal Vampire
+1 [CON:44] Extractor Demon
+1 [AER:72] Sly Requisitioner
+1 [LRW:125] Marsh Flitter
+1 [M19:107] Liliana's Contract
+1 [CN2:44] Marchesa's Decree
+1 [BOK:73] Mark of the Oni
+1 [SOI:103] Call the Bloodline
+1 [M10:93] Doom Blade
+1 [M13:101] Murder
+1 [LEA:130] Terror
+1 [ISD:124] Victim of Night
+1 [DOM:83] Dark Bargain
+1 [ONS:312] Barren Moor
+1 [HOU:171] Desert of the Glorified
+1 [USG:323] Polluted Mire
+35 [LEA:290] Swamp
+1 [RAV:78] Brainspoil
+1 [DOM:93] Final Parting
+1 [NPH:64] Ichor Explosion
+1 [HOU:74] Razaketh's Rite
+1 [XLN:130] Walk the Plank
+SB: 1 [DOM:111] Whisper, Blood Liturgist
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([MRD:164],[OGW:164],[MRD:191],[TMP:296],[ODY:302],[SOM:180],[MBS:116],[SOM:192],[KLD:212],[KLD:241],[AER:150],[AER:177],[M19:241])([CON:134],[DST:113],[ZEN:202],[SOM:171],[OGW:165],[C14:58],[5DN:165],[AKH:228],[THS:216],[ZEN:198])([THS:75],[DOM:84],[RAV:83],[AKH:87],[ISD:100],[M15:101],[ORI:104],[M13:98],[M11:104],[C18:16],[KLD:90],[RAV:99],[RNA:79],[RIX:81],[ORI:112],[DTK:114],[ALL:60a],[DOM:107],[RNA:90],[KLD:105],[GPT:62],[CON:44],[AER:72],[LRW:125])([M19:107],[CN2:44],[BOK:73],[SOI:103])([M10:93],[M13:101],[LEA:130],[ISD:124],[DOM:83])([ONS:312],[HOU:171],[USG:323],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290])([RAV:78],[DOM:93],[NPH:64],[HOU:74],[XLN:130])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DOM:111])

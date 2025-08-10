@@ -1,0 +1,64 @@
+1 [M19:245] Skyscanner
+1 [WWK:128] Pilgrim's Eye
+1 [MRD:191] Leaden Myr
+1 [RIX:178] Gleaming Barrier
+1 [DOM:230] Skittering Surveyor
+1 [EXO:135] Mindless Automaton
+1 [SOM:192] Perilous Myr
+1 [MBS:116] Myr Sire
+1 [M14:205] Bubbling Cauldron
+1 [M19:230] Desecrated Tomb
+1 [M13:215] Ring of Xathrid
+1 [5DN:165] Wayfarer's Bauble
+1 [C14:58] Unstable Obelisk
+1 [SOM:187] Nihil Spellbomb
+1 [EMN:98] Noosegraf Mob
+1 [FRF:80] Qarsi High Priest
+1 [GPT:56] Plagued Rusalka
+1 [ISD:98] Disciple of Griselbrand
+1 [BFZ:126] Zulaport Cutthroat
+1 [FRF:85] Sultai Emissary
+1 [ALL:60a] Soldevi Adnate
+1 [RIX:70] Dusk Legion Zealot
+1 [AKH:87] Doomed Dissenter
+1 [FEM:34a] Basal Thrull
+1 [WTH:59] Abyssal Gatekeeper
+1 [ULG:49] Bone Shredder
+1 [KLD:105] Weaponcraft Enthusiast
+1 [GTC:60] Corpse Blockade
+1 [ROE:99] Cadaver Imp
+1 [MMQ:118] Bog Witch
+1 [M14:88] Bogbrew Witch
+1 [RIX:81] Pitiless Plunderer
+1 [LRW:125] Marsh Flitter
+1 [AVR:107] Harvester of Souls
+1 [ROE:122] Pawn of Ulamog
+1 [BFZ:99] Smothering Abomination
+1 [RAV:109] Thoughtpicker Witch
+1 [TMP:109] Blood Pet
+1 [OGW:77] Sifter of Skulls
+1 [ROE:98] Bloodthrone Vampire
+1 [DOM:107] Thallid Soothsayer
+1 [WWK:53] Butcher of Malakir
+1 [M15:111] Paragon of Open Graves
+1 [SOM:63] Fume Spitter
+1 [ALA:71] Deathgreeter
+1 [DTK:99] Dutiful Attendant
+1 [DOM:111] Whisper, Blood Liturgist
+1 [M14:98] Festering Newt
+1 [C18:16] Loyal Subordinate
+1 [M19:112] Open the Graves
+1 [RTR:83] Underworld Connections
+1 [BFZ:124] Vampiric Rites
+1 [VIS:56] Dark Privilege
+1 [CN2:44] Marchesa's Decree
+1 [DKA:76] Tragic Slip
+39 [LEA:290] Swamp
+1 [ALA:67] Bone Splinters
+1 [P02:62] Ancient Craving
+1 [PTK:67] Ambition's Cost
+1 [ORI:105] Languish
+1 [JOU:68] Extinguish All Hope
+SB: 1 [BOK:81] Shirei, Shizo's Caretaker
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([M19:245],[WWK:128],[MRD:191],[RIX:178],[DOM:230],[EXO:135],[SOM:192],[MBS:116])([M14:205],[M19:230],[M13:215],[5DN:165],[C14:58],[SOM:187])([EMN:98],[FRF:80],[GPT:56],[ISD:98],[BFZ:126],[FRF:85],[ALL:60a],[RIX:70],[AKH:87],[FEM:34a],[WTH:59],[ULG:49],[KLD:105],[GTC:60],[ROE:99],[MMQ:118],[M14:88],[RIX:81],[LRW:125],[AVR:107],[ROE:122],[BFZ:99],[RAV:109],[TMP:109],[OGW:77],[ROE:98],[DOM:107],[WWK:53],[M15:111],[SOM:63],[ALA:71],[DTK:99],[DOM:111],[M14:98],[C18:16])([M19:112],[RTR:83],[BFZ:124],[VIS:56],[CN2:44])([DKA:76])([LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290])([ALA:67],[P02:62],[PTK:67],[ORI:105],[JOU:68])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BOK:81])

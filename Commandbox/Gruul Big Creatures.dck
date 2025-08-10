@@ -1,0 +1,66 @@
+1 [WWK:131] Walking Atlas
+1 [MRD:187] Iron Myr
+1 [MRD:158] Copper Myr
+1 [5DN:165] Wayfarer's Bauble
+1 [C14:58] Unstable Obelisk
+1 [RNA:234] Gruul Locket
+1 [GTC:170] Gruul Ragebeast
+1 [DTK:231] Savage Ventmaw
+1 [M11:177] Garruk's Packleader
+1 [HOU:87] Chaos Maw
+1 [SCG:119] Fierce Empath
+1 [POR:195] Wood Elves
+1 [C18:31] Loyal Guardian
+1 [M12:176] Garruk's Horde
+1 [WWK:95] Arbor Elf
+1 [DKA:111] Dawntreader Elk
+1 [CON:98] Apocalypse Hydra
+1 [TSP:235] Yavimaya Dryad
+1 [ROE:2] Artisan of Kozilek
+1 [THS:182] Voyaging Satyr
+1 [GTC:196] Skarrg Guildmage
+1 [M15:194] Reclamation Sage
+1 [FRF:119] Abzan Beastmaster
+1 [ALA:129] Drumhunter
+1 [FRF:104] Humble Defector
+1 [ROE:204] Pelakka Wurm
+1 [AKH:186] Shefet Monitor
+1 [RNA:94] Burning-Tree Vandal
+1 [RNA:210] Sunder Shaman
+1 [FRF:114] Shockmaw Dragon
+1 [TMP:263] Verdant Force
+1 [DGM:99] Ruric Thar, the Unbowed
+1 [THS:121] Fanatic of Mogis
+1 [JUD:107] Brawn
+1 [M19:178] Dryad Greenseeker
+1 [GTC:95] Hellraiser Goblin
+1 [AKH:201] Khenra Charioteer
+1 [M10:165] Acidic Slime
+1 [ONS:257] Elvish Pioneer
+1 [DOM:170] Llanowar Scout
+1 [GRN:121] Affectionate Indrik
+1 [BFZ:3] Breaker of Armies
+1 [ROE:13] Ulamog's Crusher
+1 [BBD:60] Lava-Field Overlord
+1 [GTC:133] Skarrg Goliath
+1 [MRD:136] Trolls of Tel-Jilad
+1 [APC:55] Bloodfire Colossus
+1 [DGM:120] Zhur-Taa Druid
+1 [CN2:50] Crown-Hunter Hireling
+1 [JOU:92] Cyclops of Eternal Fury
+1 [SCG:126] Primitive Etchings
+1 [M19:173] Colossal Majesty
+1 [THS:184] Warriors' Lesson
+1 [TMP:230] Harrow
+1 [GTC:223] Pit Fight
+20 [LEA:294] Forest
+18 [LEA:292] Mountain
+1 [GPT:158] Gruul Turf
+1 [BNG:124] Hunter's Prowess
+1 [MIR:280] Savage Twister
+1 [MIR:235] Rampant Growth
+1 [DOM:157] Broken Bond
+1 [TSP:216] Search for Tomorrow
+SB: 1 [RNA:193] Nikya of the Old Ways
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([WWK:131],[MRD:187],[MRD:158])([5DN:165],[C14:58],[RNA:234])([GTC:170],[DTK:231],[M11:177],[HOU:87],[SCG:119],[POR:195],[C18:31],[M12:176],[WWK:95],[DKA:111],[CON:98],[TSP:235],[ROE:2],[THS:182],[GTC:196],[M15:194],[FRF:119],[ALA:129],[FRF:104],[ROE:204],[AKH:186],[RNA:94],[RNA:210],[FRF:114],[TMP:263],[DGM:99],[THS:121],[JUD:107],[M19:178],[GTC:95],[AKH:201],[M10:165],[ONS:257],[DOM:170],[GRN:121],[BFZ:3],[ROE:13],[BBD:60],[GTC:133],[MRD:136],[APC:55],[DGM:120],[CN2:50])([JOU:92])([SCG:126],[M19:173])([THS:184],[TMP:230],[GTC:223])([LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[GPT:158])([BNG:124],[MIR:280],[MIR:235],[DOM:157],[TSP:216])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([RNA:193])

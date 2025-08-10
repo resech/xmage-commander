@@ -1,0 +1,85 @@
+1 [DOM:220] Jhoira's Familiar
+1 [C18:90] Etherium Sculptor
+1 [KLD:215] Foundry Inspector
+1 [M19:69] Sai, Master Thopterist
+1 [KLD:247] Inventors' Fair
+1 [C18:278] Seat of the Synod
+1 [C18:250] Great Furnace
+1 [C18:241] Darksteel Citadel
+1 [DST:109] Darksteel Colossus
+1 [M14:206] Darksteel Forge
+1 [C18:202] Darksteel Juggernaut
+1 [C17:207] Darksteel Ingot
+1 [M10:220] Spellbook
+1 [C18:222] Sol Ring
+1 [C18:210] Mind Stone
+1 [RIX:173] Storm the Vault
+1 [C15:55] Thought Vessel
+1 [AER:175] Scrap Trawler
+1 [KLD:59] Padeem, Consul of Innovation
+1 [C16:264] Myr Retriever
+1 [BFZ:205] Herald of Kozilek
+1 [KLD:126] Reckless Fireweaver
+1 [C16:273] Solemn Simulacrum
+1 [KLD:222] Metalwork Colossus
+1 [MRD:55] Vedalken Archmage
+1 [C14:244] Junk Diver
+1 [C18:212] Myr Battlesphere
+1 [C14:283] Wurmcoil Engine
+1 [DOM:234] Traxos, Scourge of Kroog
+1 [C16:128] Hellkite Tyrant
+1 [MM2:64] Thoughtcast
+1 [M19:66] One with the Machine
+1 [C18:207] Izzet Signet
+1 [C18:228] Unwinding Clock
+1 [C18:200] Commander's Sphere
+1 [C16:258] Ichor Wellspring
+1 [C18:230] Worn Powerstone
+1 [AER:33] Efficient Construction
+1 [C18:107] Thopter Spy Network
+1 [AER:38] Mechanized Production
+1 [M19:79] Tezzeret, Artifice Master
+1 [C18:44] Saheeli, the Gifted
+1 [C18:240] Command Tower
+1 [M19:254] Reliquary Tower
+1 [DOM:247] Sulfur Falls
+1 [GRN:257] Steam Vents
+1 [C18:285] Temple of the False God
+1 [VMA:324] Volcanic Island
+5 [BFZ:255a] Island
+3 [BFZ:255a] Island
+3 [BFZ:255a] Island
+2 [BFZ:255a] Island
+3 [BFZ:265a] Mountain
+5 [BFZ:265a] Mountain
+1 [BFZ:265a] Mountain
+3 [BFZ:265a] Mountain
+1 [BFZ:265a] Mountain
+1 [SOK:91] Adamaro, First to Desire
+1 [FUT:159] Akroma's Memorial
+1 [ORI:221] Alhammarret's Archive
+1 [C15:86] Bident of Thassa
+1 [IMA:62] Jin-Gitaxias, Core Augur
+1 [HML:77] Joven
+1 [MBS:99] Blightsteel Colossus
+1 [C16:130] Kazuul, Tyrant of the Cliffs
+1 [MMA:49] Kira, Great Glass-Spinner
+1 [C13:49] Lu Xun, Scholar General
+1 [RIX:45] Nezahal, Primal Tide
+1 [GRN:192] Niv-Mizzet, Parun
+1 [EMA:145] Rorix Bladewing
+1 [RIX:180] The Immortal Sun
+1 [DOM:233] Thran Temporal Gateway
+1 [AKH:237] Throne of the God-Pharaoh
+1 [IMA:152] Urabrask the Hidden
+1 [C18:53] Ancient Stone Idol
+1 [C18:91] Inkwell Leviathan
+1 [UMA:233] Platinum Emperion
+1 [C16:94] Propaganda
+1 [IMA:47] Consecrated Sphinx
+1 [C16:85] Chasm Skulker
+1 [M19:65] Omniscience
+1 [C15:171] Warstorm Surge
+SB: 1 [DOM:197] Jhoira, Weatherlight Captain
+LAYOUT MAIN:(2,13)(CMC,true,50)|()()([C18:90],[C16:264],[KLD:126])([KLD:215],[M19:69],[AER:175],[BFZ:205],[C14:244],[SOK:91],[MMA:49],[C16:85])([DOM:220],[KLD:59],[C16:273],[MRD:55],[DOM:234],[C13:49])([C18:202],[HML:77],[C16:130],[IMA:152])([C14:283],[C16:128],[GRN:192],[EMA:145],[IMA:47])([C18:212],[RIX:45])([UMA:233])([C18:91])([IMA:62],[C18:53])([DST:109],[KLD:222])([MBS:99])([KLD:247],[C18:278],[C18:250],[C18:241],[M10:220],[C18:240],[M19:254],[DOM:247],[GRN:257],[C18:285],[VMA:324],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:265a],[BFZ:265a],[BFZ:265a],[BFZ:265a],[BFZ:265a],[BFZ:265a],[BFZ:265a],[BFZ:265a],[BFZ:265a],[BFZ:265a],[BFZ:265a],[BFZ:265a],[BFZ:265a])([C18:222])([C18:210],[C15:55],[C18:207],[C16:258],[AKH:237])([C17:207],[C18:200],[C18:230],[C16:94])([RIX:173],[M19:66],[C18:228],[AER:33],[C18:107],[AER:38],[C18:44],[C15:86],[DOM:233])([MM2:64],[M19:79],[ORI:221])([RIX:180],[C15:171])([FUT:159])()([M14:206])([M19:65])()()
+LAYOUT SIDEBOARD:(1,1)(CMC,true,50)|([DOM:197])

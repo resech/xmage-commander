@@ -1,0 +1,66 @@
+1 [MRD:187] Iron Myr
+1 [MRD:241] Silver Myr
+1 [5DN:165] Wayfarer's Bauble
+1 [C14:58] Unstable Obelisk
+1 [GRN:238] Izzet Locket
+1 [PLS:134] Star Compass
+1 [TSP:262] Prismatic Lens
+1 [ROE:225] Sphinx-Bone Wand
+1 [DST:155] Ur-Golem's Eye
+1 [VIS:154] Sisay's Ring
+1 [C18:10] Loyal Drake
+1 [GPT:145] Izzet Guildmage
+1 [M13:72] Talrand, Sky Summoner
+1 [GRN:45] Murmuring Mystic
+1 [GRN:155] Beamsplitter Mage
+1 [BFZ:162] Zada, Hedron Grinder
+1 [THS:69] Triton Fortune Hunter
+1 [RTR:98] Guttersnipe
+1 [DGM:84] Melek, Izzet Paragon
+1 [THS:59] Prescient Chimera
+1 [SOI:174] Pyre Hound
+1 [EMN:149] Weaver of Lightning
+1 [HOU:138] Bloodwater Entity
+1 [DDJ:3] Goblin Electromancer
+1 [PLC:40] Dreamscape Artist
+1 [EMN:54] Curious Homunculus
+1 [THS:204] Spellheart Chimera
+1 [M14:163] Young Pyromancer
+1 [CN2:28] Canal Courier
+1 [AKH:198] Enigma Drake
+1 [M14:148] Ogre Battledriver
+1 [ORI:75] Soulblade Djinn
+1 [SOI:93] Trail of Evidence
+1 [DOM:61] Precognition Field
+1 [ROE:67] Fleeting Distraction
+1 [GRN:52] Radical Idea
+1 [OGW:108] Expedite
+1 [TOR:90] Accelerate
+1 [STH:35] Leap
+1 [SOM:50] Twisted Image
+1 [RAV:62] Quickchange
+1 [TSP:86] Think Twice
+1 [VIS:34] Impulse
+1 [MOR:43] Negate
+1 [M10:51] Essence Scatter
+1 [ULG:32] Frantic Search
+1 [GTC:29] Aetherize
+1 [FRF:47] Refocus
+1 [TMP:207] Stun
+1 [CHK:78] Peer Through Depths
+1 [CNS:25] Split Decision
+1 [DTK:45] Anticipate
+1 [DST:70] Tears of Rage
+1 [ZEN:67] Spell Pierce
+1 [MOR:52] Stream of Unconsciousness
+1 [GPT:159] Izzet Boilerworks
+20 [LEA:288] Island
+18 [LEA:292] Mountain
+1 [KLD:127] Renegade Tactics
+1 [DKA:42] Mystic Retrieval
+1 [SOI:83] Rise from the Tides
+1 [TOR:36] Deep Analysis
+1 [WWK:74] Chain Reaction
+SB: 1 [OGW:155] Jori En, Ruin Diver
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([MRD:187],[MRD:241])([5DN:165],[C14:58],[GRN:238],[PLS:134],[TSP:262],[ROE:225],[DST:155],[VIS:154])([C18:10],[GPT:145],[M13:72],[GRN:45],[GRN:155],[BFZ:162],[THS:69],[RTR:98],[DGM:84],[THS:59],[SOI:174],[EMN:149],[HOU:138],[DDJ:3],[PLC:40],[EMN:54],[THS:204],[M14:163],[CN2:28],[AKH:198],[M14:148],[ORI:75])([SOI:93],[DOM:61])([ROE:67],[GRN:52],[OGW:108],[TOR:90],[STH:35],[SOM:50],[RAV:62],[TSP:86],[VIS:34],[MOR:43],[M10:51],[ULG:32],[GTC:29],[FRF:47],[TMP:207],[CHK:78],[CNS:25],[DTK:45],[DST:70],[ZEN:67])([MOR:52])([GPT:159],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292])([KLD:127],[DKA:42],[SOI:83],[TOR:36],[WWK:74])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([OGW:155])

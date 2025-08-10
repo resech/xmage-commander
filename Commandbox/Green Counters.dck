@@ -1,0 +1,65 @@
+1 [MRD:158] Copper Myr
+1 [5DN:165] Wayfarer's Bauble
+1 [MRD:197] Lifespark Spellbomb
+1 [C14:58] Unstable Obelisk
+1 [M15:190] Paragon of Eternal Wilds
+1 [KLD:144] Armorcraft Judge
+1 [AER:121] Ridgescale Tusker
+1 [GTC:125] Ivy Lane Denizen
+1 [MOR:122] Fertilid
+1 [M15:194] Reclamation Sage
+1 [KLD:151] Cultivator of Blades
+1 [AER:124] Scrounging Bandar
+1 [ALA:130] Elvish Visionary
+1 [DIS:81] Cytoplast Root-Kin
+1 [DIS:94] Sporeback Troll
+1 [DGM:47] Renegade Krasis
+1 [POR:195] Wood Elves
+1 [M19:180] Elvish Rejuvenator
+1 [BBD:70] Generous Patron
+1 [THS:160] Karametra's Acolyte
+1 [DTK:172] Ainok Survivalist
+1 [KTK:140] Longshot Squad
+1 [KTK:156] Tuskguard Captain
+1 [C18:31] Loyal Guardian
+1 [CN2:63] Domesticated Hydra
+1 [ALA:131] Feral Hydra
+1 [JOU:126] Heroes' Bane
+1 [BNG:129] Nessian Wilds Ravager
+1 [ODY:245] Ivy Elemental
+1 [CN2:64] Entourage of Trest
+1 [M11:177] Garruk's Packleader
+1 [RNA:148] Trollbred Guardian
+1 [GRN:121] Affectionate Indrik
+1 [M12:181] Jade Mage
+1 [SOM:111] Bellowing Tanglewurm
+1 [JUD:107] Brawn
+1 [DIS:80] Aquastrand Spider
+1 [CN2:72] Splitting Slime
+1 [KLD:153] Durable Handicraft
+1 [DDP:21] Retreat to Kazandu
+1 [ONS:276] Overwhelming Instinct
+1 [APC:88] Symbiotic Deployment
+1 [DTK:191] Inspiring Call
+1 [WWK:108] Nature's Claim
+1 [THS:184] Warriors' Lesson
+1 [M12:180] Hunter's Insight
+1 [CMD:175] Tribute to the Wild
+1 [WTH:145] Vitalize
+1 [MOR:118] Deglamer
+1 [AER:114] Lifecrafter's Gift
+1 [FUT:141] Wrap in Vigor
+1 [LRW:228] Lignify
+38 [LEA:294] Forest
+1 [PCY:129] Thrive
+1 [BBD:68] The Crowd Goes Wild
+1 [FRF:134] Map the Wastes
+1 [LEA:200] Hurricane
+1 [AER:116] Monstrous Onslaught
+1 [ARN:46] Desert Twister
+1 [TMP:243] Overrun
+1 [RAV:175] Overwhelm
+1 [RTR:135] Slime Molding
+SB: 1 [AER:122] Rishkar, Peema Renegade
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([MRD:158])([5DN:165],[MRD:197],[C14:58])([M15:190],[KLD:144],[AER:121],[GTC:125],[MOR:122],[M15:194],[KLD:151],[AER:124],[ALA:130],[DIS:81],[DIS:94],[DGM:47],[POR:195],[M19:180],[BBD:70],[THS:160],[DTK:172],[KTK:140],[KTK:156],[C18:31],[CN2:63],[ALA:131],[JOU:126],[BNG:129],[ODY:245],[CN2:64],[M11:177],[RNA:148],[GRN:121],[M12:181],[SOM:111],[JUD:107],[DIS:80],[CN2:72])([KLD:153],[DDP:21],[ONS:276],[APC:88])([DTK:191],[WWK:108],[THS:184],[M12:180],[CMD:175],[WTH:145],[MOR:118],[AER:114],[FUT:141])([LRW:228])([LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294])([PCY:129],[BBD:68],[FRF:134],[LEA:200],[AER:116],[ARN:46],[TMP:243],[RAV:175],[RTR:135])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([AER:122])

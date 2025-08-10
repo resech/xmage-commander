@@ -1,0 +1,64 @@
+1 [MRD:180] Gold Myr
+1 [TMP:296] Manakin
+1 [DOM:218] Howling Golem
+1 [OGW:164] Hedron Crawler
+1 [SOM:189] Origin Spellbomb
+1 [MRD:203] Mask of Memory
+1 [M15:227] Rogue's Gloves
+1 [5DN:165] Wayfarer's Bauble
+1 [HOU:166] Sunset Pyramid
+1 [MIR:310] Marble Diamond
+1 [WWK:130] Seer's Sundial
+1 [M19:227] Arcane Encyclopedia
+1 [C14:58] Unstable Obelisk
+1 [M15:212] Avarice Amulet
+1 [ZEN:202] Explorer's Scope
+1 [ISD:21] Mentor of the Meek
+1 [SOI:8] Bygone Bishop
+1 [ZEN:18] Kor Cartographer
+1 [TSP:7] Celestial Crusader
+1 [M15:23] Paragon of New Dawns
+1 [ORI:11] Consul's Lieutenant
+1 [THS:11] Evangel of Heliod
+1 [MBS:1] Accorder Paladin
+1 [ISD:15] Fiend Hunter
+1 [M14:7] Banisher Priest
+1 [C18:4] Loyal Unicorn
+1 [M11:38] War Priest of Thune
+1 [EXO:20] Soltari Visionary
+1 [EVE:12] Patrol Signaler
+1 [PTK:9] Kongming, "Sleeping Dragon"
+1 [AVR:1] Angel of Glory's Rise
+1 [DDL:4] Cavalry Pegasus
+1 [EMN:18] Courageous Outrider
+1 [AVR:17] Devout Chaplain
+1 [ONS:45] Nova Cleric
+1 [GRN:13] Haazda Marshal
+1 [MBS:12] Loxodon Partisan
+1 [LRW:10] Cloudgoat Ranger
+1 [TSP:23] Icatian Crier
+1 [CNS:17] Custodi Soulbinders
+1 [GRN:16] Inspiring Unicorn
+1 [MOR:25] Stonybrook Schoolmaster
+1 [AVR:22] Goldnight Commander
+1 [MBS:18] Victory's Herald
+1 [CN2:21] Protector of the Crown
+1 [TSP:6] Cavalry Master
+1 [JUD:32] Valor
+1 [ROE:28] Kabira Vindicator
+1 [JOU:8] Dictate of Heliod
+1 [BFZ:44] Retreat to Emeria
+1 [M14:26] Path of Bravery
+1 [ORI:39] Valor in Akros
+1 [ONS:55] Sigil of the New Dawn
+1 [GRN:7] Crush Contraband
+1 [ZEN:4] Brave the Elements
+1 [RTR:19] Rootborn Defenses
+1 [ISD:34] Spare from Evil
+1 [OGW:26] Make a Stand
+1 [SOK:4] Charge Across the Araba
+39 [LEA:286] Plains
+1 [ONS:2] Akroma's Vengeance
+SB: 1 [ODY:39] Pianna, Nomad Captain
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([MRD:180],[TMP:296],[DOM:218],[OGW:164])([SOM:189],[MRD:203],[M15:227],[5DN:165],[HOU:166],[MIR:310],[WWK:130],[M19:227],[C14:58],[M15:212],[ZEN:202])([ISD:21],[SOI:8],[ZEN:18],[TSP:7],[M15:23],[ORI:11],[THS:11],[MBS:1],[ISD:15],[M14:7],[C18:4],[M11:38],[EXO:20],[EVE:12],[PTK:9],[AVR:1],[DDL:4],[EMN:18],[AVR:17],[ONS:45],[GRN:13],[MBS:12],[LRW:10],[TSP:23],[CNS:17],[GRN:16],[MOR:25],[AVR:22],[MBS:18],[CN2:21],[TSP:6],[JUD:32],[ROE:28])([JOU:8],[BFZ:44],[M14:26],[ORI:39],[ONS:55])([GRN:7],[ZEN:4],[RTR:19],[ISD:34],[OGW:26],[SOK:4])([LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286])([ONS:2])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ODY:39])

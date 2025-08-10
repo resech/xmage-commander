@@ -1,0 +1,65 @@
+1 [MRD:180] Gold Myr
+1 [MRD:191] Leaden Myr
+1 [USG:292] Crystal Chimes
+1 [DGM:142] Orzhov Cluestone
+1 [5DN:165] Wayfarer's Bauble
+1 [ROE:216] Dreamstone Hedron
+1 [VIS:154] Sisay's Ring
+1 [DST:155] Ur-Golem's Eye
+1 [M12:212] Manalith
+1 [RNA:236] Orzhov Locket
+1 [C14:58] Unstable Obelisk
+1 [M14:2] Ajani's Chosen
+1 [RNA:211] Syndicate Guildmage
+1 [DIS:7] Celestial Ancient
+1 [PLC:26] Mesa Enchantress
+1 [BNG:26] Silent Sentinel
+1 [M14:86] Blightcaster
+1 [M15:14] Heliod's Pilgrim
+1 [ODY:5] Auramancer
+1 [USG:20] Monk Idealist
+1 [ZEN:18] Kor Cartographer
+1 [C18:4] Loyal Unicorn
+1 [JOU:66] Doomwake Giant
+1 [JOU:85] Thoughtrender Lamia
+1 [JOU:59] Agent of Erebos
+1 [CON:18] Sigil of the Empty Throne
+1 [CN2:44] Marchesa's Decree
+1 [JOU:5] Banishing Light
+1 [RTR:83] Underworld Connections
+1 [AKH:8] Cast Out
+1 [ISD:19] Intangible Virtue
+1 [STH:5] Conviction
+1 [AER:11] Consulate Crackdown
+1 [AER:129] Hidden Stockpile
+1 [UDS:4] Capashen Standard
+1 [BFZ:19] Angelic Gift
+1 [THS:5] Chosen by Heliod
+1 [TSP:33] Pentarch Ward
+1 [FRF:23] Sage's Reverie
+1 [THS:105] Scourgemark
+1 [JUD:31] Unquestioned Authority
+1 [BFZ:124] Vampiric Rites
+1 [SOI:100] Behind the Scenes
+1 [CMD:32] Soul Snare
+1 [NEM:70] Seal of Doom
+1 [NEM:18] Seal of Cleansing
+1 [NEM:8] Fanatical Devotion
+1 [TSP:109] Fallen Ideal
+1 [CN2:42] Deadly Designs
+1 [USG:129] Despondency
+1 [VIS:6] Gossamer Chains
+1 [BFZ:44] Retreat to Emeria
+1 [GTC:185] Orzhov Charm
+19 [LEA:286] Plains
+1 [GPT:161] Orzhov Basilica
+20 [LEA:290] Swamp
+1 [JOU:68] Extinguish All Hope
+1 [ODY:129] Diabolic Tutor
+1 [SHM:13] Mine Excavation
+1 [P02:62] Ancient Craving
+1 [PTK:67] Ambition's Cost
+1 [NPH:64] Ichor Explosion
+SB: 1 [PZ1:98] Daxos the Returned
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([MRD:180],[MRD:191])([USG:292],[DGM:142],[5DN:165],[ROE:216],[VIS:154],[DST:155],[M12:212],[RNA:236],[C14:58])([M14:2],[RNA:211],[DIS:7],[PLC:26],[BNG:26],[M14:86],[M15:14],[ODY:5],[USG:20],[ZEN:18],[C18:4])([JOU:66],[JOU:85],[JOU:59])([CON:18],[CN2:44],[JOU:5],[RTR:83],[AKH:8],[ISD:19],[STH:5],[AER:11],[AER:129],[UDS:4],[BFZ:19],[THS:5],[TSP:33],[FRF:23],[THS:105],[JUD:31],[BFZ:124],[SOI:100],[CMD:32],[NEM:70],[NEM:18],[NEM:8],[TSP:109],[CN2:42],[USG:129],[VIS:6],[BFZ:44])([GTC:185])([LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[GPT:161],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290])([JOU:68],[ODY:129],[SHM:13],[P02:62],[PTK:67],[NPH:64])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PZ1:98])

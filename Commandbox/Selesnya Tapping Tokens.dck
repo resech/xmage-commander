@@ -1,0 +1,67 @@
+1 [MRD:158] Copper Myr
+1 [MRD:180] Gold Myr
+1 [DOM:218] Howling Golem
+1 [TMP:304] Puppet Strings
+1 [RAV:270] Selesnya Signet
+1 [KTK:219] Dragon Throne of Tarkir
+1 [MRD:203] Mask of Memory
+1 [GRN:240] Selesnya Locket
+1 [C14:58] Unstable Obelisk
+1 [5DN:165] Wayfarer's Bauble
+1 [EVE:12] Patrol Signaler
+1 [UDS:8] Field Surgeon
+1 [SOI:216] Loam Dryad
+1 [RAV:228] Selesnya Evangel
+1 [MOR:25] Stonybrook Schoolmaster
+1 [SOM:116] Copperhorn Scout
+1 [DIS:3] Beacon Hawk
+1 [HOU:7] Dauntless Aven
+1 [TMP:254] Seeker of Skybreak
+1 [ISD:21] Mentor of the Meek
+1 [LEA:210] Llanowar Elves
+1 [M14:169] Elvish Mystic
+1 [ISD:170] Avacyn's Pilgrim
+1 [AER:122] Rishkar, Peema Renegade
+1 [AVR:22] Goldnight Commander
+1 [CSP:130] Juniper Order Ranger
+1 [ARB:77] Sigil Captain
+1 [AKH:194] Ahn-Crop Champion
+1 [GRN:186] Ledev Champion
+1 [KLD:151] Cultivator of Blades
+1 [WWK:95] Arbor Elf
+1 [CN2:64] Entourage of Trest
+1 [GRN:16] Inspiring Unicorn
+1 [C18:31] Loyal Guardian
+1 [BFZ:46] Serene Steward
+1 [RAV:252] Selesnya Guildmage
+1 [M12:181] Jade Mage
+1 [RAV:207] Glare of Subdual
+1 [APC:88] Symbiotic Deployment
+1 [APC:7] Diversionary Tactics
+1 [BNG:125] Karametra's Favor
+1 [PLS:84] Multani's Harmony
+1 [SHM:125] Presence of Gond
+1 [PLC:142] Utopia Vow
+1 [ONS:276] Overwhelming Instinct
+1 [JOU:8] Dictate of Heliod
+1 [RTR:19] Rootborn Defenses
+1 [RTR:223] Sundering Growth
+1 [GRN:7] Crush Contraband
+1 [WTH:145] Vitalize
+1 [THS:184] Warriors' Lesson
+1 [ISD:201] Ranger's Guile
+1 [THS:16] Gods Willing
+1 [M11:164] Back to Nature
+1 [OGW:172] Holdout Settlement
+1 [HOU:184] Survivors' Encampment
+20 [LEA:294] Forest
+17 [LEA:286] Plains
+1 [RAV:281] Selesnya Sanctuary
+1 [M15:188] Nissa's Expedition
+1 [GRN:157] Camaraderie
+1 [MMQ:236] Collective Unconscious
+1 [TMP:243] Overrun
+1 [MBS:15] Phyrexian Rebirth
+SB: 1 [GRN:168] Emmara, Soul of the Accord
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([MRD:158],[MRD:180],[DOM:218])([TMP:304],[RAV:270],[KTK:219],[MRD:203],[GRN:240],[C14:58],[5DN:165])([EVE:12],[UDS:8],[SOI:216],[RAV:228],[MOR:25],[SOM:116],[DIS:3],[HOU:7],[TMP:254],[ISD:21],[LEA:210],[M14:169],[ISD:170],[AER:122],[AVR:22],[CSP:130],[ARB:77],[AKH:194],[GRN:186],[KLD:151],[WWK:95],[CN2:64],[GRN:16],[C18:31],[BFZ:46],[RAV:252],[M12:181])([RAV:207],[APC:88],[APC:7],[BNG:125],[PLS:84],[SHM:125],[PLC:142],[ONS:276],[JOU:8])([RTR:19],[RTR:223],[GRN:7],[WTH:145],[THS:184],[ISD:201],[THS:16],[M11:164])([OGW:172],[HOU:184],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[RAV:281])([M15:188],[GRN:157],[MMQ:236],[TMP:243],[MBS:15])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([GRN:168])

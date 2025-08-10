@@ -1,0 +1,64 @@
+1 [MRD:191] Leaden Myr
+1 [ODY:302] Millikin
+1 [TMP:296] Manakin
+1 [OGW:164] Hedron Crawler
+1 [M19:241] Meteor Golem
+1 [FUT:163] Sliversmith
+1 [MRD:164] Dross Scorpion
+1 [SOM:180] Myr Battlesphere
+1 [C14:58] Unstable Obelisk
+1 [5DN:165] Wayfarer's Bauble
+1 [SOM:207] Strider Harness
+1 [SOI:257] Haunted Cloak
+1 [TMP:304] Puppet Strings
+1 [M13:215] Ring of Xathrid
+1 [CNS:27] Drakestown Forgotten
+1 [MMQ:118] Bog Witch
+1 [GRN:74] Lotleth Giant
+1 [C18:16] Loyal Subordinate
+1 [RIX:70] Dusk Legion Zealot
+1 [APC:49] Phyrexian Rager
+1 [DTK:126] Vulturous Aven
+1 [HML:56] Sengir Autocrat
+1 [LRW:125] Marsh Flitter
+1 [ALL:60a] Soldevi Adnate
+1 [KLD:105] Weaponcraft Enthusiast
+1 [FUT:77] Skirk Ridge Exhumer
+1 [CON:51] Rotting Rats
+1 [ALA:68] Corpse Connoisseur
+1 [ROE:122] Pawn of Ulamog
+1 [OGW:77] Sifter of Skulls
+1 [BFZ:99] Smothering Abomination
+1 [RIX:81] Pitiless Plunderer
+1 [ROE:108] Dread Drone
+1 [CON:44] Extractor Demon
+1 [EMN:98] Noosegraf Mob
+1 [BNG:66] Eater of Hope
+1 [ROE:2] Artisan of Kozilek
+1 [APC:48] Phyrexian Gargantua
+1 [GTC:82] Undercity Informer
+1 [AKH:100] Miasmic Mummy
+1 [BFZ:106] Carrier Thrall
+1 [AKH:87] Doomed Dissenter
+1 [RNA:79] Orzhov Enforcer
+1 [VIS:66] Nekrataal
+1 [RNA:90] Vindictive Vampire
+1 [ISD:100] Falkenrath Noble
+1 [ROE:13] Ulamog's Crusher
+1 [CN2:44] Marchesa's Decree
+1 [SOI:103] Call the Bloodline
+1 [DOM:83] Dark Bargain
+1 [TMP:152] Reckless Spite
+39 [LEA:290] Swamp
+1 [KTK:65] Bitter Revelation
+1 [JOU:68] Extinguish All Hope
+1 [THS:101] Read the Bones
+1 [PTK:67] Ambition's Cost
+1 [P02:62] Ancient Craving
+1 [DOM:93] Final Parting
+1 [BNG:81] Sanguimancy
+1 [NPH:64] Ichor Explosion
+1 [ODY:171] Zombify
+SB: 1 [DOM:111] Whisper, Blood Liturgist
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([MRD:191],[ODY:302],[TMP:296],[OGW:164],[M19:241],[FUT:163],[MRD:164],[SOM:180])([C14:58],[5DN:165],[SOM:207],[SOI:257],[TMP:304],[M13:215])([CNS:27],[MMQ:118],[GRN:74],[C18:16],[RIX:70],[APC:49],[DTK:126],[HML:56],[LRW:125],[ALL:60a],[KLD:105],[FUT:77],[CON:51],[ALA:68],[ROE:122],[OGW:77],[BFZ:99],[RIX:81],[ROE:108],[CON:44],[EMN:98],[BNG:66],[ROE:2],[APC:48],[GTC:82],[AKH:100],[BFZ:106],[AKH:87],[RNA:79],[VIS:66],[RNA:90],[ISD:100],[ROE:13])([CN2:44],[SOI:103])([DOM:83],[TMP:152])([LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290],[LEA:290])([KTK:65],[JOU:68],[THS:101],[PTK:67],[P02:62],[DOM:93],[BNG:81],[NPH:64],[ODY:171])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DOM:111])

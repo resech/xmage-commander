@@ -1,0 +1,66 @@
+1 [MRD:241] Silver Myr
+1 [MRD:180] Gold Myr
+1 [C14:58] Unstable Obelisk
+1 [LEA:245] Glasses of Urza
+1 [RNA:231] Azorius Locket
+1 [MRD:171] Fireshrieker
+1 [ROE:216] Dreamstone Hedron
+1 [VIS:154] Sisay's Ring
+1 [DST:155] Ur-Golem's Eye
+1 [PC2:111] Fractured Powerstone
+1 [5DN:128] Guardian Idol
+1 [TSP:262] Prismatic Lens
+1 [5DN:165] Wayfarer's Bauble
+1 [DGM:136] Azorius Cluestone
+1 [PLS:134] Star Compass
+1 [ORI:218] Thunderclap Wyvern
+1 [M14:81] Windreader Sphinx
+1 [RNA:204] Senate Guildmage
+1 [CN2:28] Canal Courier
+1 [M14:79] Warden of Evos Isle
+1 [NEM:50] Wandering Eye
+1 [KLD:176] Cloudblazer
+1 [M12:76] Sphinx of Uthuun
+1 [M15:67] Master of Predicaments
+1 [TSP:81] Sprite Noble
+1 [THS:60] Prognostic Sphinx
+1 [M11:74] Stormtide Leviathan
+1 [LRW:48] Wispmare
+1 [AKH:41] Angler Drake
+1 [GPT:2] Belfry Spirit
+1 [TSP:10] Cloudchaser Kestrel
+1 [TSP:55] Crookclaw Transmuter
+1 [ISD:17] Geist-Honored Monk
+1 [5DN:32] Hoverguard Sweepers
+1 [DTK:58] Icefall Regent
+1 [M15:76] Quickling
+1 [TSP:73] Riftwing Cloudskate
+1 [BNG:50] Siren of the Fanged Coast
+1 [EMN:45] Subjugator Angel
+1 [ZEN:18] Kor Cartographer
+1 [PLC:40] Dreamscape Artist
+1 [JOU:42] Hypnotic Siren
+1 [AVR:51] Favorable Winds
+1 [USG:102] Telepathy
+1 [LEG:48] Boomerang
+1 [LEA:86] Unsummon
+1 [DIS:8] Condemn
+1 [GTC:29] Aetherize
+1 [SOI:61] Essence Flux
+1 [PCY:54] Withdraw
+1 [GRN:7] Crush Contraband
+1 [TSP:52] Careful Consideration
+1 [DIS:170] Azorius Chancery
+17 [LEA:286] Plains
+21 [LEA:288] Island
+1 [C16:38] Migratory Route
+1 [ORI:55] Displacement Wave
+1 [KTK:8] End Hostilities
+1 [C17:4] Fortunate Few
+1 [MBS:27] Mitotic Manipulation
+1 [ODY:78] Concentrate
+1 [TOR:36] Deep Analysis
+1 [JOU:43] Interpret the Signs
+SB: 1 [DIS:114] Isperia the Inscrutable
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([MRD:241],[MRD:180])([C14:58],[LEA:245],[RNA:231],[MRD:171],[ROE:216],[VIS:154],[DST:155],[PC2:111],[5DN:128],[TSP:262],[5DN:165],[DGM:136],[PLS:134])([ORI:218],[M14:81],[RNA:204],[CN2:28],[M14:79],[NEM:50],[KLD:176],[M12:76],[M15:67],[TSP:81],[THS:60],[M11:74],[LRW:48],[AKH:41],[GPT:2],[TSP:10],[TSP:55],[ISD:17],[5DN:32],[DTK:58],[M15:76],[TSP:73],[BNG:50],[EMN:45],[ZEN:18],[PLC:40])([JOU:42])([AVR:51],[USG:102])([LEG:48],[LEA:86],[DIS:8],[GTC:29],[SOI:61],[PCY:54],[GRN:7],[TSP:52])([DIS:170],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288])([C16:38],[ORI:55],[KTK:8],[C17:4],[MBS:27],[ODY:78],[TOR:36],[JOU:43])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DIS:114])

@@ -1,0 +1,67 @@
+1 [THS:210] Akroan Horse
+1 [MRD:180] Gold Myr
+1 [MRD:187] Iron Myr
+1 [TMP:296] Manakin
+1 [OGW:164] Hedron Crawler
+1 [TSP:262] Prismatic Lens
+1 [GRN:231] Boros Locket
+1 [C14:58] Unstable Obelisk
+1 [USG:292] Crystal Chimes
+1 [5DN:165] Wayfarer's Bauble
+1 [ZEN:202] Explorer's Scope
+1 [THS:26] Phalanx Leader
+1 [BNG:29] Vanguard of Brimaz
+1 [C18:23] Loyal Apprentice
+1 [TSP:23] Icatian Crier
+1 [DOM:148] Valduk, Keeper of the Flame
+1 [M14:2] Ajani's Chosen
+1 [M15:132] Brood Keeper
+1 [GTC:200] Sunhome Guildmage
+1 [LRW:10] Cloudgoat Ranger
+1 [THS:11] Evangel of Heliod
+1 [PLC:26] Mesa Enchantress
+1 [CN2:50] Crown-Hunter Hireling
+1 [DOM:12] Danitha Capashen, Paragon
+1 [M15:14] Heliod's Pilgrim
+1 [BNG:17] Hero of Iroas
+1 [M11:38] War Priest of Thune
+1 [ZEN:18] Kor Cartographer
+1 [AER:21] Restoration Specialist
+1 [USG:20] Monk Idealist
+1 [DIS:7] Celestial Ancient
+1 [JOU:98] Forgeborn Oreads
+1 [BFZ:19] Angelic Gift
+1 [UDS:4] Capashen Standard
+1 [THS:5] Chosen by Heliod
+1 [THS:119] Dragon Mantle
+1 [KTK:109] Goblinslide
+1 [ALA:101] Goblin Assault
+1 [CON:18] Sigil of the Empty Throne
+1 [STH:5] Conviction
+1 [TMP:169] Crown of Flames
+1 [USG:186] Fiery Mantle
+1 [TSP:158] Ghitu Firebreathing
+1 [UDS:93] Mark of Fury
+1 [GTC:17] Holy Mantle
+1 [TSP:33] Pentarch Ward
+1 [JUD:31] Unquestioned Authority
+1 [FRF:23] Sage's Reverie
+1 [FUT:112] Emblem of the Warmind
+1 [XLN:173] Vance's Blasting Cannons
+1 [FRF:110] Outpost Siege
+1 [BFZ:44] Retreat to Emeria
+1 [AKH:8] Cast Out
+1 [APC:122] Squee's Embrace
+1 [DIS:68] Psychotic Fury
+1 [ODY:46] Shelter
+1 [RTR:19] Rootborn Defenses
+19 [LEA:286] Plains
+1 [RAV:275] Boros Garrison
+18 [LEA:292] Mountain
+1 [JOU:15] Launch the Fleet
+1 [AER:96] Release the Gremlins
+1 [WWK:74] Chain Reaction
+1 [M10:24] Planar Cleansing
+SB: 1 [THS:186] Anax and Cymede
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([THS:210],[MRD:180],[MRD:187],[TMP:296],[OGW:164])([TSP:262],[GRN:231],[C14:58],[USG:292],[5DN:165],[ZEN:202])([THS:26],[BNG:29],[C18:23],[TSP:23],[DOM:148],[M14:2],[M15:132],[GTC:200],[LRW:10],[THS:11],[PLC:26],[CN2:50],[DOM:12],[M15:14],[BNG:17],[M11:38],[ZEN:18],[AER:21],[USG:20],[DIS:7])([JOU:98])([BFZ:19],[UDS:4],[THS:5],[THS:119],[KTK:109],[ALA:101],[CON:18],[STH:5],[TMP:169],[USG:186],[TSP:158],[UDS:93],[GTC:17],[TSP:33],[JUD:31],[FRF:23],[FUT:112],[XLN:173],[FRF:110],[BFZ:44],[AKH:8],[APC:122])([DIS:68],[ODY:46],[RTR:19])([LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[LEA:286],[RAV:275],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292])([JOU:15],[AER:96],[WWK:74],[M10:24])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([THS:186])

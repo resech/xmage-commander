@@ -1,0 +1,69 @@
+1 [KLD:162] Nature's Way
+1 [M19:190] Naturalize
+34 [GRN:264] Forest
+1 [GRN:143] Prey Upon
+1 [LRW:270] Mosswort Bridge
+1 [M19:195] Rabid Bite
+1 [DOM:185] Thorn Elemental
+1 [M11:189] Overwhelming Stampede
+1 [FRF:138] Shamanic Revelation
+1 [DIS:86] Indrik Stomphowler
+1 [KTK:147] Savage Punch
+1 [DOM:184] Territorial Allosaurus
+1 [7ED:282] Wild Growth
+1 [AVR:206] Wolfir Silverheart
+1 [THS:160] Karametra's Acolyte
+1 [AVR:200] Ulvenwald Tracker
+1 [AKH:214] Mouth // Feed
+1 [BFZ:196] Territorial Baloth
+1 [PLC:149] Harmonize
+1 [SOM:111] Bellowing Tanglewurm
+1 [AKH:176] Naga Vitalist
+1 [FRF:144] Whisperer of the Wilds
+1 [FRF:141] Temur Sabertooth
+1 [KTK:219] Dragon Throne of Tarkir
+1 [DOM:154] Ancient Animus
+1 [WWK:115] Terastodon
+1 [ROE:2] Artisan of Kozilek
+1 [CMA:113] Great Oak Guardian
+1 [M13:197] Yeva, Nature's Herald
+1 [ORI:171] Conclave Naturalists
+1 [SCG:119] Fierce Empath
+1 [M13:160] Arbor Elf
+1 [M12:190] Rampant Growth
+1 [DOM:156] Baloth Gorger
+1 [CON:88] Paleoloth
+1 [HOU:135] Sifter Wurm
+1 [ALA:129] Drumhunter
+1 [ORI:174] Elemental Bond
+1 [M19:172] Colossal Dreadmaw
+1 [XLN:213] Verdant Sun's Avatar
+1 [DOM:165] Grunn, the Lonely King
+1 [M19:173] Colossal Majesty
+1 [DOM:163] Gift of Growth
+1 [M15:173] Elvish Mystic
+1 [4ED:238] Craw Wurm
+1 [C18:31] Loyal Guardian
+1 [M19:205] Titanic Growth
+1 [M19:209] Vivien's Invocation
+1 [DOM:245] Memorial to Unity
+1 [AKH:236] Rhonas's Monument
+1 [7ED:309] Moss Diamond
+1 [AKH:184] Scaled Behemoth
+1 [AKH:183] Sandwurm Convergence
+1 [XLN:200] Pounce
+1 [ZEN:178] Rampaging Baloths
+1 [M15:283] Garruk's Packleader
+1 [M19:169] Blanchwood Armor
+1 [10E:335] Mind Stone
+1 [M19:239] Manalith
+1 [M19:314] Llanowar Elves
+1 [EMN:176] Ulvenwald Observer
+1 [DTK:210] Surrak, the Hunt Caller
+1 [AVR:195] Soul of the Harvest
+1 [HOU:110] Ambuscade
+1 [DDJ:61] Stingerfling Spider
+1 [DGM:45] Mutant's Prey
+SB: 1 [M19:186] Goreclaw, Terror of Qal Sisma
+LAYOUT MAIN:(2,10)(CMC,true,50)|()([M13:160],[M15:173],[M19:314],[AVR:200])([AKH:176],[FRF:144])([SCG:119])([DOM:156],[ALA:129],[THS:160],[DTK:210],[FRF:141],[DOM:184],[M13:197])([SOM:111],[ORI:171],[M15:283],[DIS:86],[C18:31],[BFZ:196],[AVR:206],[DDJ:61])([M19:172],[CMA:113],[DOM:165],[CON:88],[ZEN:178],[AKH:184],[AVR:195],[EMN:176],[4ED:238])([HOU:135],[DOM:185],[XLN:213])([WWK:115])([ROE:2])([GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[DOM:245],[LRW:270])([GRN:143],[7ED:282],[DGM:45])([DOM:154],[DOM:163],[10E:335],[7ED:309],[M19:190],[KLD:162],[XLN:200],[M19:195],[M12:190],[KTK:147],[M19:205])([HOU:110],[M19:169],[M19:173],[ORI:174],[M19:239],[AKH:236])([KTK:219],[PLC:149])([M11:189],[FRF:138])()([AKH:214],[M19:209])([AKH:183])()
+LAYOUT SIDEBOARD:(1,1)(CMC,true,50)|([M19:186])

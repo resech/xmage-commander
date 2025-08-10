@@ -1,0 +1,64 @@
+1 [TMP:296] Manakin
+1 [MRD:241] Silver Myr
+1 [DOM:220] Jhoira's Familiar
+1 [ORI:225] Chief of the Foundry
+1 [ALA:42] Etherium Sculptor
+1 [ALA:55] Sharding Sphinx
+1 [KLD:241] Workshop Assistant
+1 [DOM:230] Skittering Surveyor
+1 [WWK:128] Pilgrim's Eye
+1 [CON:25] Esperzoa
+1 [M19:245] Skyscanner
+1 [KLD:212] Filigree Familiar
+1 [MRD:275] Wizard Replica
+1 [DOM:223] Mishra's Self-Replicator
+1 [OGW:164] Hedron Crawler
+1 [5DN:165] Wayfarer's Bauble
+1 [C14:58] Unstable Obelisk
+1 [MBS:110] Ichor Wellspring
+1 [NPH:145] Mycosynth Wellspring
+1 [5DN:128] Guardian Idol
+1 [TSP:262] Prismatic Lens
+1 [MRD:141] Aether Spellbomb
+1 [AER:176] Servo Schematic
+1 [MRD:237] Scrabbling Claws
+1 [5DN:110] Clock of Omens
+1 [PC2:111] Fractured Powerstone
+1 [ROE:222] Prophetic Prism
+1 [MBS:134] Sphere of the Suns
+1 [RAV:273] Terrarion
+1 [SOM:155] Flight Spellbomb
+1 [5DN:112] Conjurer's Bauble
+1 [RAV:274] Voyager Staff
+1 [ALA:37] Courier's Capsule
+1 [M13:220] Trading Post
+1 [M13:211] Ring of Evos Isle
+1 [CNS:20] Academy Elite
+1 [CN2:28] Canal Courier
+1 [C18:10] Loyal Drake
+1 [M15:47] Chief Engineer
+1 [5DN:39] Trinket Mage
+1 [AER:48] Trophy Mage
+1 [DST:35] Vedalken Engineer
+1 [SOM:40] Riddlesmith
+1 [DOM:44] Artificer's Assistant
+1 [BFZ:64] Ruination Guide
+1 [RNA:60] Windstorm Drake
+1 [M14:81] Windreader Sphinx
+1 [TSP:81] Sprite Noble
+1 [MBS:26] Mirran Spy
+1 [AER:43] Salvage Scuttler
+1 [ORI:75] Soulblade Djinn
+1 [AER:33] Efficient Construction
+1 [AVR:51] Favorable Winds
+1 [GTC:29] Aetherize
+1 [SOI:58] Engulf the Shore
+1 [SOM:46] Stoic Rebuttal
+1 [MRD:30] Assert Authority
+39 [LEA:288] Island
+1 [ODY:78] Concentrate
+1 [AER:42] Reverse Engineer
+1 [NPH:28] Arm with Aether
+SB: 1 [M19:69] Sai, Master Thopterist
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([TMP:296],[MRD:241],[DOM:220],[ORI:225],[ALA:42],[ALA:55],[KLD:241],[DOM:230],[WWK:128],[CON:25],[M19:245],[KLD:212],[MRD:275],[DOM:223],[OGW:164])([5DN:165],[C14:58],[MBS:110],[NPH:145],[5DN:128],[TSP:262],[MRD:141],[AER:176],[MRD:237],[5DN:110],[PC2:111],[ROE:222],[MBS:134],[RAV:273],[SOM:155],[5DN:112],[RAV:274],[ALA:37],[M13:220],[M13:211])([CNS:20],[CN2:28],[C18:10],[M15:47],[5DN:39],[AER:48],[DST:35],[SOM:40],[DOM:44],[BFZ:64],[RNA:60],[M14:81],[TSP:81],[MBS:26],[AER:43],[ORI:75])([AER:33],[AVR:51])([GTC:29],[SOI:58],[SOM:46],[MRD:30])([LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288])([ODY:78],[AER:42],[NPH:28])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M19:69])

@@ -1,0 +1,67 @@
+1 [SOM:170] Leaden Myr
+1 [SOM:146] Copper Myr
+1 [EVE:80] Wickerbough Elder
+1 [MBS:57] Virulent Wound
+1 [SHM:80] Torture
+1 [HOU:79] Torment of Venom
+1 [AKH:109] Splendid Agony
+1 [HOU:67] Lethal Sting
+1 [SOM:68] Instill Infection
+1 [NPH:63] Grim Affliction
+1 [SOM:63] Fume Spitter
+1 [AKH:91] Festering Mummy
+1 [HOU:59] Banewhip Punisher
+1 [SOM:144] Contagion Clasp
+1 [SHM:70] Incremental Blight
+1 [AKH:101] Nest of Scarabs
+1 [HOU:141] Obelisk Spider
+1 [WTH:156] Serrated Biskelion
+1 [SOM:78] Skinrender
+1 [SOM:57] Carnifex Demon
+1 [AKH:277] Liliana's Influence
+1 [THS:219] Prowler's Helm
+1 [FIC:305] Generous Patron
+1 [MBS:87] Plaguemaw Beast
+1 [FDN:231] Reclamation Sage
+1 [FDN:230] Overrun
+1 [FDN:227] Llanowar Elves
+1 [RAV:161] Elves of Deep Shadow
+1 [ONS:276] Overwhelming Instinct
+1 [M19:86] Blood Divination
+1 [RTR:83] Underworld Connections
+1 [ORI:114] Read the Bones
+1 [AKH:83] Cartouche of Ambition
+1 [KLD:75] Diabolic Tutor
+1 [AKH:108] Soulstinger
+1 [AKH:163] Defiant Greatmaw
+1 [AKH:197] Decimator Beetle
+1 [THS:216] Fleetfeather Sandals
+1 [XLN:233] Cobbled Wings
+1 [8ED:238] Collective Unconscious
+1 [M12:190] Rampant Growth
+1 [5DN:165] Wayfarer's Bauble
+1 [CMM:416] Unstable Obelisk
+1 [GRN:237] Golgari Locket
+1 [CMM:285] Entourage of Trest
+1 [GRN:201] Swarm Guildmage
+1 [CLU:236] Golgari Rot Farm
+1 [7ED:282] Wild Growth
+1 [RTR:164] Golgari Charm
+1 [VOC:117] Ancient Craving
+1 [8ED:118] Ambition's Cost
+1 [CHK:233] Orochi Eggwatcher
+20 [SPM:193] Forest
+1 [SOM:213] Trigon of Corruption
+17 [SPM:191] Swamp
+1 [CHK:244] Sosuke, Son of Seshiro
+1 [M13:160] Arbor Elf
+1 [M15:173] Elvish Mystic
+1 [ZEN:165] Harrow
+1 [FDN:225] Grow from the Ashes
+1 [TSP:216] Search for Tomorrow
+1 [RTR:204] Treasured Find
+1 [CLU:171] Overcome
+1 [MRD:218] Neurok Hoversail
+SB: 1 [AKH:199] Hapatra, Vizier of Poisons
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([SOM:170],[SOM:146],[WTH:156])([SOM:144],[THS:219],[THS:216],[XLN:233],[5DN:165],[CMM:416],[GRN:237],[SOM:213],[MRD:218])([EVE:80],[SOM:63],[AKH:91],[HOU:59],[HOU:141],[SOM:78],[SOM:57],[FIC:305],[MBS:87],[FDN:231],[FDN:227],[RAV:161],[AKH:108],[AKH:163],[AKH:197],[CMM:285],[GRN:201],[CHK:233],[CHK:244],[M13:160],[M15:173])([SHM:80],[AKH:101],[ONS:276],[RTR:83],[AKH:83],[7ED:282])([MBS:57],[HOU:79],[AKH:109],[SOM:68],[NPH:63],[RTR:164],[ZEN:165])([CLU:236],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:193],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191])([HOU:67],[SHM:70],[AKH:277],[FDN:230],[M19:86],[ORI:114],[KLD:75],[8ED:238],[M12:190],[VOC:117],[8ED:118],[FDN:225],[TSP:216],[RTR:204],[CLU:171])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([AKH:199])

@@ -1,0 +1,65 @@
+1 [MRD:241] Silver Myr
+1 [MRD:141] Aether Spellbomb
+1 [AKH:231] Kefnet's Monument
+1 [5DN:165] Wayfarer's Bauble
+1 [RIX:181] Orazca Relic
+1 [C14:58] Unstable Obelisk
+1 [ZEN:202] Explorer's Scope
+1 [JOU:162] Hall of Triumph
+1 [PLS:134] Star Compass
+1 [C18:10] Loyal Drake
+1 [M15:73] Paragon of Gathering Mists
+1 [CN2:28] Canal Courier
+1 [FUT:61] Vedalken Aethermage
+1 [5DN:39] Trinket Mage
+1 [ROE:85] Sea Gate Oracle
+1 [THS:57] Omenspeaker
+1 [LGN:44] Merchant of Secrets
+1 [JUD:34] Aven Fogbringer
+1 [M13:41] Archaeomancer
+1 [M11:41] Aether Adept
+1 [AER:48] Trophy Mage
+1 [XLN:86] Tempest Caller
+1 [USG:99] Stern Proctor
+1 [RIX:48] Riverwise Augur
+1 [M19:55] Exclusion Mage
+1 [SOM:37] Neurok Invisimancer
+1 [M14:73] Tidebinder Mage
+1 [CHK:52] Azami, Lady of Scrolls
+1 [ORI:72] Separatist Voidmage
+1 [MOR:37] Inspired Sprite
+1 [XLN:87] Watertrap Weaver
+1 [SOI:56] Drownyard Explorers
+1 [M19:70] Salvager of Secrets
+1 [JUD:54] Wonder
+1 [M19:61] Mirror Image
+1 [PLC:40] Dreamscape Artist
+1 [DOM:41] Academy Journeymage
+1 [DRK:21] Apprentice Wizard
+1 [MIR:90] Sea Scryer
+1 [C17:13] Portal Mage
+1 [LGN:39] Gempalm Sorcerer
+1 [ONS:100] Nameless One
+1 [BNG:32] Archetype of Imagination
+1 [SCG:31] Day of the Dragons
+1 [ULG:35] Levitation
+1 [EXO:29] Curiosity
+1 [EMN:55] Displace
+1 [AVR:57] Ghostly Flicker
+1 [GTC:29] Aetherize
+1 [AER:36] Illusionist's Stratagem
+1 [LRW:64] Familiar's Ruse
+1 [KLD:43] Disappearing Act
+1 [SOI:58] Engulf the Shore
+1 [ALA:61] Tortoise Formation
+1 [C15:13] Mirror Match
+1 [MOR:48] Sage's Dousing
+38 [LEA:288] Island
+1 [BNG:57] Whelming Wave
+1 [ODY:78] Concentrate
+1 [RIX:52] Secrets of the Golden City
+1 [S99:54] Tidings
+1 [MBS:27] Mitotic Manipulation
+SB: 1 [DOM:58] Naban, Dean of Iteration
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([MRD:241])([MRD:141],[AKH:231],[5DN:165],[RIX:181],[C14:58],[ZEN:202],[JOU:162],[PLS:134])([C18:10],[M15:73],[CN2:28],[FUT:61],[5DN:39],[ROE:85],[THS:57],[LGN:44],[JUD:34],[M13:41],[M11:41],[AER:48],[XLN:86],[USG:99],[RIX:48],[M19:55],[SOM:37],[M14:73],[CHK:52],[ORI:72],[MOR:37],[XLN:87],[SOI:56],[M19:70],[JUD:54],[M19:61],[PLC:40],[DOM:41],[DRK:21],[MIR:90],[C17:13],[LGN:39],[ONS:100])([BNG:32])([SCG:31],[ULG:35],[EXO:29])([EMN:55],[AVR:57],[GTC:29],[AER:36],[LRW:64],[KLD:43],[SOI:58],[ALA:61],[C15:13])([MOR:48])([LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288])([BNG:57],[ODY:78],[RIX:52],[S99:54],[MBS:27])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DOM:58])

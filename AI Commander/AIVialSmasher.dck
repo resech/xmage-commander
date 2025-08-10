@@ -1,0 +1,79 @@
+1 [ZEN:210] Akoum Refuge
+1 [M20:242] Bloodfell Caves
+1 [M19:248] Cinder Barrens
+1 [C18:240] Command Tower
+1 [XLN:252] Dragonskull Summit
+1 [M20:246] Evolving Wilds
+1 [ONS:317] Forgotten Cave
+1 [DIS:178] Rakdos Carnarium
+1 [BFZ:247] Smoldering Marsh
+1 [SCG:143] Temple of the False God
+1 [M11:229] Terramorphic Expanse
+15 [M20:269] Swamp
+10 [M20:273] Mountain
+1 [SOI:181] Sin Prodder
+1 [C18:122] Chaos Warp
+1 [RTR:184] Rakdos Charm
+1 [ARB:46] Terminate
+1 [ALA:156] Blightning
+1 [M13:89] Disentomb
+1 [DKA:87] Faithless Looting
+1 [AER:70] Resourceful Return
+1 [TSP:187] Wheel of Fate
+1 [M14:207] Darksteel Ingot
+1 [MRD:199] Lightning Greaves
+1 [DGM:143] Rakdos Cluestone
+1 [RTR:232] Rakdos Keyrune
+1 [DIS:165] Rakdos Signet
+1 [3ED:274] Sol Ring
+1 [DIS:121] Pain Magnification
+1 [RTR:63] Desecration Demon
+1 [DKA:93] Hellrider
+1 [EMN:132] Impetuous Devils
+1 [M15:101] Indulgent Tormentor
+1 [M13:138] Krenko, Mob Boss
+1 [SOI:124] Mindwrack Demon
+1 [BNG:151] Mogis, God of Slaughter
+1 [DTK:101] Foul Renewal
+1 [M19:117] Rise from the Grave
+1 [RTR:195] Skull Rend
+1 [BFZ:223] Hedron Archive
+1 [FRF:79] Palace Siege
+1 [ISD:134] Charmbreaker Devils
+1 [AVR:107] Harvester of Souls
+1 [AER:64] Herald of Anguish
+1 [ISD:130] Blasphemous Act
+1 [C16:31] Grave Upheaval
+1 [M15:100] In Garruk's Wake
+1 [DGM:86] Morgue Burst
+1 [RTR:166] Havoc Festival
+1 [RNA:157] Bedevil
+1 [GTC:61] Crypt Ghast
+1 [BOK:91] Akki Blizzard-Herder
+1 [CHK:155] Akki Underminer
+1 [M11:141] Goblin Chieftain
+1 [OGW:110] Goblin Dark-Dwellers
+1 [10E:207] Goblin King
+1 [ORI:151] Goblin Piledriver
+1 [C13:111] Goblin Sharpshooter
+1 [M19:144] Goblin Trashmaster
+1 [CNS:34] Ignition Team
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [GRN:109] Legion Warboss
+1 [LRW:123] Mad Auntie
+1 [MH1:138] Pashalik Mons
+1 [MOR:102] Sensation Gorger
+1 [EMA:147] Siege-Gang Commander
+1 [ONS:229] Skirk Fire Marshal
+1 [C14:183] Tuktuk the Explorer
+1 [LRW:252] Wort, Boggart Auntie
+1 [ZEN:154] Warren Instigator
+1 [E01:83] Dreadbore
+1 [C15:130] Phyrexian Arena
+1 [C17:99] Blood Artist
+1 [BFZ:126] Zulaport Cutthroat
+1 [IMA:108] Sheoldred, Whispering One
+1 [C15:118] Butcher of Malakir
+SB: 1 [C16:49] Vial Smasher the Fierce
+LAYOUT MAIN:(2,9)(CMC,true,50)|()()([BOK:91],[ORI:151],[ZEN:154],[C17:99],[BFZ:126])([SOI:181],[M11:141],[10E:207],[C13:111],[WAR:137],[GRN:109],[LRW:123],[MH1:138],[MOR:102],[C14:183])([RTR:63],[DKA:93],[EMN:132],[M13:138],[SOI:124],[BNG:151],[GTC:61],[CHK:155],[M19:144],[LRW:252])([M15:101],[OGW:110],[EMA:147],[ONS:229])([ISD:134],[AVR:107])([AER:64],[CNS:34],[IMA:108],[C15:118])()([ZEN:210],[M20:242],[M19:248],[C18:240],[XLN:252],[M20:246],[ONS:317],[M20:273],[M20:273],[M20:273],[M20:273],[M20:273],[M20:273],[M20:273],[M20:273],[M20:273],[M20:273],[DIS:178],[BFZ:247],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[M20:269],[SCG:143],[M11:229],[TSP:187])([M13:89],[DKA:87],[3ED:274])([MRD:199],[RTR:184],[DIS:165],[AER:70],[ARB:46],[E01:83])([ALA:156],[C18:122],[M14:207],[DIS:121],[DGM:143],[RTR:232],[RNA:157],[C15:130])([DTK:101],[BFZ:223])([FRF:79],[M19:117],[RTR:195])([C16:31],[RTR:166],[DGM:86])()([ISD:130],[M15:100])
+LAYOUT SIDEBOARD:(1,1)(CMC,true,50)|([C16:49])

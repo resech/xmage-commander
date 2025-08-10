@@ -1,0 +1,63 @@
+1 [MRD:187] Iron Myr
+1 [TMP:296] Manakin
+1 [DOM:218] Howling Golem
+1 [ODY:302] Millikin
+1 [THS:210] Akroan Horse
+1 [KLD:212] Filigree Familiar
+1 [AER:177] Treasure Keeper
+1 [ROE:224] Runed Servitor
+1 [OGW:164] Hedron Crawler
+1 [5DN:165] Wayfarer's Bauble
+1 [C14:58] Unstable Obelisk
+1 [TSP:262] Prismatic Lens
+1 [PC2:111] Fractured Powerstone
+1 [5DN:128] Guardian Idol
+1 [DST:153] Thunderstaff
+1 [C14:53] Assault Suit
+1 [SOM:148] Culling Dais
+1 [VIS:154] Sisay's Ring
+1 [DST:155] Ur-Golem's Eye
+1 [ROE:216] Dreamstone Hedron
+1 [MRD:203] Mask of Memory
+1 [HOU:166] Sunset Pyramid
+1 [M13:214] Ring of Valkas
+1 [CN2:50] Crown-Hunter Hireling
+1 [C18:23] Loyal Apprentice
+1 [CNS:34] Ignition Team
+1 [GTC:101] Molten Primordial
+1 [GPT:73] Rabble-Rouser
+1 [THS:121] Fanatic of Mogis
+1 [FRF:104] Humble Defector
+1 [BNG:103] Oracle of Bones
+1 [XLN:137] Captivating Crew
+1 [CSP:100] Thermopod
+1 [ISD:134] Charmbreaker Devils
+1 [CSP:94] Orcish Bloodpainter
+1 [M13:142] Mindclaw Shaman
+1 [LRW:173] Hamletback Goliath
+1 [M11:131] Cyclops Gladiator
+1 [EMN:124] Conduit of Storms
+1 [C13:105] Curse of Chaos
+1 [M14:127] Barrage of Expendables
+1 [ONS:197] Custody Battle
+1 [M12:127] Circle of Flame
+1 [NPH:78] Act of Aggression
+1 [ICE:194] Incinerate
+1 [5DN:73] Magma Jet
+1 [BNG:94] Fated Conflagration
+40 [LEA:292] Mountain
+1 [AKH:123] By Force
+1 [FRF:109] Mob Rule
+1 [ONS:241] Threaten
+1 [KLD:118] Hijack
+1 [M10:124] Act of Treason
+1 [CMD:118] Death by Dragons
+1 [FUT:102] Molten Disaster
+1 [5DN:75] Mana Geyser
+1 [M19:137] Doublecast
+1 [DTK:167] Volcanic Vision
+1 [M15:126] Act on Impulse
+1 [DBL:131] Burn Down the House
+SB: 1 [BOK:104] Fumiko the Lowblood
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([MRD:187],[TMP:296],[DOM:218],[ODY:302],[THS:210],[KLD:212],[AER:177],[ROE:224],[OGW:164])([5DN:165],[C14:58],[TSP:262],[PC2:111],[5DN:128],[DST:153],[C14:53],[SOM:148],[VIS:154],[DST:155],[ROE:216],[MRD:203],[HOU:166],[M13:214])([CN2:50],[C18:23],[CNS:34],[GTC:101],[GPT:73],[THS:121],[FRF:104],[BNG:103],[XLN:137],[CSP:100],[ISD:134],[CSP:94],[M13:142],[LRW:173],[M11:131],[EMN:124])([C13:105],[M14:127],[ONS:197],[M12:127])([NPH:78],[ICE:194],[5DN:73],[BNG:94])([LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292],[LEA:292])([AKH:123],[FRF:109],[ONS:241],[KLD:118],[M10:124],[CMD:118],[FUT:102],[5DN:75],[M19:137],[DTK:167],[M15:126],[DBL:131])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BOK:104])

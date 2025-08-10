@@ -1,0 +1,63 @@
+1 [WWK:131] Walking Atlas
+1 [MRD:241] Silver Myr
+1 [MRD:158] Copper Myr
+1 [5DN:165] Wayfarer's Bauble
+1 [C14:58] Unstable Obelisk
+1 [RNA:240] Simic Locket
+1 [ZEN:178] Rampaging Baloths
+1 [DKA:111] Dawntreader Elk
+1 [PLC:40] Dreamscape Artist
+1 [KTK:39] Embodiment of Spring
+1 [ROE:202] Ondu Giant
+1 [MMQ:270] Silverglade Pathfinder
+1 [KLD:173] Wild Wanderer
+1 [M14:196] Sporemound
+1 [RAV:184] Stone-Seeder Hierophant
+1 [WWK:41] Tideforce Elemental
+1 [GRN:45] Murmuring Mystic
+1 [CHK:74] Meloku the Clouded Mirror
+1 [M19:178] Dryad Greenseeker
+1 [TMP:256] Skyshroud Ranger
+1 [CHK:99] Uyo, Silent Prophet
+1 [DIS:133] Trygon Predator
+1 [GTC:209] Zameck Guildmage
+1 [CN2:28] Canal Courier
+1 [C18:31] Loyal Guardian
+1 [DOM:170] Llanowar Scout
+1 [DDP:21] Retreat to Kazandu
+1 [BFZ:82] Retreat to Coralhelm
+1 [ZEN:167] Khalni Heart Expedition
+1 [JOU:123] Font of Fertility
+1 [ZEN:49] Ior Ruin Expedition
+1 [ORI:209] Zendikar's Roil
+1 [SOI:93] Trail of Evidence
+1 [TMP:230] Harrow
+1 [BFZ:179] Natural Connection
+1 [GTC:29] Aetherize
+1 [RNA:134] Rampage of the Clans
+1 [SOI:58] Engulf the Shore
+1 [JOU:119] Consign to Dust
+1 [DIS:180] Simic Growth Chamber
+17 [LEA:288] Island
+24 [LEA:294] Forest
+1 [TSP:279] Terramorphic Expanse
+1 [ROE:228] Evolving Wilds
+1 [WWK:99] Explore
+1 [MRD:123] Journey of Discovery
+1 [GTC:204] Urban Evolution
+1 [HOU:111] Beneath the Sands
+1 [FUT:144] Edge of Autumn
+1 [TOR:125] Far Wanderings
+1 [DOM:164] Grow from the Ashes
+1 [PLC:130] Hunting Wilds
+1 [BFZ:180] Nissa's Renewal
+1 [BNG:132] Peregrination
+1 [PLS:87] Primal Growth
+1 [MIR:235] Rampant Growth
+1 [TSP:216] Search for Tomorrow
+1 [DOM:157] Broken Bond
+1 [BNG:57] Whelming Wave
+1 [DOM:183] Sylvan Awakening
+SB: 1 [FDN:247] Tatyova, Benthic Druid
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([WWK:131],[MRD:241],[MRD:158])([5DN:165],[C14:58],[RNA:240])([ZEN:178],[DKA:111],[PLC:40],[KTK:39],[ROE:202],[MMQ:270],[KLD:173],[M14:196],[RAV:184],[WWK:41],[GRN:45],[CHK:74],[M19:178],[TMP:256],[CHK:99],[DIS:133],[GTC:209],[CN2:28],[C18:31],[DOM:170])([DDP:21],[BFZ:82],[ZEN:167],[JOU:123],[ZEN:49],[ORI:209],[SOI:93])([TMP:230],[BFZ:179],[GTC:29],[RNA:134],[SOI:58],[JOU:119])([DIS:180],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:288],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[LEA:294],[TSP:279],[ROE:228])([WWK:99],[MRD:123],[GTC:204],[HOU:111],[FUT:144],[TOR:125],[DOM:164],[PLC:130],[BFZ:180],[BNG:132],[PLS:87],[MIR:235],[TSP:216],[DOM:157],[BNG:57],[DOM:183])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FDN:247])

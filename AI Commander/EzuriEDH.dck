@@ -1,0 +1,78 @@
+1 [C17:223] Sol Ring
+1 [C16:188] Coiling Oracle
+1 [C15:212] Wood Elves
+1 [RNA:207] Simic Ascendancy
+1 [C16:270] Simic Signet
+1 [ORI:186] Managorger Hydra
+1 [RNA:130] Guardian Project
+1 [RNA:52] Skatewing Spy
+1 [GRN:123] Beast Whisperer
+1 [BBD:12] Toothy, Imaginary Friend
+1 [BBD:11] Pir, Imaginative Rascal
+1 [C16:198] Fathom Mage
+1 [C18:172] Cold-Eyed Selkie
+1 [AVR:171] Champion of Lambholt
+1 [GTC:123] Gyre Sage
+1 [XLN:59] Herald of Secret Streams
+1 [C16:150] Forgotten Ancient
+1 [C15:236] Trygon Predator
+1 [C15:230] Prime Speaker Zegana
+1 [C18:159] Reclamation Sage
+1 [C16:85] Chasm Skulker
+1 [C16:158] Mycoloth
+1 [C18:127] Acidic Slime
+1 [C16:210] Master Biomancer
+1 [M15:178] Hornet Queen
+1 [KLD:151] Cultivator of Blades
+1 [NPH:29] Blighted Agent
+1 [C16:152] Hardened Scales
+1 [GTC:209] Zameck Guildmage
+1 [ISD:60] Invisible Stalker
+1 [C16:176] Wild Beastmaster
+1 [C15:197] Patagia Viper
+1 [NPH:49] Viral Drake
+1 [C15:194] Ohran Viper
+1 [C16:147] Den Protector
+1 [C18:146] Farhaven Elf
+1 [AKH:175] Manglehorn
+1 [C16:153] Inspiring Call
+1 [C15:196] Overwhelming Stampede
+1 [AER:123] Rishkar's Expertise
+1 [NPH:123] Triumph of the Hordes
+1 [C15:195] Overrun
+1 [C15:55] Thought Vessel
+1 [C16:316] Reliquary Tower
+1 [KLD:226] Panharmonicon
+1 [EVE:150] Fable of Wolf and Owl
+1 [C16:186] Bred for the Hunt
+1 [C16:286] Command Tower
+1 [DOM:240] Hinterland Harbor
+1 [RNA:246] Breeding Pool
+5 [BFZ:270a] Forest
+2 [BFZ:270a] Forest
+2 [BFZ:270a] Forest
+4 [BFZ:270a] Forest
+4 [BFZ:270a] Forest
+3 [BFZ:255a] Island
+2 [BFZ:255a] Island
+7 [BFZ:255a] Island
+3 [BFZ:255a] Island
+2 [BFZ:255a] Island
+1 [KLD:180] Empyreal Voyager
+1 [C16:173] Tuskguard Captain
+1 [FRF:119] Abzan Beastmaster
+1 [C13:142] Drumhunter
+1 [LRW:63] Fallowsage
+1 [C18:10] Loyal Drake
+1 [C13:49] Lu Xun, Scholar General
+1 [M19:200] Runic Armasaur
+1 [10E:115] Thieving Magpie
+1 [M19:190] Naturalize
+1 [C14:45] Lifeblood Hydra
+1 [BFZ:55] Benthic Infiltrator
+1 [SHM:35] Deepchannel Mentor
+1 [ALA:174] Jhessian Infiltrator
+1 [DGM:45] Mutant's Prey
+SB: 1 [C15:44] Ezuri, Claw of Progress
+LAYOUT MAIN:(2,8)(CMC,true,50)|()()([C16:188],[GTC:123],[NPH:29],[GTC:209],[ISD:60],[C16:147],[ALA:174])([C15:212],[ORI:186],[BBD:11],[C18:172],[AVR:171],[C15:236],[C18:159],[C16:85],[C16:176],[C15:194],[C18:146],[AKH:175],[KLD:180],[C16:173],[FRF:119],[C18:10],[M19:200],[C14:45],[BFZ:55])([RNA:52],[GRN:123],[BBD:12],[C16:198],[XLN:59],[C16:150],[C16:210],[C15:197],[NPH:49],[C13:142],[LRW:63],[C13:49],[10E:115])([C16:158],[C18:127],[KLD:151])([C15:230],[SHM:35])([M15:178])([C16:316],[C16:286],[DOM:240],[RNA:246],[BFZ:270a],[BFZ:270a],[BFZ:270a],[BFZ:270a],[BFZ:270a],[BFZ:270a],[BFZ:270a],[BFZ:270a],[BFZ:270a],[BFZ:270a],[BFZ:270a],[BFZ:270a],[BFZ:270a],[BFZ:270a],[BFZ:270a],[BFZ:270a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:255a],[BFZ:270a],[BFZ:255a])([C17:223],[C16:152],[DGM:45])([RNA:207],[C16:270],[C15:55],[M19:190])([C16:153],[C16:186])([RNA:130],[NPH:123],[KLD:226])([C15:196],[C15:195])([AER:123],[EVE:150])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C15:44])

@@ -1,0 +1,72 @@
+1 [C15:32] Arachnogenesis
+1 [MBS:88] Praetor's Counsel
+1 [MM3:122] Craterhoof Behemoth
+1 [MM2:153] Overwhelming Stampede
+1 [C16:172] Thunderfoot Baloth
+1 [C16:176] Wild Beastmaster
+1 [10E:284] Overrun
+1 [C15:38] Pathbreaker Ibex
+1 [6ED:232] Fyndhorn Elder
+1 [C13:135] Avenger of Zendikar
+1 [NPH:127] Vorinclex, Voice of Hunger
+1 [C14:222] Tornado Elemental
+1 [CN2:71] Selvala's Stampede
+1 [TSP:202] Krosan Grip
+1 [SOM:118] Engulfing Slagwurm
+1 [VMA:240] Yavimaya Elder
+1 [MRD:124] Living Hive
+1 [PC2:62] Cultivate
+1 [SOI:230] Soul Swallower
+1 [AVR:171] Champion of Lambholt
+1 [CMD:261] Sol Ring
+1 [FRF:184] Forest
+1 [10E:274] Llanowar Elves
+1 [MBS:92] Thrun, the Last Troll
+1 [DDU:33] Forest
+1 [C16:25] Stonehoof Chieftain
+1 [M11:175] Garruk Wildspeaker
+1 [M15:178] Hornet Queen
+1 [WTH:142] Tranquil Grove
+1 [C14:277] Thran Dynamo
+1 [MIR:241] Seeds of Innocence
+1 [BNG:116] Archetype of Endurance
+1 [VMA:210] Fyndhorn Elves
+1 [ORI:177] Gaea's Revenge
+1 [C16:151] Gamekeeper
+31 [UNH:140] Forest
+1 [M13:227] Reliquary Tower
+1 [C16:154] Kalonian Hydra
+1 [OGW:147] Zendikar Resurgent
+1 [10E:383] Forest
+1 [C16:157] Managorger Hydra
+1 [M15:173] Elvish Mystic
+1 [C16:158] Mycoloth
+1 [WWK:108] Nature's Claim
+1 [M10:195] Naturalize
+1 [M15:176] Genesis Hydra
+1 [RTR:121] Death's Presence
+1 [3ED:306] Forest
+1 [AER:105] Aid from the Cowl
+1 [10E:307] Verdant Force
+1 [BFZ:174] Greenwarden of Murasa
+1 [ISD:205] Splinterfright
+1 [SOM:110] Asceticism
+1 [AER:162] Lifecrafter's Bestiary
+1 [MBS:78] Creeping Corrosion
+1 [ICE:255] Nature's Lore
+1 [CMD:163] Kodama's Reach
+1 [AKH:180] Prowling Serpopard
+1 [C16:263] Myr Battlesphere
+1 [ARC:55] Fierce Empath
+1 [M14:190] Primeval Bounty
+1 [C15:175] Bane of Progress
+1 [NEM:117] Skyshroud Claim
+1 [C15:212] Wood Elves
+1 [M15:284] Terra Stomper
+1 [M13:185] Rancor
+1 [C13:164] Rampaging Baloths
+1 [AVR:195] Soul of the Harvest
+1 [LGN:138] Seedborn Muse
+SB: 1 [C14:43] Freyalise, Llanowar's Fury
+LAYOUT MAIN:(2,9)(CMC,true,50)|()([10E:274],[M15:173],[VMA:210])([M15:176])([ISD:205],[C16:157],[C15:212],[VMA:240],[AVR:171],[6ED:232],[C16:176],[ARC:55],[AKH:180])([SOI:230],[C16:151],[MBS:92])([LGN:138],[C16:158],[C16:154])([AVR:195],[C15:38],[BFZ:174],[C16:172],[C13:164],[M15:284],[C15:175])([M15:178],[SOM:118],[ORI:177],[C13:135],[C16:263],[C14:222])([10E:307],[MRD:124],[NPH:127],[MM3:122],[BNG:116],[C16:25])([M13:227],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[UNH:140],[10E:383],[3ED:306],[DDU:33],[FRF:184])([CMD:261],[M13:185],[WWK:108])([M10:195],[WTH:142],[ICE:255])([AER:162],[PC2:62],[CMD:163],[TSP:202],[C15:32],[MIR:241])([NEM:117],[C14:277],[M11:175],[MBS:78])([AER:105],[10E:284],[SOM:110],[MM2:153])([CN2:71],[RTR:121],[M14:190])([OGW:147])([MBS:88])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([C14:43])
