@@ -1,0 +1,83 @@
+1 [EOC:147] Adarkar Wastes
+1 [C16:82] Aeon Chronicler
+1 [CMR:216] Annoyed Altisaur
+1 [OTJ:316] Archmage's Newt
+1 [CLB:818] Battle Mammoth
+1 [J21:53] Battle Screech
+1 [ELD:149] Beanstalk Giant
+1 [WOE:161] Beanstalk Wurm
+1 [KHM:46] Behold the Multiverse
+1 [CLB:11] Blessed Hippogriff
+1 [C15:10] Broodbirth Viper
+1 [BLC:110] Chart a Course
+1 [WOC:156] Command Tower
+1 [SLD:799] Coveted Jewel
+1 [J25:304] Deep Analysis
+1 [KHM:53] Depart the Realm
+1 [PRM:88218] Doomskar
+1 [JVC:20] Errant Ephemeron
+1 [KHC:16] Ethereal Valkyrie
+1 [BLC:30] Evercoat Ursine
+1 [WOC:159] Exotic Orchard
+1 [WOE:331] Extraordinary Journey
+1 [OTJ:319] Fblthp, Lost on the Range
+7 [KTK:266] Forest
+1 [WOC:161] Fortified Village
+1 [EOC:160] Glacial Fortress
+1 [CLB:695] Glorious Protector
+1 [WOT:3] Grasp of Fate
+1 [LCI:273] Hidden Cataract
+1 [LCI:274] Hidden Courtyard
+1 [LCI:276] Hidden Nursery
+1 [ISD:241] Hinterland Harbor
+1 [LCI:59] Hurl into History
+1 [FUT:37] Infiltrator il-Kor
+1 [C21:27] Inspiring Refrain
+1 [KHM:17] Iron Verdict
+9 [KTK:254] Island
+1 [C20:217] Isperia, Supreme Judge
+1 [WHO:106] Karvanista, Loyal Lupari
+1 [MKM:212] Kellan, Inquisitive Prodigy
+1 [MB2:84] Keruga, the Macrosage
+1 [CMM:102] Looter il-Kor
+1 [OTJ:218] Make Your Own Luck
+1 [CMM:42] Mangara, the Diplomat
+1 [EMA:61] Merfolk Looter
+1 [AFC:251] Mosswort Bridge
+1 [BLC:6] Mr. Foxglove
+1 [CLB:829] Natural Reclamation
+1 [WOC:165] Path of Ancestry
+6 [KTK:250] Plains
+1 [VOC:178] Port Town
+1 [LCC:167] Ravenform
+1 [WOC:71] Realm-Cloaked Giant
+1 [MH2:170] Rift Sower
+1 [JVC:15] Riftwing Cloudskate
+1 [VMA:228] Roar of the Wurm
+1 [MID:238] Rootcoil Creeper
+1 [ELD:174] Rosethorn Acolyte
+1 [KHC:6] Sage of the Beyond
+1 [CMR:641] Sakashima's Protege
+1 [CLB:94] Sapphire Dragon
+1 [KHM:76] Saw It Coming
+1 [HOP:77] Search for Tomorrow
+1 [WHO:109] Sisterhood of Karn
+1 [OTC:16] Smirking Spelljacker
+1 [3ED:274] Sol Ring
+1 [TOR:15] Spirit Flare
+1 [KHC:5] Stoic Farmer
+1 [WOE:187] Stormkeld Vanguard
+1 [DMR:203] Tatyova, Benthic Druid
+1 [WOE:238] Tempest Hart
+1 [CLB:271] The Council of Four
+1 [40K:27*] Vanguard Suppressor
+1 [PRM:88374] Vega, the Watcher
+1 [CLB:639] Venture Forth
+1 [DRC:183] Vineglimmer Snarl
+1 [OTJ:76] Visage Bandit
+1 [ACR:116] Waterlogged Grove
+1 [DMU:261] Yavimaya Coast
+1 [RVR:421] Spark Double
+SB: 1 [OTJ:213] Kellan, the Kid
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([SLD:799],[3ED:274])([C16:82],[CMR:216],[OTJ:316],[CLB:818],[ELD:149],[WOE:161],[CLB:11],[C15:10],[JVC:20],[KHC:16],[BLC:30],[OTJ:319],[CLB:695],[FUT:37],[C20:217],[WHO:106],[MKM:212],[MB2:84],[CMM:102],[CMM:42],[EMA:61],[BLC:6],[WOC:71],[MH2:170],[JVC:15],[MID:238],[ELD:174],[KHC:6],[CMR:641],[CLB:94],[WHO:109],[OTC:16],[KHC:5],[WOE:187],[DMR:203],[WOE:238],[CLB:271],[40K:27*],[PRM:88374],[OTJ:76],[RVR:421])([WOE:331],[WOT:3])([KHM:46],[KHM:53],[LCI:59],[KHM:17],[CLB:829],[KHM:76],[TOR:15])([EOC:147],[WOC:156],[WOC:159],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[WOC:161],[EOC:160],[LCI:273],[LCI:274],[LCI:276],[ISD:241],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[AFC:251],[WOC:165],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[VOC:178],[DRC:183],[ACR:116],[DMU:261])([J21:53],[BLC:110],[J25:304],[PRM:88218],[C21:27],[OTJ:218],[LCC:167],[VMA:228],[HOP:77],[CLB:639])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([OTJ:213])

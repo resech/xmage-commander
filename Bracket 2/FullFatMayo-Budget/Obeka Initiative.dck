@@ -1,0 +1,75 @@
+1 [CLB:54] Aarakocra Sneak
+1 [GN3:67] Abrade
+1 [CLB:712] Aether Gale
+1 [FUT:94] Arc Blade
+1 [WOT:14] As Foretold
+1 [J25:289] Blink of an Eye
+1 [CLB:164] Bloodboil Sorcerer
+1 [CMM:372] Brass Knuckles
+1 [CLB:167] Caves of Chaos Adventurer
+1 [DSK:128] Chainsaw
+1 [VOC:162] Charcoal Diamond
+1 [MKC:26] Charnel Serenade
+1 [RTR:227] Civic Saber
+1 [WOC:156] Command Tower
+1 [CMR:170] Court of Ire
+1 [MH3:180] Cranial Ram
+1 [RAV:260] Dimir Signet
+1 [KTK:37] Disdainful Stroke
+1 [CLB:483] Dungeon Delver
+1 [WOC:159] Exotic Orchard
+1 [CLB:69] Feywild Caretaker
+1 [VOC:164] Fire Diamond
+1 [MH3:123] Ghostfire Slice
+1 [SNC:238] Gilded Pinions
+1 [AFR:246] Hand of Vecna
+1 [CMM:166] Heartless Act
+1 [J22:776] Hero's Blade
+1 [DMU:231] Hero's Heirloom
+1 [C21:27] Inspiring Refrain
+11 [KTK:254] Island
+1 [GPT:152] Izzet Signet
+1 [FUT:157] Jhoira of the Ghitu
+1 [GNT:31] Languish
+1 [SLP:44] Laughing Jasper Flint
+1 [CLB:631] Loot Dispute
+1 [TPR:58] Mana Leak
+1 [WOC:99] Midnight Clock
+10 [KTK:262] Mountain
+1 [BBD:123] Negate
+1 [VMA:131] Nightscape Familiar
+1 [SOK:157] O-Naginata
+1 [CLB:141] Passageway Seer
+1 [WOC:165] Path of Ancestry
+1 [MAT:18] Plargg and Nassari
+1 [CLB:293] Rilsa Rael, Kingpin
+1 [M13:211] Ring of Evos Isle
+1 [CMR:469] Ring of Valkas
+1 [M13:215] Ring of Xathrid
+1 [GN3:37] Run Away Together
+1 [SNC:59] Security Bypass
+1 [PIP:119] Shaun, Father of Synths
+1 [DMU:64] Shore Up
+1 [SIR:177] Sin Prodder
+1 [VOC:167] Sky Diamond
+1 [3ED:274] Sol Ring
+1 [DRC:137] Solar Transformer
+1 [CLB:195] Stirring Bard
+1 [BBD:64] Stolen Strategy
+1 [THB:157] Storm's Wrath
+9 [KTK:258] Swamp
+1 [3ED:132] Terror
+1 [WHO:561z] The Tenth Doctor
+1 [WHO:375] The Toymaker's Trap
+1 [J22:361] Thopter Spy Network
+1 [J22:822] Thriving Bluff
+1 [J22:825] Thriving Isle
+1 [J22:826] Thriving Moor
+1 [CLB:100] Tomb of Horrors Adventurer
+1 [RIX:88] Twilight Prophet
+1 [VOW:134] Undying Malice
+1 [CLB:155] Vicious Battlerager
+1 [LCC:119] Whispersilk Cloak
+SB: 1 [OTJ:222] Obeka, Splitter of Seconds
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([CMM:372],[DSK:128],[VOC:162],[RTR:227],[MH3:180],[RAV:260],[VOC:164],[SNC:238],[AFR:246],[J22:776],[DMU:231],[GPT:152],[WOC:99],[SOK:157],[M13:211],[CMR:469],[M13:215],[VOC:167],[3ED:274],[DRC:137],[LCC:119])([CLB:54],[CLB:164],[CLB:167],[CLB:69],[FUT:157],[SLP:44],[VMA:131],[CLB:141],[MAT:18],[CLB:293],[PIP:119],[SIR:177],[CLB:195],[WHO:561z],[CLB:100],[RIX:88],[CLB:155])([WOT:14],[CMR:170],[CLB:483],[CLB:631],[SNC:59],[BBD:64],[WHO:375],[J22:361])([GN3:67],[J25:289],[KTK:37],[MH3:123],[CMM:166],[TPR:58],[BBD:123],[GN3:37],[DMU:64],[3ED:132],[VOW:134])([WOC:156],[WOC:159],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[WOC:165],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[J22:822],[J22:825],[J22:826])([CLB:712],[FUT:94],[MKC:26],[C21:27],[GNT:31],[THB:157])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([OTJ:222])

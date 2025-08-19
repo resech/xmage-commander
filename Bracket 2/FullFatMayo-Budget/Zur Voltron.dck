@@ -1,0 +1,74 @@
+1 [FRF:3] Abzan Runemark
+1 [WOC:59] Ajani's Chosen
+1 [ELD:324] Alela, Artful Provocateur
+1 [ELD:2] All That Glitters
+1 [THB:311] Aphemia, the Cacophony
+1 [WOC:145] Arcane Signet
+1 [J22:151] Archon of Sun's Grace
+1 [J22:809] Ash Barrens
+1 [DIS:159] Azorius Signet
+1 [BBD:89] Battle Mastery
+1 [DIS:4] Blessing of the Nephilim
+1 [NEO:363] Brilliant Restoration
+1 [AKH:83] Cartouche of Ambition
+1 [J22:3] Chains of Custody
+1 [VOC:162] Charcoal Diamond
+1 [DMU:44] Combat Research
+1 [WOC:156] Command Tower
+1 [DOM:49] Curator's Ward
+1 [ISD:49] Curiosity
+1 [M13:86] Dark Favor
+1 [KHM:53] Depart the Realm
+1 [RAV:260] Dimir Signet
+1 [3ED:17] Disenchant
+1 [EVE:87] Edge of the Divinity
+1 [DSK:290] Entity Tracker
+1 [ANB:49] Eternal Thirst
+1 [WOC:67] Ethereal Armor
+1 [J22:813] Evolving Wilds
+1 [WOC:159] Exotic Orchard
+1 [MH1:8] Face of Divinity
+1 [LCI:106] Fungal Fortitude
+1 [WOT:3] Grasp of Fate
+1 [CMM:166] Heartless Act
+1 [DMU:231] Hero's Heirloom
+1 [PC2:8] Hyena Umbra
+1 [MOM:23] Invasion of Theros
+10 [KTK:254] Island
+1 [GNT:31] Languish
+1 [M21:56] Lofty Denial
+1 [WOE:340] Lord Skitter's Blessing
+1 [TPR:58] Mana Leak
+1 [VOC:165] Marble Diamond
+1 [EMA:19] Mesa Enchantress
+1 [AFR:24] Minimus Containment
+1 [MID:115] Necrosynthesis
+1 [BBD:123] Negate
+1 [J21:752] Nettlecyst
+1 [GPT:155] Orzhov Signet
+12 [KTK:250] Plains
+1 [RNA:48] Quench
+1 [MKC:13] Redemption Arc
+1 [DMU:64] Shore Up
+1 [VOC:167] Sky Diamond
+1 [3ED:274] Sol Ring
+1 [IKO:31] Solid Footing
+1 [J22:247] Spectral Steel
+1 [DFT:64] Spell Pierce
+1 [MBS:134] Sphere of the Suns
+1 [AER:23] Sram, Senior Edificer
+1 [THB:228] Staggering Insight
+1 [WOC:77] Sun Titan
+1 [MH2:68] Suspend
+9 [KTK:258] Swamp
+1 [J25:156] Terramorphic Expanse
+1 [3ED:132] Terror
+1 [BRO:253] Thran Power Suit
+1 [EMN:78] Turn Aside
+1 [WOC:151] Wayfarer's Bauble
+1 [WOC:83] Winds of Rath
+1 [SNC:66] Witness Protection
+1 [AFR:85] You See a Guard Approach
+SB: 1 [DMR:206] Zur the Enchanter
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([WOC:145],[DIS:159],[VOC:162],[RAV:260],[DMU:231],[VOC:165],[J21:752],[GPT:155],[VOC:167],[3ED:274],[MBS:134],[BRO:253],[WOC:151])([MOM:23])([WOC:59],[ELD:324],[J22:151],[DSK:290],[EMA:19],[AER:23],[WOC:77])([THB:311])([FRF:3],[ELD:2],[BBD:89],[DIS:4],[AKH:83],[J22:3],[DMU:44],[DOM:49],[ISD:49],[M13:86],[EVE:87],[ANB:49],[WOC:67],[MH1:8],[LCI:106],[WOT:3],[PC2:8],[WOE:340],[AFR:24],[MID:115],[MKC:13],[IKO:31],[J22:247],[THB:228],[SNC:66])([KHM:53],[3ED:17],[CMM:166],[M21:56],[TPR:58],[BBD:123],[RNA:48],[DMU:64],[DFT:64],[MH2:68],[3ED:132],[EMN:78],[AFR:85])([J22:809],[WOC:156],[J22:813],[WOC:159],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[J25:156])([NEO:363],[GNT:31],[WOC:83])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DMR:206])

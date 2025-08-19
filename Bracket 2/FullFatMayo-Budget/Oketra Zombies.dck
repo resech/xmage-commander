@@ -1,0 +1,67 @@
+1 [FIC:231] Austere Command
+1 [PLG21:1] Aven Mindcensor
+1 [KLD:6] Aviary Mechanic
+1 [DOM:6] Benalish Marshal
+1 [DRC:63] Binding Mummy
+1 [MH2:381] Blacksmith's Skill
+1 [OTJ:6] Bovine Intervention
+1 [CLB:689] Bygone Bishop
+1 [SCD:10] Cartographer's Hawk
+1 [FDN:139] Cathar Commando
+1 [LTC:10] Champions of Minas Tirith
+1 [MH3:21] Charitable Levy
+1 [C19:1] Cliffside Rescuer
+1 [PIP:15] Commander Sofia Daguerre
+1 [RVR:304] Condemn
+1 [CLB:12] Contraband Livestock
+1 [CLB:15] Dawnbringer Cleric
+1 [DMU:16] Defiler of Faith
+1 [SCD:19] Dictate of Heliod
+1 [BRO:6] Disenchant
+1 [FDN:10] Divine Resilience
+1 [THS:16] Gods Willing
+1 [WHO:208] Grasp of Fate
+1 [LTR:241] Horn of the Mark
+1 [CLB:28] Inspiring Leader
+1 [FRF:15] Jeskai Barricade
+1 [BLC:107] Loyal Warhound
+1 [TDC:124] Mangara, the Diplomat
+1 [CLB:446] Marble Diamond
+1 [ONE:404] Mite Overseer
+1 [ONE:297] Myr Convert
+1 [PIP:274] Myriad Landscape
+1 [OTJ:20] Nurturing Pixie
+1 [SOI:31] Odric, Lunarch Marshal
+1 [DRC:21] On Wings of Gold
+1 [LTC:174] Palace Jailer
+1 [BLB:24] Parting Gust
+36 [BFZ:251a] Plains
+1 [KHM:20] Rally the Ranks
+1 [CLB:39] Rescuer Chwinga
+1 [RVR:26] Rootborn Defenses
+1 [SNC:29] Rumor Gatherer
+1 [CLB:41] Scouting Hawk
+1 [THB:37] Shatter the Sky
+1 [BLC:154] Skyclave Apparition
+1 [MKC:237] Sol Ring
+1 [DRC:137] Solar Transformer
+1 [40K:15] Space Marine Scout
+1 [BLC:155] Spirited Companion
+1 [MKC:87] Sun Titan
+1 [BRO:252] Symmetry Matrix
+1 [DSK:356] Toby, Beastie Befriender
+1 [C20:106] Unexpectedly Absent
+1 [DSK:39] Unwanted Remake
+1 [MIC:10] Wall of Mourning
+1 [TDC:138] Wall of Omens
+1 [LCC:317] Wayfarer's Bauble
+1 [DMR:35] Whitemane Lion
+1 [DRC:8] Wizened Mentor
+1 [LTR:290] Gandalf, White Rider
+1 [ELD:275] Giant Killer
+1 [MM3:11] Kor Skyfisher
+1 [TSR:45] Stonecloaker
+1 [OTC:12] We Ride at Dawn
+SB: 1 [DRC:66] God-Eternal Oketra
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([ONE:297])([LTR:241],[CLB:446],[MKC:237],[DRC:137],[BRO:252],[LCC:317])([PLG21:1],[KLD:6],[DOM:6],[DRC:63],[CLB:689],[SCD:10],[FDN:139],[LTC:10],[C19:1],[PIP:15],[CLB:15],[DMU:16],[FRF:15],[BLC:107],[TDC:124],[ONE:404],[OTJ:20],[SOI:31],[LTC:174],[CLB:39],[SNC:29],[CLB:41],[BLC:154],[40K:15],[MKC:87],[DSK:356],[MIC:10],[TDC:138],[DMR:35],[DRC:8],[LTR:290],[ELD:275],[MM3:11],[TSR:45])([BLC:155])([MH3:21],[SCD:19],[WHO:208],[CLB:28],[DRC:21],[KHM:20],[OTC:12])([MH2:381],[OTJ:6],[RVR:304],[CLB:12],[BRO:6],[FDN:10],[THS:16],[BLB:24],[RVR:26],[C20:106],[DSK:39])([PIP:274],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a])([FIC:231],[THB:37])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DRC:66])

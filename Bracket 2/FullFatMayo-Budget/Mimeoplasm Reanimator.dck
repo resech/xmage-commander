@@ -1,0 +1,83 @@
+1 [CLB:712] Aether Gale
+1 [DSK:166] Altanak, the Thrice-Called
+1 [BFZ:1] Bane of Bala Ged
+1 [SOM:112] Blight Mamba
+1 [MH3:1] Breaker of Creation
+1 [SNC:418] Cemetery Tampering
+1 [WOC:155] Choked Estuary
+1 [AFC:183] Cold-Eyed Selkie
+1 [NEO:216] Colossal Skyturtle
+1 [WOC:156] Command Tower
+1 [DSC:37] Convert to Slime
+1 [SLD:838] Corpse Connoisseur
+1 [VOW:193] Crawling Infestation
+1 [J22:642] Crawling Sensation
+1 [STX:177] Decisive Denial
+1 [DFT:157] Defend the Rider
+1 [ISD:52] Deranged Assistant
+1 [KTK:37] Disdainful Stroke
+1 [DSK:213] Drag to the Roots
+1 [CMA:56] Dread Summons
+1 [FUT:144] Edge of Autumn
+1 [CLB:125] Elder Brain
+1 [WOC:159] Exotic Orchard
+1 [NCC:402] Flooded Grove
+8 [KTK:266] Forest
+1 [J25:147] Forgotten Ancient
+1 [VOC:105] Ghostly Pilferer
+1 [CMM:897] Greater Tanuki
+1 [TDM:145] Heritage Reclamation
+7 [KTK:254] Island
+1 [TDM:202] Kotis, the Fangkeeper
+1 [J25:681] Krosan Tusker
+1 [PIP:399] Lily Bowen, Raging Grandma
+1 [CMM:102] Looter il-Kor
+1 [TDM:204] Lotuslight Dancers
+1 [TPR:58] Mana Leak
+1 [PORI:186s] Managorger Hydra
+1 [EMA:61] Merfolk Looter
+1 [EMA:226] Millikin
+1 [NEO:63] Mirrorshell Crab
+1 [DFT:171] Molt Tender
+1 [CMM:1015] Necroblossom Snarl
+1 [BBD:123] Negate
+1 [AFC:189] Obsessive Stitcher
+1 [KTK:238] Opulent Palace
+1 [BRO:110] Overwhelming Remorse
+1 [WOC:165] Path of Ancestry
+1 [DRC:15] Rampaging Aetherhood
+1 [M3C:66] Rampant Frogantua
+1 [SLD:2029] Resculpt
+1 [ACR:211] Restart Sequence
+1 [LTR:221] Rise of the Witch-king
+1 [GN3:37] Run Away Together
+1 [CHK:239] Sakura-Tribe Elder
+1 [HOP:77] Search for Tomorrow
+1 [BLB:382] Shoreline Looter
+1 [SLD:1832] Simic Ascendancy
+1 [J25:713] Snakeskin Veil
+1 [3ED:274] Sol Ring
+1 [DFT:64] Spell Pierce
+1 [J22:472] Stitcher's Supplier
+1 [CMM:122] Stormsurge Kraken
+1 [HOU:48] Striped Riverwinder
+1 [MID:288] Suspicious Stowaway
+7 [KTK:258] Swamp
+1 [WOC:169] Tainted Isle
+1 [CMA:276] Tainted Wood
+1 [LCI:127] Terror Tide
+1 [CM1:12] The Mimeoplasm
+1 [9ED:104] Thought Courier
+1 [J22:823] Thriving Grove
+1 [J22:825] Thriving Isle
+1 [J22:826] Thriving Moor
+1 [DRC:183] Vineglimmer Snarl
+1 [DMU:226] Vohar, Vodalian Desecrator
+1 [WOC:151] Wayfarer's Bauble
+1 [AFR:126] Westgate Regent
+1 [DMU:261] Yavimaya Coast
+1 [RVR:245] Find // Finality
+1 [DDJ:77] Life // Death
+SB: 1 [DFT:214] Mimeoplasm, Revered One
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([EMA:226],[NEO:63])([3ED:274],[WOC:151])([DSK:166],[BFZ:1],[SOM:112],[MH3:1],[AFC:183],[SLD:838],[ISD:52],[CLB:125],[J25:147],[VOC:105],[TDM:202],[J25:681],[PIP:399],[CMM:102],[TDM:204],[PORI:186s],[EMA:61],[DFT:171],[AFC:189],[DRC:15],[M3C:66],[CHK:239],[BLB:382],[J22:472],[CMM:122],[HOU:48],[MID:288],[CM1:12],[9ED:104],[DMU:226],[AFR:126])([NEO:216],[CMM:897])([SNC:418],[VOW:193],[J22:642],[SLD:1832])([STX:177],[DFT:157],[KTK:37],[DSK:213],[TDM:145],[TPR:58],[BBD:123],[BRO:110],[SLD:2029],[GN3:37],[J25:713],[DFT:64])([WOC:155],[WOC:156],[WOC:159],[NCC:402],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[CMM:1015],[KTK:238],[WOC:165],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[WOC:169],[CMA:276],[J22:823],[J22:825],[J22:826],[DRC:183],[DMU:261])([RVR:245],[DDJ:77])([CLB:712],[DSC:37],[CMA:56],[FUT:144],[ACR:211],[LTR:221],[HOP:77],[LCI:127])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DFT:214])

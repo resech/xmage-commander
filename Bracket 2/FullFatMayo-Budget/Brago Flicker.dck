@@ -1,0 +1,71 @@
+1 [DIS:159] Azorius Signet
+1 [NEO:48] Behold the Unspeakable
+1 [MH2:6] Blacksmith's Skill
+1 [CLB:482] Candlekeep Sage
+1 [J22:760] Circuit Mender
+1 [AFC:182] Cloudblazer
+1 [BRO:35] Combat Thresher
+1 [AFR:9] Dawnbringer Cleric
+1 [SNC:10] Depopulate
+1 [KTK:37] Disdainful Stroke
+1 [3ED:17] Disenchant
+1 [WAR:195] Elite Guardmage
+1 [THB:13] Elspeth Conquers Death
+1 [J22:813] Evolving Wilds
+1 [J25:306] Exclusion Mage
+1 [CLB:18] Flaming Fist
+1 [ISD:17] Geist-Honored Monk
+1 [MH3:186] Genku, Future Shaper
+1 [SNC:238] Gilded Pinions
+1 [KHC:4] Hero of Bretagard
+1 [J21:763] Ichor Wellspring
+18 [KTK:254] Island
+1 [DGM:80] Lavinia of the Tenth
+1 [M21:56] Lofty Denial
+1 [MH2:49] Lose Focus
+1 [ONE:208] Malcator, Purity Overseer
+1 [VIS:37] Man-o'-War
+1 [TPR:58] Mana Leak
+1 [VOC:165] Marble Diamond
+1 [MM3:15] Master Splicer
+1 [EMA:60] Memory Lapse
+1 [J22:786] Meteor Golem
+1 [WOC:148] Mind Stone
+1 [ONE:234] Myr Convert
+1 [BBD:123] Negate
+1 [CLB:331] Noble's Purse
+1 [J25:336] Omen of the Sea
+1 [BBD:128] Peregrine Drake
+15 [KTK:250] Plains
+1 [AFR:35] Priest of Ancient Lore
+1 [EMA:230] Prismatic Lens
+1 [CLB:334] Prized Statue
+1 [RNA:48] Quench
+1 [TSR:81] Reality Acid
+1 [SLD:2029] Resculpt
+1 [JVC:15] Riftwing Cloudskate
+1 [MMQ:93] Rishadan Cutpurse
+1 [MMQ:94] Rishadan Footpad
+1 [EXO:43] Robe of Mirrors
+1 [GN3:37] Run Away Together
+1 [DSC:251] Scroll of Fate
+1 [GN3:38] Sea Gate Oracle
+1 [2X2:29] Sensor Splicer
+1 [THB:302] Shatter the Sky
+1 [VOC:167] Sky Diamond
+1 [3ED:274] Sol Ring
+1 [DFT:64] Spell Pierce
+1 [MBS:134] Sphere of the Suns
+1 [J22:248] Spirited Companion
+1 [NCC:381] Strionic Resonator
+1 [WOC:77] Sun Titan
+1 [MH2:68] Suspend
+1 [VOC:169] Swiftfoot Boots
+1 [ACR:182] Tax Collector
+1 [J25:156] Terramorphic Expanse
+1 [THB:5] The Birth of Meletis
+1 [NEO:12] The Fall of Lord Konda
+1 [MAT:8] Tolarian Contempt
+SB: 1 [VMA:246] Brago, King Eternal
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([J22:760],[BRO:35],[J22:786],[ONE:234])([DIS:159],[SNC:238],[J21:763],[VOC:165],[WOC:148],[CLB:331],[EMA:230],[CLB:334],[DSC:251],[VOC:167],[3ED:274],[MBS:134],[NCC:381],[VOC:169])([AFC:182],[AFR:9],[WAR:195],[J25:306],[ISD:17],[MH3:186],[KHC:4],[DGM:80],[ONE:208],[VIS:37],[MM3:15],[BBD:128],[AFR:35],[JVC:15],[MMQ:93],[MMQ:94],[GN3:38],[2X2:29],[WOC:77],[ACR:182])([J22:248])([NEO:48],[CLB:482],[THB:13],[CLB:18],[J25:336],[TSR:81],[EXO:43],[THB:5],[NEO:12],[MAT:8])([MH2:6],[KTK:37],[3ED:17],[M21:56],[MH2:49],[TPR:58],[EMA:60],[BBD:123],[RNA:48],[SLD:2029],[GN3:37],[DFT:64],[MH2:68])([J22:813],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[J25:156])([SNC:10],[THB:302])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([VMA:246])

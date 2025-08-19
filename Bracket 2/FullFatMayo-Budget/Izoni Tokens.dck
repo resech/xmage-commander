@@ -1,0 +1,73 @@
+1 [BLC:205] Arasta of the Endless Web
+1 [DSC:131] Bastion of Remembrance
+1 [TDC:98] Casualties of War
+1 [DSC:135] Cemetery Tampering
+1 [MKM:157] Chalk Outline
+1 [CLB:442] Charcoal Diamond
+1 [MKC:26] Charnel Serenade
+1 [CLB:221] Cloakwood Hermit
+1 [BLB:86] Coiling Rebirth
+1 [WHO:263] Command Tower
+1 [CMM:281] Crawling Infestation
+1 [TDC:252] Crawling Sensation
+1 [M3C:259] Deathreap Ritual
+1 [DFT:157] Defend the Rider
+1 [STX:178] Dina, Soul Steeper
+1 [M14:96] Doom Blade
+1 [DSK:213] Drag to the Roots
+1 [C13:76] Endrek Sahr, Master Breeder
+1 [C21:288] Exotic Orchard
+1 [DRC:112] Explosive Vegetation
+1 [C15:124] Extractor Demon
+1 [PIP:216] Find // Finality
+16 [M14:246] Forest
+1 [LCI:186] Glimpse the Core
+1 [DFT:87] Gonti, Night Minister
+1 [DSC:181] Greater Tanuki
+1 [2X2:222] Grim Flayer
+1 [MKM:88] Illicit Masquerade
+1 [OTC:137] Kamber, the Plunderer
+1 [MIC:142] Kessig Cagebreakers
+1 [PIP:185] Lethal Scheme
+1 [OTJ:244] Luxurious Locomotive
+1 [LTR:445] Many Partings
+1 [TDC:262] Migration Path
+1 [DMR:231] Millikin
+1 [LTR:421] Mirkwood Bats
+1 [DFT:171] Molt Tender
+1 [CLB:448] Moss Diamond
+1 [PIP:274] Myriad Landscape
+1 [MH3:275] Nadier's Nightblade
+1 [TDC:298] Nyx Weaver
+1 [VOW:326] Old Rutstein
+1 [LTR:315] Peregrin Took
+1 [MKM:170] Pick Your Poison
+1 [MKC:135] Price of Fame
+1 [WOE:181] Return from the Wilds
+1 [WAR:175] Return to Nature
+1 [WOE:183] Royal Treatment
+1 [STX:228] Rushed Rebirth
+1 [TDC:267] Satyr Wayfinder
+1 [BLB:111] Scavenger's Talent
+1 [CLB:145] Scion of Halaster
+1 [TDM:159] Snakeskin Veil
+1 [MKM:105] Snarling Gorehound
+1 [MKC:237] Sol Ring
+1 [2X2:93] Supernatural Stamina
+15 [MKM:282] Swamp
+1 [M3C:207] Syr Konrad, the Grim
+1 [BLC:337] Tainted Wood
+1 [PIP:86] Tato Farmer
+1 [LCI:372] Terror Tide
+1 [FIC:316] Tireless Tracker
+1 [CLU:48] Tribune of Rot
+1 [FDN:528] Undying Malice
+1 [LCC:317] Wayfarer's Bauble
+1 [BLB:203] Wear Down
+1 [DMR:352] Wild Growth
+1 [IKO:176] Wilt
+1 [MMQ:271] Snake Pit
+1 [LCI:313] Throne of the Grim Captain
+SB: 1 [MKM:362] Izoni, Center of the Web
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([DMR:231])([CLB:442],[OTJ:244],[CLB:448],[MKC:237],[LCC:317],[LCI:313])([STX:178],[C13:76],[C15:124],[DFT:87],[2X2:222],[OTC:137],[MIC:142],[LTR:421],[DFT:171],[MH3:275],[VOW:326],[LTR:315],[TDC:267],[MKM:105],[M3C:207],[PIP:86],[FIC:316],[CLU:48])([BLC:205],[DSC:181],[TDC:298])([DSC:131],[DSC:135],[MKM:157],[CLB:221],[CMM:281],[TDC:252],[M3C:259],[MKM:88],[BLB:111],[CLB:145],[DMR:352],[MMQ:271])([DFT:157],[M14:96],[DSK:213],[PIP:185],[MKC:135],[WAR:175],[WOE:183],[STX:228],[TDM:159],[2X2:93],[FDN:528],[IKO:176])([WHO:263],[C21:288],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[PIP:274],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[BLC:337])([PIP:216])([TDC:98],[MKC:26],[BLB:86],[DRC:112],[LCI:186],[LTR:445],[TDC:262],[MKM:170],[WOE:181],[LCI:372],[BLB:203])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MKM:362])

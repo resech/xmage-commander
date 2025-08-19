@@ -1,0 +1,76 @@
+1 [CMM:72] Aether Gale
+1 [DSC:131] Bastion of Remembrance
+1 [WHO:263] Command Tower
+1 [M3C:259] Deathreap Ritual
+1 [OTP:42] Decisive Denial
+1 [DFT:157] Defend the Rider
+1 [MKC:21] Detective of the Month
+1 [DSC:270] Dimir Aqueduct
+1 [STX:178] Dina, Soul Steeper
+1 [WOE:47] Disdainful Stroke
+1 [FDN:103] Elfsworn Giant
+1 [MH3:61] Emrakul's Messenger
+1 [MKC:105] Ethereal Investigator
+1 [M3C:260] Eureka Moment
+1 [C21:288] Exotic Orchard
+1 [J25:146] Explore
+1 [LCC:196] Falkenrath Noble
+1 [CMR:225] Farhaven Elf
+11 [M14:246] Forest
+1 [FDN:221] Genesis Wave
+1 [LCI:186] Glimpse the Core
+1 [TDC:368] Golgari Rot Farm
+1 [MKM:88] Illicit Masquerade
+1 [TDC:182] Infernal Grasp
+1 [ZEN:49] Ior Ruin Expedition
+10 [J25:86] Island
+1 [BLC:225] Jolrael, Mwonvuli Recluse
+1 [LCC:273] Kiora's Follower
+1 [M11:62] Mana Leak
+1 [HML:32b] Memory Lapse
+1 [FDN:47] Mischievous Mystic
+1 [DSC:148] Morbid Opportunist
+1 [MKC:112] Nadir Kraken
+1 [M13:62] Negate
+1 [C18:17] Night Incarnate
+1 [WHO:293] Path of Ancestry
+1 [BLC:256] Poison-Tip Archer
+1 [EMN:167] Primal Druid
+1 [BLC:282] Psychosis Crawler
+1 [M3C:239] Rampaging Baloths
+1 [CMM:115] Resculpt
+1 [DSC:126] Retreat to Coralhelm
+1 [BFZ:121] Retreat to Hagra
+1 [WAR:175] Return to Nature
+1 [CLB:92] Run Away Together
+1 [TSR:227] Scryb Ranger
+1 [DMU:64] Shore Up
+1 [MKC:139] Shriekmaw
+1 [M3C:377] Simic Growth Chamber
+1 [MKC:237] Sol Ring
+1 [ZEN:112] Soul Stair Expedition
+1 [DFT:64] Spell Pierce
+1 [TDC:271] Springbloom Druid
+8 [MKM:282] Swamp
+1 [DSC:235] Tatyova, Benthic Druid
+1 [DFT:68] Thopter Fabricator
+1 [J22:823] Thriving Grove
+1 [J25:778] Thriving Isle
+1 [WWK:41] Tideforce Elemental
+1 [FIC:316] Tireless Tracker
+1 [FDN:76] Vengeful Bloodwitch
+1 [OTC:249] Villainous Wealth
+1 [MBS:95] Viridian Emissary
+1 [ONE:309] Vraan, Executioner Thane
+1 [LCC:317] Wayfarer's Bauble
+1 [BLB:203] Wear Down
+1 [TDC:201] Woe Strider
+1 [AER:75] Yahenni's Expertise
+1 [CMM:334] Yisan, the Wanderer Bard
+1 [DSC:8] Zimone, Mystery Unraveler
+1 [IKO:366] Heartless Act
+1 [MH2:285] Quirion Ranger
+1 [J22:362] Tolarian Kraken
+SB: 1 [MOM:318] Zimone and Dina
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([BLC:282])([MKC:237],[DFT:68],[LCC:317])([MKC:21],[STX:178],[FDN:103],[MH3:61],[MKC:105],[LCC:196],[CMR:225],[BLC:225],[LCC:273],[FDN:47],[DSC:148],[MKC:112],[C18:17],[BLC:256],[EMN:167],[M3C:239],[TSR:227],[MKC:139],[TDC:271],[DSC:235],[WWK:41],[FIC:316],[FDN:76],[MBS:95],[ONE:309],[TDC:201],[CMM:334],[DSC:8],[MH2:285],[J22:362])([DSC:131],[M3C:259],[MKM:88],[ZEN:49],[DSC:126],[BFZ:121],[ZEN:112])([OTP:42],[DFT:157],[WOE:47],[M3C:260],[TDC:182],[M11:62],[HML:32b],[M13:62],[CMM:115],[WAR:175],[CLB:92],[DMU:64],[DFT:64],[IKO:366])([WHO:263],[DSC:270],[C21:288],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[TDC:368],[J25:86],[J25:86],[J25:86],[J25:86],[J25:86],[J25:86],[J25:86],[J25:86],[J25:86],[J25:86],[WHO:293],[M3C:377],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[J22:823],[J25:778])([CMM:72],[J25:146],[FDN:221],[LCI:186],[OTC:249],[BLB:203],[AER:75])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MOM:318])

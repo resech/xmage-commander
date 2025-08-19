@@ -1,0 +1,74 @@
+1 [RNA:2] Angelic Exaltation
+1 [THB:165] Arasta of the Endless Web
+1 [WOC:145] Arcane Signet
+1 [CMM:916] Battle for Bretagard
+1 [AFC:180] Behemoth Sledge
+1 [MH2:6] Blacksmith's Skill
+1 [OTJ:6] Bovine Intervention
+1 [CLB:269] Cadira, Caller of the Small
+1 [FDN:295] Celestial Armor
+1 [KHM:6] Clarion Spirit
+1 [WOC:156] Command Tower
+1 [PIP:56] Crimson Caravaneer
+1 [DMR:188] Decimate
+1 [DFT:157] Defend the Rider
+1 [3ED:17] Disenchant
+1 [FDN:10] Divine Resilience
+1 [PC2:87] Dragonlair Spider
+1 [FUT:144] Edge of Autumn
+1 [WOC:2] Ellivere of the Wild Court
+1 [CLU:5] Emissary Green
+1 [WOC:159] Exotic Orchard
+1 [J25:146] Explore
+1 [VOC:164] Fire Diamond
+1 [CLB:18] Flaming Fist
+10 [KTK:266] Forest
+1 [MH3:123] Ghostfire Slice
+1 [SNC:238] Gilded Pinions
+1 [J22:769] Goldvein Pick
+1 [CLB:179] Guild Artisan
+1 [SNC:109] Hoard Hauler
+1 [CLB:26] Horn of Valhalla
+1 [VOW:204] Howling Moon
+1 [CLB:28] Inspiring Leader
+1 [ISD:19] Intangible Virtue
+1 [DMR:165] Jolrael, Mwonvuli Recluse
+1 [LCI:231] Kellan, Daring Traveler
+1 [AFC:132] Loyal Apprentice
+1 [OTJ:244] Luxurious Locomotive
+1 [J22:570] Mad Ratter
+1 [VOC:165] Marble Diamond
+1 [SHM:231] Mercy Killing
+1 [MH3:128] Molten Gatekeeper
+1 [CLB:327] Moss Diamond
+8 [KTK:262] Mountain
+1 [MKM:27] No Witnesses
+1 [LTR:181] Peregrin Took
+13 [KTK:250] Plains
+1 [DMU:210] Queen Allenal of Ruadach
+1 [J25:704] Rampant Growth
+1 [THB:197] Return to Nature
+1 [CLU:71] Rootborn Defenses
+1 [WOE:183] Royal Treatment
+1 [HOP:77] Search for Tomorrow
+1 [CLB:43] Slaughter the Strong
+1 [NEC:22] Smoke Spirits' Aid
+1 [J25:713] Snakeskin Veil
+1 [3ED:274] Sol Ring
+1 [C19:203] Sundering Growth
+1 [J22:822] Thriving Bluff
+1 [J22:823] Thriving Grove
+1 [J22:824] Thriving Heath
+1 [GPT:20] To Arms!
+1 [DSK:306] Unwanted Remake
+1 [DFT:226] Veteran Beastrider
+1 [CLB:48] Veteran Soldier
+1 [WOC:151] Wayfarer's Bauble
+1 [OTC:12] We Ride at Dawn
+1 [CLB:49] White Plume Adventurer
+1 [DRC:8] Wizened Mentor
+1 [STX:261] Zephyr Boots
+1 [NCC:278] Zurzoth, Chaos Rider
+SB: 1 [BLB:205] Baylen, the Haymaker
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([MH3:128])([WOC:145],[AFC:180],[FDN:295],[VOC:164],[SNC:238],[J22:769],[SNC:109],[CLB:26],[OTJ:244],[VOC:165],[CLB:327],[3ED:274],[WOC:151],[STX:261])([CLB:269],[KHM:6],[PIP:56],[PC2:87],[WOC:2],[CLU:5],[DMR:165],[LCI:231],[AFC:132],[J22:570],[LTR:181],[DMU:210],[DFT:226],[CLB:49],[DRC:8],[NCC:278])([THB:165])([RNA:2],[CMM:916],[CLB:18],[CLB:179],[VOW:204],[CLB:28],[ISD:19],[CLB:48],[OTC:12])([MH2:6],[OTJ:6],[DFT:157],[3ED:17],[FDN:10],[MH3:123],[SHM:231],[THB:197],[CLU:71],[WOE:183],[J25:713],[C19:203],[GPT:20],[DSK:306])([WOC:156],[WOC:159],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[J22:822],[J22:823],[J22:824])([DMR:188],[FUT:144],[J25:146],[MKM:27],[J25:704],[HOP:77],[CLB:43],[NEC:22])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BLB:205])

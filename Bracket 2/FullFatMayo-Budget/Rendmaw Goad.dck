@@ -1,0 +1,71 @@
+1 [BLC:205] Arasta of the Endless Web
+1 [BRC:103] Armix, Filigree Thrasher
+1 [MKM:77] Barbed Servitor
+1 [OTC:253] Bladegriff Prototype
+1 [ZEN:80] Blood Seeker
+1 [CLB:302] Bronze Walrus
+1 [WHO:263] Command Tower
+1 [SOM:146] Copper Myr
+1 [KHM:82] Crippling Fear
+1 [MH2:245] Darkmoss Bridge
+1 [DFT:157] Defend the Rider
+1 [DSC:31] Demolisher Spawn
+1 [NEO:93] Dockside Chef
+1 [MID:97] Dreadhound
+1 [C21:288] Exotic Orchard
+1 [J25:146] Explore
+1 [2X2:75] Eyeblight's Ending
+16 [M14:246] Forest
+1 [DSC:34] Formless Genesis
+1 [LRW:214] Gilt-Leaf Ambush
+1 [LCI:186] Glimpse the Core
+1 [NEO:219] Gloomshrieker
+1 [MRD:191] Leaden Myr
+1 [LTC:252] Lignify
+1 [40K:38] Lokhust Heavy Destroyer
+1 [FDN:714] Massacre Wurm
+1 [FDN:256] Meteor Golem
+1 [DSC:148] Morbid Opportunist
+1 [ONE:297] Myr Convert
+1 [OTJ:246] Oasis Gardener
+1 [DSK:112] Osseous Sticktwister
+1 [BRR:103] Phyrexian Revoker
+1 [BLC:256] Poison-Tip Archer
+1 [PLS:88] Pygmy Kavu
+1 [MM2:157] Rampant Growth
+1 [M14:191] Ranger's Guile
+1 [MH3:105] Refurbished Familiar
+1 [LTC:207] Revenge of Ravens
+1 [WOE:183] Royal Treatment
+1 [CLB:336] Rug of Smothering
+1 [STX:228] Rushed Rebirth
+1 [CMM:406] Sandstone Oracle
+1 [KHM:246] Scorn Effigy
+1 [M19:245] Skyscanner
+1 [MKC:237] Sol Ring
+1 [BLC:284] Solemn Simulacrum
+1 [BRO:244] Spectrum Sentinel
+1 [CMR:344] Staunch Throneguard
+1 [2X2:93] Supernatural Stamina
+17 [MKM:282] Swamp
+1 [SOM:210] Sylvok Replica
+1 [BLC:337] Tainted Wood
+1 [MH3:175] Trickster's Elk
+1 [DSK:417] Twitching Doll
+1 [CLB:260] Undermountain Adventurer
+1 [FDN:528] Undying Malice
+1 [MOR:81] Violet Pall
+1 [NEO:128] Virus Beetle
+1 [MMA:104] Warren Weirding
+1 [BLB:203] Wear Down
+1 [DFT:109] Wickerfolk Indomitable
+1 [PCY:135] Wing Storm
+1 [ONE:246] Zenith Chronicler
+1 [5ED:142] Bad Moon
+1 [DBL:523] Foreboding Statue
+1 [MM2:87] Nameless Inversion
+1 [DCI:66] Signal Pest
+1 [M3C:68] Tarmogoyf Nest
+SB: 1 [DSC:5] Rendmaw, Creaking Nest
+LAYOUT MAIN:(1,12)(CARD_TYPE,false,50)|([BRC:103],[MKM:77],[OTC:253],[CLB:302],[SOM:146],[MRD:191],[40K:38],[FDN:256],[ONE:297],[OTJ:246],[DSK:112],[BRR:103],[MH3:105],[CLB:336],[CMM:406],[KHM:246],[M19:245],[BLC:284],[BRO:244],[CMR:344],[SOM:210],[DSK:417],[NEO:128],[DFT:109],[ONE:246],[DBL:523],[DCI:66])([MH2:245])([MKC:237])([ZEN:80],[MID:97],[FDN:714],[DSC:148],[BLC:256],[PLS:88],[CLB:260])([BLC:205],[DSC:31],[NEO:93],[NEO:219],[MH3:175])([LTC:207],[5ED:142])([DFT:157],[M14:191],[WOE:183],[STX:228],[2X2:93],[FDN:528])([LTC:252],[M3C:68])([2X2:75],[LRW:214],[MOR:81],[MM2:87])([DSC:34],[MMA:104])([WHO:263],[C21:288],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[M14:246],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[MKM:282],[BLC:337])([KHM:82],[J25:146],[LCI:186],[MM2:157],[BLB:203],[PCY:135])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DSC:5])

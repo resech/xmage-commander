@@ -1,0 +1,67 @@
+1 [GN3:67] Abrade
+1 [WOC:145] Arcane Signet
+1 [DSC:26] Barbflare Gremlin
+1 [J22:500] Blisterspit Gremlin
+1 [DSC:77] Blood Seeker
+1 [AFC:116] Chain Reaction
+1 [VMA:154] Chaos Warp
+1 [VOC:162] Charcoal Diamond
+1 [J22:748] Endbringer
+1 [EOC:137] Everflowing Chalice
+1 [J25:440] Fake Your Own Death
+1 [VOC:129] Feed the Swarm
+1 [VOC:164] Fire Diamond
+1 [J25:750] Fireshrieker
+1 [AKH:135] Harsh Mentor
+1 [CMM:389] Haunted Cloak
+1 [RTR:166] Havoc Festival
+1 [BLB:139] Hearthborn Battler
+1 [CMM:166] Heartless Act
+1 [RNA:106] Immolation Shaman
+1 [HOP:115] Iron Myr
+1 [DSC:222] Kaervek the Merciless
+1 [SLD:1807] Kardur, Doomscourge
+1 [GNT:31] Languish
+1 [HOP:116] Leaden Myr
+1 [J22:784] Loxodon Warhammer
+1 [DSC:145] Mask of Griselbrand
+1 [WOC:148] Mind Stone
+1 [NEM:94] Mogg Salvage
+18 [KTK:262] Mountain
+1 [ONE:234] Myr Convert
+1 [CMR:138] Nightshade Harvester
+1 [WOE:101] Not Dead After All
+1 [J22:450] Ob Nixilis, the Hate-Twisted
+1 [J21:753] Ornithopter of Paradise
+1 [3ED:122] Pestilence
+1 [MH3:131] Powerbalance
+1 [VOC:156] Rakdos Charm
+1 [SLD:1390] Rampaging Ferocidon
+1 [ELD:104] Revenge of Ravens
+1 [CLB:336] Rug of Smothering
+1 [ONE:147] Sawblade Scamp
+1 [PORI:160s] Scab-Clan Berserker
+1 [3ED:274] Sol Ring
+1 [DRC:137] Solar Transformer
+1 [J22:82] Spear Spewer
+1 [MBS:134] Sphere of the Suns
+1 [SPG:18] Star Compass
+1 [VMA:190] Sulfuric Vortex
+1 [GN3:62] Supernatural Stamina
+19 [KTK:258] Swamp
+1 [GN3:120] Sword of Vengeance
+1 [ACR:251] Terminate
+1 [3ED:132] Terror
+1 [WOE:248] The Irencrag
+1 [J22:613] Thermo-Alchemist
+1 [J22:481] Ulcerate
+1 [VOW:134] Undying Malice
+1 [F17:5] Unlicensed Disintegration
+1 [WOE:156] Unruly Catapult
+1 [MKM:147] Vengeful Tracker
+1 [WOC:151] Wayfarer's Bauble
+1 [CLB:206] Wild Magic Surge
+1 [EMA:235] Worn Powerstone
+SB: 1 [DSC:6] Valgavoth, Harrower of Souls
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([HOP:115],[HOP:116],[ONE:234],[J21:753],[CLB:336],[WOE:156])([WOC:145],[VOC:162],[EOC:137],[VOC:164],[J25:750],[CMM:389],[J22:784],[DSC:145],[WOC:148],[3ED:274],[DRC:137],[MBS:134],[SPG:18],[GN3:120],[WOE:248],[WOC:151],[EMA:235])([DSC:26],[J22:500],[DSC:77],[J22:748],[AKH:135],[BLB:139],[RNA:106],[DSC:222],[SLD:1807],[CMR:138],[SLD:1390],[ONE:147],[PORI:160s],[J22:82],[J22:613],[MKM:147])([RTR:166],[3ED:122],[MH3:131],[ELD:104],[VMA:190])([GN3:67],[VMA:154],[J25:440],[CMM:166],[NEM:94],[WOE:101],[VOC:156],[GN3:62],[ACR:251],[3ED:132],[J22:481],[VOW:134],[F17:5],[CLB:206])([KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258])([J22:450])([AFC:116],[VOC:129],[GNT:31])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DSC:6])

@@ -1,0 +1,68 @@
+1 [CLB:112] Armor of Shadows
+1 [UMA:2] Artisan of Kozilek
+1 [ANB:45] Bad Deal
+1 [CMR:300] Bladegriff Prototype
+1 [BFZ:3] Breaker of Armies
+1 [J22:636] Broken Bond
+1 [THS:213] Burnished Hart
+1 [VOC:162] Charcoal Diamond
+1 [STX:68] Crushing Disappointment
+1 [EMN:193] Cryptolith Fragment
+1 [SNC:419] Cut of the Profits
+1 [BFZ:6] Desolation Twin
+1 [GN3:47] Doom Blade
+1 [CM2:186] Dreamstone Hedron
+1 [EMA:220] Duplicant
+1 [J25:146] Explore
+17 [KTK:266] Forest
+1 [ROE:183] Gelatinous Genesis
+1 [NEC:118] Genesis Hydra
+1 [WAR:238] God-Pharaoh's Statue
+1 [RAV:262] Golgari Signet
+1 [AKH:169] Hapatra's Mark
+1 [CMM:166] Heartless Act
+1 [J22:774] Hedron Archive
+1 [CP1:4] Hydra Broodmaster
+1 [GNT:31] Languish
+1 [J25:149] Llanowar Elves
+1 [CM2:198] Loreseeker's Stone
+1 [J25:754] Maelstrom Colossus
+1 [FRF:74] Mardu Shadowspear
+1 [J22:786] Meteor Golem
+1 [DMC:135] Migration Path
+1 [CLB:327] Moss Diamond
+1 [CM2:202] Myr Battlesphere
+1 [KTK:142] Naturalize
+1 [CMR:137] Necrotic Hex
+1 [KLD:95] Night Market Lookout
+1 [NEO:117] Okiba Reckoner Raid
+1 [WWK:62] Pulse Tracker
+1 [J25:704] Rampant Growth
+1 [ISD:201] Ranger's Guile
+1 [BFZ:121] Retreat to Hagra
+1 [THB:197] Return to Nature
+1 [STX:228] Rushed Rebirth
+1 [M21:120] Sanctum of Stone Fangs
+1 [CM2:213] Sandstone Oracle
+1 [HOP:40] Shepherd of Rot
+1 [VIS:154] Sisay's Ring
+1 [3ED:274] Sol Ring
+1 [J25:715] Somberwald Beastmaster
+1 [CLB:874] Steel Hellkite
+19 [KTK:258] Swamp
+1 [HOP:42] Syphon Mind
+1 [H1R:37] Talisman of Resilience
+1 [PD3:7] Terastodon
+1 [3ED:132] Terror
+1 [CMM:867] The Eldest Reborn
+1 [ORI:121] Thornbow Archer
+1 [C13:268] Tower of Fortunes
+1 [UMA:8] Ulamog's Crusher
+1 [J25:507] Vicious Conquistador
+1 [GRN:89] Vicious Rumors
+1 [AFR:212] Wild Shape
+1 [BRC:20] Wondrous Crucible
+1 [M3C:261] Find // Finality
+SB: 1 [CMR:270] Belbe, Corrupted Observer
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([CMR:300],[THS:213],[EMA:220],[J25:754],[J22:786],[CM2:202],[CM2:213],[CLB:874])([VOC:162],[EMN:193],[CM2:186],[WAR:238],[RAV:262],[J22:774],[CM2:198],[CLB:327],[VIS:154],[3ED:274],[H1R:37],[C13:268],[BRC:20])([UMA:2],[BFZ:3],[BFZ:6],[NEC:118],[CP1:4],[J25:149],[FRF:74],[KLD:95],[WWK:62],[HOP:40],[J25:715],[PD3:7],[ORI:121],[UMA:8],[J25:507])([NEO:117],[BFZ:121],[M21:120],[CMM:867])([CLB:112],[STX:68],[GN3:47],[AKH:169],[CMM:166],[KTK:142],[ISD:201],[THB:197],[STX:228],[3ED:132],[AFR:212])([KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258])([M3C:261])([ANB:45],[J22:636],[SNC:419],[J25:146],[ROE:183],[GNT:31],[DMC:135],[CMR:137],[J25:704],[HOP:42],[GRN:89])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMR:270])

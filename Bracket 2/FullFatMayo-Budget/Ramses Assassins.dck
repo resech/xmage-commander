@@ -1,0 +1,70 @@
+1 [ACR:252] Adrestia
+1 [CLB:712] Aether Gale
+1 [WOC:145] Arcane Signet
+1 [ACR:12] Assassin Gauntlet
+1 [SNC:166] Aven Heartstabber
+1 [BOT:4] Blitzwing, Cruel Tormentor
+1 [GN3:114] Bloodthirsty Blade
+1 [ACR:282] Brotherhood Spy
+1 [VOC:162] Charcoal Diamond
+1 [DMU:44] Combat Research
+1 [WOC:156] Command Tower
+1 [CLB:745] Crippling Fear
+1 [ACR:130] Desmond Miles
+1 [KTK:37] Disdainful Stroke
+1 [FDN:588] Dive Down
+1 [GN3:47] Doom Blade
+1 [ACR:17] Eagle Vision
+1 [SIR:67] Essence Flux
+1 [MKM:200] Etrata, Deadly Fugitive
+1 [WOC:159] Exotic Orchard
+1 [VOC:129] Feed the Swarm
+1 [PC2:111] Fractured Powerstone
+1 [VOC:105] Ghostly Pilferer
+1 [DSK:102] Grievous Wound
+1 [CLB:130] Guildsworn Prowler
+1 [AFR:246] Hand of Vecna
+1 [J22:776] Hero's Blade
+1 [ACR:257] Hidden Blade
+1 [ACR:283] Hookblade Veteran
+1 [PM20:229p] Icon of Ancestry
+1 [J25:456] Infernal Grasp
+16 [KTK:254] Island
+1 [DFT:234] Lifecraft Engine
+1 [ACR:149] Lydia Frye
+1 [TPR:58] Mana Leak
+1 [NCC:347] Mask of Riddles
+1 [PWAR:99s] Massacre Girl
+1 [EMA:60] Memory Lapse
+1 [ACR:287] Merciless Harlequin
+1 [WOC:148] Mind Stone
+1 [ONE:234] Myr Convert
+1 [BBD:123] Negate
+1 [VIS:66] Nekrataal
+1 [CLB:140] Parasitic Impetus
+1 [ACR:288] Poison-Blade Mentor
+1 [EMA:230] Prismatic Lens
+1 [HOP:38] Profane Command
+1 [PC2:112] Quietus Spike
+1 [CLB:142] Ravenloft Adventurer
+1 [SLD:2029] Resculpt
+1 [3ED:125] Royal Assassin
+1 [GN3:37] Run Away Together
+1 [KTK:88] Ruthless Ripper
+1 [CMM:408] Scytheclaw
+1 [C19:128] Silumgar Assassin
+1 [VOC:167] Sky Diamond
+1 [ACR:259] Smoke Bomb
+1 [TSP:78] Snapback
+1 [3ED:274] Sol Ring
+1 [DRC:137] Solar Transformer
+1 [GN3:62] Supernatural Stamina
+18 [KTK:258] Swamp
+1 [ACR:31] The Revelations of Ezio
+1 [CMM:190] Thorn of the Black Rose
+1 [SWS:62] Vapor Snag
+1 [VOC:116] Verity Circle
+1 [WOC:151] Wayfarer's Bauble
+SB: 1 [DMC:39] Ramses, Assassin Lord
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([BOT:4],[ONE:234])([ACR:252],[WOC:145],[ACR:12],[GN3:114],[VOC:162],[PC2:111],[AFR:246],[J22:776],[ACR:257],[PM20:229p],[DFT:234],[NCC:347],[WOC:148],[EMA:230],[PC2:112],[CMM:408],[VOC:167],[ACR:259],[3ED:274],[DRC:137],[WOC:151])([SNC:166],[ACR:282],[ACR:130],[MKM:200],[VOC:105],[CLB:130],[ACR:283],[ACR:149],[PWAR:99s],[ACR:287],[VIS:66],[ACR:288],[CLB:142],[3ED:125],[KTK:88],[C19:128],[CMM:190])([DMU:44],[DSK:102],[CLB:140],[ACR:31],[VOC:116])([KTK:37],[FDN:588],[GN3:47],[SIR:67],[J25:456],[TPR:58],[EMA:60],[BBD:123],[SLD:2029],[GN3:37],[TSP:78],[GN3:62],[SWS:62])([WOC:156],[WOC:159],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258])([CLB:712],[CLB:745],[ACR:17],[VOC:129],[HOP:38])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DMC:39])

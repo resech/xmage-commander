@@ -1,0 +1,70 @@
+1 [RIX:122] Aggressive Urge
+1 [MAT:20] Animist's Might
+1 [J25:631] Audacity
+1 [J25:641] Bushwhack
+1 [STX:124] Charge Through
+1 [DFT:157] Defend the Rider
+1 [FUT:144] Edge of Autumn
+1 [J25:146] Explore
+1 [CLB:824] Ezuri's Predation
+1 [VIS:107] Feral Instinct
+1 [BBD:198] Fertile Ground
+33 [KTK:266] Forest
+1 [TMP:228] Frog Tongue
+1 [NEC:118] Genesis Hydra
+1 [LCI:186] Glimpse the Core
+1 [PIO:176] Gnarlback Rhino
+1 [AKH:169] Hapatra's Mark
+1 [DMU:231] Hero's Heirloom
+1 [LCI:276] Hidden Nursery
+1 [MH3:157] Horrific Assault
+1 [CMM:296] Hunter's Insight
+1 [BLB:179] Hunter's Talent
+1 [CMD:161] Hydra Omnivore
+1 [CN2:183] Irresistible Prey
+1 [F10:8] Krosan Grip
+1 [J22:784] Loxodon Warhammer
+1 [PORI:186s] Managorger Hydra
+1 [CLB:327] Moss Diamond
+1 [AFC:251] Mosswort Bridge
+1 [WOC:164] Myriad Landscape
+1 [PIO:383] Natural State
+1 [KTK:142] Naturalize
+1 [MH3:164] Nyxborn Hydra
+1 [SOK:157] O-Naginata
+1 [LCI:205] Over the Edge
+1 [J22:702] Overgrowth
+1 [MKM:170] Pick Your Poison
+1 [CLB:248] Poison the Blade
+1 [J21:620] Prey's Vengeance
+1 [ISD:201] Ranger's Guile
+1 [TMP:246] Reality Anchor
+1 [THB:197] Return to Nature
+1 [WOE:183] Royal Treatment
+1 [KHM:191] Rune of Might
+1 [HOP:77] Search for Tomorrow
+1 [WOT:61] Season of Growth
+1 [THB:201] Setessan Training
+1 [AKH:187] Sixth Sense
+1 [WOC:133] Snake Umbra
+1 [J25:713] Snakeskin Veil
+1 [3ED:274] Sol Ring
+1 [NEO:207] Spinning Wheel Kick
+1 [GN3:120] Sword of Vengeance
+1 [J25:721] Tail Swipe
+1 [SOM:129] Tel-Jilad Defiance
+1 [OTJ:186] Trash the Town
+1 [MB2:135] Triumph of Ferocity
+1 [SIR:222] Ulvenwald Hydra
+1 [ZNR:216] Vastwood Fortification
+1 [XLN:212] Verdant Rebirth
+1 [SHM:132] Viridescent Wisps
+1 [BLB:203] Wear Down
+1 [NEC:134] Whiptongue Hydra
+1 [3ED:230] Wild Growth
+1 [IKO:176] Wilt
+1 [J22:742] Wolfwillow Haven
+1 [EMA:235] Worn Powerstone
+SB: 1 [PM20:172p] Gargos, Vicious Watcher
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([DMU:231],[J22:784],[CLB:327],[SOK:157],[3ED:274],[GN3:120],[EMA:235])([NEC:118],[PIO:176],[CMD:161],[PORI:186s],[SIR:222],[NEC:134])([MH3:164])([J25:631],[BBD:198],[TMP:228],[BLB:179],[J22:702],[KHM:191],[WOT:61],[THB:201],[AKH:187],[WOC:133],[MB2:135],[3ED:230],[J22:742])([RIX:122],[STX:124],[DFT:157],[VIS:107],[AKH:169],[CMM:296],[F10:8],[PIO:383],[KTK:142],[CLB:248],[J21:620],[ISD:201],[TMP:246],[THB:197],[WOE:183],[J25:713],[J25:721],[SOM:129],[OTJ:186],[ZNR:216],[XLN:212],[SHM:132],[IKO:176])([KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[LCI:276],[AFC:251],[WOC:164])([MAT:20],[J25:641],[FUT:144],[J25:146],[CLB:824],[LCI:186],[MH3:157],[CN2:183],[LCI:205],[MKM:170],[HOP:77],[NEO:207],[BLB:203])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PM20:172p])

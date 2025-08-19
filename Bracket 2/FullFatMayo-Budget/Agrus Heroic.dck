@@ -1,0 +1,71 @@
+1 [TDC:203] Abrade
+1 [PIP:210] Assemble the Legion
+1 [DMU:294] Baird, Argivian Recruiter
+1 [ONE:224] Basilica Skullbomb
+1 [MH2:381] Blacksmith's Skill
+1 [OTJ:6] Bovine Intervention
+1 [BLB:127] Brambleguard Captain
+1 [DFT:333] Bulwark Ox
+1 [FRF:8] Citadel Siege
+1 [MOC:30] Death-Greeter's Champion
+1 [SNC:10] Depopulate
+1 [BRO:6] Disenchant
+1 [FDN:10] Divine Resilience
+1 [CLB:420] Duke Ulder Ravengard
+1 [THB:271] Eidolon of Inspiration
+1 [OTJ:123] Ferocification
+1 [CLB:445] Fire Diamond
+1 [LTC:216] Flamerush Rider
+1 [OTJ:204] Form a Posse
+1 [CLB:314] Fraying Line
+1 [ONE:228] Furnace Skullbomb
+1 [MH3:123] Ghostfire Slice
+1 [J25:558] Goblin Rabblemaster
+1 [LCI:152] Goldfury Strider
+1 [DSK:16] Hardened Escort
+1 [OTJ:128] Hellspur Posse Boss
+1 [LTR:241] Horn of the Mark
+1 [OTJ:18] Lassoed by the Law
+1 [TDC:220] Legion Warboss
+1 [BFZ:238] Looming Spires
+1 [TDC:222] Loyal Apprentice
+1 [BLC:107] Loyal Warhound
+1 [IKO:276] Lukka, Coppercoat Outcast
+1 [CLB:446] Marble Diamond
+1 [DMR:231] Millikin
+1 [MOC:32] Mirror-Style Master
+15 [MKM:283] Mountain
+1 [ONE:297] Myr Convert
+1 [BLC:281] Ornithopter of Paradise
+1 [DFT:377] Perilous Snare
+18 [BFZ:251a] Plains
+1 [STX:225] Rip Apart
+1 [RVR:26] Rootborn Defenses
+1 [SNC:29] Rumor Gatherer
+1 [J25:18] Sandstorm Crasher
+1 [PIP:171] Secure the Wastes
+1 [WWK:142] Sejiri Steppe
+1 [NEO:312] Selfless Samurai
+1 [M20:218] Skyknight Vanguard
+1 [MKC:295] Slayers' Stronghold
+1 [MKC:237] Sol Ring
+1 [DMU:291] Squee, Dubious Monarch
+1 [LTC:285] Talisman of Conviction
+1 [THB:39] Taranika, Akroan Veteran
+1 [ZEN:226] Teetering Peaks
+1 [DSK:219] The Jolly Balloon Man
+1 [NEO:166] Thundering Raiju
+1 [DSK:39] Unwanted Remake
+1 [LCC:317] Wayfarer's Bauble
+1 [BLB:40] Whiskervale Forerunner
+1 [DRC:8] Wizened Mentor
+1 [JMP:27] Zurzoth, Chaos Rider
+1 [OTC:10] Angelic Sell-Sword
+1 [OTJ:350] Bruse Tarl, Roving Rancher
+1 [NEM:8] Fanatical Devotion
+1 [PRM:99769] Jaxis, the Troublemaker
+1 [2X2:17] Mentor of the Meek
+1 [OTC:12] We Ride at Dawn
+SB: 1 [J22:1] Agrus Kos, Eternal Soldier
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([LCI:152],[DMR:231],[ONE:297],[BLC:281])([ONE:224],[CLB:445],[CLB:314],[ONE:228],[LTR:241],[CLB:446],[DFT:377],[MKC:237],[LTC:285],[LCC:317])([DMU:294],[BLB:127],[DFT:333],[MOC:30],[CLB:420],[LTC:216],[J25:558],[DSK:16],[OTJ:128],[TDC:220],[TDC:222],[BLC:107],[MOC:32],[SNC:29],[J25:18],[NEO:312],[M20:218],[DMU:291],[THB:39],[DSK:219],[NEO:166],[BLB:40],[DRC:8],[JMP:27],[OTC:10],[OTJ:350],[PRM:99769],[2X2:17])([THB:271])([PIP:210],[FRF:8],[OTJ:123],[OTJ:18],[NEM:8],[OTC:12])([TDC:203],[MH2:381],[OTJ:6],[BRO:6],[FDN:10],[MH3:123],[RVR:26],[PIP:171],[DSK:39])([BFZ:238],[MKM:283],[MKM:283],[MKM:283],[MKM:283],[MKM:283],[MKM:283],[MKM:283],[MKM:283],[MKM:283],[MKM:283],[MKM:283],[MKM:283],[MKM:283],[MKM:283],[MKM:283],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[BFZ:251a],[WWK:142],[MKC:295],[ZEN:226])([IKO:276])([SNC:10],[OTJ:204],[STX:225])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([J22:1])

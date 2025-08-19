@@ -1,0 +1,75 @@
+1 [WHO:1045] Ace's Baseball Bat
+1 [CLB:108] Agent of the Shadow Thieves
+1 [THS:39] Aqueous Form
+1 [WOC:145] Arcane Signet
+1 [SLD:340] Arvinox, the Mind Flail
+1 [WHO:1046] Bessie, the Doctor's Roadster
+1 [LCI:96] Canonized in Blood
+1 [V12:3] Cephalid Coliseum
+1 [VOC:162] Charcoal Diamond
+1 [WOC:155] Choked Estuary
+1 [BLB:309] Coiling Rebirth
+1 [DMU:44] Combat Research
+1 [WOC:156] Command Tower
+1 [VOW:54] Cradle of Safety
+1 [RAV:260] Dimir Signet
+1 [LCI:54] Eaten by Piranhas
+1 [UMA:53] Eel Umbra
+1 [DSK:290] Entity Tracker
+1 [DMU:199] Ertai Resurrected
+1 [CMR:557] Esior, Wardwing Familiar
+1 [TDM:44] Essence Anchor
+1 [WOC:159] Exotic Orchard
+1 [NCC:126] Extravagant Replication
+1 [MKM:295] Fae Flight
+1 [DSK:57] Fear of Impostors
+1 [J22:68] Feast on the Fallen
+1 [WOC:147] Fellwar Stone
+1 [J25:750] Fireshrieker
+1 [AFR:246] Hand of Vecna
+1 [BBD:48] Inner Demon
+13 [KTK:254] Island
+1 [J22:60] Kasmina, Enigmatic Mentor
+1 [NCC:137] Lethal Scheme
+1 [J22:433] Liliana, Death's Majesty
+1 [LTR:357] Lobelia Sackville-Baggins
+1 [CMM:102] Looter il-Kor
+1 [WOE:340] Lord Skitter's Blessing
+1 [PWAR:99s] Massacre Girl
+1 [J21:752] Nettlecyst
+1 [THS:98] Nighthowler
+1 [AFC:189] Obsessive Stitcher
+1 [CLB:908] Port of Karfell
+1 [CMR:146] Rakshasa Debaser
+1 [PIP:115] Raul, Trouble Shooter
+1 [ACR:211] Restart Sequence
+1 [CLB:566] Robe of the Archmagi
+1 [SNC:59] Security Bypass
+1 [BLB:382] Shoreline Looter
+1 [VOC:167] Sky Diamond
+1 [3ED:274] Sol Ring
+1 [DRC:137] Solar Transformer
+1 [MKM:106] Soul Enervation
+1 [J25:366] Starlit Mantle
+16 [KTK:258] Swamp
+1 [CLB:489] Sword Coast Sailor
+1 [DMC:192] Sword of the Chosen
+1 [J22:474] Syr Konrad, the Grim
+1 [WOC:169] Tainted Isle
+1 [CMM:867] The Eldest Reborn
+1 [LCC:82] The Grim Captain's Locker
+1 [WOE:248] The Irencrag
+1 [DMU:59] The Phasing of Zhalfir
+1 [C19:21] Thieving Amalgam
+1 [JOU:85] Thoughtrender Lamia
+1 [CLB:100] Tomb of Horrors Adventurer
+1 [WHO:1054] Trenzalore Clocktower
+1 [DSK:78] Unable to Scream
+1 [MH3:78] Utter Insignificance
+1 [DMU:226] Vohar, Vodalian Desecrator
+1 [SNC:66] Witness Protection
+1 [DOM:114] Yawgmoth's Vile Offering
+1 [M19:230] Desecrated Tomb
+SB: 1 [DSK:223] Nashi, Searcher in the Dark
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([WHO:1045],[WOC:145],[WHO:1046],[VOC:162],[RAV:260],[TDM:44],[WOC:147],[J25:750],[AFR:246],[J21:752],[CLB:566],[VOC:167],[3ED:274],[DRC:137],[DMC:192],[LCC:82],[WOE:248],[M19:230])([DSK:290],[DMU:199],[CMR:557],[LTR:357],[CMM:102],[PWAR:99s],[AFC:189],[CMR:146],[PIP:115],[BLB:382],[J22:474],[C19:21],[CLB:100],[DMU:226])([SLD:340],[DSK:57],[THS:98],[JOU:85])([CLB:108],[THS:39],[LCI:96],[DMU:44],[VOW:54],[LCI:54],[UMA:53],[NCC:126],[MKM:295],[J22:68],[BBD:48],[WOE:340],[SNC:59],[MKM:106],[J25:366],[CLB:489],[CMM:867],[DMU:59],[DSK:78],[MH3:78],[SNC:66])([NCC:137])([V12:3],[WOC:155],[WOC:156],[WOC:159],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[CLB:908],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[WOC:169],[WHO:1054])([J22:60],[J22:433])([BLB:309],[ACR:211],[DOM:114])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DSK:223])

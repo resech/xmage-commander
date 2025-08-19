@@ -1,0 +1,70 @@
+1 [GN3:67] Abrade
+1 [ACR:134] Alexios, Deimos of Kosmos
+1 [WOC:145] Arcane Signet
+1 [ONE:123] Blazing Crescendo
+1 [J22:500] Blisterspit Gremlin
+1 [J22:811] Bonders' Enclave
+1 [FDN:80] Bulk Up
+1 [ACR:215] Cathartic Reunion
+1 [AFC:116] Chain Reaction
+1 [M21:136] Chandra's Incinerator
+1 [VMA:154] Chaos Warp
+1 [BLB:131] Coruscation Mage
+1 [NEM:79] Downhill Charge
+1 [RTR:93] Electrickery
+1 [LTR:122] Erebor Flamesmith
+1 [EOC:137] Everflowing Chalice
+1 [GRN:99] Experimental Frenzy
+1 [PIDW:2] Faithless Looting
+1 [VOC:164] Fire Diamond
+1 [J25:547] Fire Prophecy
+1 [J25:548] Firebrand Archer
+2 [J25:14] Firespitter Whelp
+1 [J21:443] Fists of Flame
+1 [MH3:123] Ghostfire Slice
+1 [SOI:161] Gibbering Fiend
+1 [CMR:312] Grafted Wargear
+1 [DMR:125] Grapeshot
+1 [J25:138] Guttersnipe
+1 [AKH:135] Harsh Mentor
+1 [BLB:139] Hearthborn Battler
+1 [J22:776] Hero's Blade
+1 [LCI:277] Hidden Volcano
+1 [MOM:146] Invasion of Karsus
+1 [VOW:167] Lambholt Raconteur
+1 [AFC:131] Light Up the Stage
+1 [CLB:188] Livaan, Cultist of Tiamat
+1 [WOC:148] Mind Stone
+1 [THB:234] Mirror Shield
+1 [NEM:94] Mogg Salvage
+32 [KTK:262] Mountain
+1 [ONE:234] Myr Convert
+1 [WOC:164] Myriad Landscape
+1 [J21:753] Ornithopter of Paradise
+1 [MH3:131] Powerbalance
+1 [DKM:19] Pyroclasm
+1 [J21:500] Reckless Charge
+1 [WWK:87] Ricochet Trap
+1 [ONE:147] Sawblade Scamp
+1 [BLB:151] Sazacap's Brew
+1 [PORI:160s] Scab-Clan Berserker
+1 [MH3:136] Siege Smash
+1 [3ED:274] Sol Ring
+1 [J22:82] Spear Spewer
+1 [AFC:263] Spinerock Knoll
+1 [VMA:190] Sulfuric Vortex
+1 [LCI:168] Sunshot Militia
+1 [CLB:200] Tavern Brawler
+1 [WOE:248] The Irencrag
+1 [J22:613] Thermo-Alchemist
+1 [J22:84] Thrill of Possibility
+1 [J25:603] Titan's Strength
+1 [KTK:123] Tormenting Voice
+1 [WOE:156] Unruly Catapult
+1 [MKM:147] Vengeful Tracker
+1 [WOC:151] Wayfarer's Bauble
+1 [CLB:206] Wild Magic Surge
+1 [WOE:158] Witch's Mark
+SB: 1 [LCI:158] Ojer Axonil, Deepest Might
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([ONE:234],[J21:753],[WOE:156])([WOC:145],[EOC:137],[VOC:164],[CMR:312],[J22:776],[WOC:148],[THB:234],[3ED:274],[WOE:248],[WOC:151])([MOM:146])([ACR:134],[J22:500],[M21:136],[BLB:131],[LTR:122],[J25:548],[J25:14],[J25:14],[SOI:161],[J25:138],[AKH:135],[BLB:139],[VOW:167],[CLB:188],[ONE:147],[PORI:160s],[J22:82],[LCI:168],[J22:613],[MKM:147])([GRN:99],[MH3:131],[VMA:190],[CLB:200])([GN3:67],[ONE:123],[FDN:80],[VMA:154],[NEM:79],[RTR:93],[J25:547],[J21:443],[MH3:123],[NEM:94],[WWK:87],[BLB:151],[MH3:136],[J22:84],[J25:603],[CLB:206])([J22:811],[LCI:277],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[WOC:164],[AFC:263])([ACR:215],[AFC:116],[PIDW:2],[DMR:125],[AFC:131],[DKM:19],[J21:500],[KTK:123],[WOE:158])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LCI:158])

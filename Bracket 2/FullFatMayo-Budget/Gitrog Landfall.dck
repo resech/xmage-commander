@@ -1,0 +1,66 @@
+1 [CMM:884] Abundance
+1 [WOC:145] Arcane Signet
+1 [J22:629] Avenger of Zendikar
+1 [ELD:149] Beanstalk Giant
+1 [WWK:54] Caustic Crawler
+1 [STX:174] Daemogoth Titan
+1 [STX:175] Daemogoth Woe-Eater
+1 [40K:212*] Death's Presence
+1 [GN3:47] Doom Blade
+1 [PRM:88288] Egon, God of Death
+1 [J25:146] Explore
+1 [BBD:198] Fertile Ground
+22 [KTK:266] Forest
+1 [NEC:118] Genesis Hydra
+1 [SOM:122] Genesis Wave
+1 [LCI:186] Glimpse the Core
+1 [RAV:262] Golgari Signet
+1 [CMR:312] Grafted Wargear
+1 [AKH:169] Hapatra's Mark
+1 [CMM:166] Heartless Act
+1 [MKM:400] Hunted Bonebrute
+1 [OTJ:169] Intrepid Stablemaster
+1 [GNT:31] Languish
+1 [EMN:197] Lupine Prototype
+1 [EOC:100] Multani, Yavimaya's Avatar
+1 [KTK:142] Naturalize
+1 [THB:181] Nessian Boar
+1 [WOE:101] Not Dead After All
+1 [PM15:191] Phytotitan
+1 [J22:792] Psychosis Crawler
+1 [LCI:208] Pugnacious Hammerskull
+1 [RAV:221] Putrefy
+1 [MH3:104] Quest for the Necropolis
+1 [J22:715] Rampaging Baloths
+1 [J25:704] Rampant Growth
+1 [ISD:201] Ranger's Guile
+1 [ZNR:249] Relic Golem
+1 [ACR:211] Restart Sequence
+1 [J25:707] Retreat to Kazandu
+1 [THB:197] Return to Nature
+1 [LTR:221] Rise of the Witch-king
+1 [NEO:204] Roaring Earth
+1 [WOE:183] Royal Treatment
+1 [STX:228] Rushed Rebirth
+1 [SNC:421] Shakedown Heavy
+1 [3ED:274] Sol Ring
+1 [J25:719] Sporemound
+1 [GN3:62] Supernatural Stamina
+16 [KTK:258] Swamp
+1 [H1R:37] Talisman of Resilience
+1 [MH3:173] Territory Culler
+1 [3ED:132] Terror
+1 [J25:729] Tireless Tracker
+1 [DMC:195] Traxos, Scourge of Kroog
+1 [J22:481] Ulcerate
+1 [DSK:204] Valgavoth's Onslaught
+1 [PLC:83] Waning Wurm
+1 [WOC:151] Wayfarer's Bauble
+1 [BLB:203] Wear Down
+1 [3ED:230] Wild Growth
+1 [J22:491] Yargle, Glutton of Urborg
+1 [J22:747] Zendikar's Roil
+1 [M3C:261] Find // Finality
+SB: 1 [OTJ:206] The Gitrog, Ravenous Ride
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([EMN:197],[J22:792],[ZNR:249],[DMC:195])([WOC:145],[RAV:262],[CMR:312],[3ED:274],[H1R:37],[WOC:151])([J22:629],[ELD:149],[WWK:54],[STX:174],[STX:175],[PRM:88288],[NEC:118],[MKM:400],[OTJ:169],[EOC:100],[THB:181],[PM15:191],[LCI:208],[J22:715],[SNC:421],[J25:719],[MH3:173],[J25:729],[PLC:83],[J22:491])([CMM:884],[40K:212*],[BBD:198],[MH3:104],[J25:707],[NEO:204],[3ED:230],[J22:747])([GN3:47],[AKH:169],[CMM:166],[KTK:142],[WOE:101],[RAV:221],[ISD:201],[THB:197],[WOE:183],[STX:228],[GN3:62],[3ED:132],[J22:481])([KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258])([M3C:261])([J25:146],[SOM:122],[LCI:186],[GNT:31],[J25:704],[ACR:211],[LTR:221],[DSK:204],[BLB:203])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([OTJ:206])

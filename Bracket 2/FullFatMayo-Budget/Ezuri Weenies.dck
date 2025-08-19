@@ -1,0 +1,75 @@
+1 [CLB:712] Aether Gale
+1 [VMA:241] Aether Mutation
+1 [THB:165] Arasta of the Endless Web
+1 [DIS:107] Coiling Oracle
+1 [AFC:183] Cold-Eyed Selkie
+1 [WOC:156] Command Tower
+1 [C20:21] Cryptic Trilobite
+1 [PKLD:151] Cultivator of Blades
+1 [STX:177] Decisive Denial
+1 [H1R:20] Deep Forest Hermit
+1 [DFT:158] District Mascot
+1 [FDN:306] Drake Hatcher
+1 [J21:561] Duskshell Crawler
+1 [HOP:113] Etched Oracle
+1 [MH3:151] Evolution Witness
+1 [WOC:159] Exotic Orchard
+1 [NCC:402] Flooded Grove
+17 [KTK:266] Forest
+1 [J25:664] Gnarlid Colony
+1 [TDM:145] Heritage Reclamation
+1 [ISD:241] Hinterland Harbor
+1 [KTK:136] Hooded Hydra
+1 [J22:676] Ilysian Caryatid
+1 [WOE:333] Ingenious Prodigy
+1 [CM2:139] Inspiring Call
+1 [J25:673] Invigorating Surge
+1 [J22:678] Iridescent Hornbeetle
+12 [KTK:254] Island
+1 [NCC:299] Leafkin Druid
+1 [AER:162] Lifecrafter's Bestiary
+1 [J25:149] Llanowar Elves
+1 [ELD:196] Maraleaf Pixie
+1 [EMA:227] Mindless Automaton
+1 [PIP:136] Mister Gutsy
+1 [AFC:251] Mosswort Bridge
+1 [DGM:45] Mutant's Prey
+1 [MOR:144] Obsidian Battle-Axe
+1 [CMM:708] Omarthis, Ghostfire Initiate
+1 [OTJ:171] Ornery Tumblewagg
+1 [J25:695] Orochi Merge-Keeper
+1 [DRC:14] Peema Trailblazer
+1 [DIS:29] Plaxmanta
+1 [GTC:188] Prime Speaker Zegana
+1 [40K:97*] Purestrain Genestealer
+1 [SOM:126] Putrefax
+1 [J22:717] Reclamation Sage
+1 [MKM:227] Repulsive Mutation
+1 [ONE:68] Serum Snare
+1 [DMU:64] Shore Up
+1 [SLD:1832] Simic Ascendancy
+1 [GTC:50] Simic Manipulator
+1 [RNA:52] Skatewing Spy
+1 [J25:713] Snakeskin Veil
+1 [3ED:274] Sol Ring
+1 [J22:353] Stolen by the Fae
+1 [MID:288] Suspicious Stowaway
+1 [CMA:150] Sylvan Offering
+1 [EOC:47] Tezzeret's Gambit
+1 [ONE:185] Thirsting Roots
+1 [EOC:145] Threefold Thunderhulk
+1 [EOC:80] Thrummingbird
+1 [J22:735] Titanic Brawl
+1 [DMR:236] Triskelion
+1 [KTK:156] Tuskguard Captain
+1 [DSK:201] Twitching Doll
+1 [TDM:165] Undergrowth Leopard
+1 [DRC:183] Vineglimmer Snarl
+1 [FRF:144] Whisperer of the Wilds
+1 [C16:176] Wild Beastmaster
+1 [LTC:45] Windswift Slice
+1 [DMU:261] Yavimaya Coast
+1 [STX:261] Zephyr Boots
+SB: 1 [PJ21:4] Ezuri, Claw of Progress
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([HOP:113],[EMA:227],[PIP:136],[EOC:145],[DMR:236],[DSK:201])([AER:162],[3ED:274],[STX:261])([DIS:107],[AFC:183],[C20:21],[PKLD:151],[H1R:20],[DFT:158],[FDN:306],[J21:561],[MH3:151],[J25:664],[KTK:136],[J22:676],[WOE:333],[J22:678],[NCC:299],[J25:149],[ELD:196],[CMM:708],[OTJ:171],[J25:695],[DRC:14],[DIS:29],[GTC:188],[40K:97*],[SOM:126],[J22:717],[GTC:50],[RNA:52],[MID:288],[EOC:80],[KTK:156],[TDM:165],[FRF:144],[C16:176])([THB:165])([SLD:1832])([STX:177],[TDM:145],[CM2:139],[J25:673],[DGM:45],[MKM:227],[ONE:68],[DMU:64],[J25:713],[J22:735],[LTC:45])([MOR:144])([WOC:156],[WOC:159],[NCC:402],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[ISD:241],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[AFC:251],[DRC:183],[DMU:261])([CLB:712],[VMA:241],[J22:353],[CMA:150],[EOC:47],[ONE:185])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PJ21:4])

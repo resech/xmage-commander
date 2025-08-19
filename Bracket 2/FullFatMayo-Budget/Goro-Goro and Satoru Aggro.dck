@@ -1,0 +1,74 @@
+1 [GN3:67] Abrade
+1 [CLB:712] Aether Gale
+1 [WOC:145] Arcane Signet
+1 [J21:287] Azra Smokeshaper
+1 [THS:42] Bident of Thassa
+1 [OTJ:116] Calamity, Galloping Inferno
+1 [AFC:116] Chain Reaction
+1 [PM20:126p] Chandra, Acolyte of Flame
+1 [VMA:154] Chaos Warp
+1 [VOC:162] Charcoal Diamond
+1 [ACR:187] Coastal Piracy
+1 [J25:531] Combat Celebrant
+1 [WOC:156] Command Tower
+1 [WHO:1129] Dalek Squadron
+1 [KTK:37] Disdainful Stroke
+1 [FDN:588] Dive Down
+1 [NEO:340] Dokuchi Silencer
+1 [GN3:47] Doom Blade
+1 [CLB:172] Elturel Survivors
+1 [SIR:67] Essence Flux
+1 [WOC:159] Exotic Orchard
+1 [VOC:129] Feed the Swarm
+1 [VOC:164] Fire Diamond
+1 [C20:51] Fireflux Squad
+1 [FRF:99] Flamerush Rider
+1 [CLB:176] Ganax, Astral Hunter
+1 [CLB:177] Genasi Enforcers
+1 [MH3:123] Ghostfire Slice
+1 [SOK:100] Glitterfang
+1 [J22:545] Goblin Rabblemaster
+1 [CLB:180] Gut, True Soul Zealot
+1 [MKM:131] Harried Dronesmith
+1 [J25:456] Infernal Grasp
+1 [CMR:397] Into the Roil
+10 [KTK:254] Island
+1 [GPT:152] Izzet Signet
+1 [J21:204] Junk Winder
+1 [J22:562] Kari Zev, Skyship Raider
+1 [FRF:155] Kolaghan, the Storm's Fury
+1 [DMU:205] Lagomos, Hand of Hatred
+1 [GRN:109] Legion Warboss
+1 [AFC:132] Loyal Apprentice
+1 [TPR:58] Mana Leak
+1 [J25:327] Moon-Circuit Hacker
+1 [J21:220] Moonblade Shinobi
+13 [KTK:262] Mountain
+1 [ONE:234] Myr Convert
+1 [BBD:123] Negate
+1 [J21:753] Ornithopter of Paradise
+1 [WOC:165] Path of Ancestry
+1 [J25:346] Prosperous Thief
+1 [NEO:158] Reinforced Ronin
+1 [SLD:2029] Resculpt
+1 [GN3:37] Run Away Together
+1 [VMA:184] Scourge of the Throne
+1 [VOC:167] Sky Diamond
+1 [3ED:274] Sol Ring
+1 [DFT:64] Spell Pierce
+1 [DMU:146] Squee, Dubious Monarch
+1 [SPG:18] Star Compass
+1 [GN3:62] Supernatural Stamina
+8 [KTK:258] Swamp
+1 [AKH:149] Sweltering Suns
+1 [CMM:126] Tetsuko Umezawa, Fugitive
+1 [J22:822] Thriving Bluff
+1 [J22:825] Thriving Isle
+1 [CLB:202] Tiamat's Fanatics
+1 [VOW:134] Undying Malice
+1 [ULG:96] Viashino Sandscout
+1 [WOC:151] Wayfarer's Bauble
+1 [CMR:294] Zara, Renegade Recruiter
+SB: 1 [MOC:445] Goro-Goro and Satoru
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,50)|([WHO:1129],[ONE:234],[J21:753],[NEO:158])([WOC:145],[VOC:162],[VOC:164],[GPT:152],[VOC:167],[3ED:274],[SPG:18],[WOC:151])([J21:287],[OTJ:116],[J25:531],[NEO:340],[CLB:172],[C20:51],[FRF:99],[CLB:176],[CLB:177],[SOK:100],[J22:545],[CLB:180],[MKM:131],[J21:204],[J22:562],[FRF:155],[DMU:205],[GRN:109],[AFC:132],[J21:220],[J25:346],[VMA:184],[DMU:146],[CMM:126],[CLB:202],[ULG:96],[CMR:294])([THS:42])([J25:327])([ACR:187])([GN3:67],[VMA:154],[KTK:37],[FDN:588],[GN3:47],[SIR:67],[MH3:123],[J25:456],[CMR:397],[TPR:58],[BBD:123],[SLD:2029],[GN3:37],[DFT:64],[GN3:62],[VOW:134])([WOC:156],[WOC:159],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[WOC:165],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[J22:822],[J22:825])([PM20:126p])([CLB:712],[AFC:116],[VOC:129],[AKH:149])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MOC:445])

@@ -1,0 +1,75 @@
+1 [SLD:340] Arvinox, the Mind Flail
+1 [DSK:126] Betrayer's Bargain
+1 [J21:298] Bone Shards
+1 [BLC:28] Brightcap Badger
+1 [VOC:123] Butcher of Malakir
+1 [PIP:409] Cait, Cage Brawler
+1 [WOC:156] Command Tower
+1 [VMA:250] Deathreap Ritual
+1 [DMR:188] Decimate
+1 [DFT:157] Defend the Rider
+1 [GN3:47] Doom Blade
+1 [GN3:76] Drakuseth, Maw of Flames
+1 [FUT:144] Edge of Autumn
+1 [CLB:125] Elder Brain
+1 [AFC:126] Etali, Primal Storm
+1 [WOC:159] Exotic Orchard
+1 [J25:146] Explore
+1 [PIDW:2] Faithless Looting
+1 [BBD:198] Fertile Ground
+1 [CLB:174] Firbolg Flutist
+1 [DKA:89] Flayer of the Hatebound
+11 [KTK:266] Forest
+1 [J22:416] Fungal Infection
+1 [MH3:123] Ghostfire Slice
+1 [GTC:121] Giant Adephage
+1 [WOE:172] Gruff Triplets
+1 [CMM:166] Heartless Act
+1 [TDM:145] Heritage Reclamation
+1 [OTJ:129] Highway Robbery
+1 [PRM:88368] Immersturm Predator
+1 [SLD:1703] Jaxis, the Troublemaker
+1 [DSC:222] Kaervek the Merciless
+1 [DFT:135] Kickoff Celebrations
+1 [GNT:31] Languish
+1 [NCC:137] Lethal Scheme
+1 [J25:149] Llanowar Elves
+1 [MID:110] Lord of the Forsaken
+8 [KTK:262] Mountain
+1 [LTR:416] Nasty End
+1 [CMD:212] Necrogenesis
+1 [WOC:165] Path of Ancestry
+1 [MKC:134] Pile On
+1 [J25:704] Rampant Growth
+1 [FDN:131] Ravenous Amulet
+1 [LTR:221] Rise of the Witch-king
+1 [WOE:183] Royal Treatment
+1 [HOP:77] Search for Tomorrow
+1 [SLD:1315] Shattergang Brothers
+1 [SLD:1138] Slimefoot, the Stowaway
+1 [J25:713] Snakeskin Veil
+1 [3ED:274] Sol Ring
+1 [GN3:62] Supernatural Stamina
+11 [KTK:258] Swamp
+1 [LCI:126] Tarrian's Journal
+1 [PD3:7] Terastodon
+1 [C19:21] Thieving Amalgam
+1 [J22:822] Thriving Bluff
+1 [J22:823] Thriving Grove
+1 [J22:826] Thriving Moor
+1 [CLU:48] Tribune of Rot
+1 [J25:150] Undercellar Myconid
+1 [VOW:134] Undying Malice
+1 [J22:484] Vampiric Rites
+1 [HOP:81] Verdant Force
+1 [MH2:108] Vile Entomber
+1 [WOC:151] Wayfarer's Bauble
+1 [BLB:203] Wear Down
+1 [3ED:230] Wild Growth
+1 [THB:123] Woe Strider
+1 [SHM:135] Woodfall Primus
+1 [SNC:231] Ziatora, the Incinerator
+1 [GRN:225] Find // Finality
+SB: 1 [MOC:447] Slimefoot and Squee
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([FDN:131],[3ED:274],[LCI:126],[WOC:151])([BLC:28],[VOC:123],[PIP:409],[GN3:76],[CLB:125],[AFC:126],[CLB:174],[DKA:89],[GTC:121],[WOE:172],[PRM:88368],[SLD:1703],[DSC:222],[J25:149],[MID:110],[SLD:1315],[SLD:1138],[PD3:7],[C19:21],[CLU:48],[J25:150],[HOP:81],[MH2:108],[THB:123],[SHM:135],[SNC:231])([SLD:340])([VMA:250],[BBD:198],[DFT:135],[CMD:212],[J22:484],[3ED:230])([DSK:126],[DFT:157],[GN3:47],[J22:416],[MH3:123],[CMM:166],[TDM:145],[NCC:137],[LTR:416],[MKC:134],[WOE:183],[J25:713],[GN3:62],[VOW:134])([WOC:156],[WOC:159],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[WOC:165],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[J22:822],[J22:823],[J22:826])([GRN:225])([J21:298],[DMR:188],[FUT:144],[J25:146],[PIDW:2],[OTJ:129],[GNT:31],[J25:704],[LTR:221],[HOP:77],[BLB:203])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MOC:447])

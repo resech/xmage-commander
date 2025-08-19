@@ -1,0 +1,72 @@
+1 [GN3:67] Abrade
+1 [ACR:134] Alexios, Deimos of Kosmos
+1 [J22:143] Alseid of Life's Bounty
+1 [RNA:2] Angelic Exaltation
+1 [WOC:145] Arcane Signet
+1 [GTC:142] Assemble the Legion
+1 [MKM:287] Assemble the Players
+1 [MH2:6] Blacksmith's Skill
+1 [OTJ:6] Bovine Intervention
+1 [KHM:6] Clarion Spirit
+1 [UNF:6] Clowning Around
+1 [WOC:156] Command Tower
+1 [40K:184*] Deploy to the Front
+1 [3ED:17] Disenchant
+1 [ACR:174] Distract the Guards
+1 [J22:523] Dragon Fodder
+1 [40K:185*] Entrapment Maneuver
+1 [EOC:157] Escape Tunnel
+1 [WOC:159] Exotic Orchard
+1 [VOC:85] Fell the Mighty
+1 [VOC:164] Fire Diamond
+1 [IKO:119] Forbidden Friendship
+1 [CLB:177] Genasi Enforcers
+1 [MH3:123] Ghostfire Slice
+1 [MOC:282] Goblin Instigator
+1 [THS:16] Gods Willing
+1 [HOP:114] Gold Myr
+1 [WOT:5] Griffin Aerie
+1 [BLB:16] Hop to It
+1 [HOP:115] Iron Myr
+1 [DSK:142] Irreverent Gremlin
+1 [GRN:109] Legion Warboss
+1 [AFC:132] Loyal Apprentice
+1 [VOC:165] Marble Diamond
+1 [J25:99] Mentor of the Meek
+1 [EMA:139] Mogg War Marshal
+1 [MH3:128] Molten Gatekeeper
+16 [KTK:262] Mountain
+1 [ONE:234] Myr Convert
+1 [J21:753] Ornithopter of Paradise
+1 [BBD:182] Pathmaker Initiate
+16 [KTK:250] Plains
+1 [VOC:45] Priest of the Blessed Graf
+1 [WOT:47] Raid Bombardment
+1 [J25:101] Raise the Alarm
+1 [MOM:158] Ral's Reinforcements
+1 [CLU:71] Rootborn Defenses
+1 [CLB:705] Rumor Gatherer
+1 [LTR:282] Saradoc, Master of Buckland
+1 [M20:218] Skyknight Vanguard
+1 [CLB:43] Slaughter the Strong
+1 [3ED:274] Sol Ring
+1 [DMU:146] Squee, Dubious Monarch
+1 [AER:24] Sram's Expertise
+1 [CMM:261] Subira, Tulzidi Caravanner
+1 [H1R:33] Talisman of Conviction
+1 [MH3:45] Thraben Charm
+1 [ELD:332] Tome of Legends
+1 [DSK:306] Unwanted Remake
+1 [CLB:48] Veteran Soldier
+1 [WOC:151] Wayfarer's Bauble
+1 [OTC:12] We Ride at Dawn
+1 [VOW:287] Welcoming Vampire
+1 [CLB:206] Wild Magic Surge
+1 [SNC:131] Witty Roastmaster
+1 [CLB:51] Wyrm's Crossing Patrol
+1 [NCC:278] Zurzoth, Chaos Rider
+1 [DRC:65] Dusk // Dawn
+1 [NCC:46] Indulge // Excess
+SB: 1 [DSK:208] Arabella, Abandoned Doll
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([HOP:114],[HOP:115],[MH3:128],[ONE:234],[J21:753])([WOC:145],[VOC:164],[VOC:165],[3ED:274],[H1R:33],[ELD:332],[WOC:151])([ACR:134],[KHM:6],[CLB:177],[MOC:282],[DSK:142],[GRN:109],[AFC:132],[J25:99],[EMA:139],[BBD:182],[VOC:45],[CLB:705],[LTR:282],[M20:218],[DMU:146],[CMM:261],[VOW:287],[SNC:131],[CLB:51],[NCC:278])([J22:143])([RNA:2],[GTC:142],[MKM:287],[WOT:5],[WOT:47],[CLB:48],[OTC:12])([GN3:67],[MH2:6],[OTJ:6],[3ED:17],[40K:185*],[MH3:123],[THS:16],[J25:101],[CLU:71],[MH3:45],[DSK:306],[CLB:206])([WOC:156],[EOC:157],[WOC:159],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250])([DRC:65],[NCC:46])([UNF:6],[40K:184*],[ACR:174],[J22:523],[VOC:85],[IKO:119],[BLB:16],[MOM:158],[CLB:43],[AER:24])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DSK:208])

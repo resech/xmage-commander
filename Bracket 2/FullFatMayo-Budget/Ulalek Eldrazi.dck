@@ -1,0 +1,83 @@
+1 [OGW:40] Abstruse Interference
+1 [DRC:145] Aether Hub
+1 [C14:62] Artisan of Kozilek
+1 [BFZ:1] Bane of Bala Ged
+1 [M3C:46] Benthic Anomaly
+1 [TDC:342] Bountiful Landscape
+1 [MH3:1] Breaker of Creation
+1 [BRO:174] Bushwhack
+1 [LCI:268] Captivating Cave
+1 [MH1:237] Cave of Temptation
+1 [M3C:63] Chittering Dispatcher
+1 [WHO:263] Command Tower
+1 [CMM:377] Commander's Sphere
+1 [M3C:332] Corrupted Crossroads
+1 [WOE:254] Crystal Grotto
+1 [OGW:42] Cultivator Drone
+1 [BLC:251] Decimate
+1 [INR:2] Decimator of the Provinces
+1 [M3C:180] Deepfathom Skulker
+1 [MH3:58] Depth Defiler
+1 [MH3:4] Echoes of Eternity
+1 [MH3:5] Eldrazi Ravager
+1 [MH3:150] Eldrazi Repurposer
+1 [BFZ:58] Eldrazi Skyspawner
+1 [CMM:803] Endbringer
+1 [C21:288] Exotic Orchard
+1 [BFZ:166] Eyeless Watcher
+1 [MH3:221] Foreboding Landscape
+11 [MH2:489] Forest
+1 [LCI:272] Forgotten Monument
+1 [MH3:7] Glaring Fleshraker
+1 [MH3:124] Glimpse the Impossible
+1 [BFZ:9] Gruesome Slaughter
+1 [BLB:254] Hidden Grotto
+1 [MH3:64] Hope-Ender Coatl
+1 [MH3:157] Horrific Assault
+1 [MH3:210] Idol of False Gods
+9 [J25:86] Island
+1 [MH3:9] It That Heralds the End
+1 [MH3:65] Kozilek's Unsealing
+2 [MKM:284] Mountain
+1 [M13:62] Negate
+1 [MM2:150] Nest Invader
+1 [MH3:12] Null Elemental Blast
+1 [OTC:77] Oblivion Sower
+1 [AKH:246] Painted Bluffs
+1 [MH3:165] Path of Annihilation
+1 [CMM:403] Prismatic Lens
+1 [MH3:167] Propagator Drone
+1 [WOE:183] Royal Treatment
+1 [BFZ:64] Ruination Guide
+1 [CLB:92] Run Away Together
+1 [M3C:203] Sifter of Skulls
+1 [TDM:159] Snakeskin Veil
+1 [MH3:204] Snapping Voidcraw
+1 [MKC:237] Sol Ring
+1 [DRC:137] Solar Transformer
+1 [MH3:140] Spawn-Gang Commander
+1 [BFZ:66] Spell Shrivel
+1 [DFT:244] Starting Column
+1 [C21:80] Study Hall
+1 [OTJ:282] Swamp
+1 [PIP:245] Talisman of Curiosity
+1 [DSC:255] Talisman of Resilience
+1 [M3C:393] Tendo Ice Bridge
+1 [MH3:174] Thief of Existence
+1 [BFZ:14] Titan's Presence
+1 [MH3:206] Titans' Vanguard
+1 [M3C:160] Ugin, the Ineffable
+1 [MKC:53] Ugin's Mastery
+1 [CMM:6] Ulamog's Crusher
+1 [OGW:181] Unknown Shores
+1 [M3C:251] Vile Redeemer
+1 [OGW:12] Warping Wail
+1 [MH3:17] Wastescape Battlemage
+1 [MH3:208] Writhing Chrysalis
+1 [AFR:85] You See a Guard Approach
+1 [C20:67] Bonder's Ornament
+1 [J22:637] Brood Monitor
+1 [MH3:253] Drowner of Truth
+SB: 1 [M3C:4] Ulalek, Fused Atrocity
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([CMM:377],[CMM:403],[MKC:237],[DRC:137],[DFT:244],[PIP:245],[DSC:255],[C20:67])([C14:62],[BFZ:1],[M3C:46],[MH3:1],[M3C:63],[OGW:42],[INR:2],[M3C:180],[MH3:58],[MH3:5],[MH3:150],[BFZ:58],[CMM:803],[BFZ:166],[MH3:7],[MH3:64],[MH3:9],[MM2:150],[OTC:77],[MH3:167],[BFZ:64],[M3C:203],[MH3:204],[MH3:140],[MH3:174],[MH3:206],[CMM:6],[M3C:251],[MH3:17],[MH3:208],[J22:637],[MH3:253])([MH3:65],[MH3:165],[MKC:53])([OGW:40],[M13:62],[MH3:12],[WOE:183],[CLB:92],[TDM:159],[BFZ:66],[BFZ:14],[OGW:12],[AFR:85])([MH3:210])([MH3:4])([DRC:145],[TDC:342],[LCI:268],[MH1:237],[WHO:263],[M3C:332],[WOE:254],[C21:288],[MH3:221],[MH2:489],[MH2:489],[MH2:489],[MH2:489],[MH2:489],[MH2:489],[MH2:489],[MH2:489],[MH2:489],[MH2:489],[MH2:489],[LCI:272],[BLB:254],[J25:86],[J25:86],[J25:86],[J25:86],[J25:86],[J25:86],[J25:86],[J25:86],[J25:86],[MKM:284],[MKM:284],[AKH:246],[C21:80],[OTJ:282],[M3C:393],[OGW:181])([M3C:160])([BRO:174],[BLC:251],[MH3:124],[BFZ:9],[MH3:157])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M3C:4])

@@ -1,0 +1,68 @@
+1 [GN3:67] Abrade
+1 [MID:133] Cathartic Pyre
+1 [ACR:215] Cathartic Reunion
+1 [AFC:116] Chain Reaction
+1 [UNF:103] Circuits Act
+1 [CMR:169] Coercive Recruiter
+1 [J25:531] Combat Celebrant
+1 [J22:523] Dragon Fodder
+1 [ELD:243] Dwarven Mine
+1 [J22:526] Electric Revelation
+1 [PIDW:2] Faithless Looting
+1 [J21:439] Faithless Salvaging
+1 [VOC:164] Fire Diamond
+1 [J25:547] Fire Prophecy
+1 [IKO:119] Forbidden Friendship
+1 [NPH:85] Geosurge
+1 [SNC:107] Glittering Stockpile
+1 [RNA:104] Goblin Gathering
+1 [J25:753] Guardian Idol
+1 [J22:774] Hedron Archive
+1 [WAR:132] Honor the God-Pharaoh
+1 [ISD:148] Infernal Plunge
+1 [MOM:147] Invasion of Mercadia
+1 [C20:53] Lavabrink Floodgates
+1 [AFC:131] Light Up the Stage
+1 [J22:569] Lightning Axe
+1 [DMR:230] Lotus Blossom
+1 [PRM:80801] Lukka, Coppercoat Outcast
+1 [ORI:155] Magmatic Insight
+1 [NEO:154] March of Reckless Joy
+1 [M20:151] Mask of Immolation
+1 [AFR:249] Mimic
+1 [WOC:148] Mind Stone
+1 [BRO:162] Mishra's Research Desk
+1 [NEM:94] Mogg Salvage
+1 [UMA:140] Molten Birth
+35 [KTK:262] Mountain
+1 [CLB:330] Nimblewright Schematic
+1 [CLB:331] Noble's Purse
+1 [RIX:109] Pirate's Pillage
+1 [DKM:19] Pyroclasm
+1 [EMA:143] Pyrokinesis
+1 [C18:25] Reality Scramble
+1 [AER:96] Release the Gremlins
+1 [WWK:87] Ricochet Trap
+1 [THB:152] Satyr's Cunning
+1 [J25:141] Seize the Spoils
+1 [AER:176] Servo Schematic
+1 [H1R:18] Shenanigans
+1 [VIS:154] Sisay's Ring
+1 [M13:149] Smelt
+1 [3ED:274] Sol Ring
+1 [MBS:134] Sphere of the Suns
+1 [SLP:22] Springleaf Drum
+1 [THB:157] Storm's Wrath
+1 [AKH:149] Sweltering Suns
+1 [J22:84] Thrill of Possibility
+1 [KTK:123] Tormenting Voice
+1 [PRM:81970] Transmogrify
+1 [DST:155] Ur-Golem's Eye
+1 [SOI:189] Vessel of Volatility
+1 [WOC:151] Wayfarer's Bauble
+1 [M13:157] Wild Guess
+1 [AFR:170] You See a Pair of Goblins
+1 [J25:143] Zealous Conscripts
+SB: 1 [J22:79] Kiki-Jiki, Mirror Breaker
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([VOC:164],[SNC:107],[J25:753],[J22:774],[C20:53],[DMR:230],[M20:151],[AFR:249],[WOC:148],[BRO:162],[CLB:330],[CLB:331],[AER:176],[VIS:154],[3ED:274],[MBS:134],[SLP:22],[DST:155],[WOC:151])([MOM:147])([CMR:169],[J25:531],[J25:143])([SOI:189])([GN3:67],[MID:133],[J22:526],[J21:439],[J25:547],[J22:569],[NEO:154],[NEM:94],[EMA:143],[WWK:87],[M13:149],[J22:84],[AFR:170])([ELD:243],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262])([PRM:80801])([ACR:215],[AFC:116],[UNF:103],[J22:523],[PIDW:2],[IKO:119],[NPH:85],[RNA:104],[WAR:132],[ISD:148],[AFC:131],[ORI:155],[UMA:140],[RIX:109],[DKM:19],[C18:25],[AER:96],[THB:152],[J25:141],[H1R:18],[THB:157],[AKH:149],[KTK:123],[PRM:81970],[M13:157])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([J22:79])

@@ -1,0 +1,76 @@
+1 [TDC:203] Abrade
+1 [MKC:54] Aerial Extortionist
+1 [J22:1] Agrus Kos, Eternal Soldier
+1 [CMR:218] Armorcraft Judge
+1 [WHO:11] Astrid Peth
+1 [ISD:170] Avacyn's Pilgrim
+1 [MOM:332] Axgard Artisan
+1 [MH2:381] Blacksmith's Skill
+1 [OTJ:6] Bovine Intervention
+1 [DFT:333] Bulwark Ox
+1 [PIP:75] Cathedral Acolyte
+1 [DBL:459] Cloaked Cadet
+1 [WHO:263] Command Tower
+1 [CLB:418] Commander Liara Portyr
+1 [BLC:251] Decimate
+1 [DFT:157] Defend the Rider
+1 [FDN:10] Divine Resilience
+1 [MOM:11] Dusk Legion Duelist
+1 [TSR:201] Edge of Autumn
+1 [ELD:189] Escape to the Wilds
+1 [MKC:152] Etali, Primal Storm
+1 [BLC:30] Evercoat Ursine
+1 [MH3:151] Evolution Witness
+1 [C21:288] Exotic Orchard
+1 [J25:146] Explore
+11 [J25:94] Forest
+1 [ORI:148] Ghirapur Aether Grid
+1 [MH3:123] Ghostfire Slice
+1 [WHO:104] Graham O'Brien
+1 [CMR:278] Hamza, Guardian of Arashin
+1 [BLB:175] Heaped Harvest
+1 [MH2:165] Herd Baloth
+1 [TDM:145] Heritage Reclamation
+1 [LCC:244] Inspiring Call
+1 [MKC:230] Inspiring Statuary
+1 [WHO:89] Iraxxa, Empress of Mars
+1 [NEC:20] Kami of Celebration
+1 [MKC:174] Killer Service
+1 [DSC:288] Mosswort Bridge
+8 [BRO:275] Mountain
+1 [WOE:178] Night of the Sweets' Revenge
+1 [MH3:129] Party Thrasher
+1 [WHO:293] Path of Ancestry
+1 [LTR:315] Peregrin Took
+10 [MH3:311] Plains
+1 [DRC:106] Reckless Fireweaver
+1 [WAR:175] Return to Nature
+1 [CMM:317] Rishkar, Peema Renegade
+1 [LTR:440] Rosie Cotton of South Lane
+1 [TSR:229] Search for Tomorrow
+1 [THB:37] Shatter the Sky
+1 [PIP:25] Sierra, Nuka's Biggest Fan
+1 [WHO:109] Sisterhood of Karn
+1 [MKC:237] Sol Ring
+1 [DRC:137] Solar Transformer
+1 [LCI:168] Sunshot Militia
+1 [LTC:285] Talisman of Conviction
+1 [J22:822] Thriving Bluff
+1 [J22:823] Thriving Grove
+1 [J22:824] Thriving Heath
+1 [RVR:158] Titanic Brawl
+1 [J25:732] Trail of Crumbs
+1 [MH3:142] Unstable Amulet
+1 [DSK:39] Unwanted Remake
+1 [J25:34] Urdnan, Dromoka Warrior
+1 [DSK:318] Waltz of Rage
+1 [LCC:317] Wayfarer's Bauble
+1 [BLB:203] Wear Down
+1 [BLB:40] Whiskervale Forerunner
+1 [J22:134] Wicked Wolf
+1 [DMR:352] Wild Growth
+1 [MAT:221] Pia Nalaar, Consul of Revival
+1 [LCI:352] Quintorius Kand
+SB: 1 [MAT:44] Rocco, Street Chef
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([BLB:175],[MKC:230],[MKC:237],[DRC:137],[LTC:285],[MH3:142],[LCC:317])([MKC:54],[J22:1],[CMR:218],[WHO:11],[ISD:170],[MOM:332],[DFT:333],[PIP:75],[DBL:459],[CLB:418],[MOM:11],[MKC:152],[BLC:30],[MH3:151],[WHO:104],[CMR:278],[MH2:165],[WHO:89],[NEC:20],[MH3:129],[LTR:315],[DRC:106],[CMM:317],[LTR:440],[PIP:25],[WHO:109],[LCI:168],[J25:34],[BLB:40],[J22:134],[MAT:221])([ORI:148],[MKC:174],[WOE:178],[J25:732],[DMR:352])([TDC:203],[MH2:381],[OTJ:6],[DFT:157],[FDN:10],[MH3:123],[TDM:145],[LCC:244],[WAR:175],[RVR:158],[DSK:39])([WHO:263],[C21:288],[J25:94],[J25:94],[J25:94],[J25:94],[J25:94],[J25:94],[J25:94],[J25:94],[J25:94],[J25:94],[J25:94],[DSC:288],[BRO:275],[BRO:275],[BRO:275],[BRO:275],[BRO:275],[BRO:275],[BRO:275],[BRO:275],[WHO:293],[MH3:311],[MH3:311],[MH3:311],[MH3:311],[MH3:311],[MH3:311],[MH3:311],[MH3:311],[MH3:311],[MH3:311],[J22:822],[J22:823],[J22:824])([LCI:352])([BLC:251],[TSR:201],[ELD:189],[J25:146],[TSR:229],[THB:37],[DSK:318],[BLB:203])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MAT:44])

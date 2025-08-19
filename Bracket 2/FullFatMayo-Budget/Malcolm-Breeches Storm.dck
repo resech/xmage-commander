@@ -1,0 +1,74 @@
+1 [GN3:67] Abrade
+1 [CLB:712] Aether Gale
+1 [J22:269] Amoeboid Changeling
+1 [BFZ:69] Anticipate
+1 [WOC:145] Arcane Signet
+1 [CMR:58] Azure Fleet Admiral
+1 [MM2:105] Blades of Velis Vel
+1 [SLD:1551] Breeches, Eager Pillager
+1 [RIX:177] Captain's Hook
+1 [MID:133] Cathartic Pyre
+1 [AFC:116] Chain Reaction
+1 [BLC:110] Chart a Course
+1 [WOC:156] Command Tower
+1 [ISD:49] Curiosity
+1 [KTK:36] Dig Through Time
+1 [ACR:17] Eagle Vision
+1 [GRN:97] Electrostatic Field
+1 [LTR:122] Erebor Flamesmith
+1 [WOC:159] Exotic Orchard
+1 [WOC:147] Fellwar Stone
+1 [CMR:178] Fiery Cannonade
+1 [VOC:164] Fire Diamond
+1 [J25:548] Firebrand Archer
+1 [J25:14] Firespitter Whelp
+1 [CMM:998] Frostboil Snarl
+1 [GRN:174] Goblin Electromancer
+1 [CLB:179] Guild Artisan
+1 [J25:138] Guttersnipe
+1 [ONS:87] Imagecrafter
+1 [VIS:34] Impulse
+1 [CMR:397] Into the Roil
+18 [KTK:254] Island
+1 [F13:6] Izzet Charm
+1 [GPT:152] Izzet Signet
+1 [J22:562] Kari Zev, Skyship Raider
+1 [LCI:364] Kitesail Larcenist
+1 [DSK:372] Leyline of Transformation
+1 [CMR:190] Lightning-Rig Crew
+1 [M21:56] Lofty Denial
+1 [J22:316] Lookout's Dispersal
+1 [MH2:49] Lose Focus
+1 [LCI:293] Malcolm, Alluring Scoundrel
+1 [TPR:58] Mana Leak
+1 [EMA:60] Memory Lapse
+1 [ONS:94] Mistform Mask
+12 [KTK:262] Mountain
+1 [BBD:123] Negate
+1 [J22:332] Opt
+1 [C21:178] Quicksmith Genius
+1 [GN3:37] Run Away Together
+1 [MMA:214] Runed Stalactite
+1 [J22:345] Serum Visions
+1 [EOC:179] Shivan Reef
+1 [CMR:96] Siren Stormtamer
+1 [VOC:167] Sky Diamond
+1 [3ED:274] Sol Ring
+1 [J22:64] Spectral Sailor
+1 [DFT:64] Spell Pierce
+1 [ISD:248] Sulfur Falls
+1 [J25:370] Supreme Will
+1 [MH2:68] Suspend
+1 [MM3:53] Tandem Lookout
+1 [J22:613] Thermo-Alchemist
+1 [J22:84] Thrill of Possibility
+1 [KTK:59] Treasure Cruise
+1 [ONS:119] Trickery Charm
+1 [MH1:154] Volatile Claws
+1 [WOC:151] Wayfarer's Bauble
+1 [J25:393] Winged Words
+1 [MM2:70] Wings of Velis Vel
+SB: 1 [CMR:165] Breeches, Brazen Plunderer
+SB: 1 [CMR:560] Malcolm, Keen-Eyed Navigator
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([WOC:145],[RIX:177],[WOC:147],[VOC:164],[GPT:152],[MMA:214],[VOC:167],[3ED:274],[WOC:151])([J22:269],[CMR:58],[SLD:1551],[GRN:97],[LTR:122],[J25:548],[J25:14],[GRN:174],[J25:138],[ONS:87],[J22:562],[LCI:364],[CMR:190],[LCI:293],[C21:178],[CMR:96],[J22:64],[MM3:53],[J22:613])([ISD:49],[CLB:179],[DSK:372],[ONS:94])([GN3:67],[BFZ:69],[MID:133],[KTK:36],[CMR:178],[VIS:34],[CMR:397],[F13:6],[M21:56],[J22:316],[MH2:49],[TPR:58],[EMA:60],[BBD:123],[J22:332],[GN3:37],[DFT:64],[J25:370],[MH2:68],[J22:84],[ONS:119],[MH1:154])([MM2:105],[MM2:70])([WOC:156],[WOC:159],[CMM:998],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[EOC:179],[ISD:248])([CLB:712],[AFC:116],[BLC:110],[ACR:17],[J22:345],[KTK:59],[J25:393])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMR:165],[CMR:560])

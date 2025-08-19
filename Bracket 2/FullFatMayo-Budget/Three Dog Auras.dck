@@ -1,0 +1,70 @@
+1 [GN3:67] Abrade
+1 [WOC:59] Ajani's Chosen
+1 [NEC:18] Akki Battle Squad
+1 [ELD:2] All That Glitters
+1 [BBD:88] Angelic Gift
+1 [J22:151] Archon of Sun's Grace
+1 [GTC:142] Assemble the Legion
+1 [CMR:13] Benevolent Blessing
+1 [MH2:6] Blacksmith's Skill
+1 [NEO:6] Born to Drive
+1 [USG:177] Bravado
+1 [J25:178] Cartouche of Solidarity
+1 [AFC:116] Chain Reaction
+1 [J22:3] Chains of Custody
+1 [J25:181] Chosen by Heliod
+1 [UNF:6] Clowning Around
+1 [WOC:156] Command Tower
+1 [THB:7] Commanding Presence
+1 [3ED:17] Disenchant
+1 [J22:523] Dragon Fodder
+1 [J21:437] Dragon Mantle
+1 [WOC:66] Eidolon of Countless Battles
+1 [LCI:149] Etali's Favor
+1 [WOC:67] Ethereal Armor
+1 [WOC:159] Exotic Orchard
+1 [BLB:13] Feather of Flight
+1 [VOC:164] Fire Diamond
+1 [IKO:119] Forbidden Friendship
+1 [RAV:126] Galvanic Arc
+1 [MOC:282] Goblin Instigator
+1 [THS:16] Gods Willing
+1 [DMR:8] Griffin Guide
+1 [J25:753] Guardian Idol
+1 [THB:20] Heliod's Pilgrim
+1 [PC2:8] Hyena Umbra
+1 [MH3:31] Indebted Spirit
+1 [THB:142] Iroas's Blessing
+1 [BBD:93] Kor Spiritdancer
+1 [GRN:109] Legion Warboss
+1 [AFC:132] Loyal Apprentice
+1 [VOC:165] Marble Diamond
+1 [EMA:19] Mesa Enchantress
+1 [WOC:148] Mind Stone
+15 [KTK:262] Mountain
+1 [J22:219] Murder Investigation
+1 [ONE:234] Myr Convert
+1 [VOW:26] Nurturing Presence
+1 [TSP:33] Pentarch Ward
+19 [KTK:250] Plains
+1 [J25:101] Raise the Alarm
+1 [MOM:158] Ral's Reinforcements
+1 [CLU:71] Rootborn Defenses
+1 [KHM:148] Rune of Speed
+1 [KHM:25] Rune of Sustenance
+1 [J22:58] Sage's Reverie
+1 [THB:302] Shatter the Sky
+1 [3ED:274] Sol Ring
+1 [RIX:25] Squire's Devotion
+1 [AER:23] Sram, Senior Edificer
+1 [SNC:124] Sticky Fingers
+1 [THB:156] Storm Herald
+1 [WOC:77] Sun Titan
+1 [H1R:33] Talisman of Conviction
+1 [KHM:37] Valor of the Worthy
+1 [WOC:151] Wayfarer's Bauble
+1 [WOE:158] Witch's Mark
+1 [GRN:229] Response // Resurgence
+SB: 1 [PIP:120] Three Dog, Galaxy News DJ
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([ONE:234])([VOC:164],[J25:753],[VOC:165],[WOC:148],[3ED:274],[H1R:33],[WOC:151])([WOC:59],[NEC:18],[J22:151],[MOC:282],[THB:20],[BBD:93],[GRN:109],[AFC:132],[EMA:19],[AER:23],[THB:156],[WOC:77])([WOC:66],[MH3:31])([ELD:2],[BBD:88],[GTC:142],[CMR:13],[NEO:6],[USG:177],[J25:178],[J22:3],[J25:181],[THB:7],[J21:437],[LCI:149],[WOC:67],[BLB:13],[RAV:126],[DMR:8],[PC2:8],[THB:142],[J22:219],[VOW:26],[TSP:33],[KHM:148],[KHM:25],[J22:58],[RIX:25],[SNC:124],[KHM:37])([GRN:229])([GN3:67],[MH2:6],[3ED:17],[THS:16],[J25:101],[CLU:71])([WOC:156],[WOC:159],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250])([AFC:116],[UNF:6],[J22:523],[IKO:119],[MOM:158],[THB:302],[WOE:158])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PIP:120])

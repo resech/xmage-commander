@@ -1,0 +1,73 @@
+1 [CLB:712] Aether Gale
+1 [EOC:63] Angel of the Ruins
+1 [WOC:145] Arcane Signet
+1 [AKH:78] Archfiend of Ifnir
+1 [MOM:356] Archpriest of Shadows
+1 [PM20:46p] Atemsis, All-Seeing
+1 [DIS:159] Azorius Signet
+1 [MH2:6] Blacksmith's Skill
+1 [RAV:4] Blazing Archon
+1 [J21:298] Bone Shards
+1 [SIR:101] Call the Bloodline
+1 [VOC:162] Charcoal Diamond
+1 [MH3:55] Copycrook
+1 [CM2:24] Dawnbreak Reclaimer
+1 [AFC:184] Despark
+1 [GN3:26] Diluvian Primordial
+1 [RAV:260] Dimir Signet
+1 [KTK:37] Disdainful Stroke
+1 [3ED:17] Disenchant
+1 [FDN:588] Dive Down
+1 [FDN:118] Dreadwing Scavenger
+1 [THB:214] Dream Trawler
+1 [DKA:137] Drogskol Reaver
+1 [CLB:125] Elder Brain
+1 [WOC:159] Exotic Orchard
+1 [KTK:40] Force Away
+1 [WOC:93] Frantic Search
+1 [VOC:105] Ghostly Pilferer
+13 [KTK:254] Island
+1 [NCC:103] Kamiz, Obscura Oculus
+1 [NCC:137] Lethal Scheme
+1 [CMM:102] Looter il-Kor
+1 [GTC:20] Luminate Primordial
+1 [TPR:58] Mana Leak
+1 [VOC:165] Marble Diamond
+1 [EMA:60] Memory Lapse
+1 [EMA:61] Merfolk Looter
+1 [J21:357] Mind Rake
+1 [BBD:123] Negate
+1 [AFC:189] Obsessive Stitcher
+1 [GPT:155] Orzhov Signet
+1 [WOC:165] Path of Ancestry
+1 [EMA:66] Phyrexian Ingester
+9 [KTK:250] Plains
+1 [FDN:313] Refute
+1 [ACR:211] Restart Sequence
+1 [CLU:71] Rootborn Defenses
+1 [GN3:37] Run Away Together
+1 [THB:302] Shatter the Sky
+1 [BLB:382] Shoreline Looter
+1 [VOC:167] Sky Diamond
+1 [3ED:274] Sol Ring
+10 [KTK:258] Swamp
+1 [SLD:1052] Talisman of Progress
+1 [CLB:271] The Council of Four
+1 [C19:21] Thieving Amalgam
+1 [9ED:104] Thought Courier
+1 [EOC:145] Threefold Thunderhulk
+1 [J22:824] Thriving Heath
+1 [J22:825] Thriving Isle
+1 [J22:826] Thriving Moor
+1 [SNC:228] Toluz, Clever Conductor
+1 [ISD:122] Unburial Rites
+1 [J21:396] Undead Augur
+1 [TSB:53] Undertaker
+1 [DSK:306] Unwanted Remake
+1 [DMU:226] Vohar, Vodalian Desecrator
+1 [WOC:151] Wayfarer's Bauble
+1 [EMN:80] Wharf Infiltrator
+1 [SLX:1] Arvinox, the Mind Flail
+SB: 1 [DRC:1] Hashaton, Scarab's Fist
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([EOC:63],[EOC:145])([WOC:145],[DIS:159],[VOC:162],[RAV:260],[VOC:165],[GPT:155],[VOC:167],[3ED:274],[SLD:1052],[WOC:151])([AKH:78],[MOM:356],[PM20:46p],[RAV:4],[MH3:55],[CM2:24],[GN3:26],[FDN:118],[THB:214],[DKA:137],[CLB:125],[VOC:105],[NCC:103],[CMM:102],[GTC:20],[EMA:61],[AFC:189],[EMA:66],[BLB:382],[CLB:271],[C19:21],[9ED:104],[SNC:228],[J21:396],[TSB:53],[DMU:226],[EMN:80])([SLX:1])([SIR:101])([MH2:6],[AFC:184],[KTK:37],[3ED:17],[FDN:588],[KTK:40],[WOC:93],[NCC:137],[TPR:58],[EMA:60],[BBD:123],[FDN:313],[CLU:71],[GN3:37],[DSK:306])([WOC:159],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[WOC:165],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[J22:824],[J22:825],[J22:826])([CLB:712],[J21:298],[J21:357],[ACR:211],[THB:302],[ISD:122])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DRC:1])

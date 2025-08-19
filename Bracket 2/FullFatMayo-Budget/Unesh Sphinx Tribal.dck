@@ -1,0 +1,67 @@
+1 [CLB:712] Aether Gale
+1 [VOW:47] Alchemist's Retrieval
+1 [BNG:31] Arbiter of the Ideal
+1 [WOC:145] Arcane Signet
+1 [SOM:28] Argent Sphinx
+1 [PM20:46p] Atemsis, All-Seeing
+1 [BLB:243] Barkform Harvester
+1 [MKC:19] Case of the Shifting Visage
+1 [DMC:180] Coalition Relic
+1 [MKM:341] Conspiracy Unraveler
+1 [CMD:42] Conundrum Sphinx
+1 [THS:46] Curse of the Swine
+1 [C21:25] Dazzling Sphinx
+1 [DMU:393] Defiler of Dreams
+1 [KTK:37] Disdainful Stroke
+1 [FDN:588] Dive Down
+1 [VOC:3] Donal, Herald of Wings
+1 [UMA:52] Dreamscape Artist
+1 [ZNC:4] Enigma Thief
+1 [SIR:67] Essence Flux
+1 [LCC:15] Eye of Ojer Taq
+1 [WOC:147] Fellwar Stone
+1 [CMM:98] Ghostly Flicker
+1 [BFZ:78] Guardian of Tazeem
+1 [ELD:222] Heraldic Banner
+1 [JOU:40] Hour of Need
+36 [KTK:254] Island
+1 [OGW:58] Jwar Isle Avenger
+1 [ISD:61] Laboratory Maniac
+1 [J22:315] Littjara Kinseekers
+1 [WAR:241] Mana Geode
+1 [M15:67] Master of Predicaments
+1 [PRM:83746] Master of Winds
+1 [EMA:60] Memory Lapse
+1 [WOC:148] Mind Stone
+1 [THB:234] Mirror Shield
+1 [J22:323] Mistwalker
+1 [WOC:164] Myriad Landscape
+1 [BBD:123] Negate
+1 [J21:753] Ornithopter of Paradise
+1 [CMM:970] Pillar of Origins
+1 [NEO:72] Planar Incision
+1 [PRM:88394] Pyre of Heroes
+1 [WOC:104] Reality Shift
+1 [CLU:95] Rescuer Sphinx
+1 [SLD:2029] Resculpt
+1 [GN3:37] Run Away Together
+1 [KHM:76] Saw It Coming
+1 [ONE:405] Serum Sovereign
+1 [DMU:64] Shore Up
+1 [VOC:167] Sky Diamond
+1 [3ED:274] Sol Ring
+1 [RNA:55] Sphinx of Foresight
+1 [OTJ:322] Stoic Sphinx
+1 [MH2:68] Suspend
+1 [BLB:251] Three Tree Mascot
+1 [SLD:1829] Triskaidekaphile
+1 [LRW:94] Turtleshell Changeling
+1 [J21:759] Universal Automaton
+1 [VOW:87] Wash Away
+1 [MKC:25] Watcher of Hours
+1 [SNC:66] Witness Protection
+1 [EMA:235] Worn Powerstone
+1 [AFR:85] You See a Guard Approach
+SB: 1 [HOU:52] Unesh, Criosphinx Sovereign
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([BLB:243],[J21:753],[BLB:251],[J21:759])([WOC:145],[DMC:180],[LCC:15],[WOC:147],[ELD:222],[WAR:241],[WOC:148],[THB:234],[CMM:970],[PRM:88394],[VOC:167],[3ED:274],[EMA:235])([BNG:31],[SOM:28],[PM20:46p],[MKM:341],[CMD:42],[C21:25],[DMU:393],[VOC:3],[UMA:52],[ZNC:4],[BFZ:78],[OGW:58],[ISD:61],[J22:315],[M15:67],[PRM:83746],[J22:323],[CLU:95],[ONE:405],[RNA:55],[OTJ:322],[SLD:1829],[LRW:94],[MKC:25])([MKC:19],[SNC:66])([VOW:47],[KTK:37],[FDN:588],[SIR:67],[CMM:98],[JOU:40],[EMA:60],[BBD:123],[NEO:72],[WOC:104],[SLD:2029],[GN3:37],[KHM:76],[DMU:64],[MH2:68],[VOW:87],[AFR:85])([KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[WOC:164])([CLB:712],[THS:46])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([HOU:52])

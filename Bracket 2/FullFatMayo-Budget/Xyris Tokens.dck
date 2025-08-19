@@ -1,0 +1,76 @@
+1 [GN3:67] Abrade
+1 [CLB:712] Aether Gale
+1 [OTC:37] Bounty Board
+1 [USG:177] Bravado
+1 [WOC:156] Command Tower
+1 [MOC:40] Cutthroat Negotiator
+1 [DMR:188] Decimate
+1 [STX:177] Decisive Denial
+1 [DFT:157] Defend the Rider
+1 [KHM:53] Depart the Realm
+1 [KTK:37] Disdainful Stroke
+1 [RTR:92] Dynacharge
+1 [CNS:161] Echoing Courage
+1 [VMA:251] Edric, Spymaster of Trest
+1 [C21:10] Esix, Fractal Bloom
+1 [WOC:159] Exotic Orchard
+1 [J25:146] Explore
+1 [UMA:165] Fecundity
+1 [BBD:198] Fertile Ground
+1 [VOC:164] Fire Diamond
+1 [HOP:87] Fires of Yavimaya
+12 [KTK:266] Forest
+1 [TSR:204] Gaea's Anthem
+1 [MKM:161] Get a Leg Up
+1 [MH3:123] Ghostfire Slice
+1 [AFR:246] Hand of Vecna
+1 [ELD:222] Heraldic Banner
+1 [J22:776] Hero's Blade
+1 [GN2:54] Howling Golem
+1 [GN3:99] Invigorate
+10 [KTK:254] Island
+1 [J22:680] Ivy Lane Denizen
+1 [J21:204] Junk Winder
+1 [BLB:58] Long River's Pull
+1 [CM2:113] Magus of the Wheel
+1 [TPR:58] Mana Leak
+1 [MH3:128] Molten Gatekeeper
+1 [CLB:327] Moss Diamond
+7 [KTK:262] Mountain
+1 [FUT:146] Muraganda Petroglyphs
+1 [BBD:123] Negate
+1 [SOK:157] O-Naginata
+1 [DMR:62] Opposition
+1 [GN3:103] Overrun
+1 [WOC:165] Path of Ancestry
+1 [J25:704] Rampant Growth
+1 [SLD:2029] Resculpt
+1 [THB:197] Return to Nature
+1 [WOE:183] Royal Treatment
+1 [GN3:37] Run Away Together
+1 [J21:631] Scale Up
+1 [HOP:77] Search for Tomorrow
+1 [WOT:49] Shared Animosity
+1 [DMU:64] Shore Up
+1 [BRR:116z] Sigil of Valor
+1 [VOC:167] Sky Diamond
+1 [3ED:274] Sol Ring
+1 [DFT:64] Spell Pierce
+1 [LCC:78] Storm Fleet Negotiator
+1 [THB:157] Storm's Wrath
+1 [KHC:8] Tales of the Ancestors
+1 [FRF:116] Temur Battle Rage
+1 [J22:822] Thriving Bluff
+1 [J22:823] Thriving Grove
+1 [J22:825] Thriving Isle
+1 [CMA:155] Thunderfoot Baloth
+1 [NCC:165] Vivien's Stampede
+1 [WOC:151] Wayfarer's Bauble
+1 [BLB:203] Wear Down
+1 [3ED:230] Wild Growth
+1 [DMU:261] Yavimaya Coast
+1 [ONE:246] Zenith Chronicler
+1 [AKH:211] Commit // Memory
+SB: 1 [DMC:175] Xyris, the Writhing Storm
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([GN2:54],[MH3:128],[ONE:246])([OTC:37],[VOC:164],[AFR:246],[ELD:222],[J22:776],[CLB:327],[SOK:157],[BRR:116z],[VOC:167],[3ED:274],[WOC:151])([MOC:40],[VMA:251],[C21:10],[J22:680],[J21:204],[CM2:113],[LCC:78],[CMA:155])([USG:177],[UMA:165],[BBD:198],[HOP:87],[TSR:204],[FUT:146],[DMR:62],[WOT:49],[3ED:230])([AKH:211])([GN3:67],[STX:177],[DFT:157],[KHM:53],[KTK:37],[RTR:92],[CNS:161],[MKM:161],[MH3:123],[GN3:99],[BLB:58],[TPR:58],[BBD:123],[SLD:2029],[THB:197],[WOE:183],[GN3:37],[DMU:64],[DFT:64],[FRF:116])([WOC:156],[WOC:159],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[WOC:165],[J22:822],[J22:823],[J22:825],[DMU:261])([CLB:712],[DMR:188],[J25:146],[GN3:103],[J25:704],[J21:631],[HOP:77],[THB:157],[KHC:8],[NCC:165],[BLB:203])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DMC:175])

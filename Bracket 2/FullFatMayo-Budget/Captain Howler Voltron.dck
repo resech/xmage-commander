@@ -1,0 +1,73 @@
+1 [VMA:56] Aquamoeba
+1 [WOC:145] Arcane Signet
+1 [J22:809] Ash Barrens
+1 [IKO:42] Avian Oddity
+1 [DFT:190] Boosted Sloop
+1 [MID:133] Cathartic Pyre
+1 [AFC:116] Chain Reaction
+1 [BLC:110] Chart a Course
+1 [WOC:156] Command Tower
+1 [MH3:55] Copycrook
+1 [AFC:81] Curator of Mysteries
+1 [KTK:37] Disdainful Stroke
+1 [FDN:588] Dive Down
+1 [STX:41] Divide by Zero
+1 [DSK:52] Enter the Enigma
+1 [EOC:137] Everflowing Chalice
+1 [J21:439] Faithless Salvaging
+1 [WOC:147] Fellwar Stone
+1 [C21:378] Fiery Encore
+1 [VOC:164] Fire Diamond
+1 [J25:750] Fireshrieker
+1 [KTK:40] Force Away
+1 [J22:814] Forgotten Cave
+1 [WOC:93] Frantic Search
+1 [MH3:122] Galvanic Discharge
+1 [MH3:123] Ghostfire Slice
+1 [VOC:105] Ghostly Pilferer
+1 [ANB:28] Glint
+1 [MOM:142] Hangar Scrounger
+1 [DMU:231] Hero's Heirloom
+1 [LCI:156] Inti, Seneschal of the Sun
+16 [KTK:254] Island
+1 [F13:6] Izzet Charm
+1 [GPT:152] Izzet Signet
+1 [PKLD:220s] Key to the City
+1 [J22:569] Lightning Axe
+1 [J25:769] Lonely Sandbar
+1 [DFT:137] Magmakin Artillerist
+1 [EMA:60] Memory Lapse
+1 [EMA:61] Merfolk Looter
+1 [WOC:148] Mind Stone
+1 [ULG:36] Miscalculation
+15 [KTK:262] Mountain
+1 [ONE:234] Myr Convert
+1 [WOC:164] Myriad Landscape
+1 [BBD:123] Negate
+1 [SOK:157] O-Naginata
+1 [LCI:70] Pirate Hat
+1 [LCC:279] Prismari Command
+1 [EMA:230] Prismatic Lens
+1 [J22:584] Raking Claws
+1 [MKM:141] Reckless Detective
+1 [GN3:37] Run Away Together
+1 [BLB:151] Sazacap's Brew
+1 [DMU:64] Shore Up
+1 [J22:599] Shredded Sails
+1 [VOC:167] Sky Diamond
+1 [3ED:274] Sol Ring
+1 [AKH:149] Sweltering Suns
+1 [GN3:120] Sword of Vengeance
+1 [CHK:271] Tenza, Godo's Maul
+1 [9ED:104] Thought Courier
+1 [J22:84] Thrill of Possibility
+1 [ONE:303] Unctus, Grand Metatect
+1 [PIP:395] Veronica, Dissident Scribe
+1 [LCI:172] Volatile Wanderglyph
+1 [MRD:271] Vorrac Battlehorns
+1 [WOC:151] Wayfarer's Bauble
+1 [AFR:85] You See a Guard Approach
+1 [NCC:278] Zurzoth, Chaos Rider
+SB: 1 [DFT:194] Captain Howler, Sea Scourge
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([ONE:234],[ONE:303],[LCI:172])([WOC:145],[DFT:190],[EOC:137],[WOC:147],[VOC:164],[J25:750],[DMU:231],[GPT:152],[PKLD:220s],[WOC:148],[SOK:157],[LCI:70],[EMA:230],[VOC:167],[3ED:274],[GN3:120],[CHK:271],[MRD:271],[WOC:151])([VMA:56],[IKO:42],[MH3:55],[AFC:81],[VOC:105],[MOM:142],[LCI:156],[DFT:137],[EMA:61],[MKM:141],[9ED:104],[PIP:395],[NCC:278])([MID:133],[KTK:37],[FDN:588],[STX:41],[J21:439],[KTK:40],[WOC:93],[MH3:122],[MH3:123],[ANB:28],[F13:6],[J22:569],[EMA:60],[ULG:36],[BBD:123],[LCC:279],[J22:584],[GN3:37],[BLB:151],[DMU:64],[J22:599],[J22:84],[AFR:85])([J22:809],[WOC:156],[J22:814],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[J25:769],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[WOC:164])([AFC:116],[BLC:110],[DSK:52],[C21:378],[AKH:149])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DFT:194])

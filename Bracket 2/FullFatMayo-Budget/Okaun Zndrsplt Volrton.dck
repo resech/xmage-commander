@@ -1,0 +1,69 @@
+1 [GN3:67] Abrade
+1 [THS:39] Aqueous Form
+1 [J25:285] Archaeomancer
+1 [J25:289] Blink of an Eye
+1 [VOC:144] Bloodsworn Steward
+1 [AFC:116] Chain Reaction
+1 [ODY:182] Chance Encounter
+1 [CLB:714] Chasm Skulker
+1 [VOC:163] Commander's Sphere
+1 [HOU:88] Crash Through
+1 [ROE:60] Distortion Strike
+1 [FDN:588] Dive Down
+1 [UMA:53] Eel Umbra
+1 [DSK:52] Enter the Enigma
+1 [EOC:137] Everflowing Chalice
+1 [WOC:147] Fellwar Stone
+1 [VOC:164] Fire Diamond
+1 [J25:553] Fling
+1 [IKO:118] Footfall Crater
+1 [VOC:105] Ghostly Pilferer
+1 [MH2:130] Goblin Traprunner
+1 [GRN:105] Gravitic Punch
+1 [J25:753] Guardian Idol
+1 [CMM:389] Haunted Cloak
+1 [DMU:231] Hero's Heirloom
+19 [KTK:254] Island
+1 [F13:6] Izzet Charm
+1 [GRN:238] Izzet Locket
+1 [ZNR:146] Kazuul's Fury
+1 [PKLD:220s] Key to the City
+1 [CLB:319] Manifold Key
+1 [EMA:60] Memory Lapse
+1 [WOC:148] Mind Stone
+1 [PIO:64] Mizzium Skin
+16 [KTK:262] Mountain
+1 [BBD:123] Negate
+1 [NEO:251] Network Terminal
+1 [THS:219] Prowler's Helm
+1 [J22:792] Psychosis Crawler
+1 [DKM:19] Pyroclasm
+1 [RNA:48] Quench
+1 [LCC:167] Ravenform
+1 [WWK:87] Ricochet Trap
+1 [GN3:37] Run Away Together
+1 [DMU:64] Shore Up
+1 [CMR:96] Siren Stormtamer
+1 [VOC:167] Sky Diamond
+1 [OGW:47] Slip Through Space
+1 [3ED:274] Sol Ring
+1 [UMA:148] Soul's Fire
+1 [DFT:64] Spell Pierce
+1 [MH2:68] Suspend
+1 [GN3:120] Sword of Vengeance
+1 [UMA:76] Talrand, Sky Summoner
+1 [MH2:144] Tavern Scoundrel
+1 [FRF:116] Temur Battle Rage
+1 [CHK:271] Tenza, Godo's Maul
+1 [M19:163] Thud
+1 [WOC:151] Wayfarer's Bauble
+1 [AFR:83] You Come to a River
+1 [AFR:85] You See a Guard Approach
+1 [J22:626] Young Pyromancer
+1 [MH2:218] Yusri, Fortune's Flame
+1 [SLD:204] Darksteel Ingot
+1 [10E:345] Whispersilk Cloak
+SB: 1 [BBD:6] Okaun, Eye of Chaos
+SB: 1 [BBD:5] Zndrsplt, Eye of Wisdom
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([J22:792])([VOC:163],[EOC:137],[WOC:147],[VOC:164],[J25:753],[CMM:389],[DMU:231],[GRN:238],[PKLD:220s],[CLB:319],[WOC:148],[NEO:251],[THS:219],[VOC:167],[3ED:274],[GN3:120],[CHK:271],[WOC:151],[SLD:204],[10E:345])([J25:285],[VOC:144],[CLB:714],[VOC:105],[MH2:130],[CMR:96],[UMA:76],[MH2:144],[J22:626],[MH2:218])([THS:39],[ODY:182],[UMA:53],[IKO:118])([GN3:67],[J25:289],[FDN:588],[J25:553],[F13:6],[ZNR:146],[EMA:60],[PIO:64],[BBD:123],[RNA:48],[WWK:87],[GN3:37],[DMU:64],[UMA:148],[DFT:64],[MH2:68],[FRF:116],[AFR:83],[AFR:85])([KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262])([AFC:116],[HOU:88],[ROE:60],[DSK:52],[GRN:105],[DKM:19],[LCC:167],[OGW:47],[M19:163])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BBD:6],[BBD:5])

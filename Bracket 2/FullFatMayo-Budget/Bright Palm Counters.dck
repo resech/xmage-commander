@@ -1,0 +1,75 @@
+1 [KTK:2] Abzan Falconer
+1 [J22:1] Agrus Kos, Eternal Soldier
+1 [ACR:134] Alexios, Deimos of Kosmos
+1 [MH2:6] Blacksmith's Skill
+1 [OTJ:6] Bovine Intervention
+1 [DFT:7] Bulwark Ox
+1 [NCC:169] Cabaretti Confluence
+1 [VOW:192] Cloaked Cadet
+1 [EMN:17] Collective Effort
+1 [WOC:156] Command Tower
+1 [BLC:29] Communal Brewing
+1 [2X2:195] Conclave Mentor
+1 [MOC:36] Conclave Sledge-Captain
+1 [VOC:82] Custodi Soulbinders
+1 [MOC:30] Death-Greeter's Champion
+1 [DMR:188] Decimate
+1 [DTK:221] Dromoka's Command
+1 [FUT:144] Edge of Autumn
+1 [MH3:151] Evolution Witness
+1 [WOC:159] Exotic Orchard
+1 [BBD:198] Fertile Ground
+1 [VOC:164] Fire Diamond
+1 [J22:56] Flicker of Fate
+11 [KTK:266] Forest
+1 [J25:147] Forgotten Ancient
+1 [WOT:53] Garruk's Uprising
+1 [J25:664] Gnarlid Colony
+1 [PJOU:126*] Heroes' Bane
+1 [BLB:179] Hunter's Talent
+1 [CM2:139] Inspiring Call
+1 [NEO:223] Invigorating Hot Spring
+1 [J22:202] Justiciar's Portal
+1 [WHO:1014] Last Night Together
+1 [WHO:107] Leela, Sevateem Warrior
+1 [PIP:399] Lily Bowen, Raging Grandma
+1 [PORI:186s] Managorger Hydra
+1 [VOC:165] Marble Diamond
+1 [MOM:247] Mirror-Shield Hoplite
+1 [CLB:327] Moss Diamond
+1 [AFC:251] Mosswort Bridge
+7 [KTK:262] Mountain
+1 [MAT:37] Nahiri's Resolve
+1 [AFR:196] Ochre Jelly
+1 [OTJ:171] Ornery Tumblewagg
+1 [CM2:34] Orzhov Advokist
+1 [WOC:165] Path of Ancestry
+12 [KTK:250] Plains
+1 [J22:711] Pridemalkin
+1 [40K:97*] Purestrain Genestealer
+1 [OTJ:26] Requisition Raid
+1 [J25:708] Rishkar, Peema Renegade
+1 [LCC:255] Ruinous Intrusion
+1 [HOP:77] Search for Tomorrow
+1 [THB:302] Shatter the Sky
+1 [SLD:1293] Slip On the Ring
+1 [J25:713] Snakeskin Veil
+1 [3ED:274] Sol Ring
+1 [DRC:137] Solar Transformer
+1 [THB:157] Storm's Wrath
+1 [BLC:158] Sunscorch Regent
+1 [IKO:35] Swallow Whole
+1 [HOP:67] Taurean Mauler
+1 [DSK:219] The Jolly Balloon Man
+1 [EOC:145] Threefold Thunderhulk
+1 [J22:822] Thriving Bluff
+1 [J22:823] Thriving Grove
+1 [J22:824] Thriving Heath
+1 [DMR:236] Triskelion
+1 [KTK:156] Tuskguard Captain
+1 [DSK:306] Unwanted Remake
+1 [J25:34] Urdnan, Dromoka Warrior
+1 [GRN:229] Response // Resurgence
+SB: 1 [MOC:1] Bright-Palm, Soul Awakener
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([EOC:145],[DMR:236])([VOC:164],[VOC:165],[CLB:327],[3ED:274],[DRC:137])([KTK:2],[J22:1],[ACR:134],[DFT:7],[VOW:192],[2X2:195],[MOC:36],[VOC:82],[MOC:30],[MH3:151],[J25:147],[J25:664],[PJOU:126*],[WHO:107],[PIP:399],[PORI:186s],[MOM:247],[AFR:196],[OTJ:171],[CM2:34],[J22:711],[40K:97*],[J25:708],[BLC:158],[HOP:67],[DSK:219],[KTK:156],[J25:34])([BLC:29],[BBD:198],[WOT:53],[BLB:179],[NEO:223],[MAT:37])([GRN:229])([MH2:6],[OTJ:6],[DTK:221],[J22:56],[CM2:139],[J22:202],[LCC:255],[SLD:1293],[J25:713],[DSK:306])([WOC:156],[WOC:159],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[AFC:251],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[WOC:165],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[J22:822],[J22:823],[J22:824])([NCC:169],[EMN:17],[DMR:188],[FUT:144],[WHO:1014],[OTJ:26],[HOP:77],[THB:302],[THB:157],[IKO:35])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MOC:1])

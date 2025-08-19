@@ -1,0 +1,81 @@
+1 [MAT:20] Animist's Might
+1 [DMC:140] Archelos, Lagoon Mystic
+1 [CLB:112] Armor of Shadows
+1 [J25:631] Audacity
+1 [CLB:345] Baldur's Gate
+1 [CLB:346] Basilisk Gate
+1 [CLB:347] Black Dragon Gate
+1 [DMC:178] Blackblade Reforged
+1 [CMM:372] Brass Knuckles
+1 [VOW:190] Cartographer's Survey
+1 [GRN:125] Circuitous Route
+1 [DIS:107] Coiling Oracle
+1 [AFC:183] Cold-Eyed Selkie
+1 [NEO:216] Colossal Skyturtle
+1 [DGM:148] Dimir Guildgate
+1 [KTK:37] Disdainful Stroke
+1 [GRN:128] District Guide
+1 [MOM:185] Doomskar Warrior
+1 [UMA:53] Eel Umbra
+1 [J22:88] Elvish Rejuvenator
+1 [DSC:216] Eureka Moment
+1 [ONE:168] Expand the Sphere
+1 [J25:146] Explore
+1 [CLB:232] Explore the Underdark
+1 [J22:766] Explorer's Scope
+1 [J25:750] Fireshrieker
+1 [KTK:40] Force Away
+14 [KTK:266] Forest
+1 [CLB:315] Gate Colossus
+1 [PIO:174] Gatebreaker Ram
+1 [RTR:124] Gatecreeper Vine
+1 [GRN:235] Gatekeeper Gargoyle
+1 [GRN:247] Gateway Plaza
+1 [RNA:40] Gateway Sneak
+1 [GRN:236] Glaive of the Guildpact
+1 [DGM:149] Golgari Guildgate
+1 [CLB:353] Gond Gate
+1 [ONE:169] Green Sun's Twilight
+1 [AFR:223] Gretchen Titchwillow
+1 [DMC:153] Growth Spiral
+1 [GRN:41] Guild Summit
+1 [AKH:169] Hapatra's Mark
+1 [CMM:389] Haunted Cloak
+1 [CLB:354] Heap Gate
+1 [DMU:231] Hero's Heirloom
+8 [KTK:254] Island
+1 [J25:149] Llanowar Elves
+1 [J22:784] Loxodon Warhammer
+1 [CLB:356] Manor Gate
+1 [DGM:152] Maze's End
+1 [EMA:60] Memory Lapse
+1 [KTK:142] Naturalize
+1 [CLB:329] Navigation Orb
+1 [BBD:123] Negate
+1 [RNA:133] Open the Gates
+1 [RNA:254] Plaza of Harmony
+1 [J22:715] Rampaging Baloths
+1 [THB:197] Return to Nature
+1 [GN3:37] Run Away Together
+1 [AFR:204] Scaled Herbalist
+1 [CMM:971] Scaretiller
+1 [CLB:359] Sea Gate
+1 [RNA:141] Silhana Wayfinder
+1 [DGM:156] Simic Guildgate
+1 [TMP:256] Skyshroud Ranger
+1 [WOC:133] Snake Umbra
+1 [DFT:64] Spell Pierce
+2 [KTK:258] Swamp
+1 [CLB:489] Sword Coast Sailor
+1 [BFZ:192] Sylvan Scrying
+1 [DMR:203] Tatyova, Benthic Druid
+1 [3ED:132] Terror
+1 [DMU:259] Thran Portal
+1 [J21:654] Timeless Witness
+1 [KTK:211] Villainous Wealth
+1 [AFR:85] You See a Guard Approach
+1 [STX:250] Zimone, Quandrix Prodigy
+1 [M3C:261] Find // Finality
+SB: 1 [CLB:289] Nine-Fingers Keene
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([CLB:315],[GRN:235],[CMM:971])([DMC:178],[CMM:372],[J22:766],[J25:750],[GRN:236],[CMM:389],[DMU:231],[J22:784],[CLB:329])([DMC:140],[DIS:107],[AFC:183],[GRN:128],[MOM:185],[J22:88],[PIO:174],[RTR:124],[RNA:40],[AFR:223],[J25:149],[J22:715],[AFR:204],[RNA:141],[TMP:256],[DMR:203],[J21:654],[STX:250])([NEO:216])([J25:631],[UMA:53],[GRN:41],[WOC:133],[CLB:489])([CLB:112],[KTK:37],[DSC:216],[KTK:40],[DMC:153],[AKH:169],[EMA:60],[KTK:142],[BBD:123],[THB:197],[GN3:37],[DFT:64],[3ED:132],[AFR:85])([CLB:345],[CLB:346],[CLB:347],[DGM:148],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[GRN:247],[DGM:149],[CLB:353],[CLB:354],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[CLB:356],[DGM:152],[RNA:254],[CLB:359],[DGM:156],[KTK:258],[KTK:258],[DMU:259])([M3C:261])([MAT:20],[VOW:190],[GRN:125],[ONE:168],[J25:146],[CLB:232],[ONE:169],[RNA:133],[BFZ:192],[KTK:211])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CLB:289])

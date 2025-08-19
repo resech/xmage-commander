@@ -1,0 +1,68 @@
+1 [J25:516] Ancestral Anger
+1 [WOC:145] Arcane Signet
+1 [MH1:118] Aria of Flame
+1 [ELD:112] Barge In
+1 [MH2:6] Blacksmith's Skill
+1 [ONE:123] Blazing Crescendo
+1 [CHK:1] Blessed Breath
+1 [J22:156] Blessed Defiance
+1 [SNC:4] Boon of Safety
+1 [RAV:255] Boros Signet
+1 [EMN:121] Borrowed Hostility
+1 [KLD:108] Built to Smash
+1 [RVR:104] Burning Prophet
+1 [STX:10] Clever Lumimancer
+1 [A25:7] Cloudshift
+1 [AFR:137] Critical Hit
+1 [KTK:7] Defiant Strike
+1 [3ED:17] Disenchant
+1 [ISD:10] Divine Reckoning
+1 [BBD:177] Expedite
+1 [NEO:139] Explosive Entry
+1 [CM2:97] Fall of the Hammer
+1 [WOC:147] Fellwar Stone
+1 [VOC:164] Fire Diamond
+1 [J21:443] Fists of Flame
+1 [J22:540] Go for Blood
+1 [THS:16] Gods Willing
+1 [J25:138] Guttersnipe
+1 [SNC:17] Illuminator Virtuoso
+1 [CM2:107] Impact Resonance
+1 [J25:565] Infuriate
+1 [ELD:129] Joust
+1 [AFR:153] Kick in the Door
+1 [BBD:96] Long Road Home
+1 [BRO:14] Loran's Escape
+1 [VOC:165] Marble Diamond
+1 [BLB:144] Might of the Meek
+19 [KTK:262] Mountain
+1 [ONE:234] Myr Convert
+1 [J21:753] Ornithopter of Paradise
+1 [ME2:145] Panic
+17 [KTK:250] Plains
+1 [J22:584] Raking Claws
+1 [RIX:110] Reckless Rage
+1 [NEO:32] Regent's Authority
+1 [J21:503] Renegade Tactics
+1 [AFC:136] Rile
+1 [GRN:115] Runaway Steam-Kin
+1 [WAR:142] Samut's Sprint
+1 [J21:133] Shelter
+1 [CLB:43] Slaughter the Strong
+1 [UMA:148] Soul's Fire
+1 [MBS:134] Sphere of the Suns
+1 [CNS:83] Stave Off
+1 [CMM:260] Storm-Kiln Artist
+1 [J22:610] Sudden Breakthrough
+1 [RTR:26] Swift Justice
+1 [H1R:33] Talisman of Conviction
+1 [FRF:116] Temur Battle Rage
+1 [PIO:247] Tenth District Legionnaire
+1 [J22:613] Thermo-Alchemist
+1 [J25:603] Titan's Strength
+1 [J25:608] Unleash Fury
+1 [WOC:151] Wayfarer's Bauble
+1 [J22:626] Young Pyromancer
+SB: 1 [PWAR:197p] Feather, the Redeemed
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([ONE:234],[J21:753])([WOC:145],[RAV:255],[WOC:147],[VOC:164],[VOC:165],[MBS:134],[H1R:33],[WOC:151])([RVR:104],[STX:10],[J25:138],[SNC:17],[GRN:115],[CMM:260],[PIO:247],[J22:613],[J22:626])([MH1:118])([ELD:112],[MH2:6],[ONE:123],[CHK:1],[J22:156],[SNC:4],[EMN:121],[KLD:108],[A25:7],[AFR:137],[KTK:7],[3ED:17],[BBD:177],[CM2:97],[J21:443],[THS:16],[CM2:107],[J25:565],[BBD:96],[BRO:14],[BLB:144],[ME2:145],[J22:584],[RIX:110],[NEO:32],[WAR:142],[J21:133],[UMA:148],[CNS:83],[J22:610],[RTR:26],[FRF:116],[J25:603],[J25:608])([KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250])([J25:516],[ISD:10],[NEO:139],[J22:540],[ELD:129],[AFR:153],[J21:503],[AFC:136],[CLB:43])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PWAR:197p])

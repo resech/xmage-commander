@@ -1,0 +1,76 @@
+1 [CLB:712] Aether Gale
+1 [CMM:940] Ancient Stone Idol
+1 [HOU:58] Apocalypse Demon
+1 [WOC:145] Arcane Signet
+1 [CMR:108] Armix, Filigree Thrasher
+1 [VMA:243] Baleful Strix
+1 [40K:31*] Blight Grenade
+1 [WHO:116] Blink
+1 [LCI:247] Careening Mine Cart
+1 [WOC:155] Choked Estuary
+1 [SLD:790*] Codex Shredder
+1 [WOE:244] Collector's Vault
+1 [WOC:156] Command Tower
+1 [GTC:152] Consuming Aberration
+1 [DFT:83] Demonic Junker
+1 [KTK:37] Disdainful Stroke
+1 [GRN:167] Disinformation Campaign
+1 [DFT:41] Diversion Unit
+1 [ONE:380] Encroaching Mycosynth
+1 [GRN:40] Enhanced Surveillance
+1 [TDM:44] Essence Anchor
+1 [WOC:159] Exotic Orchard
+1 [SLD:1628] Faerie Artisans
+1 [J25:440] Fake Your Own Death
+1 [VOC:129] Feed the Swarm
+1 [WOC:147] Fellwar Stone
+1 [AKH:95] Horror of the Broken Lands
+16 [KTK:254] Island
+1 [VOC:19] Kamber, the Plunderer
+1 [CMM:102] Looter il-Kor
+1 [HOU:69] Lurching Rotbeast
+1 [FIN:439] Matoya, Archon Elder
+1 [EMA:226] Millikin
+1 [WOC:148] Mind Stone
+1 [NEO:63] Mirrorshell Crab
+1 [BRC:189] Mistvault Bridge
+1 [NEO:69] Moonsnare Prototype
+1 [BLC:19] Moonstone Eulogist
+1 [CM2:202] Myr Battlesphere
+1 [ONE:234] Myr Convert
+1 [BBD:123] Negate
+1 [CLB:331] Noble's Purse
+1 [OTC:263] Perpetual Timepiece
+1 [SLD:2029] Resculpt
+1 [ACR:211] Restart Sequence
+1 [CLB:912] River of Tears
+1 [AKH:66] River Serpent
+1 [FIN:69] Rook Turret
+1 [GN3:37] Run Away Together
+1 [J25:63] Sai, Master Thopterist
+1 [MOC:24] Schema Thief
+1 [J22:820] Seat of the Synod
+1 [ALA:55] Sharding Sphinx
+1 [J22:347] Shimmer Dragon
+1 [3ED:274] Sol Ring
+1 [DRC:137] Solar Transformer
+1 [SLP:22] Springleaf Drum
+1 [DMR:102] Street Wraith
+12 [KTK:258] Swamp
+1 [WOC:169] Tainted Isle
+1 [J22:361] Thopter Spy Network
+1 [LCI:266] Throne of the Grim Captain
+1 [LCI:128] Tithing Blade
+1 [PXLN:250s] Treasure Map
+1 [ONE:303] Unctus, Grand Metatect
+1 [MKC:29] Unshakable Tail
+1 [J25:780] Vault of Whispers
+1 [DMU:226] Vohar, Vodalian Desecrator
+1 [GRN:242] Wand of Vertebrae
+1 [J21:275] Windcaller Aven
+1 [AKH:76] Winds of Rebuke
+1 [DOM:75] Wizard's Retort
+1 [RVR:242] Connive // Concoct
+SB: 1 [FIN:225] Golbez, Crystal Collector
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([CMM:940],[CMR:108],[VMA:243],[DFT:41],[EMA:226],[NEO:63],[CM2:202],[ONE:234],[FIN:69],[ALA:55],[ONE:303])([BRC:189],[J22:820],[J25:780])([WOC:145],[LCI:247],[SLD:790*],[WOE:244],[DFT:83],[ONE:380],[TDM:44],[WOC:147],[WOC:148],[NEO:69],[CLB:331],[OTC:263],[3ED:274],[DRC:137],[SLP:22],[LCI:266],[LCI:128],[PXLN:250s],[GRN:242])([HOU:58],[GTC:152],[SLD:1628],[AKH:95],[VOC:19],[CMM:102],[HOU:69],[FIN:439],[BLC:19],[AKH:66],[J25:63],[MOC:24],[J22:347],[DMR:102],[MKC:29],[DMU:226],[J21:275])([WHO:116],[GRN:167],[GRN:40],[J22:361])([KTK:37],[J25:440],[BBD:123],[SLD:2029],[GN3:37],[AKH:76],[DOM:75])([WOC:155],[WOC:156],[WOC:159],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[CLB:912],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[WOC:169])([RVR:242])([CLB:712],[40K:31*],[VOC:129],[ACR:211])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FIN:225])

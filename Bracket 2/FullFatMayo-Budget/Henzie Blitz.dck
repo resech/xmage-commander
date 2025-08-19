@@ -1,0 +1,74 @@
+1 [TDC:105] Arcane Signet
+1 [BRO:85] Ashnod's Intervention
+1 [M20:89] Blood for Bones
+1 [M3C:256] Bloodbraid Elf
+1 [MH2:395] Bone Shards
+1 [DMU:83] Bone Splinters
+1 [WHO:263] Command Tower
+1 [OTJ:84] Corrupted Conviction
+1 [MH3:85] Crabomination
+1 [DSC:30] Curator Beastie
+1 [40K:115] Deathleaper, Terror Weapon
+1 [DRC:54] Duplicant
+1 [TSR:201] Edge of Autumn
+1 [MKC:152] Etali, Primal Storm
+1 [BLC:30] Evercoat Ursine
+1 [C21:288] Exotic Orchard
+1 [J25:146] Explore
+1 [FDN:174] Fake Your Own Death
+1 [PIP:216] Find // Finality
+11 [J25:94] Forest
+1 [DMR:162] Gamekeeper
+1 [BLC:272] Golgari Signet
+1 [EMA:89] Gravedigger
+1 [WOE:172] Gruff Triplets
+1 [TDM:145] Heritage Reclamation
+1 [M3C:234] Ignoble Hierarch
+1 [MKM:88] Illicit Masquerade
+1 [BLC:198] Inferno Titan
+1 [MIC:142] Kessig Cagebreakers
+1 [ONE:206] Kethek, Crucible Goliath
+1 [LTC:202] Languish
+1 [FDN:256] Meteor Golem
+1 [NCC:49] Mezzio Mugger
+1 [DSC:83] Moldgraf Monstrosity
+8 [BRO:275] Mountain
+1 [WHO:293] Path of Ancestry
+1 [MIC:21] Prowling Geistcatcher
+1 [CLB:769] Puppeteer Clique
+1 [MM2:157] Rampant Growth
+1 [LTR:221] Rise of the Witch-king
+1 [SNC:216] Riveteers Ascendancy
+1 [STX:228] Rushed Rebirth
+1 [TSR:229] Search for Tomorrow
+1 [TDM:92] Sidisi, Regent of the Mire
+1 [MKC:237] Sol Ring
+1 [DRC:137] Solar Transformer
+1 [BLC:284] Solemn Simulacrum
+1 [2X2:93] Supernatural Stamina
+12 [OTJ:282] Swamp
+1 [DSC:255] Talisman of Resilience
+1 [M3C:249] Terastodon
+1 [C19:185] Thragtusk
+1 [J22:822] Thriving Bluff
+1 [J22:823] Thriving Grove
+1 [JMP:37] Thriving Moor
+1 [THB:297] Treeshaker Chimera
+1 [DKA:77] Undying Evil
+1 [FDN:528] Undying Malice
+1 [ONE:113] Vat of Rebirth
+1 [INR:137] Village Rites
+1 [PIP:383] Wasteland Raider
+1 [LTC:264] Woodfall Primus
+1 [TDM:99] Worthy Cost
+1 [MH2:110] Young Necromancer
+1 [SNC:232] Ziatora's Envoy
+1 [MAT:116] Arni Metalbrow
+1 [M3C:70] Bloodbraid Challenger
+1 [MH1:94] Graveshifter
+1 [CMM:166] Heartless Act
+1 [SNC:425] Jaxis, the Troublemaker
+1 [SNC:283] Vivien on the Hunt
+SB: 1 [NCC:2] Henzie "Toolbox" Torre
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([DRC:54],[FDN:256],[BLC:284])([TDC:105],[BLC:272],[MKC:237],[DRC:137],[DSC:255],[ONE:113])([M3C:256],[MH3:85],[DSC:30],[40K:115],[MKC:152],[BLC:30],[DMR:162],[EMA:89],[WOE:172],[M3C:234],[BLC:198],[MIC:142],[ONE:206],[NCC:49],[DSC:83],[MIC:21],[CLB:769],[TDM:92],[M3C:249],[C19:185],[THB:297],[PIP:383],[LTC:264],[MH2:110],[SNC:232],[MAT:116],[M3C:70],[MH1:94],[SNC:425])([MKM:88],[SNC:216])([BRO:85],[OTJ:84],[FDN:174],[TDM:145],[STX:228],[2X2:93],[DKA:77],[FDN:528],[INR:137],[CMM:166])([WHO:263],[C21:288],[J25:94],[J25:94],[J25:94],[J25:94],[J25:94],[J25:94],[J25:94],[J25:94],[J25:94],[J25:94],[J25:94],[BRO:275],[BRO:275],[BRO:275],[BRO:275],[BRO:275],[BRO:275],[BRO:275],[BRO:275],[WHO:293],[OTJ:282],[OTJ:282],[OTJ:282],[OTJ:282],[OTJ:282],[OTJ:282],[OTJ:282],[OTJ:282],[OTJ:282],[OTJ:282],[OTJ:282],[OTJ:282],[J22:822],[J22:823],[JMP:37])([SNC:283])([PIP:216])([M20:89],[MH2:395],[DMU:83],[TSR:201],[J25:146],[LTC:202],[MM2:157],[LTR:221],[TSR:229],[TDM:99])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NCC:2])

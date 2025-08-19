@@ -1,0 +1,70 @@
+1 [RIX:122] Aggressive Urge
+1 [J25:516] Ancestral Anger
+1 [ISD:127] Ancient Grudge
+1 [C19:23] Backdraft Hellkite
+1 [CSP:76] Balduvian Rage
+1 [J25:641] Bushwhack
+1 [STX:124] Charge Through
+1 [DMR:188] Decimate
+1 [J25:539] Dreadhorde Arcanist
+1 [FUT:144] Edge of Autumn
+1 [F14:2] Elvish Mystic
+1 [BBD:177] Expedite
+1 [J25:146] Explore
+1 [LTR:126] Fiery Inscription
+1 [VOC:164] Fire Diamond
+1 [J21:443] Fists of Flame
+17 [KTK:266] Forest
+1 [LCI:186] Glimpse the Core
+1 [J21:693] Goblin Anarchomancer
+1 [DMR:125] Grapeshot
+1 [TSP:162] Ground Rift
+1 [J25:138] Guttersnipe
+1 [LCI:276] Hidden Nursery
+1 [LCI:277] Hidden Volcano
+1 [MOM:146] Invasion of Karsus
+1 [CN2:183] Irresistible Prey
+1 [DSK:143] Leyline of Resonance
+1 [SOM:172] Livewire Lash
+1 [J25:149] Llanowar Elves
+1 [BLB:144] Might of the Meek
+1 [J25:579] Mirrorwing Dragon
+1 [C15:29] Mizzix's Mastery
+1 [CLB:327] Moss Diamond
+17 [KTK:262] Mountain
+1 [ME2:145] Panic
+1 [BLB:145] Playful Shove
+1 [CLB:248] Poison the Blade
+1 [SNC:154] Prizefight
+1 [DIS:68] Psychotic Fury
+1 [J22:91] Ram Through
+1 [J25:704] Rampant Growth
+1 [ISD:201] Ranger's Guile
+1 [TMP:246] Reality Anchor
+1 [RIX:110] Reckless Rage
+1 [J21:503] Renegade Tactics
+1 [THB:197] Return to Nature
+1 [AFC:136] Rile
+1 [WOE:183] Royal Treatment
+1 [BLB:151] Sazacap's Brew
+1 [SCG:102] Scattershot
+1 [HOP:77] Search for Tomorrow
+1 [WOT:61] Season of Growth
+1 [WOC:133] Snake Umbra
+1 [J25:713] Snakeskin Veil
+1 [3ED:274] Sol Ring
+1 [THB:157] Storm's Wrath
+1 [MH3:259] Stump Stomp
+1 [TMP:207] Stun
+1 [SOM:129] Tel-Jilad Defiance
+1 [OTJ:186] Trash the Town
+1 [XLN:212] Verdant Rebirth
+1 [SHM:132] Viridescent Wisps
+1 [ONS:296] Vitality Charm
+1 [DSK:165] Waltz of Rage
+1 [3ED:230] Wild Growth
+1 [WOE:158] Witch's Mark
+1 [J25:76] Zada, Hedron Grinder
+SB: 1 [SLD:431] The Howling Abomination
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([VOC:164],[SOM:172],[CLB:327],[3ED:274])([MOM:146])([C19:23],[J25:539],[F14:2],[J21:693],[J25:138],[J25:149],[J25:579],[J25:76])([LTR:126],[DSK:143],[WOT:61],[WOC:133],[3ED:230])([RIX:122],[ISD:127],[CSP:76],[STX:124],[BBD:177],[J21:443],[BLB:144],[ME2:145],[CLB:248],[SNC:154],[DIS:68],[J22:91],[ISD:201],[TMP:246],[RIX:110],[THB:197],[WOE:183],[BLB:151],[SCG:102],[J25:713],[TMP:207],[SOM:129],[OTJ:186],[XLN:212],[SHM:132],[ONS:296])([KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[LCI:276],[LCI:277],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262])([J25:516],[J25:641],[DMR:188],[FUT:144],[J25:146],[LCI:186],[DMR:125],[TSP:162],[CN2:183],[C15:29],[BLB:145],[J25:704],[J21:503],[AFC:136],[HOP:77],[THB:157],[MH3:259],[DSK:165],[WOE:158])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SLD:431])

@@ -1,0 +1,68 @@
+1 [CMR:216] Annoyed Altisaur
+1 [UMA:2] Artisan of Kozilek
+1 [CLB:215] Avenging Hunter
+1 [BFZ:1] Bane of Bala Ged
+1 [CLB:818] Battle Mammoth
+1 [J25:636] Bite Down
+1 [J25:641] Bushwhack
+1 [J22:639] Challenger Troll
+1 [MOC:36] Conclave Sledge-Captain
+1 [MOM:182] Cosmic Hunger
+1 [CMR:222] Dawnglade Regent
+1 [FUT:144] Edge of Autumn
+1 [MOC:37] Emergent Woodwurm
+1 [BLC:30] Evercoat Ursine
+1 [EOC:137] Everflowing Chalice
+1 [J25:146] Explore
+1 [CLB:824] Ezuri's Predation
+1 [SLD:767] Fierce Empath
+35 [KTK:266] Forest
+1 [SNC:147] Freelance Muscle
+1 [AFR:184] Froghemoth
+1 [BLB:173] Galewind Moose
+1 [J25:660] Garruk's Packleader
+1 [WOT:53] Garruk's Uprising
+1 [GTC:121] Giant Adephage
+1 [CLB:233] Giant Ankheg
+1 [LCI:186] Glimpse the Core
+1 [LCI:276] Hidden Nursery
+1 [BLB:177] Hivespine Wolverine
+1 [J22:676] Ilysian Caryatid
+1 [AER:162] Lifecrafter's Bestiary
+1 [WOC:148] Mind Stone
+1 [ISD:194] Moldgraf Monstrosity
+1 [MH3:162] Monstrous Vortex
+1 [CLB:327] Moss Diamond
+1 [AFC:251] Mosswort Bridge
+1 [KTK:142] Naturalize
+1 [PM19:192s] Pelakka Wurm
+1 [RAV:177] Primordial Sage
+1 [SNC:154] Prizefight
+1 [FDN:110] Quakestrider Ceratops
+1 [J22:91] Ram Through
+1 [J25:704] Rampant Growth
+1 [ISD:201] Ranger's Guile
+1 [THB:197] Return to Nature
+1 [WOE:183] Royal Treatment
+1 [HOP:77] Search for Tomorrow
+1 [J25:713] Snakeskin Veil
+1 [3ED:274] Sol Ring
+1 [FDN:112] Spinner of Souls
+1 [NEO:208] Spring-Leaf Avenger
+1 [WOE:187] Stormkeld Vanguard
+1 [PD3:7] Terastodon
+1 [DFT:182] Terrian, World Tyrant
+1 [CMA:155] Thunderfoot Baloth
+1 [THB:297] Treeshaker Chimera
+1 [MB2:135] Triumph of Ferocity
+1 [UMA:8] Ulamog's Crusher
+1 [PWAR:180p] Vivien, Champion of the Wilds
+1 [NCC:165] Vivien's Stampede
+1 [WOC:151] Wayfarer's Bauble
+1 [BLB:203] Wear Down
+1 [FRF:144] Whisperer of the Wilds
+1 [FRF:145] Whisperwood Elemental
+1 [SOM:134] Withstand Death
+SB: 1 [J22:668] Goreclaw, Terror of Qal Sisma
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([EOC:137],[AER:162],[WOC:148],[CLB:327],[3ED:274],[WOC:151])([CMR:216],[UMA:2],[CLB:215],[BFZ:1],[CLB:818],[J22:639],[MOC:36],[CMR:222],[MOC:37],[BLC:30],[SLD:767],[SNC:147],[AFR:184],[BLB:173],[J25:660],[GTC:121],[CLB:233],[BLB:177],[J22:676],[ISD:194],[PM19:192s],[RAV:177],[FDN:110],[FDN:112],[NEO:208],[WOE:187],[PD3:7],[DFT:182],[CMA:155],[THB:297],[UMA:8],[FRF:144],[FRF:145])([WOT:53],[MH3:162],[MB2:135])([J25:636],[MOM:182],[KTK:142],[SNC:154],[J22:91],[ISD:201],[THB:197],[WOE:183],[J25:713],[SOM:134])([KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[LCI:276],[AFC:251])([PWAR:180p])([J25:641],[FUT:144],[J25:146],[CLB:824],[LCI:186],[J25:704],[HOP:77],[NCC:165],[BLB:203])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([J22:668])

@@ -1,0 +1,74 @@
+1 [MH3:80] Accursed Marauder
+1 [CLB:107] Agent of the Iron Throne
+1 [TDC:109] Angel of Invention
+1 [LTC:273] Arcane Signet
+1 [LCI:224] Bartolome del Presidio
+1 [MH2:381] Blacksmith's Skill
+1 [BLC:137] Boss's Chauffeur
+1 [OTJ:6] Bovine Intervention
+1 [2X2:191] Cartel Aristocrat
+1 [SNC:69] Cemetery Tampering
+1 [CLB:442] Charcoal Diamond
+1 [TDC:175] Chittering Witch
+1 [SCD:11] Citywide Bust
+1 [M20:206+] Corpse Knight
+1 [OTJ:84] Corrupted Conviction
+1 [FIC:322] Crackling Doom
+1 [DSK:89] Cynical Loner
+1 [C13:184] Deathbringer Thoctar
+1 [IMA:15] Disenchant
+1 [DRC:54] Duplicant
+1 [DMU:297] Elas il-Kor, Sadistic Pilgrim
+1 [DFT:201] Embalmed Ascendant
+1 [LTC:52] Eomer, King of Rohan
+1 [THS:11] Evangel of Heliod
+1 [TDC:360] Exotic Orchard
+1 [WOE:13] Expel the Interlopers
+1 [INR:151] Faithless Looting
+1 [CLB:445] Fire Diamond
+1 [CLB:18] Flaming Fist
+1 [THS:16] Gods Willing
+1 [UMA:135] Ingot Chewer
+1 [MAT:167] Jirina, Dauntless General
+1 [JMP:117] Lena, Selfless Champion
+1 [CLB:446] Marble Diamond
+1 [DGM:83] Maw of the Obzedat
+1 [NCC:49] Mezzio Mugger
+1 [SCD:91] Midnight Reaper
+1 [LTR:421] Mirkwood Bats
+8 [DFT:288] Mountain
+1 [ONE:297] Myr Convert
+1 [IKO:24] Mythos of Snapdax
+1 [CMR:135] Nadier, Agent of the Duskenel
+1 [OTC:145] Ogre Slumlord
+1 [LCC:310] Orzhov Signet
+1 [TDC:382] Path of Ancestry
+11 [M20:262] Plains
+1 [C17:121] Puppeteer Clique
+1 [ACR:30] Restart Sequence
+1 [BLB:151] Sazacap's Brew
+1 [BLC:153] Selfless Spirit
+1 [AFC:110] Shriekmaw
+1 [TDC:232] Siege-Gang Commander
+1 [C17:223] Sol Ring
+1 [MKC:238] Solemn Simulacrum
+12 [DFT:284] Swamp
+1 [MKC:240] Talisman of Conviction
+1 [CMM:688] Teysa Karlov
+1 [LCI:265] Threefold Thunderhulk
+1 [FDN:210] Thrill of Possibility
+1 [J22:822] Thriving Bluff
+1 [JMP:35] Thriving Heath
+1 [J22:826] Thriving Moor
+1 [FDN:528] Undying Malice
+1 [GN3:64] Village Rites
+1 [RVR:330] Vindictive Vampire
+1 [TDC:199] Viscera Seer
+1 [TDC:335] Wayfarer's Bauble
+1 [CMM:201] Yahenni, Undying Partisan
+1 [STX:328] Plargg, Dean of Chaos
+1 [RVR:73] Dimir House Guard
+1 [H2R:8] Sling-Gang Lieutenant
+SB: 1 [FIC:4] Terra, Herald of Hope
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([DRC:54],[ONE:297],[MKC:238],[LCI:265])([LTC:273],[CLB:442],[CLB:445],[CLB:446],[LCC:310],[C17:223],[MKC:240],[TDC:335])([MH3:80],[TDC:109],[LCI:224],[BLC:137],[2X2:191],[TDC:175],[M20:206+],[DSK:89],[C13:184],[DMU:297],[DFT:201],[LTC:52],[THS:11],[UMA:135],[MAT:167],[JMP:117],[DGM:83],[NCC:49],[SCD:91],[LTR:421],[CMR:135],[OTC:145],[C17:121],[BLC:153],[AFC:110],[TDC:232],[CMM:688],[RVR:330],[TDC:199],[CMM:201],[STX:328],[RVR:73],[H2R:8])([CLB:107],[SNC:69],[CLB:18])([MH2:381],[OTJ:6],[OTJ:84],[FIC:322],[IMA:15],[THS:16],[BLB:151],[FDN:210],[FDN:528],[GN3:64])([TDC:360],[DFT:288],[DFT:288],[DFT:288],[DFT:288],[DFT:288],[DFT:288],[DFT:288],[DFT:288],[TDC:382],[M20:262],[M20:262],[M20:262],[M20:262],[M20:262],[M20:262],[M20:262],[M20:262],[M20:262],[M20:262],[M20:262],[DFT:284],[DFT:284],[DFT:284],[DFT:284],[DFT:284],[DFT:284],[DFT:284],[DFT:284],[DFT:284],[DFT:284],[DFT:284],[DFT:284],[J22:822],[JMP:35],[J22:826])([SCD:11],[WOE:13],[INR:151],[IKO:24],[ACR:30])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FIC:4])

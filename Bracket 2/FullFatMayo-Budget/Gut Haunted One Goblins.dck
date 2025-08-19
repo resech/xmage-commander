@@ -1,0 +1,68 @@
+1 [GN3:67] Abrade
+1 [J25:127] Battle Cry Goblin
+1 [J25:129] Beetleback Chief
+1 [LCI:247] Careening Mine Cart
+1 [AFC:116] Chain Reaction
+1 [MOM:98] Corrupted Conviction
+1 [CLB:745] Crippling Fear
+1 [AFC:119] Dark-Dweller Oracle
+1 [J22:398] Demonic Gifts
+1 [PD3:23] Dread Return
+1 [SNC:187] Fatal Grudge
+1 [J25:549] Fissure Wizard
+1 [MOR:64] Frogtosser Banneret
+1 [DMU:200] Garna, Bloodfist of Keld
+1 [DMR:122] Gempalm Incinerator
+1 [LGN:95] Goblin Assassin
+1 [ME1:94] Goblin Chirurgeon
+1 [GRN:103] Goblin Cratermaker
+1 [J21:457] Goblin Dark-Dwellers
+1 [J22:542] Goblin Grenade
+1 [MOC:282] Goblin Instigator
+1 [LGN:101] Goblin Lookout
+1 [VMA:168] Goblin Matron
+1 [VMA:171] Goblin Ringleader
+1 [MH2:130] Goblin Traprunner
+1 [CMM:234] Impulsive Pilferer
+1 [MOM:147] Invasion of Mercadia
+1 [CMM:341] Judith, the Scourge Diva
+1 [GRN:109] Legion Warboss
+1 [AER:165] Mobile Garrison
+1 [MH3:127] Mogg Mob
+1 [NEM:94] Mogg Salvage
+1 [EMA:139] Mogg War Marshal
+21 [KTK:262] Mountain
+1 [NEO:113] Mukotai Soulripper
+1 [J21:705] Munitions Expert
+1 [SHM:192] Murderous Redcap
+1 [EVE:59] Outrage Shaman
+1 [J21:495] Pashalik Mons
+1 [J21:375] Putrid Goblin
+1 [PRM:88394] Pyre of Heroes
+1 [DIS:165] Rakdos Signet
+1 [KTK:85] Retribution of the Ancients
+1 [NEO:121] Return to Action
+1 [GNT:42] Siege-Gang Commander
+1 [VMA:186] Skirk Prospector
+1 [J21:386] Sling-Gang Lieutenant
+1 [3ED:274] Sol Ring
+1 [SLP:22] Springleaf Drum
+1 [DMU:146] Squee, Dubious Monarch
+1 [GN3:62] Supernatural Stamina
+15 [KTK:258] Swamp
+1 [AFR:162] Swarming Goblins
+1 [3ED:132] Terror
+1 [CM2:124] Tuktuk the Explorer
+1 [NEO:168] Twinshot Sniper
+1 [ULG:72] Unearth
+1 [EMA:113] Victimize
+1 [J22:486] Village Rites
+1 [J22:619] Volley Veteran
+1 [MMA:103] Warren Pilferers
+1 [XLN:174] Wily Goblin
+1 [LCI:245] Zoyowa Lava-Tongue
+1 [BRO:137] Goblin Blast-Runner
+SB: 1 [CLB:180] Gut, True Soul Zealot
+SB: 1 [CLB:624] Haunted One
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([NEO:168])([LCI:247],[AER:165],[NEO:113],[PRM:88394],[DIS:165],[3ED:274],[SLP:22])([MOM:147])([J25:127],[J25:129],[AFC:119],[J25:549],[MOR:64],[DMU:200],[DMR:122],[LGN:95],[ME1:94],[GRN:103],[J21:457],[MOC:282],[LGN:101],[VMA:168],[VMA:171],[MH2:130],[CMM:234],[CMM:341],[GRN:109],[MH3:127],[EMA:139],[J21:705],[SHM:192],[EVE:59],[J21:495],[J21:375],[GNT:42],[VMA:186],[J21:386],[DMU:146],[AFR:162],[CM2:124],[J22:619],[MMA:103],[XLN:174],[LCI:245],[BRO:137])([KTK:85])([GN3:67],[MOM:98],[J22:398],[NEM:94],[NEO:121],[GN3:62],[3ED:132],[J22:486])([KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258],[KTK:258])([AFC:116],[CLB:745],[PD3:23],[SNC:187],[J22:542],[ULG:72],[EMA:113])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CLB:180],[CLB:624])

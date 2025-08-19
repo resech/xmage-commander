@@ -1,0 +1,73 @@
+1 [GN3:67] Abrade
+1 [FDN:98] Ambush Wolf
+1 [CMR:214] Anara, Wolvid Familiar
+1 [ISD:127] Ancient Grudge
+1 [J22:85] Arlinn, Voice of the Pack
+1 [ISD:170] Avacyn's Pilgrim
+1 [MH2:6] Blacksmith's Skill
+1 [AFC:116] Chain Reaction
+1 [RNA:161] Cindervines
+1 [WOC:156] Command Tower
+1 [DMR:188] Decimate
+1 [3ED:17] Disenchant
+1 [FDN:10] Divine Resilience
+1 [J25:652] Druid of the Anima
+1 [F14:2] Elvish Mystic
+1 [BBD:196] Elvish Visionary
+1 [MH3:151] Evolution Witness
+1 [WOC:159] Exotic Orchard
+1 [SHM:113] Farhaven Elf
+1 [KHM:136] Fearless Pup
+1 [J22:659] Ferocious Pup
+1 [HOP:87] Fires of Yavimaya
+15 [KTK:266] Forest
+1 [SNC:148] Gala Greeters
+1 [MH3:123] Ghostfire Slice
+1 [THS:16] Gods Willing
+1 [VOW:204] Howling Moon
+1 [VOW:161] Hungry Ridgewolf
+1 [J22:677] Imperious Perfect
+1 [CM2:139] Inspiring Call
+1 [J22:681] Kessig Cagebreakers
+1 [J25:149] Llanowar Elves
+1 [J25:684] Llanowar Visionary
+1 [VOC:94] Mirror Entity
+9 [KTK:262] Mountain
+1 [J22:696] Nightpack Ambusher
+1 [SIR:208] Pack Guardian
+1 [J22:703] Packsong Pup
+1 [J22:704] Paradise Druid
+1 [WOC:165] Path of Ancestry
+8 [KTK:250] Plains
+1 [F03:5] Priest of Titania
+1 [DKA:101] Pyreheart Wolf
+1 [AFR:202] Ranger Class
+1 [J22:717] Reclamation Sage
+1 [J25:708] Rishkar, Peema Renegade
+1 [SNC:218] Rocco, Cabaretti Caterer
+1 [KHM:192] Sarulf's Packmate
+1 [CMM:1026] Scattered Groves
+1 [EOC:178] Sheltered Thicket
+1 [VOW:219] Snarling Wolf
+1 [3ED:274] Sol Ring
+1 [EMN:170] Spirit of the Hunt
+1 [THB:157] Storm's Wrath
+1 [WOE:33] Stroke of Midnight
+1 [HOP:67] Taurean Mauler
+1 [MH3:45] Thraben Charm
+1 [BLB:251] Three Tree Mascot
+1 [PWAR:224p] Tolsimir, Friend to Wolves
+1 [DSK:306] Unwanted Remake
+1 [AFR:209] Varis, Silverymoon Ranger
+1 [MH1:154] Volatile Claws
+1 [RAV:239] Watchwolf
+1 [WOC:151] Wayfarer's Bauble
+1 [J22:134] Wicked Wolf
+1 [3ED:230] Wild Growth
+1 [CLB:206] Wild Magic Surge
+1 [J22:742] Wolfwillow Haven
+1 [SLD:1101] Wood Elves
+1 [J22:746] Young Wolf
+SB: 1 [MKM:432] Voja, Jaws of the Conclave
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([BLB:251])([3ED:274],[WOC:151])([FDN:98],[CMR:214],[ISD:170],[J25:652],[F14:2],[BBD:196],[MH3:151],[SHM:113],[KHM:136],[J22:659],[SNC:148],[VOW:161],[J22:677],[J22:681],[J25:149],[J25:684],[VOC:94],[J22:696],[SIR:208],[J22:703],[J22:704],[F03:5],[DKA:101],[J22:717],[J25:708],[SNC:218],[KHM:192],[VOW:219],[EMN:170],[HOP:67],[PWAR:224p],[AFR:209],[RAV:239],[J22:134],[SLD:1101],[J22:746])([RNA:161],[HOP:87],[VOW:204],[AFR:202],[3ED:230],[J22:742])([GN3:67],[ISD:127],[MH2:6],[3ED:17],[FDN:10],[MH3:123],[THS:16],[CM2:139],[WOE:33],[MH3:45],[DSK:306],[MH1:154],[CLB:206])([WOC:156],[WOC:159],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[WOC:165],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[CMM:1026],[EOC:178])([J22:85])([AFC:116],[DMR:188],[THB:157])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MKM:432])

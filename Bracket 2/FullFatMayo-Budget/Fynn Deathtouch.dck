@@ -1,0 +1,68 @@
+1 [AFC:151] Acidic Slime
+1 [ISD:169] Ambush Viper
+1 [OTJ:153] Ankle Biter
+1 [JUD:107] Brawn
+1 [J25:641] Bushwhack
+1 [ONE:161] Cankerbloom
+1 [CM2:134] Champion of Lambholt
+1 [FUT:144] Edge of Autumn
+1 [CLB:230] Erinis, Gloom Stalker
+1 [SLD:765] Evolution Sage
+1 [CLB:824] Ezuri's Predation
+1 [NCC:159] Family's Favor
+1 [NEO:183] Fang of Shigeki
+1 [DSK:178] Flesh Burrower
+35 [KTK:266] Forest
+1 [ONC:18] Glissa's Retriever
+1 [EMN:159] Gnarlwood Dryad
+1 [CMR:231] Halana, Kessig Ranger
+1 [CLB:825] Hornet Queen
+1 [MH3:157] Horrific Assault
+1 [BLB:179] Hunter's Talent
+1 [ONE:170] Ichorspit Basilisk
+1 [ONE:172] Infectious Bite
+1 [ELD:163] Keeper of Fables
+1 [AER:162] Lifecrafter's Bestiary
+1 [J25:149] Llanowar Elves
+1 [J22:689] Master's Rebuke
+1 [LTR:178] Mirkwood Spider
+1 [CLB:327] Moss Diamond
+1 [THB:179] Moss Viper
+1 [ONE:234] Myr Convert
+1 [AER:117] Narnam Renegade
+1 [KTK:142] Naturalize
+1 [MH3:163] Nightshade Dryad
+1 [ONE:176] Noxious Assault
+1 [ELD:167] Oakhame Adversary
+1 [GN3:103] Overrun
+1 [NCC:163] Park Heights Maverick
+1 [MKM:170] Pick Your Poison
+1 [MBS:87] Plaguemaw Beast
+1 [PWAR:172s] Planewide Celebration
+1 [LCI:207] Poison Dart Frog
+1 [J22:91] Ram Through
+1 [J25:704] Rampant Growth
+1 [ISD:201] Ranger's Guile
+1 [PIP:141] Recon Craft Theta
+1 [THB:197] Return to Nature
+1 [MBS:90] Rot Wolf
+1 [WOE:183] Royal Treatment
+1 [HOP:77] Search for Tomorrow
+1 [THS:177] Sedge Scorpion
+1 [CLB:256] Skullwinder
+1 [J21:638] Smell Fear
+1 [J25:713] Snakeskin Veil
+1 [3ED:274] Sol Ring
+1 [NEO:207] Spinning Wheel Kick
+1 [ZNR:208] Tajuru Blightblade
+1 [ONE:185] Thirsting Roots
+1 [IKO:173] Thwart the Enemy
+1 [J22:736] Turntimber Basilisk
+1 [J21:662] Urban Daggertooth
+1 [NCC:165] Vivien's Stampede
+1 [GTC:139] Wasteland Viper
+1 [3ED:230] Wild Growth
+1 [SOM:134] Withstand Death
+SB: 1 [SLD:1449] Fynn, the Fangbearer
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([ONE:234])([AER:162],[CLB:327],[PIP:141],[3ED:274])([AFC:151],[ISD:169],[OTJ:153],[JUD:107],[ONE:161],[CM2:134],[CLB:230],[SLD:765],[DSK:178],[ONC:18],[EMN:159],[CMR:231],[CLB:825],[ONE:170],[ELD:163],[J25:149],[LTR:178],[THB:179],[AER:117],[MH3:163],[ELD:167],[NCC:163],[MBS:87],[LCI:207],[MBS:90],[THS:177],[CLB:256],[ZNR:208],[J22:736],[J21:662],[GTC:139])([NEO:183])([NCC:159],[BLB:179],[3ED:230])([ONE:172],[J22:689],[KTK:142],[J22:91],[ISD:201],[THB:197],[WOE:183],[J25:713],[IKO:173],[SOM:134])([KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266])([J25:641],[FUT:144],[CLB:824],[MH3:157],[ONE:176],[GN3:103],[MKM:170],[PWAR:172s],[J25:704],[HOP:77],[J21:638],[NEO:207],[ONE:185],[NCC:165])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SLD:1449])

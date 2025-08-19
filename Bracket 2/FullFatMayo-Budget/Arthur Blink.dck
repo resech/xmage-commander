@@ -1,0 +1,78 @@
+1 [GN3:67] Abrade
+1 [LCI:219] Abuelo, Ancestral Echo
+1 [NCC:11] Aerial Extortionist
+1 [CLB:712] Aether Gale
+1 [MH1:117] Alpine Guide
+1 [J22:143] Alseid of Life's Bounty
+1 [CM2:16] Angel of Serenity
+1 [EOC:63] Angel of the Ruins
+1 [WOC:145] Arcane Signet
+1 [MAT:16] Arni Metalbrow
+1 [40K:71*] Aspiring Champion
+1 [RAV:4] Blazing Archon
+1 [ELD:115] Bonecrusher Giant
+1 [OTJ:6] Bovine Intervention
+1 [DSC:242] Brainstone
+1 [J25:293] Cackling Counterpart
+1 [J22:509] Captain Lannery Storm
+1 [CLB:167] Caves of Chaos Adventurer
+1 [AFC:182] Cloudblazer
+1 [WOC:156] Command Tower
+1 [GN3:26] Diluvian Primordial
+1 [KTK:37] Disdainful Stroke
+1 [3ED:17] Disenchant
+1 [VOC:29] Disorder in the Court
+1 [ZNC:4] Enigma Thief
+1 [OTJ:256] Eroded Canyon
+1 [SIR:67] Essence Flux
+1 [WOC:159] Exotic Orchard
+1 [VOC:105] Ghostly Pilferer
+1 [SLD:895] Helpful Hunter
+9 [KTK:254] Island
+1 [J22:202] Justiciar's Portal
+1 [TPR:58] Mana Leak
+1 [VOC:165] Marble Diamond
+1 [THS:196] Medomai the Ageless
+1 [OTJ:262] Mirage Mesa
+1 [DMR:15] Momentary Blink
+7 [KTK:262] Mountain
+1 [J21:221] Mulldrifter
+1 [KTK:236] Mystic Monastery
+1 [BBD:123] Negate
+1 [CHK:37] Otherworldly Journey
+1 [BLB:24] Parting Gust
+1 [WOC:165] Path of Ancestry
+1 [CLB:36] Pegasus Guardian
+11 [KTK:250] Plains
+1 [WOC:71] Realm-Cloaked Giant
+1 [J21:117] Restoration Angel
+1 [GN3:37] Run Away Together
+1 [BLB:28] Salvation Swan
+1 [OTC:11] Sand Scout
+1 [CM2:213] Sandstone Oracle
+1 [CLB:41] Scouting Hawk
+1 [NCC:130] Shield Broker
+1 [CMR:96] Siren Stormtamer
+1 [VOC:167] Sky Diamond
+1 [SLD:1293] Slip On the Ring
+1 [3ED:274] Sol Ring
+1 [DRC:137] Solar Transformer
+1 [40K:15*] Space Marine Scout
+1 [DFT:64] Spell Pierce
+1 [J22:248] Spirited Companion
+1 [MH2:68] Suspend
+1 [J22:822] Thriving Bluff
+1 [J22:824] Thriving Heath
+1 [J22:825] Thriving Isle
+1 [CLB:100] Tomb of Horrors Adventurer
+1 [SHM:155] Turn to Mist
+1 [WOE:240] Twining Twins
+1 [DSK:306] Unwanted Remake
+1 [GTC:55] Voidwalk
+1 [MH3:79] Volatile Stormdrake
+1 [WOC:151] Wayfarer's Bauble
+1 [MH2:218] Yusri, Fortune's Flame
+1 [RVR:247] Response // Resurgence
+SB: 1 [BLC:5] Arthur, Marigold Knight
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([EOC:63],[CM2:213])([WOC:145],[DSC:242],[VOC:165],[VOC:167],[3ED:274],[DRC:137],[WOC:151])([LCI:219],[NCC:11],[MH1:117],[CM2:16],[MAT:16],[40K:71*],[RAV:4],[ELD:115],[J22:509],[CLB:167],[AFC:182],[GN3:26],[ZNC:4],[VOC:105],[SLD:895],[THS:196],[J21:221],[CLB:36],[WOC:71],[J21:117],[BLB:28],[OTC:11],[CLB:41],[NCC:130],[CMR:96],[40K:15*],[CLB:100],[WOE:240],[MH3:79],[MH2:218])([J22:143],[J22:248])([RVR:247])([GN3:67],[OTJ:6],[J25:293],[KTK:37],[3ED:17],[VOC:29],[SIR:67],[J22:202],[TPR:58],[DMR:15],[BBD:123],[CHK:37],[BLB:24],[GN3:37],[SLD:1293],[DFT:64],[MH2:68],[SHM:155],[DSK:306])([WOC:156],[OTJ:256],[WOC:159],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[OTJ:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:236],[WOC:165],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[J22:822],[J22:824],[J22:825])([CLB:712],[GTC:55])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BLC:5])

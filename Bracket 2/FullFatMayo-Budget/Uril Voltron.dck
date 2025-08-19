@@ -1,0 +1,69 @@
+1 [GN3:67] Abrade
+1 [BBD:88] Angelic Gift
+1 [J25:631] Audacity
+1 [WOC:120] Aura Gnarlid
+1 [ISD:170] Avacyn's Pilgrim
+1 [DIS:4] Blessing of the Nephilim
+1 [NEO:363] Brilliant Restoration
+1 [ME2:155] Carapace
+1 [AKH:158] Cartouche of Strength
+1 [AFC:116] Chain Reaction
+1 [J22:3] Chains of Custody
+1 [NEC:1] Chishiro, the Shattered Blade
+1 [VOC:163] Commander's Sphere
+1 [J22:168] Danitha Capashen, Paragon
+1 [3ED:17] Disenchant
+1 [J21:437] Dragon Mantle
+1 [WOC:125] Enchantress's Presence
+1 [THB:132] Escape Velocity
+1 [J25:146] Explore
+1 [EMN:24] Faith Unbroken
+1 [BBD:198] Fertile Ground
+14 [KTK:266] Forest
+1 [TMP:228] Frog Tongue
+1 [SIR:31] Gryff's Boon
+1 [GTC:17] Holy Mantle
+1 [PC2:8] Hyena Umbra
+1 [J25:149] Llanowar Elves
+1 [GTC:98] Madcap Skills
+1 [CLB:283] Mazzy, Truesword Paladin
+1 [EMA:19] Mesa Enchantress
+1 [THS:129] Messenger's Speed
+1 [WOC:148] Mind Stone
+10 [KTK:262] Mountain
+1 [PCBB:1] Ossification
+1 [J22:702] Overgrowth
+1 [TSP:33] Pentarch Ward
+12 [KTK:250] Plains
+1 [J25:704] Rampant Growth
+1 [THB:197] Return to Nature
+1 [KHM:191] Rune of Might
+1 [KHM:148] Rune of Speed
+1 [KHM:25] Rune of Sustenance
+1 [SHM:215] Runes of the Deus
+1 [J22:58] Sage's Reverie
+1 [THB:36] Sentinel's Eyes
+1 [THB:201] Setessan Training
+1 [THB:226] Siona, Captain of the Pyleas
+1 [AKH:187] Sixth Sense
+1 [WOC:133] Snake Umbra
+1 [3ED:274] Sol Ring
+1 [UMA:184] Spider Umbra
+1 [AER:23] Sram, Senior Edificer
+1 [DMC:42] Stangg, Echo Warrior
+1 [J25:261] Starnheim Courser
+1 [SNC:124] Sticky Fingers
+1 [MH3:258] Strength of the Harvest
+1 [M19:202] Talons of Wildwood
+1 [WOE:188] Tanglespan Lookout
+1 [RIX:120] Tilonalli's Crown
+1 [J22:257] Transcendent Envoy
+1 [BBD:230] Unflinching Courage
+1 [J22:260] Unquestioned Authority
+1 [J25:739] Warbriar Blessing
+1 [3ED:230] Wild Growth
+1 [WOC:83] Winds of Rath
+1 [J22:742] Wolfwillow Haven
+SB: 1 [SLD:1767] Uril, the Miststalker
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([VOC:163],[WOC:148],[3ED:274])([WOC:120],[ISD:170],[NEC:1],[J22:168],[J25:149],[CLB:283],[EMA:19],[THB:226],[AER:23],[DMC:42],[J25:261],[WOE:188])([J22:257])([BBD:88],[J25:631],[DIS:4],[ME2:155],[AKH:158],[J22:3],[J21:437],[WOC:125],[THB:132],[EMN:24],[BBD:198],[TMP:228],[SIR:31],[GTC:17],[PC2:8],[GTC:98],[THS:129],[PCBB:1],[J22:702],[TSP:33],[KHM:191],[KHM:148],[KHM:25],[SHM:215],[J22:58],[THB:36],[THB:201],[AKH:187],[WOC:133],[UMA:184],[SNC:124],[MH3:258],[M19:202],[RIX:120],[BBD:230],[J22:260],[J25:739],[3ED:230],[J22:742])([GN3:67],[3ED:17],[THB:197])([KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250])([NEO:363],[AFC:116],[J25:146],[J25:704],[WOC:83])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SLD:1767])

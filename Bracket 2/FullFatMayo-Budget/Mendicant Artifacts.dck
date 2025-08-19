@@ -1,0 +1,72 @@
+1 [CLB:712] Aether Gale
+1 [DOM:44] Artificer's Assistant
+1 [MH2:6] Blacksmith's Skill
+1 [OTJ:6] Bovine Intervention
+1 [ONE:198] Cephalopod Sentry
+1 [MH3:21] Charitable Levy
+1 [J25:747] Chief of the Foundry
+1 [WOC:156] Command Tower
+1 [CLB:12] Contraband Livestock
+1 [MKM:394] Cryptic Coat
+1 [THS:46] Curse of the Swine
+1 [ELD:186] Dance of the Manse
+1 [SOM:150] Darksteel Juggernaut
+1 [KTK:37] Disdainful Stroke
+1 [3ED:17] Disenchant
+1 [NEO:51] Disruption Protocol
+1 [FDN:588] Dive Down
+1 [ELD:342] Emry, Lurker of the Loch
+1 [MH2:195] Ethersworn Sphinx
+1 [WOC:159] Exotic Orchard
+1 [J21:190] Faerie Seer
+1 [J21:192] Filigree Attendant
+1 [SLD:2106] Foundry Inspector
+1 [J25:751] Gingerbrute
+1 [EOC:160] Glacial Fortress
+1 [MAT:31] Gold-Forged Thopteryx
+1 [DFT:16] Guidelight Synergist
+1 [ACR:176] Hookblade
+1 [BRO:79] Hulking Metamorph
+1 [DFT:47] Hulldrifter
+18 [KTK:254] Island
+1 [F13:5] Judge's Familiar
+1 [EOC:74] Kappa Cannoneer
+1 [WWK:127] Lodestone Golem
+1 [BRO:57] Machine Over Matter
+1 [HOP:11] Master of Etherium
+1 [J25:223] Maul of the Skyclaves
+1 [DFT:49] Memory Guardian
+1 [ZNR:70] Merfolk Windrobber
+1 [AER:39] Metallic Rebuke
+1 [WOC:148] Mind Stone
+1 [BBD:123] Negate
+1 [EOC:66] Organic Extinction
+1 [PIP:20] Paladin Danse, Steel Maverick
+1 [DFT:23] Perilous Snare
+14 [KTK:250] Plains
+1 [VOC:178] Port Town
+1 [DFT:239] Racers' Scoreboard
+1 [EOC:171] Razortide Bridge
+1 [NEO:75] Reality Heist
+1 [SLD:2029] Resculpt
+1 [NEC:16] Research Thief
+1 [GN3:37] Run Away Together
+1 [BRC:5] Sanwell, Avenger Ace
+1 [SLD:864] Sculpting Steel
+1 [J22:796] Shambling Suit
+1 [ALA:55] Sharding Sphinx
+1 [CMM:409] Shimmer Myr
+1 [AFR:74] Silver Raven
+1 [TSP:78] Snapback
+1 [3ED:274] Sol Ring
+1 [J22:797] Solemn Simulacrum
+1 [ONE:35] Swooping Lookout
+1 [PIP:330] Synth Infiltrator
+1 [J21:261] Thought Monitor
+1 [ONE:73] Transplant Theorist
+1 [DSK:306] Unwanted Remake
+1 [DFT:37] Voyager Quickwelder
+1 [MM3:58] Wingcrafter
+SB: 1 [DFT:213] Mendicant Core, Guidelight
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([ONE:198],[J25:747],[SOM:150],[MH2:195],[J21:192],[SLD:2106],[J25:751],[MAT:31],[DFT:16],[BRO:79],[EOC:74],[WWK:127],[HOP:11],[DFT:49],[PIP:20],[NEC:16],[J22:796],[ALA:55],[CMM:409],[AFR:74],[J22:797],[ONE:35],[PIP:330],[J21:261],[ONE:73],[DFT:37])([EOC:171])([MKM:394],[ACR:176],[DFT:47],[J25:223],[WOC:148],[DFT:23],[DFT:239],[SLD:864],[3ED:274])([DOM:44],[ELD:342],[J21:190],[F13:5],[ZNR:70],[BRC:5],[MM3:58])([MH3:21])([MH2:6],[OTJ:6],[CLB:12],[KTK:37],[3ED:17],[NEO:51],[FDN:588],[BRO:57],[AER:39],[BBD:123],[NEO:75],[SLD:2029],[GN3:37],[TSP:78],[DSK:306])([WOC:156],[WOC:159],[EOC:160],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[VOC:178])([CLB:712],[THS:46],[ELD:186],[EOC:66])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DFT:213])

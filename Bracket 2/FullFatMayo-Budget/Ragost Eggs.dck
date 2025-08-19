@@ -1,0 +1,70 @@
+1 [LCI:131] Abrade
+1 [ACR:138] Arbaaz Mir
+1 [MH2:381] Blacksmith's Skill
+1 [OTJ:6] Bovine Intervention
+1 [BLB:7] Carrot Cake
+1 [M21:136] Chandra's Incinerator
+1 [BRR:11] Chromatic Star
+1 [MKM:121] Crime Novelist
+1 [M20:14] Disenchant
+1 [EOC:30] Evendo Brushrazer
+1 [DSC:275] Exotic Orchard
+1 [BRC:60] Farid, Enterprising Salvager
+1 [DSK:135] Fear of Burning Alive
+1 [CMR:310] Foundry Inspector
+1 [MKC:263] Furycalm Snarl
+1 [MOC:281] Ghirapur Aether Grid
+1 [MH3:123] Ghostfire Slice
+1 [THS:16] Gods Willing
+1 [WAR:239] Guild Globe
+1 [MAT:53] Harnessed Snubhorn
+1 [LTR:20] Hobbit's Sting
+1 [2XM:261] Ichor Wellspring
+1 [AER:155] Implement of Combustion
+1 [AER:158] Implement of Improvement
+1 [CLB:182] Ingenious Artillerist
+1 [FIC:347] Inspiring Statuary
+1 [M12:24] Lifelink
+1 [LCI:22] Market Gnome
+16 [ORI:266] Mountain
+1 [NPH:145] Mycosynth Wellspring
+1 [CLB:330] Nimblewright Schematic
+1 [CLB:331] Noble's Purse
+1 [EOE:243] Nutrient Block
+1 [C21:8] Osgir, the Reconstructor
+1 [AER:91] Pia's Revolution
+1 [LCI:161] Poetic Ingenuity
+1 [CLB:334] Prized Statue
+1 [MKC:79] Promise of Loyalty
+1 [CLB:335] Prophetic Prism
+1 [AER:175] Scrap Trawler
+1 [AER:176] Servo Schematic
+1 [BRO:243] Slagstone Refinery
+1 [IKO:240] Sleeper Dart
+1 [EOC:57] Sol Ring
+1 [WOE:251] Soul-Guide Lantern
+1 [ZNR:254] Spare Supplies
+1 [BLC:285] Spine of Ish Sah
+1 [DMR:274] Spirit Link
+1 [KHC:34] Sun Titan
+1 [LCI:168] Sunshot Militia
+1 [EMN:201] Terrarion
+1 [CMM:65] Teshar, Ancestor's Apostle
+1 [PIP:22] The Prydwen, Steel Flagship
+1 [DSK:155] The Rollercrusher Ride
+1 [LTC:288] Trading Post
+1 [LTC:230] Treasure Nabber
+1 [DSK:39] Unwanted Remake
+1 [DFT:37] Voyager Quickwelder
+1 [MOC:19] Vulpine Harvester
+1 [PIP:221] Wake the Past
+1 [EOE:169] Weftstalker Ardent
+1 [LTR:252] Wizard's Rockets
+1 [NEO:138] Experimental Synthesizer
+1 [IKO:32] Splendor Mare
+1 [CMR:204] Toggo, Goblin Weaponsmith
+1 [LCI:41] Unstable Glyphbridge
+18 [ORI:255] Plains
+SB: 1 [EOE:224] Ragost, Deft Gastronaut
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([CMR:310],[LCI:22],[AER:175],[DFT:37])([BLB:7],[BRR:11],[WAR:239],[2XM:261],[AER:155],[AER:158],[FIC:347],[NPH:145],[CLB:330],[CLB:331],[EOE:243],[CLB:334],[CLB:335],[AER:176],[BRO:243],[IKO:240],[EOC:57],[WOE:251],[ZNR:254],[BLC:285],[EMN:201],[PIP:22],[LTC:288],[LTR:252],[NEO:138],[LCI:41])([ACR:138],[M21:136],[MKM:121],[EOC:30],[BRC:60],[MAT:53],[CLB:182],[C21:8],[KHC:34],[LCI:168],[CMM:65],[LTC:230],[MOC:19],[EOE:169],[IKO:32],[CMR:204])([DSK:135])([MOC:281],[M12:24],[AER:91],[LCI:161],[DMR:274],[DSK:155])([LCI:131],[MH2:381],[OTJ:6],[M20:14],[MH3:123],[THS:16],[LTR:20],[DSK:39])([DSC:275],[MKC:263],[ORI:266],[ORI:266],[ORI:266],[ORI:266],[ORI:266],[ORI:266],[ORI:266],[ORI:266],[ORI:266],[ORI:266],[ORI:266],[ORI:266],[ORI:266],[ORI:266],[ORI:266],[ORI:266],[ORI:255],[ORI:255],[ORI:255],[ORI:255],[ORI:255],[ORI:255],[ORI:255],[ORI:255],[ORI:255],[ORI:255],[ORI:255],[ORI:255],[ORI:255],[ORI:255],[ORI:255],[ORI:255],[ORI:255],[ORI:255])([MKC:79],[PIP:221])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([EOE:224])
