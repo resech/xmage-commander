@@ -1,0 +1,92 @@
+1 [DRC:58] Academy Ruins
+1 [FDN:311] An Offer You Can't Refuse
+1 [SLD:1545] Arcane Denial
+1 [MH3:350] Archway of Innovation
+1 [WHO:171] Bessie, the Doctor's Roadster
+1 [BLC:162] Bident of Thassa
+1 [ACR:87] Black Market Connections
+1 [TDC:341] Bojuka Bog
+1 [PIP:254] Buried Ruin
+1 [MOM:51] Chrome Host Seedshark
+1 [BRR:75] Cloud Key
+1 [SLD:1989] Command Tower
+1 [PURL:2] Counterspell
+1 [ACR:15] Crystal Skull, Isu Spyglass
+1 [NEC:12] Cyberdrive Awakener
+1 [WHO:174] Cyberman Patrol
+1 [WHO:176] Cybermen Squadron
+1 [2XM:248] Darksteel Forge
+1 [CMM:378] Darksteel Ingot
+1 [SLD:1572] Darksteel Plate
+1 [NPH:134] Darksteel Relic
+1 [MOC:21] Deluxe Dragster
+1 [ACR:16] Desynchronization
+1 [MUL:9] Emry, Lurker of the Loch
+1 [EOC:72] Etherium Sculptor
+1 [WHO:221] Feed the Swarm
+1 [BIG:59] Fomori Vault
+1 [BRR:79] Foundry Inspector
+1 [DSK:260] Gloomlake Verge
+1 [SPE:21] Grasping Tentacles
+1 [AER:153] Heart of Kiran
+1 [NEO:247] High-Speed Hoverbike
+1 [SLD:1735] Inventors' Fair
+8 [MKM:273] Island
+1 [DFT:423] Lifecraft Engine
+1 [40K:40] Mandate of Abaddon
+1 [NEO:270] Mech Hangar
+1 [MH2:249] Mistvault Bridge
+1 [LTR:245] Mithril Coat
+1 [NEO:65] Mobilizer Mech
+1 [BRR:98] Mox Amber
+1 [MPS:19] Mox Opal
+1 [PIP:236] Mystic Forge
+1 [J25:153] Ornithopter of Paradise
+1 [J25:62] Padeem, Consul of Innovation
+1 [MH2:251] Power Depot
+1 [CMM:634] Reality Shift
+1 [WOC:105] Reconnaissance Mission
+1 [WHO:299] Rogue's Passage
+1 [DFT:331] Rover Blades
+1 [J25:63] Sai, Master Thopterist
+1 [PIP:287] Scavenger Grounds
+1 [MKM:267] Scene of the Crime
+1 [J22:820] Seat of the Synod
+1 [WHO:305] Shipwreck Marsh
+1 [40K:58] Skorpekh Lord
+1 [KLD:233] Sky Skiff
+1 [SLD:1988] Sol Ring
+1 [PIP:293] Spire of Industry
+1 [C21:44] Stinging Study
+1 [MOC:384] Strionic Resonator
+1 [PIP:296] Sunken Hollow
+4 [MKM:274] Swamp
+1 [SLD:606] Swiftfoot Boots
+1 [PIP:299] Tainted Isle
+1 [PIP:246] Talisman of Dominance
+1 [LCC:75] The Indomitable
+1 [FIN:60] The Lunar Whale
+1 [FIN:267] The Regalia
+1 [SPM:66] The Soul Stone
+1 [40K:62] Their Name Is Death
+1 [DRC:83] Thopter Spy Network
+1 [MM2:64] Thoughtcast
+1 [PRM:82832] Toxic Deluge
+1 [WHO:60] Traverse Eternity
+1 [DRC:180] Treasure Vault
+1 [VMA:323] Underground Sea
+1 [BRR:124] Unwinding Clock
+1 [DSC:322] Vault of Whispers
+1 [JMP:187] Vedalken Archmage
+1 [CLU:283] Watery Grave
+1 [DSK:313] Withering Torment
+1 [SLD:608] Darksteel Citadel
+1 [MH3:244] Fell the Profane
+1 [SLD:1126] Rapid Hybridization
+1 [MH3:241] Sink into Stupor
+1 [ONE:402] The Mycosynth Gardens
+1 [FCA:62] Smuggler's Copter
+1 [SLD:908] Arcane Signet
+SB: 1 [SPE:24] Doc Ock, Evil Inventor
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([NEC:12],[WHO:174],[WHO:176],[EOC:72],[BRR:79],[J25:153],[40K:58])([MH2:249],[MH2:251],[MKM:267],[J22:820],[DRC:180],[DSC:322],[SLD:608])([WHO:171],[BRR:75],[ACR:15],[2XM:248],[CMM:378],[SLD:1572],[NPH:134],[MOC:21],[AER:153],[NEO:247],[DFT:423],[LTR:245],[NEO:65],[BRR:98],[MPS:19],[PIP:236],[DFT:331],[KLD:233],[SLD:1988],[MOC:384],[SLD:606],[PIP:246],[LCC:75],[FIN:60],[FIN:267],[SPM:66],[BRR:124],[FCA:62],[SLD:908])([MOM:51],[MUL:9],[J25:62],[J25:63],[JMP:187])([BLC:162])([ACR:87],[WOC:105],[DRC:83])([FDN:311],[SLD:1545],[PURL:2],[ACR:16],[CMM:634],[C21:44],[DSK:313],[MH3:244],[SLD:1126],[MH3:241])([DRC:58],[MH3:350],[TDC:341],[PIP:254],[SLD:1989],[BIG:59],[DSK:260],[SLD:1735],[MKM:273],[MKM:273],[MKM:273],[MKM:273],[MKM:273],[MKM:273],[MKM:273],[MKM:273],[NEO:270],[WHO:299],[PIP:287],[WHO:305],[PIP:293],[PIP:296],[MKM:274],[MKM:274],[MKM:274],[MKM:274],[PIP:299],[VMA:323],[CLU:283],[ONE:402])([WHO:221],[SPE:21],[40K:40],[40K:62],[MM2:64],[PRM:82832],[WHO:60])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SPE:24])

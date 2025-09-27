@@ -1,0 +1,76 @@
+1 [7ED:117] Agonizing Memories
+1 [FIC:334] Arcane Signet
+1 [BRO:85] Ashnod's Intervention
+1 [WAR:77] Banehound
+1 [CLB:346] Basilisk Gate
+1 [STX:251] Biblioplex Assistant
+1 [CLB:347] Black Dragon Gate
+1 [DIS:38] Bond of Agony
+1 [DRC:124] Bontu's Monument
+1 [THS:80] Boon of Erebos
+1 [MH2:223] Brainstone
+1 [LTR:79] Call of the Ring
+1 [WOE:243] Candy Trail
+1 [ELD:81] Cauldron Familiar
+1 [MH3:85] Crabomination
+1 [SUM:99] Dark Ritual
+1 [WWK:56] Dead Reckoning
+1 [DDC:57] Demon's Horn
+1 [FDN:672] Diamond Mare
+1 [BLB:91] Diresight
+1 [MKC:128] Doom Whisperer
+1 [KLD:77] Dukhara Scavenger
+1 [J25:440] Fake Your Own Death
+1 [FIC:46] Fandaniel, Telophoroi Ascian
+1 [CMM:159] Feed the Swarm
+1 [MOM:105] Flitting Guerrilla
+1 [RNA:74] Font of Agonies
+1 [RNA:232] Gate Colossus
+1 [CLB:353] Gond Gate
+1 [AER:63] Gonti's Machinations
+1 [DKA:65] Gravepurge
+1 [MH2:274] Greed
+1 [MMQ:138] Haunted Crossroads
+1 [C19:121] In Garruk's Wake
+1 [EOC:84] Infernal Grasp
+1 [WAR:94] Kaya's Ghostform
+1 [5ED:387] Library of Leng
+1 [RVR:85] Mephitic Vapors
+1 [DMR:305] Mindslicer
+1 [STH:66] Mortuary
+1 [BFZ:240] Mortuary Mire
+1 [EOC:169] Myriad Landscape
+1 [CLB:137] Nefarious Imp
+1 [OTJ:95] Neutralize the Guards
+1 [OTC:144] Nighthawk Scavenger
+1 [WOE:101] Not Dead After All
+1 [TSR:271] Paradise Plume
+1 [LTR:248] Phial of Galadriel
+1 [FIC:281] Pitiless Plunderer
+1 [8ED:155] Plague Wind
+1 [ORI:235] Prism Ring
+1 [THS:101] Read the Bones
+1 [KLD:248] Sequestered Stash
+1 [ONE:108] Sheoldred's Edict
+1 [MKM:105] Snarling Gorehound
+1 [FIC:358] Sol Ring
+1 [DSC:253] Solemn Simulacrum
+1 [M15:232] Staff of the Death Magus
+1 [BLB:115] Starlit Soothsayer
+27 [TLA:284] Swamp
+1 [LCC:314] Swiftfoot Boots
+1 [M3C:207] Syr Konrad, the Grim
+1 [RTR:235] Tablet of the Guilds
+1 [CMM:191] Toxic Deluge
+1 [EOE:123] Umbral Collar Zealot
+1 [MKC:29] Unshakable Tail
+1 [M13:112] Vampire Nighthawk
+1 [J25:504] Vampire of the Dire Moon
+1 [CMR:158] Viscera Seer
+1 [CLB:344] Wayfarer's Bauble
+1 [ELD:249] Witch's Cottage
+1 [SOK:84] One with Nothing
+1 [INR:474] Westvale Abbey
+SB: 1 [SPM:286] Gwenom, Remorseless
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([STX:251],[FDN:672],[RNA:232],[DSC:253])([FIC:334],[DRC:124],[MH2:223],[WOE:243],[DDC:57],[5ED:387],[TSR:271],[LTR:248],[ORI:235],[FIC:358],[M15:232],[LCC:314],[RTR:235],[CLB:344])([WAR:77],[ELD:81],[MH3:85],[MKC:128],[KLD:77],[FIC:46],[MOM:105],[DMR:305],[CLB:137],[OTC:144],[FIC:281],[MKM:105],[BLB:115],[M3C:207],[EOE:123],[MKC:29],[M13:112],[J25:504],[CMR:158])([LTR:79],[RNA:74],[AER:63],[MH2:274],[MMQ:138],[WAR:94],[STH:66])([BRO:85],[THS:80],[SUM:99],[J25:440],[DKA:65],[EOC:84],[OTJ:95],[WOE:101],[ONE:108],[SOK:84])([CLB:346],[CLB:347],[CLB:353],[BFZ:240],[EOC:169],[KLD:248],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[ELD:249],[INR:474])([7ED:117],[DIS:38],[WWK:56],[BLB:91],[CMM:159],[C19:121],[RVR:85],[8ED:155],[THS:101],[CMM:191])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SPM:286])

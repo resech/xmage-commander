@@ -1,0 +1,69 @@
+1 [J22:752] Aether Spellbomb
+1 [CMR:56] Aqueous Form
+1 [ALL:22b] Arcane Denial
+1 [LCC:144] Azure Fleet Admiral
+1 [VIS:26] Betrayal
+1 [NPH:29] Blighted Agent
+1 [5ED:76] Brainstorm
+1 [RNA:34] Clear the Mind
+1 [MIR:58] Cloak of Invisibility
+1 [USG:65] Cloak of Mists
+1 [DMR:43] Cloud of Faeries
+1 [FIN:48] Combat Tutorial
+1 [TDC:148] Consider
+1 [6ED:61] Counterspell
+1 [EOE:53] Cryoshatter
+1 [MKM:293] Deduce
+1 [MH3:57] Deem Inferior
+1 [SPM:30] Doc Ock's Henchmen
+1 [MIR:62] Dream Cache
+1 [PLC:40] Dreamscape Artist
+1 [AVR:50] Elgaud Shieldmate
+1 [DSK:52] Enter the Enigma
+1 [MH2:335] Floodhound
+1 [ULG:32] Frantic Search
+1 [OTJ:51] Geyser Drake
+1 [MH2:46] Hard Evidence
+1 [DMR:286] High Tide
+1 [LTR:54] Hithlain Knots
+1 [5ED:94] Hydroblast
+1 [SOM:166] Ichorclaw Myr
+1 [NPH:36] Impaler Shrike
+1 [INR:69] Imprisoned in the Moon
+1 [FDN:509] Into the Roil
+34 [DOM:254] Island
+1 [M21:55] Library Larcenist
+1 [TSR:74] Looter il-Kor
+1 [EMA:61] Merfolk Looter
+1 [CLB:325] Mind Stone
+1 [FDN:159] Mocking Sprite
+1 [M21:59] Opt
+1 [DMR:292] Peregrine Drake
+1 [TDM:53] Ringing Strike Mastery
+1 [BLB:67] Run Away Together
+1 [M21:71] Shipwreck Dowser
+1 [UDS:46] Sigil of Sleep
+1 [AKH:71] Slither Blade
+1 [5ED:125] Soul Barrier
+1 [ONE:243] Surgical Skullbomb
+1 [MIR:96] Teferi's Curse
+1 [POR:72] Theft of Dreams
+1 [BLC:289] Thought Vessel
+1 [EOC:80] Thrummingbird
+1 [FEM:27c] Tidal Flats
+1 [USG:104] Tolarian Winds
+1 [CMM:6] Ulamog's Crusher
+1 [DSK:78] Unable to Scream
+1 [TDM:62] Unending Whisper
+1 [SPM:47] Unstable Experiment
+1 [CM2:227] Unstable Obelisk
+1 [TMP:101] Volrath's Curse
+1 [MMQ:114] Waterfront Bouncer
+1 [CMM:134] Windrider Wizard
+1 [FDN:168] Witness Protection
+1 [EXO:34] Fade Away
+1 [CLB:99] Sword Coast Serpent
+1 [CLB:106] Young Blue Dragon
+SB: 1 [SPE:7] Lyla, Holographic Assistant
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([SOM:166])([J22:752],[CLB:325],[ONE:243],[BLC:289],[CM2:227])([LCC:144],[NPH:29],[DMR:43],[SPM:30],[PLC:40],[AVR:50],[MH2:335],[OTJ:51],[NPH:36],[M21:55],[TSR:74],[EMA:61],[FDN:159],[DMR:292],[M21:71],[AKH:71],[EOC:80],[CMM:6],[MMQ:114],[CMM:134],[CLB:99],[CLB:106])([CMR:56],[VIS:26],[MIR:58],[USG:65],[EOE:53],[INR:69],[TDM:53],[UDS:46],[5ED:125],[MIR:96],[FEM:27c],[DSK:78],[TMP:101],[FDN:168])([ALL:22b],[5ED:76],[TDC:148],[6ED:61],[MKM:293],[ULG:32],[DMR:286],[LTR:54],[5ED:94],[FDN:509],[M21:59],[BLB:67],[USG:104],[SPM:47])([DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254],[DOM:254])([RNA:34],[FIN:48],[MH3:57],[MIR:62],[DSK:52],[MH2:46],[POR:72],[TDM:62],[EXO:34])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SPE:7])

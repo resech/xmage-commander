@@ -1,0 +1,70 @@
+1 [J22:138] Acrobatic Maneuver
+1 [FDN:55] Arbiter of Woe
+1 [FIC:334] Arcane Signet
+1 [FIC:231] Austere Command
+1 [M11:84] Blood Tithe
+1 [MH2:395] Bone Shards
+1 [M20:92] Bone Splinters
+1 [DOM:82] Chainer's Torment
+1 [MH3:21] Charitable Levy
+1 [A25:7] Cloudshift
+1 [FIC:484] Command Tower
+1 [TDM:75] Corroding Dragonstorm
+1 [GRN:66] Creeping Chill
+1 [PIP:184] Deadly Dispute
+1 [RVR:364] Debt to the Deathless
+1 [LCC:192] Dire Fleet Ravager
+1 [TDC:178] Disciple of Bolas
+1 [MH3:264] Distinguished Conjurer
+1 [TSR:111] Dread Return
+1 [FIC:276] Exsanguinate
+1 [J25:440] Fake Your Own Death
+1 [AFR:103] Feign Death
+1 [THB:16] Flicker of Fate
+1 [LTC:13] Gilraen, Dunedain Protector
+1 [SOM:157] Gold Myr
+1 [THB:99] Gray Merchant of Asphodel
+1 [WOE:95] Hopeless Nightmare
+1 [MKM:87] Hunted Bonebrute
+1 [CLB:27] Icewind Stalwart
+1 [TDC:373] Isolated Chapel
+1 [MRD:191] Leaden Myr
+1 [ONE:297] Myr Convert
+1 [WOE:101] Not Dead After All
+1 [J25:231] Nyx-Fleece Ram
+1 [MH2:430] Ornithopter of Paradise
+1 [DSC:249] Orzhov Signet
+1 [M21:234] Palladium Myr
+15 [J25:82] Plains
+1 [BLC:282] Psychosis Crawler
+1 [BFZ:121] Retreat to Hagra
+1 [M21:31] Revitalize
+1 [10E:34] Reviving Dose
+1 [CLB:392] Shadowheart, Dark Justiciar
+1 [CLB:43] Slaughter the Strong
+1 [ALL:60b] Soldevi Adnate
+1 [CMR:151] Supernatural Stamina
+19 [M13:240] Swamp
+1 [LCC:356] Tainted Field
+1 [FIC:365] Talisman of Hierarchy
+1 [MKC:305] Temple of the False God
+1 [OTJ:110] Treasure Dredger
+1 [DKA:77] Undying Evil
+1 [VOW:134] Undying Malice
+1 [BRO:31] Union of the Third Path
+1 [GTC:205] Vizkopa Confessor
+1 [LCC:317] Wayfarer's Bauble
+1 [BLC:189] Woe Strider
+1 [MH3:298] Worn Powerstone
+1 [DVD:52] Barter in Blood
+1 [7ED:3] Blessed Reversal
+1 [ELD:335] Charming Prince
+1 [RNA:224] Consecrate // Consume
+1 [7ED:149] Necrologia
+1 [C15:6] Oreskos Explorer
+1 [RNA:228] Revival // Revenge
+1 [TMP:158] Souldrinker
+1 [MRD:82] Wall of Blood
+SB: 1 [SPM:135] Mister Negative
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,50)|([SOM:157],[MRD:191],[ONE:297],[MH2:430],[M21:234],[BLC:282])([FIC:334],[DSC:249],[FIC:365],[LCC:317],[MH3:298])([FDN:55],[LCC:192],[TDC:178],[MH3:264],[LTC:13],[THB:99],[MKM:87],[CLB:27],[CLB:392],[ALL:60b],[OTJ:110],[GTC:205],[BLC:189],[ELD:335],[C15:6],[TMP:158],[MRD:82])([J25:231])([DOM:82],[MH3:21],[TDM:75],[WOE:95],[BFZ:121])([RNA:224])([J22:138],[A25:7],[PIP:184],[J25:440],[AFR:103],[THB:16],[WOE:101],[M21:31],[10E:34],[CMR:151],[DKA:77],[VOW:134],[BRO:31],[7ED:3],[7ED:149])([FIC:484],[TDC:373],[J25:82],[J25:82],[J25:82],[J25:82],[J25:82],[J25:82],[J25:82],[J25:82],[J25:82],[J25:82],[J25:82],[J25:82],[J25:82],[J25:82],[J25:82],[M13:240],[M13:240],[M13:240],[M13:240],[M13:240],[M13:240],[M13:240],[M13:240],[M13:240],[M13:240],[M13:240],[M13:240],[M13:240],[M13:240],[M13:240],[M13:240],[M13:240],[M13:240],[M13:240],[LCC:356],[MKC:305])([RNA:228])([FIC:231],[M11:84],[MH2:395],[M20:92],[GRN:66],[RVR:364],[TSR:111],[FIC:276],[CLB:43],[DVD:52])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SPM:135])

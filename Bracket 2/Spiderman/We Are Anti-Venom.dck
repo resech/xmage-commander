@@ -1,0 +1,82 @@
+1 [MID:312] Adeline, Resplendent Cathar
+1 [LCC:125] Akroma's Will
+1 [THB:231] Altar of the Pantheon
+1 [AKH:2] Anointed Procession
+1 [CMR:689] Arcane Signet
+1 [C21:339] Archaeomancer's Map
+1 [2XM:5] Archangel of Thune
+1 [BLB:6] Caretaker's Talent
+1 [LCC:70] Charismatic Conqueror
+1 [FIC:236] Clever Concealment
+1 [CMR:704] Command Beacon
+1 [HOU:6] Crested Sunmare
+1 [CLB:14] Cut a Deal
+1 [CMM:21] Darksteel Mutation
+1 [THB:258] Daxos, Blessed by the Sun
+1 [DMU:16] Defiler of Faith
+1 [NEO:413] Eiganjo, Seat of the Empire
+1 [TDM:11] Elspeth, Storm Slayer
+1 [MKC:62] Elspeth, Sun's Champion
+1 [THB:270] Elspeth, Undaunted Hero
+1 [DSK:6] Enduring Innocence
+1 [MH2:328] Esper Sentinel
+1 [THS:11] Evangel of Heliod
+1 [MOC:14] Excise the Imperfect
+1 [FIC:242] Farewell
+1 [BRC:141] Fellwar Stone
+1 [TSR:278] Flagstones of Trokair
+1 [ONC:68] Flawless Maneuver
+1 [LTR:15] Flowering of the White Tree
+1 [BLB:253] Fountainport
+1 [SLD:68] Heliod, God of the Sun
+1 [THB:259] Heliod, Sun-Crowned
+1 [FDN:254] Heraldic Banner
+1 [INR:29] Intangible Virtue
+1 [ORI:21] Knight of the White Orchid
+1 [G10:5] Land Tax
+1 [EVE:10] Light from Within
+1 [ELD:20] Linden, the Steadfast Queen
+1 [BLC:143] Loran of the Third Path
+1 [M20:249] Lotus Field
+1 [WTH:165] Lotus Vale
+1 [ZEN:25] Luminarch Ascension
+1 [LTR:256] Minas Tirith
+1 [PPRO:2022-3] Nykthos, Shrine to Nyx
+1 [THB:344] Nyx Lotus
+1 [MH3:38] Ocelot Pride
+1 [AKH:233] Oketra's Monument
+1 [MH3:294] Pearl Medallion
+21 [DMU:277] Plains
+1 [CMR:38] Prava of the Steel Legion
+1 [CLB:705] Rumor Gatherer
+1 [FIC:419] Scavenger Grounds
+1 [BLC:152] Secret Rendezvous
+1 [PIP:171] Secure the Wastes
+1 [MOC:379] Skullclamp
+1 [SLD:1011] Sol Ring
+1 [MM3:24] Soul Warden
+1 [ROE:44] Soul's Attendant
+1 [C13:262] Surveyor's Scope
+1 [DDO:59] Temple of the False God
+1 [WOC:28] Throne of Eldraine
+1 [MKC:15] Trouble in Pairs
+1 [MH2:259] Urza's Saga
+1 [MOC:107] Wand of the Worldsoul
+1 [CMR:716] War Room
+1 [MKC:91] Welcoming Vampire
+1 [ONE:38] White Sun's Twilight
+1 [PIP:315] Windbrisk Heights
+1 [CMR:351] Guildless Commons
+1 [LCC:9] Illustrious Wanderglyph
+1 [VIS:165] Karoo
+1 [PRM:92630] Loyal Warhound
+1 [LCC:73] March of the Canonized
+1 [SCH:17] Moonshaker Cavalry
+1 [PRM:83870] Ondu Inversion
+1 [THB:33] Reverent Hoplite
+1 [EVE:15] Springjack Shepherd
+1 [MOC:210] Suture Priest
+1 [MH3:239] Witch Enchanter
+SB: 1 [SPM:244] Anti-Venom, Horrifying Healer
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,50)|([MH2:328],[LCC:9])([THB:231],[CMR:689],[C21:339],[BRC:141],[FDN:254],[THB:344],[AKH:233],[MH3:294],[MOC:379],[SLD:1011],[C13:262],[WOC:28],[MOC:107])([MID:312],[2XM:5],[LCC:70],[HOU:6],[DMU:16],[THS:11],[ORI:21],[ELD:20],[BLC:143],[MH3:38],[CMR:38],[CLB:705],[MM3:24],[ROE:44],[MKC:91],[PRM:92630],[SCH:17],[THB:33],[EVE:15],[MOC:210],[MH3:239])([THB:258],[DSK:6],[SLD:68],[THB:259])([MH2:259])([AKH:2],[BLB:6],[CMM:21],[LTR:15],[INR:29],[G10:5],[EVE:10],[ZEN:25],[MKC:15],[LCC:73])([LCC:125],[FIC:236],[MOC:14],[ONC:68],[PIP:171])([CMR:704],[NEO:413],[TSR:278],[BLB:253],[M20:249],[WTH:165],[LTR:256],[PPRO:2022-3],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[DMU:277],[FIC:419],[DDO:59],[CMR:716],[PIP:315],[CMR:351],[VIS:165])([TDM:11],[MKC:62],[THB:270])([CLB:14],[FIC:242],[BLC:152],[ONE:38],[PRM:83870])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SPM:244])

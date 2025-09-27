@@ -1,0 +1,76 @@
+1 [DRC:58] Academy Ruins
+1 [DFT:248] Amonkhet Raceway
+1 [DRC:70] Arcane Denial
+1 [ORI:45] Artificer's Epiphany
+1 [CLB:664] Astral Dragon
+1 [DFT:249] Avishkar Raceway
+1 [ODY:70] Careful Study
+1 [LCI:48] Chart a Course
+1 [JMP:462] Chromatic Sphere
+1 [TSR:263] Chromatic Star
+1 [EOC:68] Chrome Host Seedshark
+1 [WOE:244] Collector's Vault
+1 [ACR:158] Crystal Skull, Isu Spyglass
+1 [EOC:69] Cyberdrive Awakener
+1 [WHO:176] Cybermen Squadron
+1 [KLD:44] Dramatic Reversal
+1 [TSR:64] Dreamscape Artist
+1 [UMA:57] Frantic Search
+1 [SOK:38] Freed from the Real
+1 [CMR:317] Ingenuity Engine
+1 [KLD:247] Inventors' Fair
+27 [MKM:280] Island
+1 [OTJ:271] Jace Reawakened
+1 [EOC:74] Kappa Cannoneer
+1 [OTJ:243] Lavaspur Boots
+1 [CMR:322] Maelstrom Colossus
+1 [ORI:232] Mage-Ring Responder
+1 [UMA:63] Magus of the Bazaar
+1 [BRC:87] Master Transmuter
+1 [CLB:323] Meteor Golem
+1 [CHK:279] Minamo, School at Water's Edge
+1 [BLC:280] Mind Stone
+1 [BRR:33] Mind's Eye
+1 [NEO:64] Mnemonic Sphere
+1 [DFT:426] Muraganda Raceway
+1 [MKC:277] Mystic Sanctuary
+1 [40K:161] Necron Monolith
+1 [CMM:109] Padeem, Consul of Innovation
+1 [EOE:244] Pinnacle Kill-Ship
+1 [BRR:41] Platinum Angel
+1 [DFT:239] Racers' Scoreboard
+1 [40K:163] Reaver Titan
+1 [DSC:295] Reliquary Tower
+1 [CMR:335] Rings of Brighthearth
+1 [BFZ:242] Sanctum of Ugin
+1 [ZNC:116] Sandstone Oracle
+1 [MH3:296] Sapphire Medallion
+1 [CMR:337] Scroll Rack
+1 [FUT:57] Second Wind
+1 [DSC:127] Shark Typhoon
+1 [DFT:244] Starting Column
+1 [BRO:64] Stern Lesson
+1 [LTR:409] Sting, the Glinting Dagger
+1 [EOC:19] Surge Conductor
+1 [LCC:314] Swiftfoot Boots
+1 [MIR:320] Teeka's Dragon
+1 [MKC:120] Tezzeret, Betrayer of Flesh
+1 [C18:106] Thirst for Knowledge
+1 [C13:266] Thousand-Year Elixir
+1 [BRC:168] Thran Dynamo
+1 [WOC:28] Throne of Eldraine
+1 [NEO:261] Thundersteel Colossus
+1 [ONE:75] Unctus, Grand Metatect
+1 [TDC:24] Will of the Temur
+1 [AFR:81] Wizard Class
+1 [AFR:84] You Find the Villains' Lair
+1 [PRM:105858] Cityscape Leveler
+1 [NEO:371] Jin-Gitaxias, Progress Tyrant
+1 [CLB:332] Patriar's Seal
+1 [SCG:45] Pemmin's Aura
+1 [DST:29] Pulse of the Grid
+1 [DBL:352] Thirst for Discovery
+1 [CMM:779] Zhulodok, Void Gorger
+SB: 1 [SPM:35] Lady Octopus, Inspired Inventor
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([EOC:69],[WHO:176],[EOC:74],[CMR:322],[ORI:232],[BRC:87],[CLB:323],[BRR:41],[ZNC:116],[EOC:19],[MIR:320],[ONE:75],[PRM:105858])([JMP:462],[TSR:263],[WOE:244],[ACR:158],[CMR:317],[OTJ:243],[BLC:280],[BRR:33],[NEO:64],[40K:161],[EOE:244],[DFT:239],[40K:163],[CMR:335],[MH3:296],[CMR:337],[DFT:244],[LTR:409],[LCC:314],[C13:266],[BRC:168],[WOC:28],[NEO:261],[CLB:332])([CLB:664],[EOC:68],[TSR:64],[UMA:63],[CMM:109],[NEO:371],[CMM:779])([SOK:38],[FUT:57],[DSC:127],[AFR:81],[SCG:45])([DRC:70],[ORI:45],[KLD:44],[UMA:57],[BRO:64],[C18:106],[AFR:84],[DST:29],[DBL:352])([DRC:58],[DFT:248],[DFT:249],[KLD:247],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[MKM:280],[CHK:279],[DFT:426],[MKC:277],[DSC:295],[BFZ:242])([OTJ:271],[MKC:120])([ODY:70],[LCI:48],[TDC:24])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SPM:35])

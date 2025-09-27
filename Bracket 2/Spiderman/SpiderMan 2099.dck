@@ -1,0 +1,86 @@
+1 [SNC:51] An Offer You Can't Refuse
+1 [SCD:257] Arcane Signet
+1 [DKA:27] Artful Dodge
+1 [KHM:46] Behold the Multiverse
+1 [SNC:102] Big Score
+1 [BRR:6] Blackblade Reforged
+1 [2XM:117] Blasphemous Act
+1 [ONE:123] Blazing Crescendo
+1 [MMA:107] Brute Force
+1 [FDN:80] Bulk Up
+1 [FIC:54] Cait Sith, Fortune Teller
+1 [NEC:103] Chain Reaction
+1 [DSK:128] Chainsaw
+1 [LCC:220] Chandra's Ignition
+1 [NEC:104] Chaos Warp
+1 [EVE:99] Clout of the Dominus
+1 [ELD:333] Command Tower
+1 [TDM:252] Cori Mountain Monastery
+1 [WHO:84] Ensnared by the Mara
+1 [VOW:237] Eruth, Tormented Prophet
+1 [BLC:196] Etali, Primal Storm
+1 [C19:242] Exotic Orchard
+1 [TDC:288] Expressive Iteration
+1 [C19:140] Faithless Looting
+1 [TDC:318] Fellwar Stone
+1 [WHO:278] Fiery Islet
+1 [WHO:85] Flaming Tyrannosaurus
+1 [STX:265] Frostboil Snarl
+1 [FIN:140] Haste Magic
+1 [LCI:156] Inti, Seneschal of the Sun
+1 [WHO:89] Iraxxa, Empress of Mars
+1 [LTC:495] Isengard Unleashed
+7 [J25:86] Island
+1 [MM2:245] Izzet Boilerworks
+1 [C18:207] Izzet Signet
+1 [40K:78] Keeper of Secrets
+1 [CM2:199] Loxodon Warhammer
+1 [FIN:61] Magic Damper
+1 [CNS:147] Mana Geyser
+1 [NEO:61] March of Swirling Mist
+1 [DMR:232] Mind Stone
+1 [DMU:251] Molten Tributary
+1 [WOE:142] Monstrous Rage
+11 [J25:90] Mountain
+1 [ELD:247] Mystic Sanctuary
+1 [M15:71] Negate
+1 [FIN:147] Opera Love Song
+1 [TSP:70] Ophidian Eye
+1 [CLB:633] Passionate Archaeologist
+1 [KHM:72] Ravenform
+1 [UMA:143] Reckless Charge
+1 [VOW:174] Reckless Impulse
+1 [C15:301] Reliquary Tower
+1 [UMA:250] Rogue's Passage
+1 [OTC:111] Sage of the Beyond
+1 [OTC:320] Shivan Reef
+1 [BLB:69] Shore Up
+1 [CLU:99] Slip Out the Back
+1 [CM2:217] Sol Ring
+1 [OTJ:270] Spirebluff Canal
+1 [GRN:257] Steam Vents
+1 [WHO:308] Stormcarved Coast
+1 [OTC:322] Sulfur Falls
+1 [EOS:42] Swarmyard
+1 [MH1:231] Talisman of Creativity
+1 [CLB:200] Tavern Brawler
+1 [M21:252] Temple of Epiphany
+1 [DMC:193] Tenza, Godo's Maul
+1 [CM2:273] Terramorphic Expanse
+1 [40K:129] The Lost and the Damned
+1 [WHO:255] Thought Vessel
+1 [PIP:193] Unexpected Windfall
+1 [SCD:166] Unleash Fury
+1 [CMM:267] Vandalblast
+1 [PIP:71] Wild Wasteland
+1 [TDC:40] Will of the Jeskai
+1 [MOM:173] Wrenn's Resolve
+1 [MAR:9] Counterspell
+1 [WOT:17] Curiosity
+1 [WC02:shh36] Deep Analysis
+1 [ROE:60] Distortion Strike
+1 [SLD:824] Evolving Wilds
+1 [SLD:1113] Solemn Simulacrum
+SB: 1 [SPM:150] Spider-Man 2099
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([FIC:54],[SLD:1113])([SCD:257],[BRR:6],[DSK:128],[TDC:318],[C18:207],[CM2:199],[DMR:232],[CM2:217],[MH1:231],[DMC:193],[WHO:255])([VOW:237],[BLC:196],[WHO:85],[LCI:156],[WHO:89],[40K:78],[OTC:111])([EVE:99],[TSP:70],[CLB:633],[CLB:200],[40K:129],[PIP:71],[WOT:17])([SNC:51],[KHM:46],[SNC:102],[ONE:123],[MMA:107],[FDN:80],[NEC:104],[FIN:140],[FIN:61],[NEO:61],[WOE:142],[M15:71],[FIN:147],[BLB:69],[CLU:99],[PIP:193],[SCD:166],[MAR:9])([ELD:333],[TDM:252],[C19:242],[WHO:278],[STX:265],[J25:86],[J25:86],[J25:86],[J25:86],[J25:86],[J25:86],[J25:86],[MM2:245],[DMU:251],[J25:90],[J25:90],[J25:90],[J25:90],[J25:90],[J25:90],[J25:90],[J25:90],[J25:90],[J25:90],[J25:90],[ELD:247],[C15:301],[UMA:250],[OTC:320],[OTJ:270],[GRN:257],[WHO:308],[OTC:322],[EOS:42],[M21:252],[CM2:273],[SLD:824])([DKA:27],[2XM:117],[NEC:103],[LCC:220],[WHO:84],[TDC:288],[C19:140],[LTC:495],[CNS:147],[KHM:72],[UMA:143],[VOW:174],[CMM:267],[TDC:40],[MOM:173],[WC02:shh36],[ROE:60])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SPM:150])

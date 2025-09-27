@@ -1,0 +1,88 @@
+1 [MH3:80] Accursed Marauder
+1 [FDN:115] Alesha, Who Laughs at Fate
+1 [C19:37] Anje Falkenrath
+1 [P30M:1F] Arcane Signet
+1 [RNA:61] Awaken the Erstwhile
+1 [ELD:75] Ayara, First of Locthwain
+1 [ONE:248] Blackcleave Cliffs
+1 [TDC:313] Blade of Selves
+1 [RVR:273] Blood Crypt
+1 [SLD:1404] Bottomless Pit
+1 [FDN:250] Burnished Hart
+1 [FIN:255] Buster Sword
+1 [BLC:267] Circuit Mender
+1 [INR:259] Conjurer's Closet
+1 [CMR:114] Court of Ambition
+1 [2X2:303] Crucible of Worlds
+1 [ALA:69] Cunning Lethemancer
+1 [MH2:81] Dauthi Voidwalker
+1 [TDC:357] Dragonskull Summit
+1 [FIN:277] Eden, Seat of the Sanctum
+1 [KHM:93] Elderfang Disciple
+1 [C14:35] Feldon of the Third Path
+1 [ORI:147] Flameshadow Conjuring
+1 [DRC:92] Fleshbag Marauder
+1 [DST:123] Geth's Grimoire
+1 [WOT:29] Grave Pact
+1 [2XM:320] Graven Cairns
+1 [THS:89] Gray Merchant of Asphodel
+1 [FDN:60] Gutless Plunderer
+1 [WHO:286] Haunted Ridge
+1 [MH3:293] Junk Diver
+1 [IMA:136] Kiki-Jiki, Mirror Breaker
+1 [ZNR:245] Lithoform Engine
+1 [BBD:82] Luxury Suite
+1 [DSC:145] Mask of Griselbrand
+1 [DMR:91] Mindslicer
+1 [RNA:108] Mirror March
+1 [TDC:188] Morbid Opportunist
+1 [MRD:69] Necrogen Mists
+1 [MOM:120] Nezumi Informant
+1 [DMR:95] No Mercy
+1 [CC2:3] Ophiomancer
+1 [WOT:32] Oppression
+1 [MOM:379] Orthion, Hero of Lavabrink
+1 [FDN:179] Painful Quandary
+1 [MKC:133] Phyrexian Arena
+1 [UMA:248] Phyrexian Tower
+1 [GRN:82] Plaguecrafter
+1 [AFR:158] Plundering Barbarian
+1 [MMQ:309] Power Matrix
+1 [THS:135] Purphoros, God of the Forge
+1 [TDM:86] Qarsi Revenant
+1 [AFC:214] Rakdos Signet
+1 [WOE:102] Rankle's Prank
+1 [MKM:266] Raucous Theater
+1 [MH3:107] Ripples of Undeath
+1 [LCI:258] Roaming Throne
+1 [FDN:264] Rogue's Passage
+1 [DMC:233] Shizo, Death's Storehouse
+1 [PIP:238] Skullclamp
+1 [EOC:182] Smoldering Marsh
+1 [TSR:142] Stronghold Rats
+1 [EOE:259] Susur Secundi, Void Altar
+15 [SPM:191] Swamp
+1 [SCD:111] Syphon Mind
+1 [TDC:68] Teval's Judgment
+1 [WHO:146] The Master, Multiplied
+1 [DMC:19] The Peregrine Dynamo
+1 [FDN:72] Tinybones, Bauble Burglar
+1 [JMP:17] Tinybones, Trinket Thief
+1 [HOU:77] Torment of Hailfire
+1 [GRN:89] Vicious Rumors
+1 [EOE:124] Virus Beetle
+1 [WOT:38] Waste Not
+1 [DSK:124] Withering Torment
+1 [CLB:775] Zulaport Cutthroat
+1 [DSK:329] Blazemire Verge
+1 [SLU:12] Blightstep Pathway
+1 [MH3:243] Boggart Trawler
+1 [MH3:244] Fell the Profane
+1 [ZNR:111] Malakir Rebirth
+1 [FIN:313] Midgar, City of Mako
+1 [ZNR:120] Pelakka Predation
+1 [MM2:129] Splinter Twin
+1 [CP2:5] Whip of Erebos
+SB: 1 [SPM:227] Carnage, Crimson Chaos
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([FDN:250],[BLC:267],[MH3:293],[LCI:258],[DMC:19],[EOE:124])([P30M:1F],[TDC:313],[FIN:255],[INR:259],[2X2:303],[DST:123],[ZNR:245],[DSC:145],[MMQ:309],[AFC:214],[PIP:238])([MH3:80],[FDN:115],[C19:37],[ELD:75],[ALA:69],[MH2:81],[KHM:93],[C14:35],[DRC:92],[THS:89],[FDN:60],[IMA:136],[DMR:91],[TDC:188],[MOM:120],[CC2:3],[MOM:379],[GRN:82],[AFR:158],[TDM:86],[TSR:142],[WHO:146],[FDN:72],[JMP:17],[CLB:775],[MH3:243])([CP2:5])([THS:135])([SLD:1404],[CMR:114],[ORI:147],[WOT:29],[RNA:108],[MRD:69],[DMR:95],[WOT:32],[FDN:179],[MKC:133],[MH3:107],[TDC:68],[WOT:38],[MM2:129])([DSK:124],[MH3:244],[ZNR:111])([ONE:248],[RVR:273],[TDC:357],[FIN:277],[2XM:320],[WHO:286],[BBD:82],[UMA:248],[MKM:266],[FDN:264],[DMC:233],[EOC:182],[EOE:259],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[SPM:191],[DSK:329],[SLU:12],[FIN:313])([RNA:61],[WOE:102],[SCD:111],[HOU:77],[GRN:89],[ZNR:120])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SPM:227])

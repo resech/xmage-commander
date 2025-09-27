@@ -1,0 +1,74 @@
+1 [BRR:1] Adaptive Automaton
+1 [BLC:161] Aetherize
+1 [MIC:97] Aetherspouts
+1 [FDN:160] An Offer You Can't Refuse
+1 [LRW:52] Aquitect's Will
+1 [ALL:22b] Arcane Denial
+1 [SCD:257] Arcane Signet
+1 [BLC:162] Bident of Thassa
+1 [3ED:52] Control Magic
+1 [ZEN:45] Cosi's Trickster
+1 [MMQ:69] Counterspell
+1 [LCI:52] Deeproot Pilgrimage
+1 [LCC:152] Deeproot Waters
+1 [CLB:719] Domineering Will
+1 [DMC:23] Emperor Mihail II
+1 [MRD:168] Empyrial Plate
+1 [MH3:62] Flare of Denial
+1 [DSK:59] Floodpits Drowner
+1 [DSC:282] Halimar Depths
+1 [ORI:58] Harbinger of the Tides
+1 [DMR:419] High Tide
+1 [TMP:68] Insight
+29 [DMU:265] Island
+1 [CLB:565] Kindred Discovery
+1 [FDN:309] Kiora, the Rising Tide
+1 [XLN:61] Kopala, Warden of Waves
+1 [ONS:320] Lonely Sandbar
+1 [3ED:64] Lord of Atlantis
+1 [DDT:9] Master of the Pearl Trident
+1 [THS:53] Master of Waves
+1 [LCC:164] Merfolk Sovereign
+1 [DOM:56] Merfolk Trickster
+1 [LCC:165] Merrow Reejerey
+1 [DFT:51] Mindspring Merfolk
+1 [RIX:43] Mist-Cloaked Herald
+1 [M19:62] Mistcaller
+1 [PGPX:2018] Mutavault
+1 [KHM:69] Mystic Reflection
+1 [DMR:288] Mystic Remora
+1 [NEO:271] Otawara, Soaring City
+1 [BLB:247] Patchwork Banner
+1 [LTC:23] Raise the Palisade
+1 [CMM:634] Reality Shift
+1 [KHM:400] Reflections of Littjara
+1 [STH:41] Reins of Power
+1 [PLG20:1] Reliquary Tower
+1 [TOR:46] Retraced Image
+1 [C14:122] Rite of Replication
+1 [NEM:40] Rootwater Thief
+1 [MH3:296] Sapphire Medallion
+1 [MMQ:328] Saprazzan Skerry
+1 [RIX:51] Seafloor Oracle
+1 [FEM:25] Seasinger
+1 [DMC:190] Sol Ring
+1 [WOT:26] Spreading Seas
+1 [LCC:173] Stonybrook Banneret
+1 [C19:97] Talrand, Sky Summoner
+1 [7ED:102] Telepathy
+1 [WWK:40] Thada Adel, Acquisitor
+1 [LCC:177] Thieving Skydiver
+1 [BLB:338] Three Tree City
+1 [MH2:72] Tide Shaper
+1 [LCI:335] Tishana's Tidebinder
+1 [ZNC:38] Triton Shorestalker
+1 [BBD:136] True-Name Nemesis
+1 [USG:105] Turnabout
+1 [DMU:75] Vodalian Hexcatcher
+1 [EVE:31] Wake Thrasher
+1 [INV:54] Empress Galina
+1 [LCC:76] Mist Dancer
+1 [TSR:402] Vanquisher's Banner
+SB: 1 [MH2:310] Svyelun of Sea and Sky
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([BRR:1])([SCD:257],[MRD:168],[BLB:247],[MH3:296],[DMC:190],[TSR:402])([ZEN:45],[DMC:23],[DSK:59],[ORI:58],[FDN:309],[XLN:61],[3ED:64],[DDT:9],[THS:53],[LCC:164],[DOM:56],[LCC:165],[DFT:51],[RIX:43],[M19:62],[NEM:40],[RIX:51],[FEM:25],[LCC:173],[C19:97],[WWK:40],[LCC:177],[MH2:72],[LCI:335],[ZNC:38],[BBD:136],[DMU:75],[EVE:31],[INV:54],[LCC:76])([BLC:162])([3ED:52],[LCI:52],[LCC:152],[TMP:68],[CLB:565],[DMR:288],[KHM:400],[WOT:26],[7ED:102])([BLC:161],[MIC:97],[FDN:160],[ALL:22b],[MMQ:69],[CLB:719],[MH3:62],[DMR:419],[KHM:69],[CMM:634],[STH:41],[USG:105])([LRW:52])([DSC:282],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[DMU:265],[ONS:320],[PGPX:2018],[NEO:271],[PLG20:1],[MMQ:328],[BLB:338])([LTC:23],[TOR:46],[C14:122])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MH2:310])

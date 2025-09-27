@@ -1,0 +1,98 @@
+1 [WOE:242] Agatha's Soul Cauldron
+1 [SOI:241] Altered Ego
+1 [LTC:35] Arwen, Weaver of Hope
+1 [BNG:157] Astral Cornucopia
+1 [MH3:145] Basking Broodscale
+1 [J22:38] Benevolent Hydra
+1 [PRNA:32p] Benthic Biomancer
+1 [GTC:214] Bioshift
+1 [ONE:159] Bloated Contaminator
+1 [CMM:276] Bloodspore Thrinax
+1 [NEO:266] Boseiju, Who Endures
+1 [EXP:15] Breeding Pool
+1 [OTJ:157] Bristly Bill, Spine Sower
+1 [MB2:240] City of Brass
+1 [WHO:99] City of Death
+1 [DRK:116] City of Shadows
+1 [CMR:350] Command Tower
+1 [C16:54] Crystalline Crawler
+1 [WHO:39] Danny Pink
+1 [SHM:110] Devoted Druid
+1 [MH3:59] Dreamtide Whale
+1 [EOE:253] Evendo, Waking Haven
+1 [WWK:123] Everflowing Chalice
+1 [WAR:159] Evolution Sage
+1 [MH3:151] Evolution Witness
+1 [ONE:317] Ezuri, Stalker of Spheres
+1 [GTC:162] Fathom Mage
+1 [KTK:233] Flooded Strand
+3 [MID:277] Forest
+1 [BBD:70] Generous Patron
+1 [EVE:22] Glen Elendra Archmage
+1 [LTR:52] Goldberry, River-Daughter
+1 [MKM:262] Hedge Maze
+1 [MIC:26] Heronblade Elite
+1 [RNA:131] Incubation Druid
+1 [BLB:180] Innkeeper's Talent
+1 [DTK:191] Inspiring Call
+3 [MID:270] Island
+1 [MOM:196] Kami of Whispered Hopes
+1 [BLB:222] Lilysplash Mentor
+1 [KHM:264] Littjara Mirrorlake
+1 [FUT:171] Llanowar Reborn
+1 [CLU:37] Lonis, Genetics Expert
+1 [BIG:23] Lost Jitte
+1 [FIC:38] Lulu, Stern Guardian
+1 [FIC:68] Maester Seymour
+1 [JOU:163] Mana Confluence
+1 [GTC:176] Master Biomancer
+1 [ZEN:220] Misty Rainforest
+1 [EOC:17] Moxite Refinery
+1 [C20:71] Nesting Grounds
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [FIC:39] O'aka, Traveling Merchant
+1 [CHK:280] Okina, Temple to the Grandfathers
+1 [CMR:352] Opal Palace
+1 [ZEN:221] Oran-Rief, the Vastwood
+1 [EOE:201] Ouroboroid
+1 [NCC:63] Park Heights Maverick
+1 [DRC:14] Peema Trailblazer
+1 [BBD:11] Pir, Imaginative Rascal
+1 [KTK:239] Polluted Delta
+1 [BLC:15] Pollywog Prodigy
+1 [MRD:229] Power Conduit
+1 [MH1:244] Prismatic Vista
+1 [CMM:424] Rejuvenating Springs
+1 [EOC:77] Ripples of Potential
+1 [2X2:157] Rishkar, Peema Renegade
+1 [CMR:89] Sakashima of a Thousand Faces
+1 [ZEN:223] Scalding Tarn
+1 [BLC:33] Scurry of Squirrels
+1 [J25:24] Scythecat Cub
+1 [CN2:70] Selvala, Heart of the Wilds
+1 [DSK:72] Silent Hallcreeper
+1 [NEC:29] Silkguard
+1 [PWAR:68p] Spark Double
+1 [ONE:217] Tainted Observer
+1 [ONE:71] Tekuthal, Inquiry Dominus
+1 [DFT:231] The Aetherspark
+1 [ELD:161] The Great Henge
+1 [WOE:176] The Huntsman's Redemption
+1 [SOM:47] Thrummingbird
+1 [BBD:12] Toothy, Imaginary Friend
+1 [FIC:73] Tromell, Seymour's Butler
+1 [40K:103] Tyrant Guard
+1 [DMC:240] Tyrite Sanctum
+1 [BOK:163] Umezawa's Jitte
+1 [ZEN:229] Verdant Catacombs
+1 [MH1:249] Waterlogged Grove
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [10E:363] Yavimaya Coast
+1 [GTC:209] Zameck Guildmage
+1 [FDN:351] Zimone, Paradox Sculptor
+1 [MH3:250] Disciple of Freyalise
+1 [SPM:27] Chameleon, Master of Disguise
+SB: 1 [SPM:272] Jackal, Genius Geneticist
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([C16:54])([DFT:231])([WOE:242],[BNG:157],[WWK:123],[BIG:23],[EOC:17],[MRD:229],[ELD:161],[BOK:163])([SOI:241],[LTC:35],[MH3:145],[J22:38],[PRNA:32p],[ONE:159],[CMM:276],[OTJ:157],[WHO:39],[SHM:110],[MH3:59],[WAR:159],[MH3:151],[ONE:317],[GTC:162],[BBD:70],[EVE:22],[LTR:52],[MIC:26],[RNA:131],[MOM:196],[BLB:222],[CLU:37],[FIC:38],[FIC:68],[GTC:176],[FIC:39],[EOE:201],[NCC:63],[DRC:14],[BBD:11],[BLC:15],[2X2:157],[CMR:89],[BLC:33],[J25:24],[CN2:70],[PWAR:68p],[ONE:217],[ONE:71],[SOM:47],[BBD:12],[FIC:73],[40K:103],[GTC:209],[FDN:351],[MH3:250],[SPM:27])([DSK:72])([WHO:99],[BLB:180],[WOE:176])([GTC:214],[DTK:191],[EOC:77],[NEC:29])([NEO:266],[EXP:15],[MB2:240],[DRK:116],[CMR:350],[EOE:253],[KTK:233],[MID:277],[MID:277],[MID:277],[MKM:262],[MID:270],[MID:270],[MID:270],[KHM:264],[FUT:171],[JOU:163],[ZEN:220],[C20:71],[THS:223],[CHK:280],[CMR:352],[ZEN:221],[KTK:239],[MH1:244],[CMM:424],[ZEN:223],[DMC:240],[ZEN:229],[MH1:249],[KTK:248],[KTK:249],[10E:363])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SPM:272])
