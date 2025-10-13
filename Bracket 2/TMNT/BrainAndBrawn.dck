@@ -1,0 +1,85 @@
+1 [OGW:40] Abstruse Interference
+1 [RIX:31] Admiral's Order
+1 [DRC:34] Aetheric Amplifier
+1 [KLD:194] Animation Module
+1 [M3C:283] Arcane Signet
+1 [TDC:282] Baral and Kari Zev
+1 [BLB:125] Blacksmith's Talent
+1 [3ED:49] Blue Elemental Blast
+1 [OTJ:115] Brimstone Roundup
+1 [ROE:138] Brood Birthing
+1 [AFC:57] Bucknard's Everfull Purse
+1 [M3C:331] Command Tower
+1 [CMM:81] Counterspell
+1 [J22:33] Daring Piracy
+1 [EOE:237] Dauntless Scrapbot
+1 [AFR:254] Den of the Bugbear
+1 [EOE:54] Desculpting Blast
+1 [NCC:45] Determined Iteration
+1 [EOE:55] Divert Disaster
+1 [OTP:10] Essence Capture
+1 [C19:242] Exotic Orchard
+1 [BLC:269] Fellwar Stone
+1 [MH1:238] Fiery Islet
+1 [FDN:128] Fishing Pole
+1 [WOE:128] Flick a Coin
+1 [WAR:52] Flux Channeler
+1 [STX:265] Frostboil Snarl
+1 [BBD:235] Genesis Chamber
+1 [OTJ:331] Great Train Heist
+1 [CHK:277] Hall of the Bandit Lord
+1 [MH2:46] Hard Evidence
+1 [LCC:158] Herald of Secret Streams
+1 [M3C:297] Idol of Oblivion
+1 [SOM:168] Iron Myr
+10 [J25:84] Island
+1 [2X2:230] Izzet Charm
+1 [C20:243] Izzet Signet
+1 [OTJ:53] Jailbreak Scheme
+1 [MKC:270] Kher Keep
+1 [EOE:142] Lithobraking
+1 [BIG:23] Lost Jitte
+1 [PIP:190] Loyal Apprentice
+9 [J25:92] Mountain
+1 [MH2:430] Ornithopter of Paradise
+1 [C20:298] Path of Ancestry
+1 [OTJ:61] Phantom Interference
+1 [EOS:33] Plaza of Heroes
+1 [STX:214] Prismari Command
+1 [BLC:111] Rapid Hybridization
+1 [4ED:218] Red Elemental Blast
+1 [C14:16] Reef Worm
+1 [DRC:136] Retrofitter Foundry
+1 [OTJ:142] Return the Favor
+1 [DRC:119] Saheeli, Sublime Artificer
+1 [DMU:380] Shivan Reef
+1 [GTC:238] Skyblinder Staff
+1 [SNC:62] Slip Out the Back
+1 [M3C:305] Sol Ring
+1 [ROE:164] Spawning Breath
+1 [LCI:405] Spyglass Siren
+1 [RTR:247] Steam Vents
+1 [EOE:80] Steelswarm Operator
+1 [CMM:260] Storm-Kiln Artist
+1 [WHO:308] Stormcarved Coast
+1 [BLB:75] Stormchaser's Talent
+1 [MH2:143] Strike It Rich
+1 [KTK:56] Stubborn Denial
+1 [DMR:258] Sulfur Falls
+1 [CLB:876] Talisman of Creativity
+1 [DSK:269] Terramorphic Expanse
+1 [BRO:223] Third Path Iconoclast
+1 [CMM:434] Training Center
+1 [ONE:387] Urabrask's Forge
+1 [BIG:7] Worldwalker Helm
+1 [M14:163] Young Pyromancer
+1 [SLD:824] Evolving Wilds
+1 [EOE:327] Moonlit Meditation
+1 [TSR:79] Pongify
+1 [SLU:20] Riverglide Pathway
+1 [TD2:8] Silver Myr
+1 [OTJ:323] Three Steps Ahead
+SB: 1 [TMC:2] Donatello, the Brains
+SB: 1 [TMC:4] Raphael, the Muscle
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([EOE:237],[SOM:168],[MH2:430],[EOE:80],[TD2:8])([DRC:34],[KLD:194],[M3C:283],[AFC:57],[BLC:269],[FDN:128],[BBD:235],[M3C:297],[C20:243],[BIG:23],[DRC:136],[GTC:238],[M3C:305],[CLB:876],[ONE:387],[BIG:7])([TDC:282],[WAR:52],[LCC:158],[PIP:190],[C14:16],[LCI:405],[CMM:260],[BRO:223],[M14:163])([BLB:125],[OTJ:115],[J22:33],[NCC:45],[BLB:75],[EOE:327])([OGW:40],[RIX:31],[3ED:49],[CMM:81],[EOE:54],[EOE:55],[OTP:10],[WOE:128],[OTJ:331],[2X2:230],[EOE:142],[OTJ:61],[STX:214],[BLC:111],[4ED:218],[OTJ:142],[SNC:62],[ROE:164],[KTK:56],[TSR:79],[OTJ:323])([M3C:331],[AFR:254],[C19:242],[MH1:238],[STX:265],[CHK:277],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[MKC:270],[J25:92],[J25:92],[J25:92],[J25:92],[J25:92],[J25:92],[J25:92],[J25:92],[J25:92],[C20:298],[EOS:33],[DMU:380],[RTR:247],[WHO:308],[DMR:258],[DSK:269],[CMM:434],[SLD:824],[SLU:20])([DRC:119])([ROE:138],[MH2:46],[OTJ:53],[MH2:143])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([TMC:2],[TMC:4])

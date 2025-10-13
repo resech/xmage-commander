@@ -1,0 +1,94 @@
+1 [DFT:151] Agonasaur Rex
+1 [ACR:33] Alexios, Deimos of Kosmos
+1 [ONE:118] All Will Be One
+1 [LTC:35] Arwen, Weaver of Hope
+1 [40K:105] Atalan Jackal
+1 [LCC:233] Beast Within
+1 [40K:87] Biophagus
+1 [M11:165] Birds of Paradise
+1 [BLC:114] Blasphemous Act
+1 [LCC:234] Branching Evolution
+1 [OTJ:157] Bristly Bill, Spine Sower
+1 [ONE:161] Cankerbloom
+1 [MIC:136] Champion of Lambholt
+1 [MKC:149] Chaos Warp
+1 [BLC:299] Cinder Glade
+1 [MH3:147] Collective Resistance
+1 [EOC:59] Command Tower
+1 [MKM:259] Commercial District
+1 [BLC:301] Copperline Gorge
+1 [MH3:151] Evolution Witness
+1 [LCC:328] Evolving Wilds
+6 [TMT:257] Forest
+1 [BLC:217] Forgotten Ancient
+1 [BLB:253] Fountainport
+1 [BRO:182] Gaea's Gift
+1 [BLC:306] Game Trail
+1 [MH3:156] Gift of the Viper
+1 [OTJ:167] Goldvein Hydra
+1 [BLC:223] Greater Good
+1 [GTC:169] Gruul Charm
+1 [BLC:273] Gruul Signet
+1 [MKC:265] Gruul Turf
+1 [MIC:140] Gyre Sage
+1 [FDN:659] Halana and Alena, Partners
+1 [2X2:151] Hardened Scales
+1 [BLB:138] Heartfire Hero
+1 [AER:109] Heroic Intervention
+1 [MOC:302] Incubation Druid
+1 [DSC:186] Inscription of Abundance
+1 [FDN:226] Inspiring Call
+1 [BLC:226] Kalonian Hydra
+1 [BLC:314] Karplusan Forest
+1 [MKC:269] Kessig Wolf Run
+1 [J25:78] Kodama of the West Tree
+1 [LCC:245] Kodama's Reach
+1 [LCC:342] Mosswort Bridge
+4 [TMT:256] Mountain
+1 [EOC:101] Nature's Lore
+1 [USG:205] Outmaneuver
+1 [ACR:37] Overpowering Attack
+1 [FDN:111] Quilled Greatwurm
+1 [OTJ:175] Railway Brawler
+1 [DSC:295] Reliquary Tower
+1 [LCC:287] Rhythm of the Wild
+1 [MID:266] Rockfall Vale
+1 [MKC:284] Rogue's Passage
+1 [BLC:326] Rootbound Crag
+1 [MIC:143] Shamanic Revelation
+1 [PIP:142] Silver Shroud Costume
+1 [OTJ:181] Snakeskin Veil
+1 [EOC:57] Sol Ring
+1 [CMM:324] Song of the Dryads
+1 [FIC:70] Sphere Grid
+1 [BBD:85] Spire Garden
+1 [BLB:194] Stocking the Pantry
+1 [BLC:286] Swiftfoot Boots
+1 [BLC:287] Talisman of Impulse
+1 [NEO:211] Tamiyo's Safekeeping
+1 [FIN:184] The Earth Crystal
+1 [IKO:237] The Ozolith
+1 [LTR:260] The Shire
+1 [BLC:289] Thought Vessel
+1 [CMM:913] Three Visits
+1 [OTC:269] Trailblazer's Boots
+1 [NPH:123] Triumph of the Hordes
+1 [MOC:35] Uncivil Unrest
+1 [BBD:215] Vigor
+1 [SLD:1737] Wolverine, Best There Is
+1 [MH3:236] Wooded Foothills
+1 [SLD:820] Arcane Signet
+1 [MH3:249] Bridgeworks Battle
+1 [SLU:16] Cragcrown Pathway
+1 [MH3:250] Disciple of Freyalise
+1 [SLP:45] Innkeeper's Talent
+1 [ZNR:146] Kazuul's Fury
+1 [MOM:372] Ozolith, the Shattered Spire
+1 [PCA:127] Skarrg, the Rage Pits
+1 [UNF:280] Stomping Ground
+1 [MH3:259] Stump Stomp
+1 [EOE:312] Terrasymbiosis
+SB: 1 [TMC:5] Michelangelo, the Heart
+SB: 1 [TMC:4] Raphael, the Muscle
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([BLC:273],[PIP:142],[EOC:57],[BLC:286],[BLC:287],[FIN:184],[IKO:237],[BLC:289],[OTC:269],[SLD:820],[MOM:372])([DFT:151],[ACR:33],[LTC:35],[40K:105],[40K:87],[M11:165],[OTJ:157],[ONE:161],[MIC:136],[MH3:151],[BLC:217],[OTJ:167],[MIC:140],[FDN:659],[BLB:138],[MOC:302],[BLC:226],[J25:78],[FDN:111],[OTJ:175],[BBD:215],[SLD:1737],[MH3:250])([ONE:118],[LCC:234],[BLC:223],[2X2:151],[LCC:287],[CMM:324],[FIC:70],[BLB:194],[MOC:35],[SLP:45],[EOE:312])([LCC:233],[MKC:149],[MH3:147],[BRO:182],[MH3:156],[GTC:169],[AER:109],[DSC:186],[FDN:226],[USG:205],[OTJ:181],[NEO:211],[ZNR:146])([BLC:299],[EOC:59],[MKM:259],[BLC:301],[LCC:328],[TMT:257],[TMT:257],[TMT:257],[TMT:257],[TMT:257],[TMT:257],[BLB:253],[BLC:306],[MKC:265],[BLC:314],[MKC:269],[LCC:342],[TMT:256],[TMT:256],[TMT:256],[TMT:256],[DSC:295],[MID:266],[MKC:284],[BLC:326],[BBD:85],[LTR:260],[MH3:236],[SLU:16],[PCA:127],[UNF:280])([BLC:114],[LCC:245],[EOC:101],[ACR:37],[MIC:143],[CMM:913],[NPH:123],[MH3:249],[MH3:259])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([TMC:5],[TMC:4])

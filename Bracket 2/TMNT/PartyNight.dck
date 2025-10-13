@@ -1,0 +1,72 @@
+1 [MH3:145] Basking Broodscale
+1 [LCC:233] Beast Within
+1 [OTJ:267] Botanical Sanctum
+1 [LCC:234] Branching Evolution
+1 [FIC:321] Bred for the Hunt
+1 [BIG:17] Bristlebud Farmer
+1 [DOM:157] Broken Bond
+1 [ONE:294] Cankerbloom
+1 [PIP:75] Cathedral Acolyte
+1 [OTC:188] Cazur, Ruthless Stalker
+1 [MIC:136] Champion of Lambholt
+1 [CLB:651] Clan Crafter
+1 [MH3:147] Collective Resistance
+1 [BLC:29] Communal Brewing
+1 [DFT:157] Defend the Rider
+1 [DSC:32] Disorienting Choice
+1 [WHO:273] Dreamroot Cascade
+1 [J25:653] Duskshell Crawler
+1 [OTP:65] Dust Bowl
+1 [MH3:151] Evolution Witness
+1 [NCC:59] Family's Favor
+1 [FIC:325] Fathom Mage
+1 [5DN:122] Ferropede
+16 [WAR:264] Forest
+1 [NCC:223] Ghostly Pilferer
+1 [FDN:224] Gnarlid Colony
+1 [J25:668] Harrow
+1 [TDM:145] Heritage Reclamation
+1 [BLC:312] Hinterland Harbor
+1 [M15:219] Hot Soup
+1 [DSK:321] Insidious Fungus
+1 [FIC:310] Inspiring Call
+16 [J25:84] Island
+1 [WOE:178] Night of the Sweets' Revenge
+1 [OTP:50] Oko, Thief of Crowns
+1 [OTJ:171] Ornery Tumblewagg
+1 [GRN:141] Pelt Collector
+1 [LTR:181] Peregrin Took
+1 [IKO:200] Primal Empathy
+1 [WWK:110] Quest for Renewal
+1 [FDN:111] Quilled Greatwurm
+1 [FIC:314] Rampant Rejuvenator
+1 [J25:707] Retreat to Kazandu
+1 [M21:200] Return to Nature
+1 [FIN:197] Ride the Shoopuf
+1 [NEO:204] Roaring Earth
+1 [BLB:70] Shoreline Looter
+1 [LCC:288] Simic Ascendancy
+1 [AKH:71] Slither Blade
+1 [FIC:70] Sphere Grid
+1 [BLB:194] Stocking the Pantry
+1 [SPM:118] Strength of Will
+1 [TDM:162] Synchronized Charge
+1 [BLC:244] Toski, Bearer of Secrets
+1 [J22:365] Triton Shorestalker
+1 [FDN:667] Trygon Predator
+1 [LCC:368] Vineglimmer Snarl
+1 [TDM:166] Warden of the Grove
+1 [IKO:176] Wilt
+1 [BLC:112] Wizard Class
+1 [J22:745] Woodland Champion
+1 [WOE:355] Elvish Archivist
+1 [BLC:83] Gilded Goose
+1 [DTK:56] Gudul Lurker
+1 [ZNC:27] Invisible Stalker
+1 [FCA:47] Nature's Claim
+1 [DSK:345] Silent Hallcreeper
+1 [ONE:190] Tyvar's Stand
+SB: 1 [TMC:2] Donatello, the Brains
+SB: 1 [TMC:5] Michelangelo, the Heart
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([5DN:122])([M15:219])([MH3:145],[BIG:17],[ONE:294],[PIP:75],[OTC:188],[MIC:136],[J25:653],[MH3:151],[FIC:325],[NCC:223],[FDN:224],[DSK:321],[OTJ:171],[GRN:141],[LTR:181],[FDN:111],[FIC:314],[BLB:70],[AKH:71],[BLC:244],[J22:365],[FDN:667],[TDM:166],[J22:745],[WOE:355],[BLC:83],[DTK:56],[ZNC:27])([DSK:345])([LCC:234],[FIC:321],[CLB:651],[BLC:29],[NCC:59],[WOE:178],[IKO:200],[WWK:110],[J25:707],[FIN:197],[NEO:204],[LCC:288],[FIC:70],[BLB:194],[BLC:112])([LCC:233],[MH3:147],[DFT:157],[J25:668],[TDM:145],[FIC:310],[M21:200],[SPM:118],[IKO:176],[FCA:47],[ONE:190])([OTJ:267],[WHO:273],[OTP:65],[WAR:264],[WAR:264],[WAR:264],[WAR:264],[WAR:264],[WAR:264],[WAR:264],[WAR:264],[WAR:264],[WAR:264],[WAR:264],[WAR:264],[WAR:264],[WAR:264],[WAR:264],[WAR:264],[BLC:312],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[J25:84],[LCC:368])([OTP:50])([DOM:157],[DSC:32],[TDM:162])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([TMC:2],[TMC:5])

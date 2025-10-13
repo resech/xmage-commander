@@ -1,0 +1,73 @@
+1 [KLD:194] Animation Module
+1 [SLD:2105] Arcbound Ravager
+1 [CMR:108] Armix, Filigree Thrasher
+1 [BRO:84] Ashnod, Flesh Mechanist
+1 [M19:46] Aviation Pioneer
+1 [40K:30] Biotransference
+1 [CLB:58] Blur
+1 [DSC:133] Braids, Arisen Nightmare
+1 [40K:150] Canoptek Scarab Swarm
+1 [EOE:48] Cerebral Download
+1 [MKC:254] Choked Estuary
+1 [C13:239] Conjurer's Closet
+1 [7ED:67] Counterspell
+1 [INR:492] Deadeye Navigator
+1 [BLC:181] Deadly Dispute
+1 [EMN:55] Displace
+1 [EOE:98] Embrace Oblivion
+1 [BIG:5] Esoteric Duplicator
+1 [INR:64] Essence Flux
+1 [MH2:296] Extruder
+1 [LCI:105] Fanatical Offering
+1 [2XM:319] Glimmervoid
+1 [FIN:225] Golbez, Crystal Collector
+1 [MB2:223] Grinding Station
+1 [EOC:139] Hangarback Walker
+1 [DFT:207] Haunt the Network
+1 [SPM:32] Hide on the Ceiling
+1 [PEMN:64] Identity Thief
+16 [DFT:282] Island
+1 [TMT:43] Krang, Master Mind
+1 [DST:24] Machinate
+1 [WOE:315] Malevolent Witchkite
+1 [MKC:109] Mechanized Production
+1 [LTR:62] Meneldor, Swift Savior
+1 [CLB:326] Mirror of Life Trapping
+1 [MH2:249] Mistvault Bridge
+1 [ONC:24] Monumental Corruption
+1 [AER:40] Negate
+1 [2X2:61] Nephalia Smuggler
+1 [WHO:51] Nyssa of Traken
+1 [NEO:72] Planar Incision
+1 [AER:69] Renegade's Getaway
+1 [SLD:2107] Reprocess
+1 [NEC:35] Ruthless Technomancer
+1 [CLU:20] Secret Passage
+1 [MOM:330] Seer of Stolen Sight
+1 [CLU:2] Senator Peacock
+1 [MKC:117] Shimmer Dragon
+1 [MID:267] Shipwreck Marsh
+1 [DTK:73] Shorecrasher Elemental
+1 [XLN:80] Siren's Ruse
+1 [BLB:74] Splash Portal
+1 [DRC:35] Stridehangar Automaton
+1 [FIC:430] Sunken Ruins
+15 [J25:87] Swamp
+1 [WAR:72] Teferi's Time Twist
+1 [WHO:314] Temple of Deceit
+1 [J22:360] Tezzeret, Artifice Master
+1 [WAR:275] Tezzeret, Master of the Bridge
+1 [DRC:83] Thopter Spy Network
+1 [MKC:121] Thought Monitor
+1 [DDF:71] Thoughtcast
+1 [ARB:31] Time Sieve
+1 [DFT:228] Winter, Cursed Rider
+1 [BIG:7] Worldwalker Helm
+1 [FIN:86] Y'shtola Rhul
+1 [KHM:302] Alrund, God of the Cosmos
+1 [CLB:560] Displacer Kitten
+1 [SLD:2229] Ghostly Flicker
+SB: 1 [TMC:2] Donatello, the Brains
+SB: 1 [TMC:3] Splinter, the Mentor
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([SLD:2105],[CMR:108],[40K:150],[MH2:296],[EOC:139],[TMT:43],[DRC:35],[MKC:121])([MH2:249])([KLD:194],[C13:239],[BIG:5],[MB2:223],[CLB:326],[ARB:31],[BIG:7])([BRO:84],[M19:46],[DSC:133],[INR:492],[FIN:225],[PEMN:64],[WOE:315],[LTR:62],[2X2:61],[WHO:51],[NEC:35],[MOM:330],[CLU:2],[MKC:117],[DTK:73],[DFT:228],[FIN:86],[KHM:302],[CLB:560])([40K:30],[MKC:109],[DRC:83])([CLB:58],[EOE:48],[7ED:67],[BLC:181],[EMN:55],[INR:64],[LCI:105],[SPM:32],[DST:24],[AER:40],[NEO:72],[AER:69],[XLN:80],[WAR:72],[SLD:2229])([MKC:254],[2XM:319],[DFT:282],[DFT:282],[DFT:282],[DFT:282],[DFT:282],[DFT:282],[DFT:282],[DFT:282],[DFT:282],[DFT:282],[DFT:282],[DFT:282],[DFT:282],[DFT:282],[DFT:282],[DFT:282],[CLU:20],[MID:267],[FIC:430],[J25:87],[J25:87],[J25:87],[J25:87],[J25:87],[J25:87],[J25:87],[J25:87],[J25:87],[J25:87],[J25:87],[J25:87],[J25:87],[J25:87],[J25:87],[WHO:314])([J22:360],[WAR:275])([EOE:98],[DFT:207],[ONC:24],[SLD:2107],[BLB:74],[DDF:71])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([TMC:2],[TMC:3])

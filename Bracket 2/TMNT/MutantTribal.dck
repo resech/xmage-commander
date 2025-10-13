@@ -1,0 +1,95 @@
+1 [40K:86] Aberrant
+1 [ZNC:9] Abzan Falconer
+1 [RNA:152] Aeromunculus
+1 [PIP:89] Agent Frank Horrigan
+1 [PIP:91] Alpha Deathclaw
+1 [MKC:223] Arcane Signet
+1 [MH2:244] Arid Mesa
+1 [ACR:166] Assassin's Trophy
+1 [LCC:145] Benthic Biomancer
+1 [BLC:114] Blasphemous Act
+1 [PIP:42] Bloatfly Swarm
+1 [PRNA:245p] Blood Crypt
+1 [MH3:216] Bloodstained Mire
+1 [GTC:240] Breeding Pool
+1 [MIC:136] Champion of Lambholt
+1 [ZNC:40] Changeling Outcast
+1 [DRC:60] Command Tower
+1 [DSC:174] Cultivate
+1 [FIC:239] Damning Verdict
+1 [WHO:39] Danny Pink
+1 [LCC:154] Distant Melody
+1 [CSP:32] Drelnoch
+1 [GTC:160] Elusive Krasis
+1 [MH3:151] Evolution Witness
+1 [WHO:276] Exotic Orchard
+1 [BLC:119] Farseek
+1 [PIP:44] Feral Ghoul
+1 [MH3:220] Flooded Strand
+3 [WAR:264] Forest
+1 [RNA:251] Hallowed Fountain
+1 [PIP:45] Hancock, Ghoulish Mayor
+1 [LCC:158] Herald of Secret Streams
+1 [AER:109] Heroic Intervention
+1 [REX:15] Indoraptor, the Perfect Hybrid
+1 [FIC:310] Inspiring Call
+3 [THS:235] Island
+1 [PIP:32] Jason Bright, Glowing Prophet
+1 [IKO:250] Ketria Triome
+1 [LCC:245] Kodama's Reach
+1 [PIP:79] Lily Bowen, Raging Grandma
+1 [PIP:80] Lumbering Megasloth
+1 [JOU:163] Mana Confluence
+1 [PIP:109] Marcus, Mutant Mayor
+1 [MH2:248] Marsh Flats
+1 [LCC:277] Merfolk Skydiver
+1 [TMC:5] Michelangelo, the Heart
+1 [MH2:250] Misty Rainforest
+2 [DDI:76] Mountain
+1 [EOC:101] Nature's Lore
+1 [GRN:253] Overgrown Tomb
+1 [BLC:147] Path to Exile
+1 [MH3:224] Polluted Delta
+1 [PIP:82] Rampaging Yao Guai
+1 [J25:704] Rampant Growth
+1 [TMC:4] Raphael, the Muscle
+1 [PIP:116] Red Death, Shipwrecker
+1 [CNS:210] Reflecting Pool
+1 [NCC:349] Roalesk, Apex Hybrid
+1 [ZEN:223] Scalding Tarn
+1 [GTC:50] Simic Manipulator
+1 [RNA:52] Skatewing Spy
+1 [FIC:356] Sol Ring
+1 [TMC:3] Splinter, the Mentor
+1 [RTR:247] Steam Vents
+1 [TMT:83] Super Shredder
+2 [M12:238] Swamp
+1 [BLC:109] Swords to Plowshares
+1 [TDC:330] Talisman of Creativity
+1 [MKC:241] Talisman of Curiosity
+1 [BLC:287] Talisman of Impulse
+1 [TDC:333] Talisman of Progress
+1 [BLC:288] Talisman of Resilience
+1 [MKC:244] Talisman of Unity
+1 [RTR:248] Temple Garden
+1 [PIP:4] The Wise Mothman
+1 [FIC:315] Three Visits
+1 [MM3:249] Verdant Catacombs
+1 [LCC:79] Wave Goodbye
+1 [MH3:235] Windswept Heath
+1 [40K:148] Winged Hive Tyrant
+1 [SLD:1737] Wolverine, Best There Is
+1 [MH3:236] Wooded Foothills
+1 [UNF:282] Godless Shrine
+1 [SNC:291] Jetmir's Garden
+1 [MOR:42] Mothdust Changeling
+2 [SLD:1652] Plains
+1 [MM2:184] Plaxcaster Frogling
+1 [UNF:285] Sacred Foundry
+1 [UNF:280] Stomping Ground
+1 [H1R:38] Universal Automaton
+1 [UNF:278] Watery Grave
+1 [CMM:578] Experiment Kraj
+SB: 1 [TMC:6] Heroes in a Half Shell
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([H1R:38])([MKC:223],[FIC:356],[TDC:330],[MKC:241],[BLC:287],[TDC:333],[BLC:288],[MKC:244])([40K:86],[ZNC:9],[RNA:152],[PIP:89],[PIP:91],[LCC:145],[PIP:42],[MIC:136],[ZNC:40],[WHO:39],[CSP:32],[GTC:160],[MH3:151],[PIP:44],[PIP:45],[LCC:158],[REX:15],[PIP:32],[PIP:79],[PIP:80],[PIP:109],[LCC:277],[TMC:5],[PIP:82],[TMC:4],[PIP:116],[NCC:349],[GTC:50],[RNA:52],[TMC:3],[TMT:83],[PIP:4],[40K:148],[SLD:1737],[MOR:42],[MM2:184],[CMM:578])([ACR:166],[AER:109],[FIC:310],[BLC:147],[BLC:109])([MH2:244],[PRNA:245p],[MH3:216],[GTC:240],[DRC:60],[WHO:276],[MH3:220],[WAR:264],[WAR:264],[WAR:264],[RNA:251],[THS:235],[THS:235],[THS:235],[IKO:250],[JOU:163],[MH2:248],[MH2:250],[DDI:76],[DDI:76],[GRN:253],[MH3:224],[CNS:210],[ZEN:223],[RTR:247],[M12:238],[M12:238],[RTR:248],[MM3:249],[MH3:235],[MH3:236],[UNF:282],[SNC:291],[SLD:1652],[SLD:1652],[UNF:285],[UNF:280],[UNF:278])([BLC:114],[DSC:174],[FIC:239],[LCC:154],[BLC:119],[LCC:245],[EOC:101],[J25:704],[FIC:315],[LCC:79])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([TMC:6])
